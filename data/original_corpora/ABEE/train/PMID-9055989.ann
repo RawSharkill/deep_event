@@ -1,0 +1,45 @@
+T1	Bacteria 61 88	Mycobacterium  tuberculosis
+T2	Antibiotic 92 104	Pyrazinamide
+T3	Antibiotic 106 109	PZA
+*	Equiv T3 T2
+T4	Antibiotic 186 189	PZA
+T5	Bacteria 260 286	Mycobacterium tuberculosis
+T6	Antibiotic 303 306	PZA
+T7	Antibiotic 391 394	PZA
+T8	Bacteria 437 452	M. tuberculosis
+*	Equiv T8 T5
+T9	Bacteria 570 585	M. tuberculosis
+T10	Antibiotic 639 642	PZA
+T11	Antibiotic 1037 1040	PZA
+T12	Antibiotic 1632 1635	PZA
+T13	Bacteria 1745 1761	M.  tuberculosis
+T14	Antibiotic 685 688	PZA
+T15	Gene 20 24	pncA
+T16	Antibiotic 38 50	pyrazinamide
+T17	Gene 418 422	pncA
+T18	Gene 507 511	pncA
+T19	Antibiotic 556 559	PZA
+T20	Antibiotic 754 757	PZA
+T21	Gene 714 718	pncA
+T22	Antibiotic_target_alteration 720 729	mutations
+E1	Antibiotic_target_alteration:T22 Cause:T14
+T23	Gene 869 873	pncA
+T25	Antibiotic_target_alteration 875 884	mutations
+E3	Antibiotic_target_alteration:T25 Cause:T24
+T24	Antibiotic 833 836	PZA
+T26	Gene 930 934	pncA
+T27	Antibiotic_target_alteration 935 944	mutations
+E2	Antibiotic_target_alteration:T27 Cause:T11
+T28	Antibiotic 1049 1052	PZA
+T29	Gene 1208 1212	pncA
+T30	Antibiotic 1539 1542	PZA
+T31	Gene 1598 1602	pncA
+T32	Antibiotic 1731 1734	PZA
+T33	Antibiotic_target_alteration 1581 1589	mutation
+E4	Antibiotic_target_alteration:T33 Cause:T32 Theme:T13
+T34	Gene 1516 1521	 pncA
+T35	Gene 1269 1273	pncA
+T36	Antibiotic_target_alteration 1522 1531	mutations
+E5	Antibiotic_target_alteration:T36 Cause:T30
+T37	Antibiotic_target_alteration 1087 1094	mutants
+E6	Antibiotic_target_alteration:T37 Cause:T28

@@ -1,0 +1,24 @@
+T1	Antibiotic 20 30	vancomycin
+T2	Bacteria 45 72	Enterococcus faecium BM4147
+T3	Antibiotic 133 143	vancomycin
+T4	Antibiotic 182 192	Vancomycin
+T5	Bacteria 207 234	Enterococcus faecium BM4147
+T6	Antibiotic 250 260	vancomycin
+T7	Bacteria 814 839	Leuconostoc mesenteroides
+T8	Bacteria 844 868	Lactobacillus leichmanii
+T9	Bacteria 1207 1223	Escherichia coli
+T10	Bacteria 1249 1266	E. faecium BM4147
+*	Equiv T10 T5
+T11	Antibiotic 1272 1282	vancomycin
+T12	Antibiotic 1660 1670	vancomycin
+T13	Protein 1193 1199	enzyme
+T14	Protein 165 169	VanH
+T15	Protein 174 178	VanA
+T16	Protein 282 286	VanA
+T17	Protein 291 295	VanH
+T18	Protein 297 301	VanA
+T19	Protein 504 508	VanH
+T20	Protein 676 680	VanH
+T21	Protein 973 977	VanH
+T22	Protein 1044 1048	VanA
+T23	Antibiotic 1580 1590	vancomycin

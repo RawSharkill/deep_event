@@ -1,0 +1,14 @@
+T1	Bacteria 43 69	Mycobacterium tuberculosis
+T2	Antibiotic 73 85	Pyrazinamide
+T3	Antibiotic 87 90	PZA
+*	Equiv T3 T2
+T4	Antibiotic 210 213	PZA
+T5	Bacteria 394 420	Mycobacterium tuberculosis
+T6	Antibiotic 764 767	PZA
+T7	Antibiotic 1090 1093	PZA
+T8	Gene 684 688	pncA
+T9	Gene 708 712	RpsA
+T10	Antibiotic 344 347	PZA
+T11	Gene 308 312	pncA
+T12	Antibiotic 0 12	Pyrazinamide
+T13	Antibiotic 644 647	PZA

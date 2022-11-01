@@ -1,0 +1,16 @@
+T1	Antibiotic 0 28	Chloramphenicol-erythromycin
+T2	Bacteria 73 89	Escherichia coli
+T3	Antibiotic 96 111	chloramphenicol
+T4	Bacteria 153 169	Escherichia coli
+T5	Antibiotic 264 306	14-atom lactone ring macrolide antibiotics
+T6	Antibiotic 347 389	16-atom lactone ring macrolide antibiotics
+T7	Antibiotic 618 646	chloramphenicol-erythromycin
+T8	Antibiotic_target_alteration 40 49	mutations
+E1	Antibiotic_target_alteration:T8 Theme:T2 Cause:T1
+T9	Antibiotic_target_alteration 123 132	mutations
+E2	Antibiotic_target_alteration:T9 Theme:T4 Cause:T3
+T10	Gene 184 188	rrnH
+T11	Antibiotic_target_alteration 227 236	mutations
+E3	Antibiotic_target_alteration:T11 Cause:T5 Theme:T4
+T12	Antibiotic_target_alteration 693 703	transition
+E4	Antibiotic_target_alteration:T12 Cause:T7 Theme:T2

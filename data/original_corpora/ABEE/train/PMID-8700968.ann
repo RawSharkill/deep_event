@@ -1,0 +1,17 @@
+T1	Bacteria 88 108	Enterococcus faecium
+T2	Bacteria 166 186	Enterococcus faecium
+T3	Antibiotic 822 824	Tc
+T4	Antibiotic 8 20	tetracycline
+T5	Gene 44 50	tet(U)
+T6	Antibiotic 117 129	tetracycline
+T7	Antibiotic 131 133	Tc
+*	Equiv T7 T6
+T8	Antibiotic 299 301	Tc
+T9	Gene 577 583	tet(M)
+T10	Gene 585 591	tet(O)
+T11	Gene 593 600	 tet(Q)
+T12	Gene 602 608	tet(S)
+T13	Gene 610 617	tetB(P)
+T14	Gene 623 629	otr(A)
+T15	Antibiotic 723 725	Tc
+T16	Gene 765 771	tet(U)

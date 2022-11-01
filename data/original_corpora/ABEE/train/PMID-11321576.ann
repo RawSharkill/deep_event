@@ -1,0 +1,13 @@
+T1	Antibiotic_efflux 28 34	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 44 60	Escherichia coli
+T3	Bacteria 84 100	Escherichia coli
+T4	Antibiotic_efflux 116 122	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Antibiotic_efflux 219 224	pumps
+E3	Antibiotic_efflux:T5 Theme:T3
+T6	Protein 365 369	AcrA
+T7	Protein 168 172	AcrB
+T8	Protein 209 213	AcrA
+T9	Protein 336 340	TolC
+T10	Protein 509 513	AcrB

@@ -1,0 +1,28 @@
+T1	Antibiotic 41 50	quinolone
+T2	Antibiotic 21 33	tosufloxacin
+T3	Antibiotic 98 110	tosufloxacin
+T4	Antibiotic 148 160	temafloxacin
+T5	Antibiotic 162 175	ciprofloxacin
+T6	Bacteria 358 376	Enterobacteriaceae
+T7	Antibiotic 379 392	ciprofloxacin
+T8	Antibiotic 423 435	tosufloxacin
+T9	Antibiotic 465 477	temafloxacin
+T10	Antibiotic 492 504	tosufloxacin
+T11	Bacteria 525 543	Enterobacteriaceae
+T12	Bacteria 545 567	Pseudomonas aeruginosa
+T13	Bacteria 572 590	Acinetobacter spp.
+T14	Antibiotic 626 638	Tosufloxacin
+T15	Antibiotic 669 681	temafloxacin
+T16	Antibiotic 725 738	ciprofloxacin
+T17	Antibiotic 796 808	tosufloxacin
+T18	Bacteria 813 834	Staphylococcus aureus
+T19	Bacteria 859 883	Streptococcus pneumoniae
+T20	Bacteria 930 941	Haemophilus
+T21	Antibiotic 998 1010	tosufloxacin
+T22	Bacteria 957 978	Moraxella catarrhalis
+T23	Antibiotic 1066 1078	Tosufloxacin
+T24	Antibiotic 1101 1110	quinolone
+T25	Antibiotic 1177 1187	quinolones
+T26	Antibiotic 1214 1224	quinolones
+T27	Antibiotic 1285 1297	tosufloxacin
+T28	Antibiotic 1425 1437	tosufloxacin

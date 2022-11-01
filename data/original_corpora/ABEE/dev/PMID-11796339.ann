@@ -1,0 +1,39 @@
+T1	Bacteria 52 80	Stenotrophomonas maltophilia
+T2	Antibiotic_efflux 34 40	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 141 163	Pseudomonas aeruginosa
+T4	Bacteria 191 219	Stenotrophomonas maltophilia
+T5	Antibiotic_efflux 124 130	efflux
+E2	Antibiotic_efflux:T5 Theme:T3 Cause:T7
+T7	Antibiotic 445 460	aminoglycosides
+T8	Antibiotic 462 474	beta-lactams
+T9	Antibiotic 481 497	fluoroquinolones
+T10	Bacteria 1258 1273	S.  maltophilia
+T13	Antibiotic_efflux 1519 1525	efflux
+E5	Antibiotic_efflux:T13 Theme:T10
+T14	Antibiotic 1555 1569	beta-lactamase
+*	Equiv T10 T1
+T15	Antibiotic 1401 1412	beta-lactam
+T11	Antibiotic_inactivation 1302 1310	activity
+E6	Antibiotic_inactivation:T11 Theme:T10 Cause:T15
+T6	Protein 0 4	SmeC
+T12	Gene 313 317	mexB
+T16	Gene 333 339	smeABC
+T17	Gene 512 516	smeC
+T18	Gene 525 529	smeB
+T19	Protein 576 580	SmeC
+T20	Gene 829 835	smeABC
+T21	Protein 718 722	SmeC
+T22	Protein 752 757	SmeAB
+T23	Gene 807 811	smeC
+T24	Gene 973 977	smeR
+T25	Gene 1009 1013	smeA
+T26	Gene 1014 1018	lacZ
+T27	Protein 1044 1048	SmeR
+T28	Gene 1088 1094	smeABC
+T29	Gene 1219 1223	smeR
+T30	Gene 167 173	smeABC
+T31	Protein 1239 1243	SmeC
+T32	Protein 1287 1301	beta-lactamase
+E3	Antibiotic_efflux:T5 Theme:T3 Cause:T8
+E4	Antibiotic_efflux:T5 Theme:T3 Cause:T9

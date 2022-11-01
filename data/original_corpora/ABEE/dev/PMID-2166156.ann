@@ -1,0 +1,10 @@
+T1	Bacteria 129 149	Coccidioides immitis
+T2	Bacteria 476 505	Candida (Torulopsis) glabrata
+T3	Bacteria 509 530	Staphylococcus aureus
+T4	Bacteria 675 686	C. glabrata
+T5	Bacteria 929 940	C. glabrata
+*	Equiv T4 T2
+T6	Bacteria 1094 1103	S. aureus
+*	Equiv T6 T3
+T7	Bacteria 1156 1166	C. immitis
+*	Equiv T7 T1

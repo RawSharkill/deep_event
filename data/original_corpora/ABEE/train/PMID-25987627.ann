@@ -1,0 +1,11 @@
+T1	Antibiotic 54 67	Cephalosporin
+T2	Antibiotic 73 83	Carbapenem
+T3	Bacteria 104 125	Neisseria gonorrhoeae
+T4	Antibiotic 278 288	carbapenem
+T5	Antibiotic 252 266	cephalosporins
+T6	Bacteria 335 356	Neisseria gonorrhoeae
+T7	Antibiotic 467 478	carbapenems
+T8	Antibiotic 170 180	penicillin
+T9	Antibiotic 22 32	Penicillin
+T10	Protein 392 396	PBP2
+T11	Antibiotic 581 591	carbapenem

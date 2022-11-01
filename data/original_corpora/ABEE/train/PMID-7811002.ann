@@ -1,0 +1,39 @@
+T1	Gene 898 902	gyrA
+T2	Bacteria 425 441	Escherichia coli
+T3	Antibiotic 101 110	quinolone
+T4	Bacteria 35 57	Pseudomonas aeruginosa
+T5	Bacteria 145 167	Pseudomonas aeruginosa
+T6	Protein 379 390	amino  acid
+T7	Protein 1421 1425	GyrA
+T8	Antibiotic 1172 1181	quinolone
+T9	Antibiotic 1218 1231	ciprofloxacin
+T10	Gene 1427 1431	 Asp
+T11	Antibiotic_target_alteration 1390 1401	alterations
+E1	Antibiotic_target_alteration:T11 
+T12	Bacteria 1126 1139	P. aeruginosa
+T13	Bacteria 857 870	P. aeruginosa
+T14	Bacteria 846 853	E. coli
+T15	Gene 833 842	PAO1 gyrA
+T16	Gene 1654 1658	gyrA
+T17	Antibiotic 1693 1706	ciprofloxacin
+T18	Bacteria 1721 1734	P. aeruginosa
+T19	Antibiotic_target_alteration 1640 1650	alteration
+E2	Antibiotic_target_alteration:T19 Cause:T17 Theme:T18
+T20	Gene 1140 1144	gyrA
+T21	Bacteria 1075 1082	E. coli
+T22	Antibiotic 1035 1045	quinolones
+T23	Protein 1025 1029	GyrA
+T24	Antibiotic 941 950	quinolone
+T25	Bacteria 737 744	E. coli
+T26	Protein 488 492	GyrA
+T27	Bacteria 619 626	E. coli
+T28	Gene 665 669	gyrA
+T29	Gene 684 693	PAO1 gyrA
+T30	Antibiotic_target_alteration 890 897	altered
+E3	Antibiotic_target_alteration:T30 Cause:T24 Theme:T14
+E4	Antibiotic_target_alteration:T30 Theme:T13 Cause:T24
+T31	Gene 179 183	gyrA
+T32	Gene 69 73	gyrA
+T33	Protein 310 321	amino acids
+T34	Bacteria 470 487	Bacillus subtilis
+T35	Bacteria 788 796	E.  coli

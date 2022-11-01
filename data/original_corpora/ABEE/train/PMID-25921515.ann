@@ -1,0 +1,41 @@
+T1	Bacteria 148 164	Escherichia coli
+T2	Bacteria 375 391	Escherichia coli
+T3	Bacteria 446 453	E. coli
+*	Equiv T3 T2
+T4	Antibiotic 512 527	fluoroquinolone
+T5	Bacteria 553 560	E. coli
+T6	Bacteria 908 915	E. coli
+T7	Antibiotic 1046 1059	ciprofloxacin
+T8	Antibiotic 1062 1074	enrofloxacin
+T9	Antibiotic 1079 1094	chloramphenicol
+T10	Antibiotic 1615 1630	fluoroquinolone
+T11	Bacteria 1693 1702	E.   coli
+T12	Gene 259 264	 soxS
+T13	Antibiotic 327 350	canine  fluoroquinolone
+T14	Gene 398 402	soxS
+T15	Gene 647 651	soxS
+T16	Gene 656 660	acrB
+T17	Gene 916 920	soxS
+T18	Gene 880 884	soxS
+T19	Gene 1148 1152	soxS
+T20	Gene 1520 1524	soxS
+T21	Antibiotic_target_alteration 1645 1653	mutation
+E1	Antibiotic_target_alteration:T21 Cause:T10 Theme:T11
+T22	Antibiotic_efflux 83 89	efflux
+E2	Antibiotic_efflux:T22 Theme:T1
+T23	Antibiotic_target_alteration 39 47	mutation
+E3	Antibiotic_target_alteration:T23 Theme:T1
+T24	Antibiotic_target_alteration 265 273	mutation
+E4	Antibiotic_target_alteration:T24 Cause:T13 Theme:T2
+T25	Antibiotic_target_alteration 403 411	mutation
+E5	Antibiotic_target_alteration:T25 Theme:T3 Cause:T4
+T26	Gene 869 871	WT
+T27	Antibiotic_target_alteration 891 899	mutation
+E6	Antibiotic_target_alteration:T27 Theme:T6
+T28	Gene 1176 1180	soxS
+T29	Gene 1185 1189	acrB
+T30	Gene 1230 1234	soxS
+T31	Gene 1277 1281	soxS
+T32	Antibiotic_efflux 1312 1318	efflux
+E7	Antibiotic_efflux:T32 
+T33	Bacteria 1450 1479	clinical  soxS(A12S) isolates

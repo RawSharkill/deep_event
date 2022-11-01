@@ -1,0 +1,69 @@
+T1	Antibiotic 40 49	quinolone
+T2	Bacteria 112 133	Clostridium difficile
+T3	Antibiotic 210 226	fluoroquinolones
+T4	Bacteria 276 297	Clostridium difficile
+T5	Antibiotic 362 378	fluoroquinolones
+T6	Antibiotic 448 460	moxifloxacin
+T7	Antibiotic 462 464	MX
+T8	Antibiotic 471 483	levofloxacin
+T9	Antibiotic 485 487	LE
+*	Equiv T7 T6
+*	Equiv T9 T8
+T10	Bacteria 548 561	C.  difficile
+*	Equiv T10 T4
+T11	Antibiotic 691 693	MX
+T12	Antibiotic 698 700	LE
+T13	Antibiotic 733 748	fluoroquinolone
+T14	Bacteria 842 854	C. difficile
+T15	Antibiotic 887 889	MX
+T16	Antibiotic 891 893	LE
+T17	Antibiotic 899 911	gatifloxacin
+T18	Antibiotic 913 915	GA
+*	Equiv T18 T17
+T19	Antibiotic 1020 1022	MX
+T20	Antibiotic 1029 1031	LE
+T21	Antibiotic 1221 1223	MX
+T22	Antibiotic 1253 1255	LE
+T23	Antibiotic 1298 1300	GA
+T24	Antibiotic 1374 1376	MX
+T25	Antibiotic 1419 1421	LE
+T26	Antibiotic 1657 1672	fluoroquinolone
+T27	Bacteria 1777 1789	C. difficile
+T28	Antibiotic 1843 1845	LE
+T29	Antibiotic 2006 2008	MX
+T30	Antibiotic 2053 2069	fluoroquinolones
+T31	Antibiotic 2159 2161	MX
+T32	Antibiotic 2167 2169	LE
+T33	Antibiotic 2250 2266	fluoroquinolones
+T34	Bacteria 2327 2340	C.  difficile
+T35	Gene 26 30	gyrA
+T36	Gene 35 39	gyrB
+T37	Antibiotic 86 101	fluoroquinolone
+T38	Antibiotic_target_alteration 134 141	mutants
+E1	Antibiotic_target_alteration:T38 Theme:T2 Cause:T37
+E2	Antibiotic_target_alteration:T38 Cause:T1 Theme:T2
+T39	Gene 772 776	GyrA
+T40	Gene 781 785	GyrB
+T41	Antibiotic_target_alteration 787 798	alterations
+E3	Antibiotic_target_alteration:T41 Cause:T13
+E4	Antibiotic_target_alteration:T41 Cause:T11
+E5	Antibiotic_target_alteration:T41 Cause:T12
+T42	Antibiotic_target_alteration 810 817	mutants
+E6	Antibiotic_target_alteration:T42 Theme:T14
+T43	Antibiotic_target_alteration 1166 1173	Mutants
+E7	Antibiotic_target_alteration:T43 Cause:T21
+E8	Antibiotic_target_alteration:T43 Cause:T23
+E9	Antibiotic_target_alteration:T43 Cause:T22
+T44	Antibiotic_target_alteration 1319 1327	mutation
+E10	Antibiotic_target_alteration:T44 Cause:T24
+T45	Gene 1073 1077	GyrA
+T46	Gene 1085 1089	GyrB
+T47	Gene 1482 1486	GyrB
+T48	Gene 1465 1469	GyrA
+T49	Gene 1890 1894	GyrB
+T50	Bacteria 1942 1969	B-positive epidemic strains
+T51	Gene 2195 2199	GyrA
+T52	Gene 2203 2207	GyrB
+T53	Antibiotic 2301 2316	fluoroquinolone
+T54	Gene 1735 1739	GyrA
+E11	Antibiotic_target_alteration:T44 Cause:T25

@@ -1,0 +1,12 @@
+T1	Bacteria 80 101	Staphylococcus aureus
+T2	Antibiotic 145 156	methicillin
+T3	Antibiotic 161 175	aminoglycoside
+T4	Bacteria 187 208	Staphylococcus aureus
+T5	Bacteria 397 405	S aureus
+T6	Antibiotic 452 463	methicillin
+T7	Antibiotic 468 478	tobramycin
+T8	Bacteria 622 630	S aureus
+T9	Antibiotic 700 710	gentamicin
+T10	Antibiotic 758 772	aminoglycoside
+T11	Antibiotic 923 933	gentamicin
+T12	Antibiotic 57 68	methicillin

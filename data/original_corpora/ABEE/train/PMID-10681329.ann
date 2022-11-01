@@ -1,0 +1,39 @@
+T1	Bacteria 126 147	Klebsiella pneumoniae
+T2	Bacteria 151 178	Klebsiella pneumoniae ORI-1
+T5	Antibiotic 500 515	clavulanic acid
+T6	Antibiotic 517 527	tazobactam
+T7	Antibiotic 532 540	imipenem
+T12	Antibiotic 764 787	oxyimino cephalosporins
+T13	Antibiotic 801 812	ceftazidime
+T4	Antibiotic 434 447	cephalosporin
+T8	Bacteria 650 672	Escherichia coli DH10B
+T9	Bacteria 1023 1040	Proteus mirabilis
+T10	Bacteria 1092 1115	Yersinia enterocolitica
+T14	Bacteria 1181 1210	Stenotrophomonas  maltophilia
+T15	Antibiotic 1957 1983	streptomycin-spectinomycin
+T3	Protein 33 38	GES-1
+T11	Gene 355 357	ca
+T16	Gene 555 560	GES-1
+T17	Gene 391 395	pTK1
+T18	Gene 713 715	ca
+T19	Gene 815 820	GES-1
+T20	Gene 1287 1292	GES-1
+T21	Gene 1354 1359	VEB-1
+T22	Gene 1365 1370	PER-1
+T23	Gene 1423 1427	pTK1
+T24	Gene 1448 1453	GES-1
+T25	Gene 1578 1583	intI1
+T26	Gene 2060 2064	sulI
+T27	Gene 1785 1788	bla
+T28	Gene 1789 1794	GES-1
+T29	Antibiotic 1809 1819	gentamicin
+T30	Antibiotic 1870 1882	trimethoprim
+T31	Antibiotic 1905 1920	chloramphenicol
+T32	Gene 1938 1943	cmlA4
+T33	Gene 1950 1955	aadA2
+T34	Gene 1797 1807	aac(6')Ib'
+T35	Gene 2045 2055	qacEDelta1
+T36	Gene 2072 2075	bla
+T37	Gene 2076 2081	GES-1
+T38	Gene 2087 2092	aadA2
+T39	Gene 2209 2213	ESBL

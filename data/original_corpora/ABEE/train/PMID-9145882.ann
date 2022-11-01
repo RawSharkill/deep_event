@@ -1,0 +1,14 @@
+T1	Antibiotic 17 29	trimethoprim
+T2	Bacteria 54 84	Listeria monocytogenes  BM4293
+T3	Antibiotic 108 120	trimethoprim
+T4	Bacteria 230 260	Listeria  monocytogenes BM4293
+T5	Bacteria 330 364	Staphylococcus haemolyticus MUR313
+T6	Antibiotic 547 559	trimethoprim
+T7	Bacteria 574 597	L. monocytogenes BM4293
+*	Equiv T7 T4
+T8	Bacteria 618 631	staphylococci
+T9	Protein 394 400	S2DHFR
+T10	Gene 46 50	dfrD
+T11	Gene 303 307	dfrD
+T12	Protein 468 491	dihydrofolate reductase
+T13	Antibiotic 444 456	trimethoprim

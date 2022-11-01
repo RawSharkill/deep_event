@@ -1,0 +1,18 @@
+T1	Bacteria 33 59	Mycobacterium tuberculosis
+T2	Bacteria 113 126	Mycobacterium
+T3	Bacteria 161 187	Mycobacterium tuberculosis
+T4	Antibiotic 275 284	kanamycin
+T5	Bacteria 446 461	M. tuberculosis
+*	Equiv T5 T3
+T6	Gene 730 733	rrl
+T7	Antibiotic 1494 1503	kanamycin
+T8	Antibiotic 491 500	kanamycin
+T9	Gene 251 254	rrs
+T10	Gene 375 378	rrs
+T11	Antibiotic_target_alteration 336 345	mutations
+E1	Antibiotic_target_alteration:T11 Cause:T12 Theme:T5
+T12	Antibiotic 392 401	kanamycin
+T13	Antibiotic 551 560	kanamycin
+T14	Gene 657 660	rrs
+T15	Antibiotic 910 919	kanamycin
+T16	Antibiotic 13 22	kanamycin

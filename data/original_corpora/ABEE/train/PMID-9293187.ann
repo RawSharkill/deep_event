@@ -1,0 +1,11 @@
+T1	Antibiotic 513 525	4-quinolones
+T2	Antibiotic 38 50	4-quinolones
+T3	Antibiotic 622 631	quinolone
+T4	Antibiotic 1161 1170	quinolone
+T5	Antibiotic 1250 1259	quinolone
+T6	Protein 4 10	gyrase
+T7	Antibiotic 1022 1031	quinolone
+T8	Bacteria 1103 1125	gram-negative bacteria
+T9	Protein 1199 1207	gyrase A
+T10	Bacteria 1340 1362	gram-positive bacteria
+T11	Antibiotic 1610 1619	quinolone

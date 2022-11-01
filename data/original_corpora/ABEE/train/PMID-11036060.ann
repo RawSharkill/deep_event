@@ -1,0 +1,17 @@
+T1	Antibiotic 42 52	vancomycin
+T3	Bacteria 74 95	Enterococcus faecalis
+T4	Bacteria 99 132	Enterococcus faecalis strain WCH9
+T6	Antibiotic 177 187	vancomycin
+T7	Antibiotic 239 250	teicoplanin
+T9	Antibiotic 336 346	vancomycin
+T11	Bacteria 322 334	enterococcal
+T12	Antibiotic 453 463	vancomycin
+T2	Gene 679 683	vanG
+T5	Gene 369 373	vanA
+T8	Gene 375 379	vanB
+T10	Gene 381 385	vanC
+T13	Gene 387 391	vanD
+T14	Gene 397 401	vanE
+T15	Protein 720 730	amino acid
+T16	Gene 28 32	vanG
+T17	Gene 494 498	vanG

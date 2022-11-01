@@ -1,0 +1,18 @@
+T1	Bacteria 81 106	Burkholderia pseudomallei
+T2	Bacteria 111 137	Burkholderia thailandensis
+T3	Bacteria 170 195	Burkholderia pseudomallei
+T4	Bacteria 200 227	Burkholderia  thailandensis
+T5	Bacteria 410 435	Burkholderia pseudomallei
+T6	Bacteria 489 515	Burkholderia thailandensis
+T7	Bacteria 661 681	Burkholderia strains
+T8	Bacteria 1568 1583	B. pseudomallei
+*	Equiv T8 T5 T10
+T9	Bacteria 1468 1488	Burkholderia cepacia
+T10	Bacteria 1679 1694	B. pseudomallei
+T11	Bacteria 1699 1716	B.  thailandensis
+*	Equiv T11 T4
+T12	Protein 159 164	Omp38
+T13	Protein 688 693	Omp38
+T14	Protein 702 707	Omp38
+T15	Protein 1631 1636	Omp38
+T16	Protein 1450 1455	OpcP1

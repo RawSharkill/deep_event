@@ -1,0 +1,22 @@
+T1	Bacteria 73 89	Escherichia coli
+T2	Bacteria 104 120	Escherichia coli
+T3	Antibiotic 171 182	carbapenems
+T4	Antibiotic 364 375	carbapenems
+T5	Antibiotic 388 402	cephalosporins
+T6	Protein 202 224	metallo-beta-lactamase
+T7	Protein 273 283	amino acid
+T8	Protein 0 28	NDM-4 metallo-beta-lactamase
+T9	Protein 226 229	MBL
+T10	Protein 232 237	NDM-4
+T11	Protein 255 260	NDM-1
+T12	Protein 310 315	NDM-4
+T13	Protein 424 429	NDM-1
+T14	Protein 536 546	amino acid
+T15	Protein 436 446	amino acid
+T16	Protein 506 511	NDM-1
+T17	Protein 618 621	MBL
+T18	Antibiotic_inactivation 337 347	hydrolytic
+E1	Antibiotic_inactivation:T18 Cause:T4
+E2	Antibiotic_inactivation:T18 Cause:T5
+T19	Antibiotic 44 57	carbapenemase
+T20	Antibiotic 146 158	beta-lactams

@@ -1,0 +1,33 @@
+T1	Antibiotic 121 133	trimethoprim
+T2	Antibiotic 135 137	Tp
+*	Equiv T2 T1
+T3	Antibiotic 30 42	trimethoprim
+T4	Protein 377 400	dihydrofolate reductase
+T5	Protein 402 406	DHFR
+T6	Antibiotic 268 270	Tp
+T7	Antibiotic 617 630	sulphonamides
+T8	Antibiotic 650 652	Tp
+T9	Bacteria 689 711	Salmonella typhimurium
+T10	Bacteria 726 738	S. enteridis
+T11	Bacteria 745 753	S. agona
+T12	Bacteria 759 770	S. mbandaka
+T13	Bacteria 776 786	S. virchow
+T14	Bacteria 792 802	S. indiana
+T15	Antibiotic 1254 1256	Tp
+T16	Antibiotic 1096 1098	Tp
+T17	Bacteria 1120 1134	S. typhimurium
+T18	Bacteria 1267 1281	S. enteritidis
+T19	Protein 1387 1391	DHFR
+T20	Bacteria 1220 1234	S. typhimurium
+T21	Antibiotic 1053 1055	Tp
+T22	Antibiotic 1206 1208	Tp
+T23	Antibiotic 1482 1485	Tp-
+T24	Bacteria 1495 1509	enterobacteria
+T25	Antibiotic 1565 1567	Tp
+T26	Bacteria 1578 1589	salmonellas
+T27	Bacteria 1694 1710	Shigella  sonnei
+T28	Antibiotic 840 842	Tp
+T29	Bacteria 57 68	salmonellas
+T30	Bacteria 153 164	salmonellas
+T31	Antibiotic 502 504	Tp
+T32	Bacteria 1803 1814	salmonellas

@@ -1,0 +1,18 @@
+T1	Antibiotic 0 12	Erythromycin
+T2	Antibiotic 231 243	erythromycin
+T3	Bacteria 1115 1135	gamma-proteobacteria
+T4	Bacteria 1217 1256	beta-proteobacterium Ralstonia eutropha
+T5	Antibiotic 1429 1441	Erythromycin
+T6	Antibiotic 1511 1523	erythromycin
+T7	Antibiotic 1682 1694	trimethoprim
+T8	Bacteria 2254 2276	Pseudomonas aeruginosa
+T9	Antibiotic 107 116	macrolide
+T10	Gene 692 698	mobCDE
+T11	Gene 704 709	mobBA
+T12	Antibiotic 1396 1405	macrolide
+T13	Antibiotic 1287 1296	macrolide
+T14	Gene 1314 1317	mel
+T15	Gene 1322 1325	mph
+T16	Antibiotic_efflux 1373 1379	efflux
+E1	Antibiotic_efflux:T16 Cause:T13
+T17	Gene 1479 1482	mel

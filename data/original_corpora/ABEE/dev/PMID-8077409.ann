@@ -1,0 +1,10 @@
+T1	Bacteria 86 107	Neisseria gonorrhoeae
+T2	Bacteria 217 231	N. gonorrhoeae
+T3	Antibiotic 513 523	penicillin
+T4	Antibiotic 525 538	ciprofloxacin
+T5	Antibiotic 540 555	chloramphenicol
+T6	Antibiotic 557 569	tetracycline
+T7	Antibiotic 575 588	 trimethoprim
+T8	Antibiotic 589 605	sulfamethoxazole
+T9	Bacteria 827 841	N. gonorrhoeae
+T10	Bacteria 130 151	Neisseria gonorrhoeae

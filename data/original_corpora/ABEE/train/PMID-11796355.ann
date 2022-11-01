@@ -1,0 +1,11 @@
+T1	Antibiotic 98 107	mupirocin
+T3	Bacteria 122 143	Staphylococcus aureus
+T4	Antibiotic_target_alteration 0 9	Mutations
+E2	Antibiotic_target_alteration:T4 Theme:T3
+T5	Bacteria 239 268	Staphylococcus aureus strains
+T6	Antibiotic 312 321	mupirocin
+T7	Antibiotic 349 358	mupirocin
+T8	Antibiotic_target_alteration 409 418	mutations
+E3	Antibiotic_target_alteration:T8 Theme:T5
+T2	Protein 740 744	IleS
+T9	Protein 178 182	ileS

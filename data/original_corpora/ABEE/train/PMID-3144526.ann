@@ -1,0 +1,12 @@
+T1	Antibiotic 27 39	piperacillin
+T2	Bacteria 47 69	Pseudomonas aeruginosa
+T3	Bacteria 241 263	Pseudomonas aeruginosa
+T4	Antibiotic 390 402	piperacillin
+T5	Antibiotic 404 415	ticarcillin
+T6	Antibiotic 420 430	tobramycin
+T7	Antibiotic 432 455	Piperacillin-tobramycin
+T8	Bacteria 650 663	P. aeruginosa
+*	Equiv T8 T2
+T9	Antibiotic 718 730	piperacillin
+T10	Antibiotic 741 752	penicillins
+T11	Antibiotic 1157 1169	piperacillin

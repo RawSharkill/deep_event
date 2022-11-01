@@ -1,0 +1,33 @@
+T1	Bacteria 105 123	Salmonella ordonez
+T2	Bacteria 126 158	Salmonella ordonez strain BM2000
+T3	Antibiotic 167 176	kanamycin
+T4	Antibiotic 178 180	Km
+*	Equiv T4 T3
+T5	Antibiotic 183 193	ampicillin
+T6	Antibiotic 195 197	Ap
+*	Equiv T6 T5
+T7	Antibiotic 201 214	spectinomycin
+T8	Antibiotic 216 218	Sp
+*	Equiv T8 T7
+T9	Antibiotic 221 236	chloramphenicol
+T10	Antibiotic 238 240	Cm
+*	Equiv T10 T9
+T11	Antibiotic 243 255	tetracycline
+T12	Antibiotic 257 259	Tc
+*	Equiv T12 T11
+T13	Antibiotic 266 277	sulfonamide
+T14	Antibiotic 279 281	Su
+*	Equiv T14 T13
+T15	Antibiotic 335 337	Km
+T16	Antibiotic 425 427	Km
+T17	Bacteria 552 562	S. ordonez
+*	Equiv T17 T1
+T18	Bacteria 566 582	Escherichia coli
+T19	Bacteria 773 786	strain BM2000
+*	Equiv T19 T2
+T20	Antibiotic 1302 1312	ApCmSpSuTc
+T21	Bacteria 1359 1376	S. ordonez BM2000
+T22	Bacteria 1479 1492	strain BM2000
+T23	Antibiotic 1634 1652	S.  ordonez BM2000
+T24	Bacteria 1762 1772	S. ordonez
+T25	Antibiotic 1836 1846	ApCmSpSuTc

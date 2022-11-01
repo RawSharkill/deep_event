@@ -1,0 +1,30 @@
+T1	Bacteria 33 54	Mycoplasma genitalium
+T2	Antibiotic 104 119	fluoroquinolone
+T3	Bacteria 179 200	Mycoplasma genitalium
+T4	Antibiotic 362 377	fluoroquinolone
+T5	Bacteria 392 405	M. genitalium
+*	Equiv T5 T3
+T6	Bacteria 545 558	M. genitalium
+T7	Bacteria 646 659	M. genitalium
+T8	Bacteria 1319 1329	Mycoplasma
+T9	Bacteria 1334 1349	Ureaplasma spp.
+T10	Bacteria 1350 1363	M. genitalium
+T11	Antibiotic 1402 1417	fluoroquinolone
+T12	Antibiotic 441 450	quinolone
+T13	Gene 497 501	gyrA
+T14	Gene 506 510	parC
+T15	Gene 746 750	GyrA
+T16	Protein 709 719	amino acid
+T17	Protein 821 831	amino acid
+T18	Protein 893 903	amino acid
+T19	Gene 1040 1044	GyrA
+T20	Gene 1064 1068	GyrA
+T21	Antibiotic_target_alteration 1049 1060	alterations
+E1	Antibiotic_target_alteration:T21 
+T22	Gene 1074 1078	ParC
+T23	Antibiotic 1274 1289	fluoroquinolone
+T24	Antibiotic_target_alteration 1302 1309	mutants
+E2	Antibiotic_target_alteration:T24 Theme:T8 Cause:T23
+E3	Antibiotic_target_alteration:T24 Theme:T9 Cause:T23
+T25	Gene 1436 1440	parC
+T26	Gene 960 964	ParC

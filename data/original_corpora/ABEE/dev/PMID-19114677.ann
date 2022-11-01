@@ -1,0 +1,17 @@
+T1	Antibiotic 0 10	Carbapenem
+T2	Bacteria 28 50	Pseudomonas aeruginosa
+T3	Bacteria 264 280	Pseudomonas spp.
+T4	Bacteria 393 415	Pseudomonas aeruginosa
+T5	Bacteria 707 723	Pseudomonas spp.
+T6	Protein 222 253	metallo-beta-lactamase (MbetaL)
+T7	Protein 119 141	metallo-beta-lactamase
+T8	Protein 801 807	MbetaL
+T9	Gene 515 526	 bla(VIM-2)
+T10	Gene 693 696	VIM
+T11	Gene 782 790	bla(VIM)
+T12	Gene 318 326	bla(VIM)
+T13	Protein 150 153	VIM
+T14	Gene 378 386	bla(VIM)
+T15	Gene 594 597	VIM
+T16	Protein 612 622	amino-acid
+T17	Protein 650 653	VIM

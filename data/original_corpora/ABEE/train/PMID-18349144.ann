@@ -1,0 +1,21 @@
+T1	Antibiotic 0 9	Rifamycin
+T2	Antibiotic 92 101	rifamycin
+T3	Antibiotic 113 121	rifampin
+*	Equiv T3 T2
+T4	Bacteria 216 237	Staphylococcus aureus
+T5	Antibiotic 265 273	rifampin
+T6	Antibiotic 425 434	rifamycin
+T7	Antibiotic 609 619	rifamycins
+T8	Bacteria 1004 1027	Mycobacterium smegmatis
+T9	Antibiotic 1322 1331	rifamycin
+T10	Protein 562 574	Arr  enzymes
+T11	Protein 660 671	Arr enzymes
+T12	Protein 798 809	Arr enzymes
+T13	Protein 1232 1242	amino acid
+T14	Protein 80 84	 Arr
+T15	Antibiotic_inactivation 593 605	ribosylation
+E1	Antibiotic_inactivation:T15 Cause:T7
+T16	Antibiotic_inactivation 39 51	ribosylation
+E2	Antibiotic_inactivation:T16 Cause:T1
+T17	Antibiotic_inactivation 1085 1104	ribosyltransferases
+E3	Antibiotic_inactivation:T17 Theme:T8

@@ -1,0 +1,24 @@
+T1	Antibiotic 51 61	daptomycin
+T2	Bacteria 121 142	Staphylococcus aureus
+T3	Antibiotic 158 168	Daptomycin
+T4	Antibiotic 284 294	daptomycin
+T5	Bacteria 310 319	S. aureus
+*	Equiv T5 T2
+T6	Antibiotic 498 508	daptomycin
+T7	Antibiotic 742 752	daptomycin
+T8	Antibiotic 1516 1526	daptomycin
+T9	Bacteria 1530 1539	S. aureus
+T10	Antibiotic 1615 1625	daptomycin
+T11	Bacteria 1644 1653	S. aureus
+T12	Antibiotic 523 533	daptomycin
+T13	Antibiotic 857 867	daptomycin
+T14	Gene 996 1000	mprF
+T15	Antibiotic 1262 1272	daptomycin
+T16	Antibiotic_target_alteration 1541 1550	Mutations
+E1	Antibiotic_target_alteration:T16 Cause:T10 Theme:T11
+T17	Gene 1554 1558	cls2
+T18	Gene 1563 1567	pgsA
+T19	Antibiotic_target_alteration 1395 1404	mutations
+E2	Antibiotic_target_alteration:T19 Cause:T8 Theme:T9
+T20	Antibiotic_target_alteration 683 692	mutations
+E3	Antibiotic_target_alteration:T20 Cause:T7

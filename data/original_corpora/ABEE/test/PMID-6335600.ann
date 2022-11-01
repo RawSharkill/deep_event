@@ -1,0 +1,27 @@
+T1	Antibiotic 28 51	beta-lactam antibiotics
+T2	Bacteria 55 76	Staphylococcus aureus
+T3	Bacteria 89 110	Staphylococcus aureus
+T4	Antibiotic 135 158	beta-lactam antibiotics
+T5	Antibiotic 190 201	methicillin
+T6	Antibiotic 214 224	penicillin
+T7	Antibiotic 255 265	penicillin
+T8	Antibiotic 364 375	Methicillin
+T9	Antibiotic 557 568	penicillins
+T10	Bacteria 973 982	S. aureus
+*	Equiv T10 T2
+T11	Antibiotic 1387 1398	methicillin
+T12	Antibiotic 1402 1412	penicillin
+T13	Antibiotic 1433 1455	isoxazolylpenicillins,
+T14	Antibiotic 1456 1470	flucloxacillin
+T15	Antibiotic 1533 1546	dicloxacillin
+T16	Antibiotic 1568 1579	cloxacillin
+T17	Bacteria 1709 1722	staphylococci
+T18	Antibiotic 1729 1740	methicillin
+T19	Antibiotic_inactivation 163 177	beta-lactamase
+E1	Antibiotic_inactivation:T19 Cause:T4 Theme:T3
+T20	Antibiotic_target_alteration 241 251	deficiency
+E2	Antibiotic_target_alteration:T20 Cause:T7 Theme:T3
+T21	Protein 626 640	beta-lactamase
+T22	Protein 1513 1527	beta-lactamase
+T23	Antibiotic_inactivation 1759 1769	hydrolysed
+E3	Antibiotic_inactivation:T23 Cause:T18 Theme:T17

@@ -1,0 +1,12 @@
+T1	Antibiotic 19 31	tetracycline
+T2	Antibiotic 127 139	tetracycline
+T3	Antibiotic 161 176	oxytetracycline
+T4	Antibiotic 260 272	tetracycline
+T5	Antibiotic 477 489	tetracycline
+T6	Antibiotic 690 702	tetracycline
+T7	Gene 285 290	Tc(r)
+T8	Antibiotic_inactivation 490 502	inactivating
+E1	Antibiotic_inactivation:T8 Cause:T5
+T9	Gene 1200 1206	tet(W)
+T10	Gene 1131 1137	tet(M)
+T11	Gene 820 825	Tc(r)

@@ -1,0 +1,33 @@
+T1	Bacteria 49 70	Myroides odoratimimus
+T2	Bacteria 956 976	Aeromonas hydrophila
+T3	Bacteria 1030 1051	Ochrobactrum anthropi
+T4	Bacteria 1073 1089	Escherichia coli
+T5	Bacteria 1091 1107	Ochrobactrum sp.
+T6	Bacteria 1109 1121	Serratia sp.
+T7	Bacteria 1160 1172	Bacillus sp.
+T8	Bacteria 1177 1196	Myroides sp. strain
+T9	Antibiotic 1215 1227	penicillin-G
+T10	Antibiotic 1229 1241	erythromycin
+T11	Antibiotic 1243 1255	streptomycin
+T12	Antibiotic 1257 1265	amikacin
+T13	Antibiotic 1267 1276	kanamycin
+T14	Antibiotic 1278 1288	gentamycin
+T15	Antibiotic 1291 1301	ampicillin
+T16	Antibiotic 1303 1315	trimethoprim
+T17	Antibiotic 1320 1330	tobramycin
+T18	Protein 718 740	metallo beta-lactamase
+T19	Bacteria 1123 1137	Kestersia  sp.
+T20	Bacteria 1139 1158	Ignatzschineria sp.
+T21	Bacteria 1054 1071	Weissella confusa
+T22	Bacteria 979 992	A. culicicola
+T23	Bacteria 994 1028	Morganella morganii subsp. sibonii
+T24	Bacteria 1411 1421	W. confusa
+T25	Bacteria 1423 1442	Ignatzschineria sp.
+T26	Bacteria 1444 1458	A.  hydrophila
+T27	Bacteria 1463 1489	M. morganii subsp. sibonii
+T28	Protein 1671 1693	metallo beta-lactamase
+T29	Protein 157 180	 metallo beta-lactamase
+T30	Bacteria 377 390	Myroides spp.
+T31	Bacteria 457 469	Myroides sp.
+*	Equiv T22 T2
+T32	Bacteria 818 840	Gram-positive bacteria

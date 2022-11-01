@@ -1,0 +1,21 @@
+T1	Antibiotic 344 354	penicillin
+T2	Antibiotic 359 373	cephalosporins
+T3	Antibiotic 713 723	ampicillin
+T4	Protein 879 883	MBLs
+T5	Protein 798 802	MBLs
+T6	Protein 262 283	New Delhi MBL (NDM-1)
+T7	Protein 403 408	NDM-1
+T8	Protein 21 26	NDM-1
+T9	Protein 80 110	Metallo-beta-lactamases (MBLs)
+T10	Antibiotic 126 149	beta-lactam antibiotics
+T11	Antibiotic_inactivation 111 120	hydrolyze
+E1	Antibiotic_inactivation:T11 Cause:T10
+T12	Protein 520 524	MBLs
+T13	Protein 616 622	enzyme
+T14	Antibiotic_inactivation 702 712	hydrolyzed
+E2	Antibiotic_inactivation:T14 Cause:T3
+T15	Protein 676 682	enzyme
+T17	Protein 189 195	enzyme
+T18	Antibiotic 44 55	beta-lactam
+T19	Antibiotic_inactivation 56 66	hydrolysis
+E4	Antibiotic_inactivation:T19 Cause:T18

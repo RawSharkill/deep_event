@@ -1,0 +1,13 @@
+T1	Antibiotic 65 75	rifampicin
+T2	Antibiotic 241 251	rifampicin
+T3	Antibiotic 253 256	Rif
+*	Equiv T3 T2
+T4	Bacteria 156 179	Mycobacterium smegmatis
+T5	Antibiotic 819 822	Rif
+T6	Protein 144 150	MsRbpA
+T7	Protein 122 128	MsRbpA
+T8	Antibiotic 375 378	Rif
+T9	Protein 294 300	MsRbpA
+T10	Protein 364 370	MsRbpA
+T11	Protein 901 907	MsRbpA
+T12	Protein 958 964	MsRbpA

@@ -1,0 +1,20 @@
+T1	Antibiotic 17 26	quinolone
+T2	Antibiotic 90 99	quinolone
+T3	Antibiotic 467 477	quinolones
+T4	Antibiotic 585 595	quinolones
+T5	Antibiotic 780 793	ciprofloxacin
+T6	Antibiotic 899 909	quinolones
+T7	Antibiotic 983 993	quinolones
+T8	Antibiotic 1155 1164	quinolone
+T9	Antibiotic 1421 1430	quinolone
+T10	Gene 655 668	aac(6')-Ib-cr
+T11	Gene 312 315	qnr
+T12	Protein 730 740	amino acid
+T13	Antibiotic_efflux 873 879	efflux
+E1	Antibiotic_efflux:T13 Cause:T6
+T14	Gene 850 855	oqxAB
+T15	Gene 860 865	 qepA
+T16	Antibiotic_inactivation 768 778	inactivate
+E2	Antibiotic_inactivation:T16 Cause:T5
+T17	Protein 547 554	enzymes
+T18	Protein 519 525	gyrase

@@ -1,0 +1,6 @@
+T1	Antibiotic 17 28	brodimoprim
+T2	Antibiotic 0 12	Trimethoprim
+T3	Bacteria 61 84	gram-negative  bacteria
+T4	Antibiotic 104 115	brodimoprim
+T5	Antibiotic 87 99	Trimethoprim
+T6	Bacteria 682 703	gram-negative species

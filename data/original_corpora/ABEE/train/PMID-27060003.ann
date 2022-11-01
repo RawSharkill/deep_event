@@ -1,0 +1,43 @@
+T1	Bacteria 44 88	carbapenem-resistant Pseudomonas  aeruginosa
+T2	Bacteria 189 211	Pseudomonas aeruginosa
+T3	Bacteria 462 497	carbapenem-resistant P.  aeruginosa
+*	Equiv T3 T1
+T4	Antibiotic 611 619	imipenem
+T5	Antibiotic 624 633	meropenem
+T6	Antibiotic 875 888	carbapenemase
+T7	Bacteria 1372 1395	P.   aeruginosa strains
+T8	Bacteria 2121 2155	carbapenem-resistant P. aeruginosa
+T9	Protein 18 28	MexAB-OprM
+T11	Protein 213 223	MexAB-OprM
+T13	Gene 362 366	mexR
+T14	Gene 368 372	nalC
+T15	Gene 378 382	nalD
+T10	Protein 434 444	MexAB-OprM
+T12	Antibiotic 895 918	metallo-beta-lactamases
+T16	Gene 943 947	mexA
+T17	Gene 1020 1024	rpoD
+T18	Protein 1032 1042	MexAB-OprM
+T19	Gene 1198 1202	mexR
+T20	Gene 1204 1208	nalC
+T21	Gene 1215 1219	nalD
+T22	Protein 1247 1252	OprD2
+T23	Protein 1312 1322	MexAB-OprM
+T24	Protein 1606 1616	MexAB-OprM
+T25	Gene 1677 1681	mexR
+T26	Gene 1683 1687	nalC
+T27	Gene 1693 1697	nalD
+T28	Protein 1821 1825	NalC
+T29	Protein 1894 1898	NalC
+T30	Protein 1983 1987	NalD
+T31	Protein 2030 2034	MexR
+T32	Protein 2081 2091	MexAB-OprM
+T33	Protein 2247 2257	MexAB-OprM
+T34	Antibiotic_efflux 29 40	efflux pump
+E1	Antibiotic_efflux:T34 Theme:T1
+T35	Antibiotic_efflux 92 103	Efflux pump
+E2	Antibiotic_efflux:T35 Theme:T2 Cause:T4
+T36	Antibiotic_efflux 2069 2080	efflux pump
+E3	Antibiotic_efflux:T36 Theme:T8
+E4	Antibiotic_efflux:T35 Theme:T2 Cause:T5
+E5	Antibiotic_efflux:T35 Cause:T6 Theme:T2
+E6	Antibiotic_efflux:T35 Cause:T12 Theme:T2

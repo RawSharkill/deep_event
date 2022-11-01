@@ -1,0 +1,18 @@
+T1	Bacteria 268 294	Mycobacterium tuberculosis
+T2	Antibiotic 521 531	ethambutol
+T3	Antibiotic 890 900	ethambutol
+T4	Antibiotic 1242 1252	Ethambutol
+T5	Gene 476 480	embC
+T6	Antibiotic 24 44	ethambutol-resistant
+T7	Antibiotic_target_alteration 78 88	 mutations
+E1	Antibiotic_target_alteration:T7 Cause:T6
+T8	Gene 450 457	Rv3806c
+T9	Gene 467 471	embB
+T10	Gene 459 465	Rv3792
+T11	Gene 775 779	embB
+T12	Gene 881 885	embC
+T13	Gene 1015 1019	embC
+T14	Gene 1033 1037	embC
+T15	Gene 1217 1222	 embB
+T16	Antibiotic_target_alteration 1304 1313	mutations
+E2	Antibiotic_target_alteration:T16 Cause:T4

@@ -1,0 +1,18 @@
+T1	Bacteria 92 118	Achromobacter xylosoxidans
+T2	Bacteria 159 185	Achromobacter xylosoxidans
+T3	Antibiotic 499 513	cephalosporins
+T4	Antibiotic 518 529	carbapenems
+T5	Protein 421 441	TMB-1 beta-lactamase
+T6	Protein 52 74	metallo-beta-lactamase
+T7	Antibiotic 77 82	TMB-1
+T8	Protein 246 268	metallo-beta-lactamase
+T9	Protein 281 286	TMB-1
+T10	Protein 476 481	DIM-1
+T11	Protein 488 493	GIM-1
+T12	Protein 578 583	GIM-1
+T13	Protein 598 603	DIM-1
+T14	Protein 669 674	GIM-1
+T15	Protein 679 684	DIM-1
+T16	Protein 308 313	DIM-1
+T17	Protein 326 331	GIM-1
+T18	Gene 339 342	bla

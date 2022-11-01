@@ -1,0 +1,5 @@
+T1	Bacteria 51 63	mycobacteria
+T2	Bacteria 397 409	mycobacteria
+T3	Bacteria 229 241	mycobacteria
+T4	Antibiotic_target_alteration 256 265	mutations
+E1	Antibiotic_target_alteration:T4 Theme:T3

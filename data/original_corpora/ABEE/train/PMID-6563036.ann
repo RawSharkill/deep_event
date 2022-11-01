@@ -1,0 +1,14 @@
+T1	Antibiotic 108 119	Methicillin
+T2	Bacteria 83 104	Staphylococcus aureus
+T3	Bacteria 134 155	Staphylococcus aureus
+T4	Bacteria 291 304	staphylococci
+T5	Antibiotic 451 462	methicillin
+T6	Bacteria 535 548	staphylococci
+T7	Antibiotic 513 524	methicillin
+T8	Protein 782 785	PBP
+T9	Protein 603 606	PBP
+T10	Protein 496 499	PBP
+T11	Protein 230 234	PBPs
+T12	Protein 201 228	penicillin-binding proteins
+T13	Protein 13 39	penicillin-binding protein
+T14	Antibiotic 269 280	methicillin

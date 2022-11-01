@@ -1,0 +1,33 @@
+T1	Bacteria 64 75	enterococci
+T2	Bacteria 94 116	Streptococcus faecalis
+T3	Bacteria 137 147	S. faecium
+T4	Antibiotic 295 310	aminoglycosides
+T5	Bacteria 319 338	S. faecalis strains
+T6	Antibiotic 364 374	gentamicin
+T7	Antibiotic 386 401	aminoglycosides
+T8	Antibiotic 483 498	aminoglycosides
+T9	Bacteria 521 532	S. faecalis
+T10	Bacteria 536 547	S. faecalis
+T11	Bacteria 555 565	S. faecium
+T12	Bacteria 569 579	S. faecali
+T13	Bacteria 590 601	S. faecalis
+T14	Bacteria 605 615	S. faecium
+*	Equiv T5 T2
+T15	Antibiotic 773 783	gentamicin
+T16	Antibiotic 795 810	aminoglycosides
+T17	Bacteria 1034 1045	S. faecalis
+T18	Bacteria 1064 1074	S. faecium
+T19	Antibiotic 1111 1123	streptomycin
+T20	Bacteria 1132 1150	S. faecalis strain
+T21	Antibiotic 1189 1204	aminoglycosides
+T22	Bacteria 1283 1293	S. faecium
+T23	Antibiotic 1344 1359	aminoglycosides
+T24	Antibiotic 28 42	aminoglycoside
+T25	Antibiotic_target_alteration 43 52	modifying
+E1	Antibiotic_target_alteration:T25 Cause:T24 Theme:T1
+T26	Antibiotic 671 695	Aminoglycoside-modifying
+T27	Protein 853 878	2''-O-phosphotransferases
+T28	Protein 880 904	3'-O-phosphotransferases
+T29	Protein 906 930	6-O-adenylyltransferases
+T30	Protein 936 959	6'-N-acetyltransferases
+T31	Protein 1221 1244	6'-N-acetyltransferases

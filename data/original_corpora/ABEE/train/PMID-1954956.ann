@@ -1,0 +1,7 @@
+T1	Bacteria 25 47	Haemophilus influenzae
+T2	Bacteria 161 183	Haemophilus influenzae
+T3	Antibiotic 298 308	ampicillin
+T4	Antibiotic 385 395	ampicillin
+T5	Bacteria 560 573	H. influenzae
+*	Equiv T5 T2
+T6	Bacteria 796 809	H. influenzae

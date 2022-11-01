@@ -1,0 +1,19 @@
+T1	Bacteria 50 66	Escherichia coli
+T2	Antibiotic_efflux 34 46	transporters
+E1	Antibiotic_efflux:T2 Theme:T1 Cause:T3
+T3	Antibiotic 86 98	beta-lactams
+T4	Gene 102 107	AcrAB
+T5	Antibiotic_efflux 108 115	exports
+E2	Antibiotic_efflux:T5 Cause:T6 Theme:T7
+T6	Antibiotic 121 132	beta-lactam
+T7	Bacteria 169 185	Escherichia coli
+T8	Antibiotic_efflux 267 281	transporters  
+E3	Antibiotic_efflux:T8 Theme:T9
+T9	Bacteria 284 300	Escherichia coli
+T10	Bacteria 373 380	E. coli
+T11	Antibiotic 384 395	beta-lactam
+T12	Antibiotic_efflux 360 369	exporters
+E4	Antibiotic_efflux:T12 Theme:T10 Cause:T11
+T13	Antibiotic_efflux 495 504	exporters
+E5	Antibiotic_efflux:T13 Cause:T14
+T14	Antibiotic 512 523	beta-lactam

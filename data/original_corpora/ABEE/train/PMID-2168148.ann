@@ -1,0 +1,12 @@
+T1	Bacteria 72 88	Escherichia coli
+T2	Antibiotic 0 9	Quinolone
+T3	Bacteria 194 215	Escherichia coli KL16
+T4	Antibiotic 277 286	quinolone
+T5	Gene 128 132	gyrA
+T6	Gene 58 62	gyrA
+T7	Antibiotic 158 167	quinolone
+T8	Gene 178 182	gyrA
+T9	Protein 433 437	GyrA
+T10	Protein 356 367	amino acids
+T11	Protein 411 421	amino acid
+T12	Protein 51 57	gyrase

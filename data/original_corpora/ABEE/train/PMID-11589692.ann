@@ -1,0 +1,13 @@
+T1	Bacteria 131 153	Gram-negative bacteria
+T2	Bacteria 528 546	Escherichia   coli
+T5	Antibiotic_efflux 254 259	pumps
+E2	Antibiotic_efflux:T5 Theme:T1
+T6	Antibiotic_efflux 412 417	pumps
+E3	Antibiotic_efflux:T6 Theme:T2
+T3	Protein 16 20	TolC
+T4	Protein 510 514	TolC
+T7	Protein 602 606	TolC
+T8	Protein 795 799	TolC
+T9	Protein 1000 1004	TolC
+T10	Protein 1142 1146	TolC
+T11	Protein 1316 1320	TolC

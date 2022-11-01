@@ -1,0 +1,28 @@
+T1	Bacteria 84 99	Vibrio cholerae
+T2	Bacteria 117 132	Vibrio cholerae
+T3	Bacteria 692 703	V. cholerae
+*	Equiv T3 T2
+T4	Gene 52 56	ompT
+T5	Protein 60 64	ToxR
+T6	Protein 184 188	ToxR
+T7	Protein 485 489	ToxR
+T8	Protein 432 436	ToxR
+T9	Protein 366 370	OmpT
+T10	Protein 333 337	OmpU
+T11	Protein 501 505	OmpT
+T12	Gene 528 532	ompT
+T13	Gene 555 559	ompT
+T14	Protein 595 599	ToxR
+T15	Gene 633 637	ompT
+T16	Protein 895 899	ToxR
+T17	Protein 910 914	OmpT
+T18	Protein 1028 1031	CRP
+T19	Gene 1048 1052	ompT
+T20	Protein 1155 1159	ToxR
+T21	Gene 1183 1187	ompT
+T22	Gene 1272 1276	ompT
+T23	Protein 1333 1337	ToxR
+T24	Gene 1459 1464	ctxAB
+T25	Gene 1469 1473	toxT
+T26	Protein 1493 1497	ToxR
+T27	Protein 1530 1534	ToxR

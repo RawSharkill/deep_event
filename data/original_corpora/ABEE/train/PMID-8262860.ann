@@ -1,0 +1,13 @@
+T1	Antibiotic 14 23	quinolone
+T2	Antibiotic 73 86	 sparfloxacin
+T3	Antibiotic 94 110	fluoroquinolones
+T4	Antibiotic 338 354	 fluoroquinolone
+T5	Bacteria 416 435	 Enterobacteriaceae
+T6	Bacteria 441 463	Pseudomonas aeruginosa
+T7	Antibiotic 198 210	sparfloxacin
+T8	Antibiotic 227 243	fluoroquinolones
+T9	Bacteria 472 493	Staphylococcus aureus
+T10	Antibiotic 1092 1102	quinolones
+T11	Antibiotic 702 711	quinolone
+T12	Antibiotic 1274 1286	sparfloxacin
+T13	Antibiotic 1115 1125	quinolones

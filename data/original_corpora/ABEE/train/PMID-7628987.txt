@@ -1,0 +1,3 @@
+Evaluation of the in-vitro activity of furopenem (SY5555 or SUN5555) against  respiratory tract pathogens and beta-lactamase producing bacteria.
+
+Furopenem is a novel orally active penem. In this study, furopenem was highly  active in vitro against Streptococcus pneumoniae (MIC90 0.03 mg/L), Haemophilus  influenzae (MIC90, 2 mg/L), and Moraxella catarrhalls (MIC90, 0.5 mg/L). Its  activity was not reduced by a variety of beta-lactamase enzymes, however beta  -lactam resistance by other mechanisms was associated with higher MICs.

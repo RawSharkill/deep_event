@@ -1,0 +1,17 @@
+T1	Antibiotic 35 45	vancomycin
+T2	Bacteria 60 80	Enterococcus faecium
+T3	Bacteria 84 110	Enterococcus faecium UCN71
+T4	Antibiotic 175 185	vancomycin
+T5	Antibiotic 222 233	teicoplanin
+T6	Antibiotic 977 987	vancomycin
+T7	Bacteria 1106 1117	E.  faecium
+*	Equiv T7 T2
+T8	Bacteria 1193 1203	E. faecium
+T9	Gene 12 16	VanN
+T10	Gene 424 428	vanN
+T11	Gene 499 503	VanN
+T12	Gene 1050 1054	VanN
+T13	Gene 736 740	vanC
+T14	Gene 566 570	VanL
+T15	Antibiotic 336 348	glycopeptide
+T16	Gene 603 607	vanN

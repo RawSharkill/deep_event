@@ -1,0 +1,5 @@
+T1	Bacteria 615 628	H. influenzae
+T2	Bacteria 1 23	Haemophilus influenzae
+T3	Bacteria 159 173	H.  influenzae
+*	Equiv T3 T2
+T4	Bacteria 344 357	H. influenzae

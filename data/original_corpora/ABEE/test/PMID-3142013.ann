@@ -1,0 +1,14 @@
+T1	Antibiotic 14 22	imipenem
+T2	Bacteria 26 48	Pseudomonas aeruginosa
+T3	Antibiotic 127 135	imipenem
+T4	Bacteria 155 177	Pseudomonas aeruginosa
+T5	Antibiotic 380 388	imipenem
+T6	Antibiotic 425 443	beta-lactam agents
+T7	Bacteria 809 822	P. aeruginosa
+*	Equiv T7 T2
+T8	Antibiotic 899 924	beta-lactam   antibiotics
+T9	Antibiotic 765 773	imipenem
+T10	Reduced_permeability_to_antibiotic 575 589	permeability  
+E1	Reduced_permeability_to_antibiotic:T10 Cause:T5 Theme:T2
+T11	Antibiotic_target_alteration 668 679	alterations
+E2	Antibiotic_target_alteration:T11 Cause:T5 Theme:T2

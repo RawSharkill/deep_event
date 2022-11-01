@@ -1,0 +1,3 @@
+Sequence analysis of the florfenicol resistance gene encoded in the transferable   R-plasmid of a fish pathogen, Pasteurella piscicida. 
+
+The florfenicol resistance gene (pp-flo) derived from a transferable R-plasmid of  Pasteurella piscicida consisted of 1,122 nucleotides, and the predicted amino  acid sequence showed 47.4% identity to that of a non-enzymatic chloramphenicol  resistance gene (cmlA). The pp-flo gene was located in the downstream region of  the sulfonamide resistance gene of the transferable R-plasmid.

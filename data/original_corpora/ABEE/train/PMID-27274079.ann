@@ -1,0 +1,9 @@
+T1	Bacteria 4 26	Pseudomonas aeruginosa
+T2	Bacteria 300 322	Pseudomonas aeruginosa
+T3	Bacteria 343 356	P. aeruginosa
+*	Equiv T3 T2
+T4	Bacteria 504 517	P. aeruginosa
+T5	Bacteria 861 886	P. aeruginosa strain PA14
+T6	Bacteria 1203 1216	P. aeruginosa
+T7	Bacteria 1395 1408	P. aeruginosa
+T8	Bacteria 1572 1594	Gram-negative pathogen

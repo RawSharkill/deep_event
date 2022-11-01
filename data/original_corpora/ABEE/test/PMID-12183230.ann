@@ -1,0 +1,28 @@
+T1	Bacteria 113 135	Chryseobacterium gleum
+T2	Bacteria 139 161	Chryseobacterium gleum
+T3	Bacteria 355 371	Escherichia coli
+T6	Antibiotic 488 499	carbapenems
+T7	Antibiotic 629 640	penicillins
+T9	Antibiotic 692 703	carbapenems
+T10	Antibiotic_inactivation 617 627	hydrolyzed
+E3	Antibiotic_inactivation:T10 Cause:T7
+T11	Bacteria 835 863	Chryseobacterium indologenes
+T12	Bacteria 879 897	C. meningosepticum
+T13	Bacteria 1049 1057	C. gleum
+E4	Antibiotic_inactivation:T10 Cause:T9
+E5	Antibiotic_inactivation:T10 Cause:T8
+T5	Antibiotic 450 483	expanded-spectrum  cephalosporins
+T14	Bacteria 388 414	strain C. gleum CIP 103039
+*	Equiv T14 T1 T13
+T8	Antibiotic 672 686	cephalosporins
+T15	Gene 291 321	Ambler class  B beta-lactamase
+T4	Protein 61 107	class B  carbapenem-hydrolyzing beta-lactamase
+T16	Protein 799 809	amino acid
+T17	Protein 868 872	BlaB
+T18	Protein 990 1022	extended-spectrum beta-lactamase
+T19	Protein 1098 1121	class B  beta-lactamase
+T20	Bacteria 224 244	gram-negative aerobe
+T21	Protein 748 778	subclass B1 of metallo-enzymes
+T22	Antibiotic 514 528	beta-lactamase
+T23	Antibiotic 530 535	CGB-1
+T24	Bacteria 190 204	Flavobacterium

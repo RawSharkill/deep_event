@@ -1,0 +1,39 @@
+T1	Bacteria 42 58	Escherichia coli
+T2	Bacteria 108 124	Escherichia coli
+T3	Bacteria 430 437	E. coli
+*	Equiv T3 T2
+T4	Antibiotic 692 702	ampicillin
+T5	Antibiotic 734 749	chloramphenicol
+T6	Antibiotic 781 793	tetracycline
+T7	Antibiotic 841 853	trimethoprim
+T8	Antibiotic 1159 1172	ciprofloxacin
+T9	Antibiotic 1177 1188	florfenicol
+T10	Antibiotic 1330 1342	trimethoprim
+T11	Antibiotic 1344 1354	ampicillin
+T12	Antibiotic 1356 1368	tetracycline
+T13	Antibiotic 1374 1389	chloramphenicol
+T14	Bacteria 1739 1746	E. coli
+T15	Bacteria 1936 1943	E. coli
+T16	Bacteria 2019 2026	E. coli
+T17	Gene 897 902	dfr17
+T18	Gene 885 889	dfr7
+T19	Gene 855 860	dfrA1
+T20	Gene 1266 1269	dfr
+T21	Gene 1271 1289	TEM beta-lactamase
+T22	Gene 1291 1294	tet
+T23	Gene 1299 1303	 cat
+T24	Gene 877 883	dfrA13
+T25	Gene 862 867	dfrA9
+T26	Gene 869 875	dfrA12
+T27	Gene 712 730	SHV beta-lactamase
+T28	Gene 704 707	TEM
+T29	Gene 751 755	catI
+T30	Gene 757 762	catII
+T31	Gene 764 770	catIII
+T32	Gene 775 778	cml
+T33	Gene 795 799	tetA
+T34	Gene 801 805	tetB
+T35	Gene 807 811	tetC
+T36	Gene 814 818	tetD
+T37	Gene 820 825	tet E
+T38	Gene 830 834	tetG

@@ -1,0 +1,16 @@
+T1	Antibiotic 23 34	methicillin
+T2	Bacteria 107 128	Staphylococcus aureus
+T3	Gene 135 138	mec
+T4	Antibiotic 168 179	methicillin
+T5	Bacteria 190 211	Staphylococcus aureus
+T6	Antibiotic_inactivation 295 306	inactivated
+E1	Antibiotic_inactivation:T6 Cause:T4 Theme:T5
+T7	Antibiotic 417 428	methicillin
+T8	Bacteria 519 529	S.  aureus
+*	Equiv T8 T2
+T9	Antibiotic 553 564	methicillin
+T10	Antibiotic 723 734	methicillin
+T11	Antibiotic 943 954	methicillin
+T12	Bacteria 1039 1052	staphylococci
+T13	Antibiotic 1102 1113	beta-lactam
+T14	Gene 1198 1201	mec

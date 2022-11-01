@@ -1,0 +1,61 @@
+T2	Bacteria 28 44	Escherichia coli
+T3	Antibiotic 45 54	glutamate
+T4	Bacteria 351 358	E. coli
+T5	Bacteria 388 395	E. coli
+*	Equiv T5 T2 T4
+T1	Protein 90 94	AraC
+T6	Protein 112 116	GadX
+T7	Protein 121 125	GadW
+T8	Protein 127 131	YhiW
+T9	Antibiotic_efflux 112 116	GadX
+E1	Antibiotic_efflux:T9 Theme:T2 Cause:T3
+T10	Antibiotic_efflux 121 125	GadW
+E2	Antibiotic_efflux:T10 Theme:T2 Cause:T3
+T11	Antibiotic_efflux 127 131	YhiW
+E3	Antibiotic_efflux:T11 Theme:T2 Cause:T3
+T12	Bacteria 160 176	Escherichia coli
+T13	Gene 473 477	gadA
+T14	Gene 482 486	gadB
+T15	Protein 558 562	gadC
+T16	Protein 540 544	GABA
+T17	Protein 801 804	CRP
+T18	Protein 810 814	H-NS
+T19	Protein 771 799	cyclic  AMP receptor protein
+T20	Protein 824 828	AraC
+T21	Protein 851 855	GadX
+T22	Protein 894 898	GadX
+T23	Gene 962 966	gadA
+T24	Gene 971 976	gadBC
+T25	Protein 1100 1104	GadX
+T26	Protein 1117 1121	AraC
+T27	Protein 1144 1148	GadW
+T28	Protein 1161 1165	YhiW
+T29	Protein 1168 1172	GadX
+T30	Protein 1179 1183	GadW
+T31	Protein 1277 1281	GadX
+T32	Gene 1306 1310	gadA
+T33	Gene 1315 1320	gadBC
+T34	Protein 1340 1344	GadW
+T35	Protein 1354 1358	GadX
+T36	Gene 1395 1399	gadA
+T37	Gene 1404 1409	gadBC
+T38	Protein 1524 1528	GadW
+T39	Gene 1553 1557	gadX
+T40	Protein 1606 1610	GadW
+T41	Gene 1635 1639	gadA
+T42	Gene 1644 1648	gadX
+T43	Protein 1661 1665	GadW
+T44	Gene 1684 1688	gadX
+T45	Protein 1714 1718	GadX
+T46	Gene 1743 1747	gadA
+T47	Gene 1752 1757	gadBC
+T48	Protein 1759 1763	GadX
+T49	Gene 1789 1793	gadA
+T50	Gene 1798 1803	gadBC
+T51	Protein 1817 1820	CRP
+T52	Gene 1836 1840	gadX
+T53	Gene 1947 1951	gadX
+T54	Gene 1996 2000	gadA
+T55	Gene 2005 2010	gadBC
+T56	Gene 2202 2206	gadA
+T57	Gene 2211 2216	gadBC

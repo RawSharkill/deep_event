@@ -1,0 +1,16 @@
+T1	Bacteria 45 71	Mycobacterium tuberculosis
+T2	Antibiotic 831 841	rifampicin
+T3	Antibiotic 957 966	isoniazid
+T4	Antibiotic 303 312	isoniazid
+T5	Antibiotic 318 328	rifampicin
+T6	Antibiotic 1056 1067	 rifampicin
+T7	Gene 1041 1045	rpoB
+T8	Gene 920 924	inhA
+T9	Antibiotic 1273 1283	rifampicin
+T10	Antibiotic 1344 1353	isoniazid
+T11	Antibiotic 1527 1536	isoniazid
+T12	Gene 863 867	rpoB
+T13	Gene 1142 1149	rpoB526
+T14	Gene 1124 1131	rpoB531
+T15	Gene 1446 1450	inhA
+T16	Gene 1580 1587	katG315

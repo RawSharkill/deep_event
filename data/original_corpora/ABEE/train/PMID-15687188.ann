@@ -1,0 +1,33 @@
+T1	Bacteria 122 144	Pseudomonas aeruginosa
+T2	Bacteria 239 261	Pseudomonas aeruginosa
+T3	Antibiotic_efflux 312 318	efflux
+E1	Antibiotic_efflux:T3 Theme:T2 Cause:T5
+T5	Antibiotic 423 438	chloramphenicol
+T6	Antibiotic 440 450	quinolones
+T7	Antibiotic 457 466	imipenem,
+T9	Bacteria 811 824	P. aeruginosa
+T10	Antibiotic_target_alteration 0 9	Mutations
+E6	Antibiotic_target_alteration:T10 Theme:T1
+*	Equiv T9 T1
+T8	Gene 13 19	PA2491
+T11	Gene 21 25	mexS
+T12	Protein 35 39	MexT
+T14	Gene 56 60	oprN
+T15	Gene 166 172	PA2491
+T16	Gene 296 302	oprN  
+T13	Protein 376 380	OprD
+T4	Gene 513 517	nfxC
+T17	Gene 527 533	PA2491
+T18	Protein 622 626	MexT
+T19	Gene 655 659	oprN
+T20	Protein 904 908	OprD
+T21	Gene 991 997	PA2491
+T22	Protein 1076 1081	MexEF
+T23	Protein 1082 1086	OprN
+E2	Antibiotic_efflux:T3 Theme:T2 Cause:T6
+E3	Antibiotic_efflux:T3 Theme:T2 Cause:T7
+T24	Gene 865 869	oprN
+T25	Gene 50 55	mexEF
+T26	Gene 290 295	mexEF
+T27	Gene 649 654	mexEF
+T28	Gene 859 864	mexEF

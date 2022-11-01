@@ -1,0 +1,7 @@
+T1	Antibiotic 0 11	Beta-lactam
+T3	Antibiotic 62 85	Beta-lactam antibiotics
+T5	Antibiotic 376 387	beta-lactam
+T2	Bacteria 37 59	gram-negative bacteria
+T4	Bacteria 149 171	Gram-negative bacteria
+T6	Reduced_permeability_to_antibiotic 234 246	permeability
+E1	Reduced_permeability_to_antibiotic:T6 Theme:T4 Cause:T5

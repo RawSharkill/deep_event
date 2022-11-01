@@ -1,0 +1,20 @@
+T1	Bacteria 106 127	Neisseria gonorrhoeae
+T2	Bacteria 239 253	N. gonorrhoeae
+*	Equiv T2 T1
+T3	Antibiotic 289 312	beta-lactam antibiotics
+T4	Bacteria 393 407	N. gonorrhoeae
+T5	Antibiotic 1052 1062	penicillin
+T6	Antibiotic 1823 1846	beta-lactam antibiotics
+T7	Protein 228 232	PBP2
+T8	Antibiotic 198 208	Penicillin
+T9	Antibiotic 56 66	penicillin
+T10	Antibiotic 22 32	penicillin
+T11	Antibiotic 632 642	penicillin
+T12	Protein 858 862	PBP2
+T13	Protein 610 614	PBP2
+T14	Antibiotic_target_alteration 997 1006	mutations
+E1	Antibiotic_target_alteration:T14 Cause:T5
+T15	Protein 1473 1479	enzyme
+T16	Antibiotic 361 371	penicillin
+T17	Protein 350 354	PBP2
+T18	Bacteria 662 666	FA19

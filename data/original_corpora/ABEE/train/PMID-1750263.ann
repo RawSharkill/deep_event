@@ -1,0 +1,29 @@
+T1	Bacteria 311 333	Haemophilus influenzae
+T2	Bacteria 338 362	Streptococcus pneumoniae
+T3	Bacteria 545 558	H. influenzae
+*	Equiv T3 T1
+T4	Bacteria 621 632	haemophilus
+T5	Bacteria 713 726	H. influenzae
+T6	Bacteria 746 759	H. influenzae
+T7	Bacteria 764 778	S.  pneumoniae
+*	Equiv T7 T2
+T8	Bacteria 973 986	H. influenzae
+T9	Bacteria 1126 1139	H. influenzae
+T10	Bacteria 1144 1158	S.  pneumoniae
+T11	Bacteria 1388 1402	S.  pneumoniae
+T12	Bacteria 1413 1426	H. influenzae
+T13	Bacteria 1469 1483	H.  influenzae
+T14	Bacteria 1488 1501	S. pneumoniae
+T15	Antibiotic 1625 1635	penicillin
+T16	Bacteria 1737 1748	pneumococci
+T17	Antibiotic 1836 1846	penicillin
+T18	Antibiotic 1975 1985	Penicillin
+T19	Bacteria 2012 2034	pneumococcal serotypes
+T20	Antibiotic 2105 2128	betalactam  antibiotics
+T21	Bacteria 2143 2156	H. influenzae
+T22	Bacteria 2213 2226	H. influenzae
+T23	Bacteria 2230 2243	S. pneumoniae
+T24	Antibiotic 2247 2262	chloramphenicol
+T25	Antibiotic 2265 2277	erythromycin
+T26	Antibiotic 2279 2291	tetracycline
+T27	Antibiotic 2295 2308	cotrimoxazole

@@ -1,0 +1,25 @@
+T1	Bacteria 65 86	Streptococcus  mutans
+T2	Bacteria 258 278	Streptococcus mutans
+T3	Bacteria 492 501	S. mutans
+*	Equiv T3 T2
+T4	Bacteria 601 613	streptococci
+T5	Bacteria 661 671	Firmicutes
+T6	Bacteria 832 854	S. mutans strain UA159
+T7	Antibiotic 1564 1574	bacitracin
+T8	Antibiotic 1655 1665	bacitracin
+T9	Bacteria 1906 1915	S. mutans
+T10	Gene 780 784	liaF
+T11	Gene 1052 1058	liaFSR
+T12	Gene 1576 1580	LiaF
+T13	Gene 1708 1712	LiaF
+T14	Gene 1829 1835	LiaFSR
+T15	Gene 476 481	LiaSR
+T16	Gene 4 10	LiaFSR
+T17	Gene 627 632	LiaSR
+T18	Gene 1757 1762	LiaSR
+T19	Gene 1318 1324	LiaFSR
+T20	Gene 1695 1700	liaSR
+T21	Gene 1212 1216	liaR
+T22	Gene 757 762	liaSR
+T23	Gene 894 899	liaSR
+T24	Gene 1591 1595	LiaR

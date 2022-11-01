@@ -1,0 +1,19 @@
+T1	Antibiotic 38 47	latamoxef
+T2	Antibiotic 49 59	moxalactam
+*	Equiv T2 T1
+T3	Bacteria 64 84	Serratia  marcescens
+T4	Bacteria 162 181	Serratia marcescens
+T5	Antibiotic 557 567	penicillin
+T6	Antibiotic 673 682	latamoxef
+T7	Antibiotic 113 123	moxalactam
+T8	Antibiotic 102 111	latamoxef
+T9	Reduced_permeability_to_antibiotic 317 329	permeability
+E1	Reduced_permeability_to_antibiotic:T9 Cause:T8 Theme:T4
+E2	Reduced_permeability_to_antibiotic:T9 Cause:T7 Theme:T4
+T10	Antibiotic_target_alteration 360 372	modification
+E3	Antibiotic_target_alteration:T10 Theme:T4 Cause:T8
+E4	Antibiotic_target_alteration:T10 Theme:T4 Cause:T7
+T11	Protein 493 507	beta-lactamase
+T12	Antibiotic_inactivation 493 507	beta-lactamase
+E5	Antibiotic_inactivation:T12 Theme:T4 Cause:T8
+E6	Antibiotic_inactivation:T12 Theme:T4 Cause:T7

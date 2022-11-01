@@ -1,0 +1,19 @@
+T1	Antibiotic 29 38	isoniazid
+T2	Bacteria 62 77	M. tuberculosis
+T3	Antibiotic 192 201	isoniazid
+T4	Antibiotic 203 206	INH
+*	Equiv T4 T3
+T5	Bacteria 264 290	Mycobacterium tuberculosis
+T6	Bacteria 292 295	Mtb
+*	Equiv T6 T5
+T7	Bacteria 482 485	Mtb
+T8	Antibiotic 1088 1091	INH
+T9	Antibiotic 1678 1681	INH
+T10	Bacteria 1697 1700	Mtb
+T11	Gene 6 10	katG
+T12	Gene 250 254	katG
+T13	Antibiotic 734 737	INH
+T14	Gene 1265 1269	inhA
+T15	Gene 1395 1399	katG
+T16	Gene 836 840	inhA
+T17	Gene 816 820	katG

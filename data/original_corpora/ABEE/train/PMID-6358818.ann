@@ -1,0 +1,16 @@
+T1	Bacteria 140 156	Escherichia coli
+T2	Antibiotic 248 260	tetracycline
+T3	Bacteria 393 409	Escherichia coli
+T4	Bacteria 413 433	Escherichia coli K12
+T5	Bacteria 459 466	E. coli
+*	Equiv T5 T1
+T6	Antibiotic 851 860	colicin B
+T7	Antibiotic 912 924	tetracycline
+T8	Antibiotic 982 994	streptomycin
+T9	Antibiotic 972 978	sulpha
+T10	Antibiotic 1085 1091	sulpha
+T11	Antibiotic 1097 1109	streptomycin
+T12	Antibiotic 1132 1141	colicin B
+T13	Antibiotic 1245 1254	colicin B
+T14	Antibiotic 265 284	sulpha-streptomycin
+T15	Antibiotic 735 747	tetracycline

@@ -1,0 +1,8 @@
+T1	Bacteria 12 36	Saccharomyces cerevisiae
+T2	Bacteria 148 172	Saccharomyces cerevisiae
+T3	Bacteria 276 289	K. pneumoniae
+T4	Bacteria 291 304	S. pneumoniae
+T5	Bacteria 309 320	S. pyogenes
+T6	Bacteria 708 721	S. cerevisiae
+*	Equiv T6 T1
+T7	Bacteria 820 844	Saccharomyces cerevisiae

@@ -1,0 +1,3 @@
+The AcrAB-TolC efflux pump contributes to multidrug resistance in the nosocomial   pathogen Enterobacter aerogenes.
+
+We identified the genes encoding the AcrA-AcrB-TolC efflux pump in Enterobacter  aerogenes and constructed acrAB and tolC mutants from a multidrug-resistant  isolate. Both derivatives were more susceptible to antibiotics than the parental   strain. Sequence analysis and complementation experiments revealed that the  multidrug-resistant isolate is an acrR mutant.

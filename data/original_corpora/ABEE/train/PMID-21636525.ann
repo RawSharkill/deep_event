@@ -1,0 +1,18 @@
+T1	Bacteria 198 219	Staphylococcus aureus
+T2	Antibiotic 223 234	Methicillin
+T3	Bacteria 249 262	staphylococci
+T4	Antibiotic 278 288	penicillin
+T5	Bacteria 451 494	methicillin-resistant Staphylococcus aureus
+T6	Bacteria 496 500	MRSA
+T7	Bacteria 729 738	S. aureus
+T8	Bacteria 1232 1236	MRSA
+T9	Bacteria 1670 1680	CC130 MRSA
+T10	Bacteria 1716 1727	CC130  MRSA
+T11	Bacteria 1784 1799	CC130 S. aureus
+T12	Antibiotic 705 716	methicillin
+T13	Antibiotic 176 187	methicillin
+*	Equiv T7 T1
+T14	Protein 310 316	PBP 2a
+T15	Gene 330 334	mecA
+T16	Protein 586 592	PBP 2a
+T17	Gene 614 618	mecA

@@ -1,0 +1,33 @@
+T1	Bacteria 84 105	Staphylococcus aureus
+T2	Bacteria 170 192	Staphylococcus  aureus
+T3	Bacteria 433 454	Staphylococcus aureus
+T4	Antibiotic 719 742	beta-lactam antibiotics
+T5	Bacteria 804 808	MRSA
+T6	Antibiotic 957 969	penicillin G
+T7	Bacteria 1032 1036	MRSA
+T8	Bacteria 1178 1182	MRSA
+T9	Bacteria 1267 1271	MRSA
+T10	Bacteria 1414 1418	MRSA
+T11	Antibiotic 1455 1478	beta-lactam antibiotics
+T12	Antibiotic 1554 1578	beta-lactam  antibiotics
+T13	Protein 321 348	penicillin-binding proteins
+T14	Protein 351 355	PBPs
+T15	Antibiotic 49 60	methicillin
+T16	Antibiotic 67 73	cephem
+T17	Protein 1374 1377	PBP
+T18	Antibiotic 401 407	cephem
+T19	Antibiotic 384 395	methicillin
+T20	Bacteria 756 760	MRSA
+T21	Bacteria 456 460	MRSA
+*	Equiv T21 T3
+T22	Antibiotic 122 133	methicillin
+T23	Antibiotic 139 148	cefazolin
+T24	Bacteria 1105 1109	MRSA
+T25	Protein 636 641	PBP2'
+T26	Protein 1388 1393	PBP2'
+T27	Protein 1527 1532	PBP2'
+T28	Protein 1169 1174	PBP2'
+T29	Protein 935 940	PBP2'
+T30	Protein 1096 1101	PBP2'
+T31	Protein 622 625	PBP
+T32	Protein 19 45	penicillin-binding protein

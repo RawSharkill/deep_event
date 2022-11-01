@@ -1,0 +1,30 @@
+T1	Bacteria 48 69	Staphylococcus aureus
+T3	Antibiotic 111 121	quinolones
+T6	Bacteria 190 219	Staphylococcus  aureus TK2566
+T8	Antibiotic 272 282	quinolones
+T9	Antibiotic 292 303	norfloxacin
+T10	Antibiotic 305 313	enoxacin
+T11	Antibiotic 315 324	ofloxacin
+T12	Antibiotic 330 343	ciprofloxacin
+T13	Antibiotic 411 425	nalidixic acid
+T14	Antibiotic 427 440	oxolinic acid
+T15	Antibiotic 448 460	sparfloxacin
+T16	Bacteria 464 473	S. aureus
+T17	Bacteria 478 494	Escherichia coli
+T18	Antibiotic 856 868	tetracycline
+T20	Antibiotic 947 956	quinolone
+T21	Bacteria 971 980	S. aureus
+T22	Antibiotic 1256 1265	quinolone
+T23	Antibiotic 1267 1279	sparfloxacin
+T24	Antibiotic 958 966	enoxacin
+T25	Antibiotic 1435 1445	quinolones
+*	Equiv T16 T1 T21
+T2	Gene 70 74	norA
+T4	Gene 129 133	norA
+T5	Antibiotic 170 179	quinolone
+T7	Gene 536 540	norA
+T19	Protein 765 769	NorA
+T26	Gene 1015 1019	norA
+T27	Protein 1346 1350	NorA
+T28	Antibiotic_efflux 1408 1414	efflux
+E1	Antibiotic_efflux:T28 Cause:T25 Theme:T1

@@ -1,0 +1,10 @@
+T1	Antibiotic 20 32	tetracycline
+T2	Antibiotic 133 145	tetracycline
+T3	Antibiotic 255 267	tetracycline
+T4	Antibiotic 365 377	tetracycline
+T5	Antibiotic_efflux 268 274	efflux
+E1	Antibiotic_efflux:T5 Cause:T3
+T6	Antibiotic_target_protection 291 301	protection
+E2	Antibiotic_target_protection:T6 Cause:T3
+T7	Antibiotic_target_alteration 321 333	modification
+E3	Antibiotic_target_alteration:T7 Cause:T3

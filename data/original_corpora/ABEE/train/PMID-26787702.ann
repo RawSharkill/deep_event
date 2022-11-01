@@ -1,0 +1,16 @@
+T1	Antibiotic 23 34	Ceftriaxone
+T2	Bacteria 81 102	Neisseria gonorrhoeae
+T3	Bacteria 171 194	Neisseria gonorrhoeaeis
+T4	Antibiotic 265 276	ceftriaxone
+T5	Antibiotic 364 375	ceftriaxone
+T6	Bacteria 391 412	Neisseria gonorrhoeae
+T7	Antibiotic 487 498	ceftriaxone
+T8	Antibiotic 611 622	ceftriaxone
+T9	Antibiotic 1244 1254	penicillin
+T10	Antibiotic 1259 1269	cefuroxime
+T11	Antibiotic 1476 1487	ceftriaxone
+T12	Bacteria 1535 1558	Neisseria   gonorrhoeae
+T13	Antibiotic 1562 1573	ceftriaxone
+T14	Antibiotic 58 69	Ceftriaxone
+T15	Antibiotic 149 160	ceftriaxone
+T16	Gene 667 673	inpenA

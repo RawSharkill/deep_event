@@ -1,0 +1,18 @@
+T1	Bacteria 83 105	Pseudomonas aeruginosa
+T2	Bacteria 231 253	Pseudomonas aeruginosa
+T3	Bacteria 368 381	P. aeruginosa
+*	Equiv T3 T2
+T4	Antibiotic 544 554	gentamicin
+T5	Antibiotic 577 585	amikacin
+T6	Antibiotic 609 622	carbenicillin
+T7	Antibiotic 647 657	azlocillin
+T8	Antibiotic 681 692	ceftazidime
+T9	Antibiotic 714 727	ciprofloxacin
+T10	Antibiotic 750 758	imipenem
+T11	Antibiotic 782 791	meropenem
+T12	Antibiotic 854 862	amikacin
+T13	Antibiotic 1026 1037	penicillins
+T14	Antibiotic 1042 1053	ceftazidime
+T15	Antibiotic 1411 1424	Ciprofloxacin
+T16	Antibiotic 1433 1444	carbapenems
+T17	Antibiotic 1544 1559	aminoglycosides

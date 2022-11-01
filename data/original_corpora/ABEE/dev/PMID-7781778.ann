@@ -1,0 +1,28 @@
+T1	Antibiotic 4 16	tetracycline
+T2	Bacteria 64 86	Staphylococcus  aureus
+T3	Bacteria 149 170	Staphylococcus aureus
+T4	Bacteria 195 212	Escherichia  coli
+T5	Antibiotic 492 504	tetracycline
+T6	Antibiotic 613 625	tetracycline
+T7	Antibiotic 800 811	minocycline
+T8	Antibiotic 855 866	minocycline
+T9	Antibiotic 914 926	tetracycline
+T10	Antibiotic 1105 1125	class K tetracycline
+T11	Bacteria 1155 1177	Gram-positive bacteria
+T12	Gene 47 53	tet(K)
+T13	Antibiotic 92 110	metal-tetracycline
+T14	Antibiotic_efflux 17 23	efflux
+E1	Antibiotic_efflux:T14 Cause:T1 Theme:T2
+T15	Gene 132 138	tet(K)
+T16	Gene 434 441	 tet(K)
+T17	Gene 552 558	tet(B)
+T18	Protein 594 600	Tet(K)
+T19	Protein 650 656	Tet(B)
+T20	Protein 744 750	Tet(B)
+T21	Protein 762 768	Tet(K)
+T22	Protein 885 891	Tet(K)
+T23	Protein 949 955	Tet(K)
+T24	Protein 1051 1057	Tet(B)
+T25	Antibiotic 1193 1211	metal-tetracycline
+T26	Gene 1276 1282	tet(B)
+T27	Protein 1392 1395	Tet

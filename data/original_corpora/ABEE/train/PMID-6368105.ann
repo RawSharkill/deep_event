@@ -1,0 +1,6 @@
+T1	Antibiotic 157 174	beta-lactam drugs
+T2	Bacteria 1417 1428	enterococci
+T3	Bacteria 1453 1466	staphylococci
+T4	Antibiotic 1595 1606	penicillins
+T5	Antibiotic 1612 1626	cephalosporins
+T6	Antibiotic 1430 1441	methicillin

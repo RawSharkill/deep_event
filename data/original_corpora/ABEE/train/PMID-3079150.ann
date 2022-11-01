@@ -1,0 +1,7 @@
+T1	Antibiotic 315 338	beta-lactam antibiotics
+T2	Antibiotic 613 624	beta-lactam
+T3	Reduced_permeability_to_antibiotic 378 390	permeability
+E1	Reduced_permeability_to_antibiotic:T3 Cause:T1
+T4	Antibiotic_target_alteration 437 445	affinity
+E2	Antibiotic_target_alteration:T4 Cause:T1
+T5	Protein 453 457	PbPs

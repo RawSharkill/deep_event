@@ -1,0 +1,24 @@
+T1	Bacteria 33 49	Pseudomonas spp.
+T2	Bacteria 401 424	Pseudomonas fluorescens
+T3	Bacteria 430 452	Pseudomonas aeruginosa
+T4	Bacteria 684 700	Escherichia coli
+T5	Bacteria 949 965	Pseudomonas spp.
+T6	Bacteria 1549 1565	P.   fluorescens
+*	Equiv T6 T2
+T7	Bacteria 1592 1605	P. aeruginosa
+*	Equiv T7 T3
+T8	Gene 364 375	bla(IMP-22)
+T9	Gene 18 29	bla(IMP-22)
+T10	Protein 313 319	IMP-22
+T11	Protein 1016 1027	amino acids
+T12	Gene 970 981	bla(IMP-22)
+T13	Gene 1529 1540	bla(IMP-22)
+T14	Gene 1655 1663	bla(MBL)
+T15	Protein 289 311	metallo-beta-lactamase
+T16	Gene 851 877	IMP metallo-beta-lactamase
+T17	Antibiotic 1307 1319	beta-lactams
+T18	Antibiotic_inactivation 1266 1275	hydrolyse
+E1	Antibiotic_inactivation:T18 Cause:T17
+T19	Protein 1246 1252	IMP-22
+T20	Protein 646 652	enzyme
+T21	Protein 138 156	IMP metallo-enzyme

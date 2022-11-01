@@ -1,0 +1,37 @@
+T1	Antibiotic_efflux 14 20	efflux
+E1	Antibiotic_efflux:T1 Theme:T3 Cause:T5
+T3	Bacteria 104 128	Streptococcus pneumoniae
+T9	Bacteria 248 272	Streptococcus pneumoniae
+T10	Antibiotic 333 344	norfloxacin
+T14	Antibiotic 568 584	fluoroquinolones
+T15	Antibiotic 586 597	acriflavine
+T17	Antibiotic 618 633	chloramphenicol
+T18	Antibiotic 639 651	tetracycline
+T24	Antibiotic 770 781	norfloxacin
+T25	Antibiotic 849 864	fluoroquinolone
+T27	Antibiotic 924 935	acriflavine
+T31	Antibiotic 1060 1075	fluoroquinolone
+T32	Antibiotic 1131 1147	fluoroquinolones
+T34	Bacteria 1387 1413	S.   pneumoniae R6 and R6N
+T35	Antibiotic_efflux 1242 1248	efflux
+E10	Antibiotic_efflux:T35 Theme:T34
+T38	Bacteria 1728 1741	S. pneumoniae
+T40	Antibiotic 1777 1788	acriflavine
+T41	Antibiotic 1798 1814	fluoroquinolones
+*	Equiv T38 T3
+T2	Antibiotic 600 616	ethidium bromide
+T4	Gene 31 35	pmrA
+T5	Antibiotic 39 54	fluoroquinolone
+T6	Antibiotic 144 157	ciprofloxacin
+T7	Antibiotic 201 214	ciprofloxacin
+T8	Antibiotic 395 404	quinolone
+T11	Antibiotic 474 487	ciprofloxacin
+T12	Antibiotic_efflux 1713 1719	efflux
+E2	Antibiotic_efflux:T12 Theme:T38 Cause:T40
+T13	Antibiotic_efflux 1713 1719	efflux
+E3	Antibiotic_efflux:T13 Theme:T38 Cause:T41
+T16	Gene 440 444	parC
+T19	Gene 446 450	parE
+T20	Gene 452 456	gyrA
+T21	Gene 462 466	gyrB
+T22	Protein 1254 1258	PmrA

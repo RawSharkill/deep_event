@@ -1,0 +1,16 @@
+T1	Antibiotic_efflux 58 64	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 107 129	Pseudomonas aeruginosa
+T3	Antibiotic 297 317	nfxC-type antibiotic
+T4	Antibiotic_efflux 236 242	efflux
+E2	Antibiotic_efflux:T4 Theme:T5 Cause:T3
+T5	Bacteria 332 354	Pseudomonas aeruginosa
+T6	Gene 17 21	mexT
+T7	Gene 369 373	mexT
+T8	Protein 420 424	MexT
+T9	Gene 507 511	mexT
+T10	Protein 523 527	MexT
+T11	Gene 581 585	mexT
+T12	Protein 654 658	MexT
+T13	Protein 757 761	MexT
+T14	Protein 879 883	MexT

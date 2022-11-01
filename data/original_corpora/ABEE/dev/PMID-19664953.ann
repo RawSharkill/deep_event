@@ -1,0 +1,23 @@
+T1	Antibiotic_efflux 42 48	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 58 80	Gram-negative bacteria
+T3	Bacteria 217 239	Gram-negative bacteria
+T4	Antibiotic_efflux 127 133	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Bacteria 525 538	P. aeruginosa
+T6	Bacteria 697 708	Salmonellae
+T7	Protein 38 41	RND
+T8	Protein 298 303	AcrAB
+T9	Protein 304 308	TolC
+T10	Protein 324 328	AcrB
+T11	Protein 345 349	TolC
+T12	Protein 428 432	AcrA
+T13	Protein 504 509	MexAB
+T14	Protein 510 514	OprM
+T15	Protein 587 591	MexA
+T16	Protein 606 610	OprM
+T17	Protein 619 622	RND
+T18	Protein 732 737	AcrAB
+T19	Protein 738 742	TolC
+T20	Protein 856 859	MDR
+T21	Protein 888 891	RND

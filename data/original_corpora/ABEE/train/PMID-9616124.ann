@@ -1,0 +1,14 @@
+T1	Bacteria 16 42	Mycobacterium tuberculosis
+T2	Antibiotic 74 83	isoniazid
+T3	Antibiotic 96 105	isoniazid
+T4	Antibiotic 136 139	INH
+*	Equiv T4 T3
+T5	Antibiotic 251 254	INH
+T6	Bacteria 470 496	Mycobacterium tuberculosis
+T7	Antibiotic 543 546	INH
+T8	Antibiotic 457 460	INH
+T9	Protein 612 623	Amino  acid
+T10	Antibiotic_target_alteration 633 642	mutations
+E1	Antibiotic_target_alteration:T10 Cause:T12
+T11	Protein 650 654	KasA
+T12	Antibiotic 682 685	INH

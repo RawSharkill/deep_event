@@ -1,0 +1,14 @@
+T1	Bacteria 131 151	Enterobacter cloacae
+T2	Bacteria 292 320	Enterobacter cloacae   11236
+T3	Antibiotic 693 702	ertapenem
+T4	Antibiotic 746 755	ertapenem
+T5	Gene 416 427	bla(VIM-31)
+T6	Protein 194 223	metallo-beta-lactamase VIM-31
+T7	Protein 784 791	 VIM-31
+T9	Protein 589 595	VIM-31
+T10	Protein 569 574	VIM-2
+T11	Protein 243 248	VIM-2
+T12	Protein 59 64	VIM-2
+T13	Protein 34 40	VIM-31
+T8	Protein 596 602	enzyme
+T14	Antibiotic 662 673	beta-lactam

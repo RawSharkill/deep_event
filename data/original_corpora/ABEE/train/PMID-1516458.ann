@@ -1,0 +1,20 @@
+T1	Antibiotic 41 55	cephalosporins
+T2	Antibiotic 83 94	beta-lactam
+T3	Antibiotic 216 232	aminopenicillins
+T4	Antibiotic 260 274	cephalosporins
+T5	Protein 283 288	TEM-1
+T6	Protein 290 295	TEM-2
+T7	Protein 299 304	OXA-1
+T8	Protein 309 314	SHV-1
+T9	Antibiotic 391 405	cephalosporins
+T10	Antibiotic 502 516	cephalosporins
+T11	Bacteria 953 973	Enterobacter cloacae
+T12	Bacteria 975 995	Citrobacter freundii
+T13	Bacteria 998 1011	Serratia spp.
+T14	Protein 1147 1152	TEM-3
+T15	Protein 1157 1163	TEM-12
+T16	Protein 1168 1173	SHV-2
+T17	Protein 1177 1182	SHV-7
+T18	Antibiotic 1375 1389	cephalosporins
+T19	Protein 1533 1538	TEM-3
+T20	Protein 1546 1551	TEM-4

@@ -1,0 +1,3 @@
+The bacterial transcription repair coupling factor. 
+
+The widely conserved bacterial transcription repair coupling factor (TRCF) is a  large, multidomain, superfamily 2 ATPase. It couples nucleotide excision repair  with transcription by dislodging inactive RNA polymerase molecules stalled at  template DNA lesions and increasing the rate at which the Uvr(A)BC excinuclease  acts at these sites. The recent elucidation of X-ray crystal structures of  Escherichia coli TRCF revealed its architectural details, and will enable the  design of more incisive experiments addressing how TRCF translocates on  double-stranded DNA, destabilizes the RNA polymerase ternary elongation complex  and recruits the Uvr(A)BC system.

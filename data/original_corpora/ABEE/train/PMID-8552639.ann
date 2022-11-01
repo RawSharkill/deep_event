@@ -1,0 +1,21 @@
+T1	Gene 701 705	lfrA
+T2	Gene 1065 1069	lfrA
+T3	Bacteria 928 949	Staphylococcus aureus
+T4	Bacteria 960 984	Streptomyces glaucescens
+T5	Bacteria 1016 1039	Streptomyces coelicoler
+T6	Gene 1001 1004	mmr
+T7	Gene 990 995	actII
+T8	Gene 951 955	tcmA
+T9	Gene 917 922	 qacA
+T10	Antibiotic 208 224	fluoroquinolones
+T11	Bacteria 93 116	Mycobacterium smegmatis
+T12	Antibiotic 62 77	fluoroquinolone
+T13	Antibiotic_efflux 0 6	Efflux
+E1	Antibiotic_efflux:T13 Cause:T12 Theme:T11
+T14	Antibiotic 824 826	FQ
+T15	Antibiotic 638 640	FQ
+T16	Bacteria 543 566	Mycobacterium smegmatis
+T17	Antibiotic 286 288	FQ
+T18	Bacteria 310 336	Mycobacterium tuberculosis
+T19	Antibiotic 395 397	FQ
+T20	Antibiotic 1135 1137	FQ

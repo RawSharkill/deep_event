@@ -1,0 +1,28 @@
+T3	Bacteria 86 111	Escherichia coli isolates
+T4	Bacteria 157 176	Salmonella enterica
+T5	Bacteria 136 152	Escherichia coli
+T6	Antibiotic 290 323	macrophage-generated nitric oxide
+T10	Antibiotic 444 453	quinolone
+T12	Bacteria 488 499	S. enterica
+T13	Bacteria 640 665	E. coli clinical isolates
+T14	Bacteria 1212 1238	E. coli  clinical isolates
+T1	Antibiotic_target_alteration 18 27	mutations
+E1	Antibiotic_target_alteration:T1 Theme:T3
+*	Equiv T12 T4
+*	Equiv T13 T3
+T2	Gene 119 124	soxRS
+T7	Gene 418 423	soxRS
+T8	Gene 581 585	soxS
+T9	Gene 694 698	soxS
+T11	Gene 784 788	soxR
+T15	Protein 806 810	SoxR
+T16	Gene 1087 1091	soxS
+T17	Gene 1131 1135	soxR
+T18	Gene 1170 1174	soxS
+T19	Gene 1260 1264	soxR
+T20	Gene 1269 1273	soxS
+T21	Antibiotic_target_alteration 119 124	soxRS
+E2	Antibiotic_target_alteration:T21 Theme:T5 Cause:T6
+E3	Antibiotic_target_alteration:T21 Theme:T4 Cause:T6
+T22	Antibiotic_target_alteration 767 776	mutations
+E4	Antibiotic_target_alteration:T22 Theme:T13

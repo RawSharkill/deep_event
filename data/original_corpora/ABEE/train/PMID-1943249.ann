@@ -1,0 +1,17 @@
+T1	Antibiotic 4 19	aminoglycosides
+T2	Antibiotic 95 110	aminoglycosides
+T3	Bacteria 172 184	enterococcal
+T4	Bacteria 189 212	gram-negative bacillary
+T5	Antibiotic 225 235	Gentamicin
+T6	Antibiotic 275 289	aminoglycoside
+T7	Bacteria 350 368	Enterobacteriaceae
+T8	Bacteria 373 395	Pseudomonas aeruginosa
+T9	Antibiotic 397 405	Amikacin
+T10	Antibiotic 425 435	gentamicin
+T11	Bacteria 446 467	gram-negative bacilli
+T12	Bacteria 519 539	susceptible Nocardia
+T13	Bacteria 544 572	nontuberculous  mycobacteria
+T14	Antibiotic 612 627	aminoglycosides
+T15	Bacteria 635 646	enterococci
+T16	Bacteria 719 740	gram-negative bacilli
+T17	Antibiotic 885 899	aminoglycoside

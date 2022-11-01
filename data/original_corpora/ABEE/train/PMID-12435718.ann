@@ -1,0 +1,12 @@
+T1	Bacteria 98 120	Pseudomonas aeruginosa
+T4	Antibiotic 177 188	carbapenems
+T2	Bacteria 126 156	Pseudomonas aeruginosa isolate
+T5	Protein 467 477	amino acid
+T3	Protein 34 56	metallo-beta-lactamase
+T6	Gene 355 365	bla(VIM-4)
+T7	Gene 387 397	bla(VIM-1)
+T8	Gene 15 25	bla(VIM-4)
+T9	Gene 62 72	bla(VIM-1)
+T10	Protein 498 503	VIM-1
+T11	Protein 546 551	VIM-1
+T12	Protein 504 510	enzyme

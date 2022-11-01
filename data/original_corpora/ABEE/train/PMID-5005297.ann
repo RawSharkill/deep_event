@@ -1,0 +1,9 @@
+T1	Bacteria 78 86	Shigella
+T2	Bacteria 91 107	Escherichia coli
+T3	Bacteria 160 177	Shigella flexneri
+T4	Bacteria 183 199	Escherichia coli
+T5	Bacteria 628 639	S. flexneri
+*	Equiv T5 T3
+T6	Bacteria 934 946	E. coli K-12
+T7	Bacteria 998 1014	Shigella strains
+T8	Bacteria 1019 1045	E. coli-S. flexneri hybrid

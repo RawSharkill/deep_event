@@ -1,0 +1,3 @@
+Hypothesis: impaired immunity as a factor which contributes to the spread of  drug-resistance.
+
+Evidence has accrued to indicate that host defence mechanisms enhance the  efficacy of many of the drugs used to treat infectious diseases. Because of this,  and also because of the likelihood of increased pathogen loads in  immunoincompetent hosts, some infections are less likely to be completely cured  by normal regimens of chemotherapy in individuals with drastically impaired  immune responsiveness. In such circumstances natural selection could result in  the accelerated emergence of drug-resistance pathogens.

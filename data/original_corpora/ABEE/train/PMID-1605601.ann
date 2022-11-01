@@ -1,0 +1,14 @@
+T1	Antibiotic_inactivation 0 13	Glycosylation
+E1	Antibiotic_inactivation:T1 Cause:T2 Theme:T3
+T3	Bacteria 54 75	Streptomyces lividans
+T6	Bacteria 128 149	Streptomyces lividans
+T7	Antibiotic 342 352	methymycin
+T8	Antibiotic 354 366	erythromycin
+T9	Antibiotic 368 380	azithromycin
+T10	Antibiotic 385 392	tylosin
+T11	Antibiotic 419 429	spiramycin
+T12	Antibiotic 434 444	carbomycin
+T2	Antibiotic 17 38	macrolide antibiotics
+T5	Antibiotic 103 124	macrolide antibiotics
+T13	Antibiotic 265 275	macrolides
+T4	Protein 479 485	enzyme

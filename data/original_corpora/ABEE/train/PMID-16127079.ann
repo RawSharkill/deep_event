@@ -1,0 +1,12 @@
+T1	Bacteria 117 144	Staphylococcus aureus CM.S2
+T2	Bacteria 331 352	Staphylococcus aureus
+T3	Bacteria 354 370	Escherichia coli
+T4	Gene 173 177	dfrG
+T5	Gene 382 386	dfrG
+T6	Antibiotic 40 52	trimethoprim
+T7	Antibiotic 190 202	trimethoprim
+T9	Protein 219 243	dihydrofolate  reductase
+T10	Antibiotic 488 491	TMP
+T11	Antibiotic 412 415	TMP
+T12	Antibiotic 309 320	methicillin
+T13	Protein 63 87	dihydrofolate  reductase

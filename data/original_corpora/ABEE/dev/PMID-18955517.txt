@@ -1,0 +1,3 @@
+Characterization of tet(32) genes from the oral metagenome. 
+
+tet(32) Was identified in three bacterial isolates and in metagenomic DNA from  the human oral cavity. The regions immediately flanking the gene were found to  have similarities to the mobile elements TnB1230 from Butyrivibrio fibrisolvens,   ATE-3 from Arcanobacterium pyogenes, and CTn5 from Clostridium difficile.

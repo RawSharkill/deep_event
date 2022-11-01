@@ -1,0 +1,24 @@
+T1	Antibiotic 14 22	imipenem
+T2	Antibiotic 24 32	cefepime
+T3	Antibiotic 38 47	cefpirome
+T4	Bacteria 96 118	Enterobacter aerogenes
+T5	Reduced_permeability_to_antibiotic 64 72	mutation
+E1	Reduced_permeability_to_antibiotic:T5 Theme:T4 Cause:T3
+T7	Bacteria 122 144	Enterobacter aerogenes
+T10	Bacteria 345 368	Enterobacter  aerogenes
+T9	Reduced_permeability_to_antibiotic 263 271	decrease
+E6	Reduced_permeability_to_antibiotic:T9 Theme:T7
+T11	Bacteria 423 445	Klebsiella  pneumoniae
+T12	Bacteria 488 503	enterobacterial
+T13	Antibiotic 834 845	beta-lactam
+T15	Antibiotic 1080 1092	beta-lactams
+T16	Bacteria 1113 1133	E. aerogenes strains
+T18	Reduced_permeability_to_antibiotic 1041 1064	impermeability-mediated
+E11	Reduced_permeability_to_antibiotic:T18 Theme:T16 Cause:T15
+T6	Protein 76 81	Omp36
+E2	Reduced_permeability_to_antibiotic:T5 Cause:T2 Theme:T4
+E3	Reduced_permeability_to_antibiotic:T5 Cause:T1 Theme:T4
+T8	Gene 370 375	omp36
+T14	Gene 446 452	ompK36
+T17	Protein 504 508	OmpC
+T19	Protein 547 552	Omp36

@@ -1,0 +1,17 @@
+T1	Bacteria 43 73	Klebsiella pneumoniae isolates
+T2	Bacteria 244 257	K. pneumoniae
+*	Equiv T2 T1
+T3	Antibiotic 461 470	quinolone
+T4	Bacteria 705 718	K. pneumoniae
+T5	Antibiotic 784 793	imipenems
+T6	Protein 220 233	carbapenemase
+T7	Gene 389 397	bla(VIM)
+T8	Gene 399 407	bla(IMP)
+T9	Gene 409 417	bla(NDM)
+T10	Gene 419 427	bla(OXA)
+T11	Gene 429 437	bla(KPC)
+T12	Gene 795 799	IMPs
+T13	Protein 719 733	carbapenemases
+T14	Gene 1290 1301	bla(IMP-26)
+T15	Gene 1349 1360	bla(OXA-48)
+T16	Protein 1600 1607	enzymes

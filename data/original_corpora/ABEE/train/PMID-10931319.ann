@@ -1,0 +1,15 @@
+T1	Bacteria 111 133	Gram-negative bacteria
+T2	Antibiotic_efflux 88 94	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T4	Antibiotic_efflux 248 254	efflux
+E4	Antibiotic_efflux:T4 Theme:T5
+T5	Bacteria 264 286	Gram-negative bacteria
+T7	Bacteria 701 723	Gram-positive bacteria
+T8	Bacteria 762 785	Gram-negative  bacteria
+T9	Antibiotic_efflux 800 805	expel
+E5	Antibiotic_efflux:T9 Theme:T8
+T10	Antibiotic_efflux 1087 1096	extrusion
+E6	Antibiotic_efflux:T10 Theme:T11
+T11	Bacteria 1132 1154	Gram-negative bacteria
+T3	Antibiotic_efflux 661 673	transporters
+E2	Antibiotic_efflux:T3 Theme:T7

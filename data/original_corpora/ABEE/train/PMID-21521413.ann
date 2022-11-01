@@ -1,0 +1,13 @@
+T1	Bacteria 54 76	Pseudomonas aeruginosa
+T2	Bacteria 136 158	Pseudomonas aeruginosa
+T3	Antibiotic 179 190	carbapenems
+T4	Protein 8 39	VIM-type metallo-beta-lactamase
+T5	Protein 41 47	VIM-14
+T6	Protein 366 371	VIM-4
+T7	Protein 328 334	VIM-14
+T8	Protein 394 400	VIM-14
+T9	Gene 494 498	aac7
+T10	Gene 500 509	blaVIM-14
+T11	Gene 511 520	blaOXA-20
+T12	Gene 525 529	aac4
+T13	Protein 297 312	VIM-type enzyme

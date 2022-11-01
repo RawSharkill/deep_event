@@ -1,0 +1,30 @@
+T1	Antibiotic 17 26	macrolide
+T2	Bacteria 41 60	Mycobacterium avium
+T3	Antibiotic 113 127	Clarithromycin
+T4	Antibiotic 129 132	CLM
+*	Equiv T4 T3
+T5	Antibiotic 138 150	azithromycin
+T6	Antibiotic 152 155	AZM
+*	Equiv T6 T5
+T7	Bacteria 212 231	Mycobacterium avium
+T8	Antibiotic 282 292	macrolides
+T9	Antibiotic 576 579	CLM
+T10	Bacteria 630 638	M. avium
+*	Equiv T10 T7
+T11	Antibiotic 899 902	CLM
+T12	Antibiotic 927 930	AZM
+T13	Antibiotic 987 996	macrolide
+T14	Antibiotic 1363 1373	macrolides
+T15	Antibiotic 1487 1496	macrolide
+T16	Bacteria 1511 1519	M. avium
+T17	Antibiotic 694 697	CLM
+T18	Antibiotic 777 780	CLM
+T19	Antibiotic 845 848	CLM
+T20	Antibiotic_target_alteration 1019 1027	mutation
+E1	Antibiotic_target_alteration:T20 Cause:T11
+E2	Antibiotic_target_alteration:T20 Cause:T12
+E3	Antibiotic_target_alteration:T20 Cause:T13
+T21	Antibiotic_target_alteration 1289 1294	shift
+E4	Antibiotic_target_alteration:T21 Cause:T14
+T22	Antibiotic_target_alteration 1424 1433	mutations
+E5	Antibiotic_target_alteration:T22 Cause:T15 Theme:T16

@@ -1,0 +1,24 @@
+T1	Antibiotic 25 38	ciprofloxacin
+T2	Bacteria 44 60	Escherichia coli
+T3	Bacteria 65 88	Acinetobacter  baumanni
+T4	Antibiotic 134 147	ciprofloxacin
+T5	Bacteria 196 212	Escherichia coli
+T6	Bacteria 231 255	Acinetobacter  baumannii
+T7	Bacteria 317 324	E. coli
+*	Equiv T7 T2
+T8	Antibiotic 335 348	ciprofloxacin
+T9	Bacteria 458 470	A. baumannii
+*	Equiv T9 T3
+T10	Antibiotic 486 495	quinolone
+T11	Antibiotic 532 542	rifampicin
+T12	Antibiotic 557 570	ciprofloxacin
+T13	Antibiotic 597 610	ciprofloxacin
+T14	Bacteria 638 645	E. coli
+T15	Bacteria 692 704	A. baumannii
+T16	Antibiotic 754 767	ciprofloxacin
+T17	Antibiotic 875 888	ciprofloxacin
+T18	Bacteria 894 906	A. baumannii
+T19	Antibiotic 985 994	quinolone
+T20	Bacteria 1038 1050	A. baumannii
+T21	Antibiotic 1149 1162	ciprofloxacin
+T22	Antibiotic 378 393	chloramphenicol

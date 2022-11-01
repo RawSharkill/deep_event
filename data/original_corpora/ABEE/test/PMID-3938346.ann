@@ -1,0 +1,34 @@
+T1	Bacteria 18 40	Pseudomonas aeruginosa
+T2	Antibiotic 44 67	beta-lactam antibiotics
+T3	Antibiotic 93 106	carbenicillin
+T4	Antibiotic 134 153	beta-lactam  agents
+T5	Bacteria 187 200	P. aeruginosa
+*	Equiv T5 T1
+T6	Antibiotic 231 242	penicillins
+T7	Antibiotic 251 262	ticarcillin
+T8	Antibiotic 264 274	azlocillin
+T9	Antibiotic 276 288	piperacillin
+T10	Antibiotic 290 300	apalcillin
+T11	Antibiotic 313 326	ephalosporins
+T12	Antibiotic 328 340	cefoperazone
+T13	Antibiotic 342 352	cefsulodin
+T14	Antibiotic 403 412	aztreonam
+T15	Antibiotic 418 429	carbapenems
+T16	Antibiotic 435 443	imipenem
+T17	Antibiotic 615 623	imipenem
+T18	Antibiotic 626 636	apalcillin
+T19	Antibiotic 638 649	ceftazidime
+T20	Antibiotic 651 661	cefsulodin
+T21	Antibiotic 663 675	piperacillin
+T22	Antibiotic 680 690	azlocillin
+T23	Antibiotic 1083 1107	beta-lactam  antibiotics
+T24	Antibiotic 1544 1559	aminoglycosides
+T25	Bacteria 1577 1599	P. aeruginosa isolates
+T26	Bacteria 1706 1720	P.  aeruginosa
+T27	Antibiotic 1743 1766	beta-lactam antibiotics
+T28	Reduced_permeability_to_antibiotic 1157 1171	impermeability
+E1	Reduced_permeability_to_antibiotic:T28 Cause:T23
+T29	Antibiotic 1424 1435	ticarcillin
+T30	Protein 1273 1288	beta-lactamases
+T31	Protein 1339 1356	carbenicillinases
+T32	Protein 1474 1491	cephalosporinases

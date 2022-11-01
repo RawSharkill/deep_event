@@ -1,0 +1,5 @@
+T1	Bacteria 58 74	Escherichia coli
+T2	Bacteria 176 192	Escherichia coli
+T3	Bacteria 428 435	E. coli
+*	Equiv T3 T2
+T4	Protein 347 357	Amino acid

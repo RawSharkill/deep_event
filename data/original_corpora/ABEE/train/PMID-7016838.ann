@@ -1,0 +1,37 @@
+T1	Bacteria 148 164	Escherichia coli
+T2	Antibiotic 43 51	arsenate
+T3	Antibiotic 53 61	arsenite
+T4	Bacteria 86 102	escherichia coli
+T5	Bacteria 107 128	Staphylococcus aureus
+T6	Antibiotic 67 81	antimony (III)
+T7	Bacteria 169 190	Staphylococcus aureus
+T8	Antibiotic 239 247	arsenate
+T9	Antibiotic 249 257	arsenite
+T10	Antibiotic 263 276	antimony(III)
+T11	Antibiotic 487 495	arsenate
+T12	Bacteria 467 476	S. aureus
+*	Equiv T12 T7
+T13	Antibiotic 337 345	arsenate
+T14	Antibiotic 347 355	arsenite
+T15	Antibiotic 362 375	antimony(III)
+T16	Antibiotic 608 616	Arsenate
+T17	Bacteria 696 703	E. coli
+T18	Antibiotic 809 817	arsenate
+T19	Antibiotic 1163 1171	arsenate
+T20	Antibiotic 1233 1241	arsenate
+T21	Antibiotic 1424 1432	antimony
+T22	Antibiotic 1495 1503	arsenate
+T23	Antibiotic 1455 1463	arsenite
+T24	Antibiotic 1607 1616	 arsenite
+T25	Antibiotic 1620 1633	antimony(III)
+T26	Antibiotic 1342 1350	arsenite
+T27	Antibiotic 1354 1367	antimony(III)
+T28	Antibiotic 1728 1736	antimony
+T29	Antibiotic 1715 1723	arsenite
+T30	Antibiotic 627 635	arsenite
+T31	Bacteria 646 655	S. aureus
+T32	Antibiotic_target_alteration 664 671	mutants
+E1	Antibiotic_target_alteration:T32 Theme:T31 Cause:T16
+E2	Antibiotic_target_alteration:T32 Theme:T31 Cause:T30
+T33	Antibiotic 536 544	arsenite
+T34	Antibiotic 549 558	antimony,

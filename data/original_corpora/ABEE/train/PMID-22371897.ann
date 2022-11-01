@@ -1,0 +1,10 @@
+T1	Bacteria 17 50	Salmonella enterica serovar Typhi
+T2	Antibiotic 134 150	fluoroquinolones
+T3	Antibiotic 260 276	fluoroquinolones
+T4	Antibiotic 369 385	fluoroquinolones
+T5	Antibiotic 502 511	ofloxacin
+T6	Bacteria 619 652	Salmonella enterica serovar Typhi
+T7	Antibiotic 742 755	ciprofloxacin
+T8	Antibiotic 760 769	ofloxacin
+T9	Gene 64 68	gyrA
+T10	Antibiotic 582 597	fluoroquinolone

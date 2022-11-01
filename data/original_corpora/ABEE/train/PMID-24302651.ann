@@ -1,0 +1,12 @@
+T1	Bacteria 37 58	Staphylococcus sciuri
+T2	Antibiotic 74 85	Methicillin
+T3	Bacteria 100 119	Staphylococcus spp.
+T4	Antibiotic 240 263	beta-lactam antibiotics
+T5	Bacteria 354 375	Staphylococcus aureus
+T6	Bacteria 450 489	Staphylococcus sciuri subsp. carnaticus
+T7	Antibiotic 1536 1545	oxacillin
+T8	Bacteria 1616 1638	staphylococcal species
+T9	Bacteria 1708 1721	staphylococci
+T10	Bacteria 1820 1842	staphylococcal species
+T11	Gene 309 313	mecC
+T12	Gene 1651 1655	mecC

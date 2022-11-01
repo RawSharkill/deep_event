@@ -1,0 +1,19 @@
+T1	Bacteria 118 141	Paenibacillus popilliae
+T2	Bacteria 145 168	Paenibacillus popilliae
+T3	Antibiotic 403 413	vancomycin
+T4	Bacteria 428 440	P. popilliae
+*	Equiv T4 T2
+T5	Bacteria 613 627	P.   popilliae
+T6	Bacteria 753 776	P. popilliae ATCC 14706
+T7	Bacteria 1036 1052	Bacillus species
+T8	Bacteria 669 694	Paenibacillus lentimorbus
+T9	Antibiotic 83 95	glycopeptide
+T10	Bacteria 1138 1157	Bacillus halodurans
+T11	Antibiotic 1307 1319	glycopeptide
+T12	Antibiotic 1463 1475	glycopeptide
+T13	Gene 9 14	VanRS
+T14	Gene 889 894	VanRS
+T15	Antibiotic 1011 1023	glycopeptide
+T16	Gene 971 975	VanY
+T17	Gene 236 240	VanF
+T18	Gene 178 182	vanF

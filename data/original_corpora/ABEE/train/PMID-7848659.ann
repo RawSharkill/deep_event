@@ -1,0 +1,11 @@
+T1	Bacteria 551 573	Gram-negative bacteria
+T2	Gene 911 915	arsC
+T3	Gene 902 906	arsB
+T4	Bacteria 867 889	Gram-positive bacteria
+T5	Gene 953 957	arsA
+T6	Protein 845 849	ArsC
+T7	Protein 814 818	ArsA
+T8	Protein 788 792	ArsB
+T9	Protein 636 640	ArsA
+T10	Bacteria 1344 1349	fungi
+T11	Protein 717 721	ArsB

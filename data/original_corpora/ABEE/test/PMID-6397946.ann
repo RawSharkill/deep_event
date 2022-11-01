@@ -1,0 +1,21 @@
+T1	Antibiotic 63 75	piperacillin
+T2	Bacteria 79 87	E.  coli
+T3	Bacteria 148 155	E. coli
+T4	Bacteria 608 615	E. coli
+T5	Bacteria 996 1003	E. coli
+T6	Antibiotic 633 645	piperacillin
+T7	Antibiotic 681 693	piperacillin
+T8	Bacteria 765 772	E. coli
+T9	Bacteria 860 867	E. coli
+T10	Antibiotic 880 892	piperacillin
+T11	Antibiotic 1235 1247	piperacillin
+T12	Antibiotic 1137 1149	piperacillin
+T13	Antibiotic 1068 1080	piperacillin
+T14	Bacteria 1052 1064	Oxa-1 strain
+T15	Antibiotic_inactivation 1303 1314	inactivated
+E1	Antibiotic_inactivation:T15 Cause:T16 Theme:T17
+T16	Antibiotic 1315 1327	piperacillin
+T17	Bacteria 1268 1302	The   TEM-1 plasmid bearing strain
+T18	Antibiotic 1360 1372	penicilloate
+T19	Antibiotic 776 788	piperacillin
+T20	Antibiotic 189 201	piperacillin

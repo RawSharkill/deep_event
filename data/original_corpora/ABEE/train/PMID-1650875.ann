@@ -1,0 +1,9 @@
+T1	Bacteria 64 87	Legionella  pneumophila
+T2	Bacteria 120 142	Legionella pneumophila
+T3	Bacteria 350 360	Legionella
+*	Equiv T3 T2
+T4	Bacteria 965 975	Legionella
+T5	Bacteria 910 920	Legionella
+T6	Bacteria 1204 1214	Legionella
+T7	Bacteria 1334 1344	Legionella
+T8	Bacteria 1551 1561	Legionella

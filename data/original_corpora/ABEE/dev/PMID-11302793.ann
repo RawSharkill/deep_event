@@ -1,0 +1,55 @@
+T1	Antibiotic 73 84	carbapenems
+T2	Bacteria 119 145	Serratia marcescens KU3838
+T3	Antibiotic 97 106	meropenem
+T4	Antibiotic 1046 1057	carbapenems
+T5	Antibiotic 1509 1520	carbapenems
+T6	Antibiotic 1671 1682	carbapenems
+T7	Antibiotic 1071 1080	panipenem
+T8	Antibiotic 1378 1387	panipenem
+T9	Antibiotic 1096 1105	meropenem
+T10	Antibiotic 1230 1239	meropenem
+T11	Antibiotic 1285 1294	meropenem
+T12	Antibiotic 1695 1704	meropenem
+T13	Antibiotic 1135 1143	imipenem
+T14	Antibiotic 1253 1261	imipenem
+T15	Antibiotic 1409 1417	imipenem
+T16	Antibiotic 1353 1361	imipenem
+T17	Antibiotic 1592 1604	piperacillin
+T18	Antibiotic 1771 1782	penicillins
+T19	Antibiotic 1829 1840	penicillins
+T20	Antibiotic 1574 1586	penicillin G
+T21	Antibiotic_inactivation 1012 1020	produced
+E1	Antibiotic_inactivation:T21 Cause:T4
+T22	Gene 988 993	IMP-6
+T23	Gene 1021 1026	IMP-6
+T24	Gene 1188 1193	IMP-6
+T25	Gene 1462 1467	IMP-6
+T26	Gene 1547 1552	IMP-6
+T27	Gene 1633 1638	IMP-6
+T28	Gene 1793 1798	IMP-6
+T29	Gene 876 881	IMP-1
+T30	Gene 771 776	IMP-1
+T31	Gene 1322 1327	IMP-1
+T32	Protein 953 959	enzyme
+T33	Protein 966 972	enzyme
+T35	Gene 535 557	metallo-beta-lactamase
+T36	Gene 711 733	metallo-beta-lactamase
+T37	Gene 634 656	metallo-beta-lactamase
+T38	Antibiotic_inactivation 47 57	conferring
+E2	Antibiotic_inactivation:T38 Cause:T1
+E3	Antibiotic_inactivation:T38 Cause:T3
+T39	Gene 16 38	metallo-beta-lactamase
+T40	Gene 39 46	(IMP-6)
+T41	Antibiotic_inactivation 1222 1229	against
+E4	Antibiotic_inactivation:T41 Cause:T10
+T42	Antibiotic_inactivation 1245 1252	against
+E5	Antibiotic_inactivation:T42 Cause:T14
+T43	Antibiotic_inactivation 1500 1507	against
+E6	Antibiotic_inactivation:T43 Cause:T5
+T44	Antibiotic_inactivation 1662 1669	against
+E7	Antibiotic_inactivation:T44 Cause:T6
+E8	Antibiotic_inactivation:T44 Cause:T12
+T45	Antibiotic_inactivation 1803 1810	reduced
+E9	Antibiotic_inactivation:T45 Cause:T19
+T34	Protein 1958 1975	TEM-1-type enzyme
+T46	Gene 344 352	bla(IMP)

@@ -1,0 +1,15 @@
+T1	Bacteria 36 57	Staphylococcus aureus
+T2	Gene 58 62	gyrA
+T3	Gene 67 71	gyrB
+T4	Antibiotic 138 149	4-quinolone
+T5	Bacteria 176 197	Staphylococcus aureus
+T6	Gene 198 202	gyrA
+T7	Gene 207 211	gyrB
+T8	Bacteria 375 384	S. aureus
+*	Equiv T8 T5
+T9	Bacteria 428 445	Bacillus subtilis
+T10	Bacteria 450 466	Escherichia coli
+T11	Bacteria 539 546	E. coli
+T12	Antibiotic 570 582	4-quinolones
+T13	Antibiotic 625 634	quinolone
+T14	Bacteria 661 670	S. aureus

@@ -1,0 +1,18 @@
+T1	Antibiotic 177 189	penicillin G
+T2	Antibiotic 205 229	beta-lactam  antibiotics
+T3	Antibiotic 392 404	beta-lactams
+T4	Antibiotic 414 424	macrolides
+T5	Antibiotic 426 439	tetracyclines
+T6	Antibiotic 444 459	aminoglycosides
+T7	Antibiotic 565 576	beta-lactam
+T8	Antibiotic 610 621	methicillin
+T9	Antibiotic 626 648	isoxazolyl penicillins
+T11	Bacteria 749 758	S. aureus
+T12	Antibiotic 789 800	cephamycins
+T14	Antibiotic 1143 1161	penicillin nucleus
+T15	Antibiotic 1192 1203	penicillins
+T16	Antibiotic 1457 1469	beta-lactams
+T10	Bacteria 974 987	gram-positive
+T13	Bacteria 992 1016	gram-negative  bacterial
+T17	Antibiotic_inactivation 1476 1488	inactivation
+E1	Antibiotic_inactivation:T17 Cause:T16

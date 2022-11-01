@@ -1,0 +1,15 @@
+T1	Bacteria 92 115	Acinetobacter baumannii
+T2	Bacteria 119 142	Acinetobacter baumannii
+T3	Bacteria 584 596	A. baumannii
+*	Equiv T3 T1 T9
+T4	Bacteria 749 761	A. baumannii
+T5	Antibiotic 725 745	quinolone-type drugs
+T6	Protein 31 35	AbaQ
+T7	Antibiotic 67 76	Quinolone
+T8	Antibiotic_efflux 45 56	Efflux Pump
+E1	Antibiotic_efflux:T8 Cause:T7 Theme:T1
+T9	Bacteria 323 335	A. baumannii
+T10	Protein 650 654	AbaQ
+T11	Protein 681 685	AbaQ
+T12	Antibiotic_efflux 712 721	extrusion
+E2	Antibiotic_efflux:T12 Cause:T5 Theme:T4

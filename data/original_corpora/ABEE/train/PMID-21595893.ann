@@ -1,0 +1,28 @@
+T1	Bacteria 63 90	Klebsiella  pneumoniae MB45
+T2	Antibiotic 197 209	trimethoprim
+T3	Bacteria 1023 1046	Escherichia coli JM 109
+T4	Antibiotic 1209 1221	trimethoprim
+T5	Bacteria 1320 1324	MB45
+*	Equiv T5 T1
+T6	Bacteria 1456 1460	MB45
+T7	Antibiotic 1508 1520	trimethoprim
+T8	Antibiotic 1522 1535	cotrimoxazole
+T9	Antibiotic 1537 1547	ampicillin
+T10	Antibiotic 1549 1559	gentamycin
+T11	Antibiotic 1562 1572	netilmicin
+T12	Antibiotic 1574 1584	tobramycin
+T13	Antibiotic 1586 1601	chloramphenicol
+T14	Antibiotic 1603 1613	cefotaxime
+T15	Antibiotic 1615 1624	kanamycin
+T16	Antibiotic 1629 1641	streptomycin
+T17	Bacteria 1684 1705	Klebsiella pneumoniae
+T18	Antibiotic 1820 1832	trimethoprim
+T19	Bacteria 1836 1869	Klebsiella pneumoniae strain MB45
+T20	Bacteria 1898 1902	MB45
+*	Equiv T20 T19
+T21	Bacteria 2087 2100	K. pneumoniae
+*	Equiv T21 T17
+T22	Gene 248 254	dfrA30
+T23	Gene 1740 1746	dfrA30
+T24	Protein 1243 1247	DfrA
+T25	Gene 104 110	dfrA30

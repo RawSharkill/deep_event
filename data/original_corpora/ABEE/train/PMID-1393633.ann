@@ -1,0 +1,19 @@
+T1	Antibiotic 25 51	aminoglycoside antibiotics
+T2	Antibiotic 55 81	Aminoglycoside antibiotics
+T3	Antibiotic 91 101	gentamicin
+T4	Antibiotic 103 113	netilmicin
+T5	Antibiotic 115 125	tobramycin
+T6	Antibiotic 127 135	amikacin
+T7	Antibiotic 805 815	tobramycin
+T8	Antibiotic 837 847	netilmicin
+T9	Antibiotic 865 873	Amikacin
+T10	Bacteria 369 391	gram-negative bacteria
+T11	Protein 514 517	AAC
+T12	Protein 549 552	ANT
+T13	Protein 494 512	acetyltransferases
+T14	Protein 214 239	O-nucleotidyltransferases
+T15	Protein 241 262	O-phosphotransferases
+T16	Protein 267 287	N-acetyltransferases
+T17	Protein 524 547	nucleotidyltransferases
+T18	Antibiotic 767 777	gentamicin
+T19	Protein 722 728	AAC/3/

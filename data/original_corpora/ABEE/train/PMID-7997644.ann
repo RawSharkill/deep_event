@@ -1,0 +1,4 @@
+T1	Bacteria 19 39	Escherichia coli K12
+T2	Antibiotic_target_alteration 74 83	alternate
+E1	Antibiotic_target_alteration:T2 
+T3	Bacteria 202 224	Escherichia coli   K12

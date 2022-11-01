@@ -1,0 +1,41 @@
+T2	Bacteria 121 137	Escherichia coli
+T3	Antibiotic 171 181	novobiocin
+T4	Antibiotic 186 198	deoxycholate
+T6	Bacteria 235 251	Escherichia coli
+T7	Antibiotic 299 309	novobiocin
+T9	Antibiotic 653 673	novobiocin (16-fold)
+T10	Antibiotic 682 704	deoxycholate (8-fold).
+T14	Antibiotic 1521 1531	novobiocin
+T15	Antibiotic 1537 1549	deoxycholate
+T17	Antibiotic 730 740	novobiocin
+T20	Antibiotic_efflux 93 104	transporter
+E13	Antibiotic_efflux:T20 Theme:T2 Cause:T3
+T1	Gene 350 355	acrAB
+T5	Gene 414 418	baeR
+T11	Gene 84 91	mdtABCD
+T12	Gene 536 540	baeR
+T13	Gene 928 933	baeSR
+T16	Protein 826 830	BaeR
+T18	Protein 999 1003	BaeR
+T19	Gene 1011 1015	yegM
+T21	Gene 1087 1091	yegB
+T22	Gene 1215 1219	yegO
+T23	Gene 1249 1253	yegN
+T24	Protein 1358 1362	BaeR
+E1	Antibiotic_efflux:T20 Theme:T2 Cause:T4
+T25	Gene 344 349	Delta
+T26	Gene 626 631	Delta
+T27	Gene 632 637	acrAB
+T28	Antibiotic_efflux 910 916	efflux
+E2	Antibiotic_efflux:T28 Cause:T17
+T29	Protein 1419 1423	YegN
+T30	Protein 1428 1432	YegO
+T31	Protein 1503 1507	YegM
+T32	Antibiotic_efflux 1512 1516	pump
+E3	Antibiotic_efflux:T32 Cause:T14
+E4	Antibiotic_efflux:T32 Cause:T15
+T33	Gene 1595 1602	mdtABCD
+T8	Gene 73 80	yegMNOB
+T34	Gene 1681 1685	yicO
+T35	Gene 1691 1695	ygcL
+T36	Protein 1726 1730	BaeR

@@ -1,0 +1,14 @@
+T1	Antibiotic 49 60	ceftazidime
+T2	Bacteria 89 111	Pseudomonas aeruginosa
+T3	Bacteria 165 187	Pseudomonas aeruginosa
+T4	Antibiotic 279 290	ceftazidime
+T5	Antibiotic 435 446	ceftazidime
+T6	Antibiotic 552 563	ceftazidime
+T7	Antibiotic 1112 1123	ceftazidime
+T8	Antibiotic 1202 1213	beta-lactam
+T9	Antibiotic 131 142	ceftazidime
+T10	Protein 400 422	type Id beta-lactamase
+T11	Protein 864 890	Penicillin-binding protein
+T12	Protein 951 979	penicillin-binding protein 4
+T13	Antibiotic_inactivation 1184 1194	hydrolysis
+E1	Antibiotic_inactivation:T13 Cause:T8

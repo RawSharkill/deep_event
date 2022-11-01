@@ -1,0 +1,19 @@
+T1	Bacteria 116 130	Aeromonas spp.
+T2	Bacteria 227 236	Aeromonas
+T3	Antibiotic 277 286	Quinolone
+T4	Antibiotic 521 530	nalidixic
+T5	Antibiotic 550 563	ciprofloxacin
+T6	Bacteria 698 714	Aeromonas   spp.
+T7	Antibiotic 764 773	quinolone
+T8	Antibiotic 911 920	quinolone
+T9	Antibiotic 1363 1372	quinolone
+T10	Gene 989 994	qnrS2
+T11	Gene 25 29	qnrS
+T12	Gene 36 41	qnrS5
+T13	Protein 1071 1081	amino acid
+T14	Gene 1301 1306	qnrS5
+T15	Gene 1034 1039	qnrS1
+T16	Gene 941 946	qnrS1
+T17	Gene 1060 1065	qnrS1
+T18	Gene 817 821	gyrA
+T19	Bacteria 334 343	Aeromonas

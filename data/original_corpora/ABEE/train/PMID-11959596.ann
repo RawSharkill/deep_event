@@ -1,0 +1,8 @@
+T1	Antibiotic 19 34	oxytetracycline
+T2	Bacteria 68 74	Vibrio
+T4	Antibiotic 131 146	oxytetracycline
+T5	Antibiotic 148 151	OTC
+*	Equiv T5 T4
+T6	Bacteria 230 236	Vibrio
+T3	Protein 498 509	amino acids
+T7	Protein 520 530	amino acid

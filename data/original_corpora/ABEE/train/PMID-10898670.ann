@@ -1,0 +1,38 @@
+T2	Antibiotic 360 371	penicillins
+T3	Antibiotic 376 387	carbapenems
+T5	Antibiotic 1084 1100	benzylpenicillin
+T6	Antibiotic 1103 1113	ampicillin
+T7	Antibiotic 1115 1123	imipenem
+T8	Antibiotic 1129 1140	ceftazidime
+T1	Antibiotic_inactivation 335 346	hydrolyzing
+E1	Antibiotic_inactivation:T1 Cause:T2
+E2	Antibiotic_inactivation:T1 Cause:T3
+T4	Gene 1363 1373	bla(IMP-3)
+T9	Gene 1567 1578	 bla(IMP-3)
+T10	Protein 1444 1472	metallo-beta-lactamase IMP-1
+T11	Gene 594 604	bla(IMP-3)
+T12	Protein 41 69	IMP-1 metallo-beta-lactamase
+T13	Gene 161 169	bla(IMP)
+T14	Protein 108 153	carbapenem-hydrolyzing metallo-beta-lactamase
+T15	Protein 286 291	IMP-3
+T16	Protein 315 320	IMP-1
+T17	Protein 251 273	metallo-beta-lactamase
+T18	Gene 463 473	bla(IMP-3)
+T19	Gene 631 641	bla(IMP-1)
+T20	Protein 753 763	amino acid
+T21	Gene 832 842	bla(IMP-1)
+T22	Gene 817 827	bla(IMP-3)
+T23	Protein 959 964	IMP-3
+T24	Protein 969 974	IMP-1
+T25	Protein 1144 1149	IMP-3
+T26	Gene 1597 1607	bla(IMP-1)
+T27	Protein 1485 1490	IMP-3
+T28	Protein 1204 1214	amino acid
+T29	Gene 784 787	bla
+T30	Protein 0 10	Amino acid
+T31	Protein 1241 1247	enzyme
+T32	Antibiotic_inactivation 1070 1080	hydrolysis
+E3	Antibiotic_inactivation:T32 Cause:T5
+E4	Antibiotic_inactivation:T32 Cause:T8
+E5	Antibiotic_inactivation:T32 Cause:T7
+E6	Antibiotic_inactivation:T32 Cause:T6

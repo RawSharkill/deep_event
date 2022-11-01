@@ -1,0 +1,3 @@
+Cis/trans isomerization of fatty acids as a defence mechanism of Pseudomonas  putida strains to toxic concentrations of toluene.
+
+Defence mechanisms of three Pseudomonas putida strains growing in the presence of  toluene up to 50% (v/v) were investigated. The three strains reacted to toxic  concentrations of toluene by accumulating trans unsaturated fatty acids in the  membrane instead of the cis isomers. The membranes of the toluene-adapted cells  possessed a higher trans/cis ratio and had a higher lipid-ordering since the  transition temperature was about 7 centigrade degrees higher compared to the  non-adapted cells.

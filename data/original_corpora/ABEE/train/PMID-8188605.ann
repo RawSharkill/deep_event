@@ -1,0 +1,24 @@
+T1	Gene 81 85	cadA
+T2	Gene 90 94	cadC
+T3	Bacteria 98 119	Staphylococcus aureus
+T4	Bacteria 713 722	S. aureus
+T5	Gene 918 923	cadAC
+T6	Bacteria 939 949	S.  aureus
+T7	Bacteria 431 447	L. monocytogenes
+T8	Bacteria 451 476	Bacillus  subtilis strain
+T9	Bacteria 368 390	Staphylococcus  aureus
+*	Equiv T4 T9
+T10	Gene 336 341	cadAC
+T11	Bacteria 42 64	Listeria monocytogenes
+T12	Protein 632 642	amino acid
+T13	Bacteria 1101 1118	L.  monocytogenes
+T14	Gene 1119 1124	cadAC
+T15	Bacteria 848 864	L. monocytogenes
+T16	Bacteria 188 210	Listeria monocytogenes
+T17	Antibiotic 413 420	cadmium
+T18	Antibiotic 14 21	cadmium
+T19	Antibiotic 503 510	cadmium
+T20	Gene 604 608	cadA
+T21	Gene 613 617	cadC
+T22	Antibiotic 814 821	cadmium
+T23	Antibiotic 1070 1077	cadmium

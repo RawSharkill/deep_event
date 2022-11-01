@@ -1,0 +1,21 @@
+T1	Antibiotic 0 12	Azithromycin
+T3	Antibiotic 132 141	macrolide
+T4	Bacteria 167 188	Mycoplasma genitalium
+T2	Antibiotic 271 282	doxycycline
+T5	Antibiotic 326 338	azithromycin
+T6	Bacteria 495 508	M. genitalium
+*	Equiv T6 T4
+T7	Antibiotic 552 564	azithromycin
+T8	Antibiotic 627 637	macrolides
+T9	Antibiotic 927 939	azithromycin
+T10	Antibiotic 1132 1144	azithromycin
+T11	Antibiotic 1201 1213	azithromycin
+T12	Antibiotic 1218 1230	erythromycin
+T13	Bacteria 1287 1303	Escherichia coli
+T14	Antibiotic 1589 1601	azithromycin
+T15	Antibiotic 1630 1639	macrolide
+T16	Antibiotic 1691 1703	azithromycin
+T17	Bacteria 1860 1870	Mollicutes
+T18	Antibiotic 1931 1943	azithromycin
+T19	Antibiotic_target_alteration 1782 1791	mutations
+E1	Antibiotic_target_alteration:T19 Theme:T17

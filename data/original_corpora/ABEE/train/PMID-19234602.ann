@@ -1,0 +1,25 @@
+T1	Bacteria 39 65	Mycobacterium tuberculosis
+T2	Bacteria 418 444	Mycobacterium tuberculosis
+T3	Bacteria 508 523	M. tuberculosis
+*	Equiv T3 T2
+T4	Antibiotic 1596 1608	pyrazinamide
+T5	Antibiotic 1767 1777	rifampicin
+T6	Antibiotic 1782 1791	isoniazid
+T7	Gene 1729 1733	katG
+T8	Gene 1720 1724	rpoB
+T9	Gene 1698 1702	katG
+T10	Gene 1683 1687	rpoB
+T11	Gene 1559 1563	pncA
+T12	Antibiotic_target_alteration 1542 1551	Mutations
+E1	Antibiotic_target_alteration:T12 Cause:T4
+T13	Antibiotic_target_alteration 1664 1673	mutations
+E2	Antibiotic_target_alteration:T13 Cause:T5
+E3	Antibiotic_target_alteration:T13 Cause:T6
+T14	Gene 2181 2185	katG
+T15	Gene 2198 2202	rpoB
+T16	Gene 2220 2224	katG
+T17	Gene 2229 2233	rpoB
+T18	Gene 2350 2354	rpoB
+T19	Gene 2359 2363	katG
+T20	Gene 2405 2409	pncA
+T21	Gene 1382 1386	pncA

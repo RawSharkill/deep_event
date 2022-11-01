@@ -1,0 +1,8 @@
+T1	Bacteria 265 284	Serratia marcescens
+T2	Bacteria 289 308	Pseudomonas cepacia
+T3	Bacteria 449 462	S. marcescens
+*	Equiv T3 T1
+T4	Bacteria 741 754	S. marcescens
+T5	Bacteria 1295 1308	S. marcescens
+T6	Bacteria 1523 1536	S. marcescens
+T7	Bacteria 1542 1560	seudomonas cepacia

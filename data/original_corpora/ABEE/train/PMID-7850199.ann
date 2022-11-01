@@ -1,0 +1,9 @@
+T1	Antibiotic 14 29	aminoglycosides
+T2	Bacteria 33 44	Pseudomonas
+T3	Antibiotic 46 60	Aminoglycoside
+T4	Antibiotic 228 243	aminoglycosides
+T5	Bacteria 249 260	Pseudomonas
+T6	Antibiotic 382 396	aminoglycoside
+T7	Reduced_permeability_to_antibiotic 365 377	permeability
+E1	Reduced_permeability_to_antibiotic:T7 Cause:T4 Theme:T5
+T8	Protein 398 415	acetyltransferase

@@ -1,0 +1,26 @@
+T2	Antibiotic 115 125	tobramycin
+T3	Antibiotic 127 137	netilmicin
+T4	Antibiotic 142 150	amikacin
+T6	Antibiotic 291 301	tobramycin
+T7	Antibiotic 303 313	netilmicin
+T8	Antibiotic 319 327	amikacin
+T9	Antibiotic 329 337	Amikacin
+T10	Antibiotic 421 431	netilmicin
+T11	Antibiotic 436 446	tobramycin
+T12	Antibiotic 502 512	netilmicin
+T13	Antibiotic 545 555	tobramycin
+T14	Antibiotic 601 611	tobramycin
+T15	Antibiotic 616 626	netilmicin
+T16	Antibiotic 732 742	gentamicin
+T17	Antibiotic 744 754	tobramycin
+T18	Antibiotic 759 769	netilmicin
+T1	Antibiotic 43 53	gentamicin
+T5	Bacteria 64 86	Gram-negative  bacilli
+T19	Antibiotic 181 191	gentamicin
+T20	Bacteria 202 223	Gram-negative bacilli
+T21	Protein 690 698	AAC(3)II
+T22	Protein 804 812	ANT (2")
+T23	Antibiotic_inactivation 720 731	inactivates
+E1	Antibiotic_inactivation:T23 Cause:T16
+E2	Antibiotic_inactivation:T23 Cause:T17
+E3	Antibiotic_inactivation:T23 Cause:T18

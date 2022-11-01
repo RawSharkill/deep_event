@@ -1,0 +1,20 @@
+T1	Antibiotic 14 29	fluoroquinolone
+T2	Bacteria 44 65	Staphylococcus aureus
+T3	Antibiotic 68 83	Fluoroquinolone
+T4	Antibiotic 132 145	ciprofloxacin
+T5	Bacteria 171 192	Staphylococcus aureus
+T6	Antibiotic 319 335	fluoroquinolones
+T7	Antibiotic 506 517	norfloxacin
+T8	Antibiotic_efflux 461 467	efflux
+E1	Antibiotic_efflux:T8 Cause:T7
+T9	Antibiotic 620 635	fluoroquinolone
+T10	Bacteria 667 683	Escherichia coli
+T11	Antibiotic 778 789	norfloxacin
+T12	Gene 842 846	gyrA
+T13	Gene 912 916	gyrA
+T14	Bacteria 926 935	S. aureus
+*	Equiv T14 T2
+T15	Antibiotic 1002 1017	fluoroquinolone
+T16	Antibiotic 1181 1197	fluoroquinolones
+T17	Antibiotic_target_alteration 1090 1100	alteration
+E2	Antibiotic_target_alteration:T17 Cause:T16 Theme:T14

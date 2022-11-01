@@ -1,0 +1,24 @@
+T1	Antibiotic 152 162	fosfomycin
+T2	Bacteria 190 204	Chlamydia spp.
+T3	Bacteria 44 53	Chlamydia
+T4	Bacteria 460 469	Chlamydia
+T5	Bacteria 846 867	Chlamydia trachomatis
+T6	Bacteria 1004 1020	Escherichia coli
+T7	Bacteria 1107 1116	E.   coli
+*	Equiv T7 T6
+T8	Bacteria 1164 1178	C. trachomatis
+*	Equiv T8 T5
+T9	Bacteria 1221 1235	C. trachomatis
+T10	Bacteria 1330 1337	E. coli
+T11	Antibiotic 1407 1417	fosfomycin
+T12	Antibiotic 1546 1556	fosfomycin
+T13	Bacteria 1568 1582	C. trachomatis
+T14	Antibiotic 1606 1616	fosfomycin
+T15	Antibiotic 1628 1638	fosfomycin
+T16	Bacteria 1671 1685	E. coli strain
+T17	Bacteria 1732 1746	C. trachomatis
+T18	Bacteria 1943 1957	C. trachomatis
+T19	Bacteria 2067 2081	Chlamydia spp.
+T20	Bacteria 2240 2254	Chlamydia spp.
+T21	Gene 831 835	murA
+T22	Bacteria 233 255	gram-negative bacteria

@@ -1,0 +1,4 @@
+T1	Bacteria 52 72	Escherichia coli K12
+T2	Bacteria 244 273	Escherichia   coli K12 JE2100
+T3	Bacteria 461 473	JE177 strain
+*	Equiv T3 T2

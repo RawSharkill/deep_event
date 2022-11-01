@@ -1,0 +1,20 @@
+T1	Bacteria 79 95	Escherichia coli
+T2	Bacteria 127 143	Escherichia coli
+T3	Antibiotic 474 487	tetracyclines
+T4	Antibiotic 1029 1038	kanamycin
+T5	Antibiotic 1121 1131	quinolones
+T6	Bacteria 1249 1256	E. coli
+*	Equiv T6 T2
+T7	Antibiotic 1284 1293	quinolone
+T8	Gene 754 758	marR
+T9	Gene 494 498	marR
+T10	Antibiotic 37 46	quinolone
+T11	Gene 19 22	mar
+T12	Antibiotic 98 107	Quinolone
+T13	Gene 189 195	marRAB
+T14	Gene 873 877	marR
+T15	Gene 1002 1006	marR
+T16	Gene 1188 1191	mar
+T17	Antibiotic 1220 1229	quinolone
+T18	Antibiotic_target_alteration 1199 1208	mutations
+E1	Antibiotic_target_alteration:T18 Cause:T17 Theme:T6

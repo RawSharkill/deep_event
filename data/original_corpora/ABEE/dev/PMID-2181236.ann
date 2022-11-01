@@ -1,0 +1,17 @@
+T1	Antibiotic 20 32	tetracycline
+T2	Antibiotic 62 74	tetracycline
+T3	Antibiotic 123 135	tetracycline
+T4	Antibiotic 162 174	tetracycline
+T5	Bacteria 224 242	Enterobacteriaceae
+T6	Bacteria 378 389	mycoplasmas
+T7	Bacteria 391 404	Gram-positive
+T8	Bacteria 409 431	Gram-negative bacteria
+T9	Antibiotic 468 480	tetracycline
+T10	Antibiotic 517 529	tetracycline
+T11	Bacteria 612 623	Bacteroides
+T12	Antibiotic 682 694	tetracycline
+T13	Antibiotic 743 755	tetracycline
+T14	Antibiotic 801 813	tetracycline
+T15	Bacteria 824 839	Bacillus strain
+T16	Antibiotic_efflux 695 701	efflux
+E1	Antibiotic_efflux:T16 Cause:T13 Theme:T15

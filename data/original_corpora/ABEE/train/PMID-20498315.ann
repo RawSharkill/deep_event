@@ -1,0 +1,11 @@
+T1	Bacteria 64 87	Pseudomonas  aeruginosa
+T2	Bacteria 159 181	Pseudomonas aeruginosa
+T3	Antibiotic 472 480	imipenem
+T4	Antibiotic 485 496	ceftazidime
+T5	Gene 275 283	blaVIM-1
+T6	Gene 329 337	blaVIM-2
+T7	Gene 618 621	MBL
+T8	Gene 636 639	MBL
+T9	Gene 228 231	MBL
+T10	Gene 204 226	metallo-beta-lactamase
+T11	Protein 16 39	metallo-beta-lactamases

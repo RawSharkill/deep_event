@@ -1,0 +1,30 @@
+T1	Bacteria 4 15	Lactococcal
+T2	Bacteria 140 158	Lactococcus lactis
+T3	Bacteria 199 215	Escherichia coli
+T4	Antibiotic 404 414	daunomycin
+T5	Antibiotic 419 441	tetraphenylphosphonium
+T6	Antibiotic 723 735	tetracycline
+T7	Bacteria 801 818	Bacillus subtilis
+T8	Antibiotic 828 840	bicyclomycin
+T9	Bacteria 873 880	E. coli
+T10	Bacteria 1324 1333	L. lactis
+*	Equiv T10 T2
+T11	Bacteria 1567 1576	L. lactis
+T12	Bacteria 1761 1770	L. lactis
+T13	Gene 16 20	lmrP
+T14	Antibiotic_efflux 72 83	transporter
+E1	Antibiotic_efflux:T14 Theme:T1
+T15	Gene 484 488	lmrP
+T16	Protein 709 713	Tn10
+T17	Protein 759 763	TetA
+T18	Protein 791 794	Bmr
+T19	Protein 864 867	Bcr
+T20	Gene 916 920	lmrP
+T21	Protein 1093 1099	ATPase
+T22	Gene 1198 1202	lmrP
+T23	Gene 1341 1345	lmrP
+T24	Gene 1335 1340	delta
+T25	Protein 1561 1565	LmrP
+T26	Antibiotic_efflux 314 327	Recombinant  
+E2	Antibiotic_efflux:T26 Cause:T4 Theme:T2
+E3	Antibiotic_efflux:T26 Cause:T5 Theme:T2

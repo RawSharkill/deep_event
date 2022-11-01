@@ -1,0 +1,3 @@
+Novel tetracycline resistance gene, tet(32), in the Clostridium-related human  colonic anaerobe K10 and its transmission in vitro to the rumen anaerobe  Butyrivibrio fibrisolvens. 
+
+A novel tetracycline resistance gene, designated tet(32), which confers a high  level of tetracycline resistance, was identified in the Clostridium-related human  colonic anaerobe K10, which also carries tet(W). tet(32) was transmissible in  vitro to the rumen anaerobe Butyrivibrio fibrisolvens 2221(R). The predicted gene  product of tet(32) has 76% amino acid identity with Tet(O). PCR amplification  indicated that tet(32) is widely distributed in the ovine rumen and in porcine  feces.

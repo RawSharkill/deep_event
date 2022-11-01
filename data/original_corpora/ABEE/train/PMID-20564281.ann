@@ -1,0 +1,4 @@
+T1	Antibiotic_inactivation 32 44	inactivation
+E1	Antibiotic_inactivation:T1 Cause:T2
+T2	Antibiotic 0 10	Antibiotic
+T3	Protein 25 31	enzyme

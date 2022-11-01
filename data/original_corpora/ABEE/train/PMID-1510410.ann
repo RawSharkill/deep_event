@@ -1,0 +1,17 @@
+T1	Bacteria 69 99	Bacteroides   fragilis TAL3636
+T2	Bacteria 132 160	Bacteroides fragilis TAL3636
+T3	Bacteria 178 194	Escherichia coli
+T5	Antibiotic 310 321	cephamycins
+T6	Antibiotic 326 337	carbapenems
+T7	Antibiotic_inactivation 506 517	inactivated
+E3	Antibiotic_inactivation:T7 
+T8	Antibiotic 275 298	beta-lactam antibiotics
+T9	Protein 244 257	metalloenzyme
+T4	Antibiotic_inactivation 259 269	hydrolyzed
+E1	Antibiotic_inactivation:T4 Cause:T5
+T10	Gene 107 111	CcrA
+T11	Protein 522 528	enzyme
+T12	Protein 375 381	enzyme
+T13	Protein 36 63	metallo-beta-lactamase CcrA
+T14	Antibiotic_inactivation 259 269	hydrolyzed
+E2	Antibiotic_inactivation:T14 Cause:T6

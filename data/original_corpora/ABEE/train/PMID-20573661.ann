@@ -1,0 +1,31 @@
+T1	Bacteria 128 151	Acinetobacter baumannii
+T2	Antibiotic_efflux 53 59	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 167 190	Acinetobacter baumannii
+T4	Antibiotic_efflux 406 412	efflux
+E2	Antibiotic_efflux:T4 Theme:T5
+T5	Bacteria 421 433	A. baumannii
+T6	Bacteria 563 579	A. baumannii AYE
+T7	Antibiotic 503 518	Methyl Viologen
+T9	Bacteria 733 755	Escherichia coli KAM32
+T10	Antibiotic_efflux 785 791	efflux
+E4	Antibiotic_efflux:T10 Theme:T9
+T11	Bacteria 975 987	A. baumannii
+T12	Antibiotic_efflux 945 951	efflux
+E5	Antibiotic_efflux:T12 Theme:T11
+T13	Bacteria 1128 1135	E. coli
+R2	Member-of Arg1:T9 Arg2:T13	
+T14	Antibiotic_efflux 1262 1268	efflux
+E6	Antibiotic_efflux:T14 Theme:T13
+T15	Bacteria 1329 1349	A.  baumannii AC0037
+T16	Antibiotic_efflux 1437 1443	efflux
+E7	Antibiotic_efflux:T16 Theme:T15
+T17	Antibiotic_efflux 1679 1685	efflux
+E8	Antibiotic_efflux:T17 Theme:T18
+T18	Bacteria 1715 1728	A.  baumannii
+*	Equiv T5 T1
+T19	Protein 66 70	AmvA
+T8	Protein 658 661	MFS
+T20	Antibiotic_efflux 673 679	efflux
+E3	Antibiotic_efflux:T20 Cause:T7 Theme:T6
+T21	Protein 1675 1678	MFS

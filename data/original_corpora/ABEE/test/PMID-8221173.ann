@@ -1,0 +1,17 @@
+T1	Bacteria 962 977	M. tuberculosis
+T2	Bacteria 979 987	M. avium
+T3	Bacteria 1005 1026	Gram positive bacilli
+T4	Bacteria 894 906	mycobacteria
+T5	Bacteria 879 890	pseudomonas
+T6	Bacteria 864 877	staphylococci
+T7	Bacteria 851 862	enterococci
+T8	Bacteria 747 766	Gram negative  rods
+T9	Protein 713 743	broad-spectrum beta-lactamases
+T10	Bacteria 515 535	Gram  positive cocci
+T11	Bacteria 552 559	E. coli
+T12	Bacteria 564 574	Klebsiella
+T13	Bacteria 447 454	candida
+T14	Bacteria 381 394	staphylococci
+T15	Bacteria 396 407	enterococci
+T16	Bacteria 409 427	enterobacteriaceae
+T17	Antibiotic 429 440	pseudomonas

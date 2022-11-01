@@ -1,0 +1,17 @@
+T1	Antibiotic 89 99	rifampicin
+T2	Antibiotic 284 294	Rifampicin
+T3	Antibiotic 768 778	rifampicin
+T4	Antibiotic 1317 1327	rifampicin
+T9	Bacteria 107 123	Escherichia coli
+T8	Antibiotic 438 448	rifampicin
+T10	Protein 124 128	DnaA
+T11	Protein 0 4	DnaA
+T7	Antibiotic 949 959	rifampicin
+T6	Antibiotic 800 810	rifampicin
+T12	Protein 1170 1174	DnaA
+T13	Protein 1054 1058	DnaA
+T14	Protein 1039 1043	DnaA
+T15	Protein 869 873	DnaA
+T16	Protein 608 612	DnaA
+T5	Antibiotic 528 538	rifampicin
+T17	Protein 651 655	DnaA

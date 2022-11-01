@@ -1,0 +1,27 @@
+T1	Bacteria 87 103	Escherichia coli
+T3	Bacteria 204 227	Escherichia coli strain
+T4	Bacteria 1168 1175	E. coli
+*	Equiv T4 T1
+T5	Bacteria 1549 1556	E. coli
+T2	Protein 24 28	LamB
+T6	Protein 33 37	Odp1
+T7	Reduced_permeability_to_antibiotic 0 9	Decreased
+E1	Reduced_permeability_to_antibiotic:T7 Theme:T1
+T8	Protein 167 171	LamB
+T9	Antibiotic 176 193	chlortetracycline
+T10	Protein 349 353	LamB
+T11	Protein 578 582	LamB
+T12	Reduced_permeability_to_antibiotic 325 336	decreased  
+E2	Reduced_permeability_to_antibiotic:T12 Cause:T9 Theme:T3
+T13	Protein 621 625	LamB
+T14	Protein 630 634	Odp1
+T15	Protein 894 898	LamB
+T16	Protein 996 1000	LamB
+T17	Protein 1005 1009	Odp1
+T18	Protein 1094 1098	LamB
+T19	Protein 1103 1107	Odp1
+T20	Reduced_permeability_to_antibiotic 972 981	decreased
+E3	Reduced_permeability_to_antibiotic:T20 Theme:T4
+T21	Protein 1500 1504	LamB
+T22	Protein 1558 1562	LamB
+T23	Protein 1629 1633	Odp1

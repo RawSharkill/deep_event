@@ -1,0 +1,15 @@
+T1	Antibiotic 20 31	sulfonamide
+T2	Bacteria 68 91	gram-negative  bacteria
+T3	Gene 319 323	sulI
+T4	Gene 328 333	sulII
+T5	Bacteria 418 436	Enterobacteriaceae
+T6	Antibiotic 510 522	sulfonamides
+T7	Gene 588 592	sulI
+T8	Gene 594 599	sulII
+T9	Gene 616 620	sulI
+T10	Gene 873 878	sulII
+T11	Gene 1136 1141	sulII
+T12	Gene 1266 1271	sulII
+T13	Gene 1400 1404	sulI
+T14	Gene 1409 1414	sulII
+T15	Bacteria 1538 1561	gram-negative  bacteria

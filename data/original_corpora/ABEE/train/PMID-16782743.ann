@@ -1,0 +1,22 @@
+T1	Bacteria 65 85	Salmonella  enterica
+T2	Bacteria 232 251	Salmonella enterica
+T3	Antibiotic 864 876	trimethoprim
+T4	Antibiotic 1309 1321	Sulphonamide
+T5	Antibiotic 1376 1388	tetracycline
+T6	Antibiotic 1422 1437	chloramphenicol
+T7	Antibiotic 1460 1472	streptomycin
+T8	Antibiotic 1496 1506	ampicillin
+T9	Gene 1453 1458	catA1
+T10	Gene 832 838	dfrA22
+T11	Gene 840 845	aadA1
+T12	Gene 849 853	orf3
+T13	Gene 897 902	aadA1
+T14	Gene 903 908	dfrA1
+T15	Gene 948 953	aacA4
+T16	Gene 1361 1365	sul2
+T17	Gene 1370 1374	sul3
+T18	Gene 1487 1491	strA
+T19	Gene 1522 1528	blaTEM
+T20	Antibiotic 1564 1577	cephalosporin
+T21	Gene 1530 1536	blaCTX
+T22	Gene 1541 1549	blaCMY-2

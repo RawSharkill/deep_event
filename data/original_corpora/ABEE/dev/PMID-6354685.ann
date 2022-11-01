@@ -1,0 +1,15 @@
+T1	Antibiotic 0 10	Moxalactam
+T2	Antibiotic 12 21	latamoxef
+*	Equiv T2 T1
+T3	Antibiotic 114 124	Moxalactam
+T4	Antibiotic 126 135	latamoxef
+*	Equiv T4 T3
+T5	Antibiotic 156 182	oxa-beta-lactam antibiotic
+T6	Bacteria 372 390	Enterobacteriaceae
+T7	Antibiotic 443 453	Moxalactam
+T8	Bacteria 484 506	Pseudomonas aeruginosa
+T9	Antibiotic 678 692	cephalosporins
+T10	Antibiotic 694 704	moxalactam
+T11	Antibiotic 852 862	moxalactam
+T12	Bacteria 886 907	Bacteroides  fragilis
+T13	Antibiotic 1584 1599	aminoglycosides

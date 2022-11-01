@@ -1,0 +1,4 @@
+T1	Antibiotic_efflux 38 44	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 67 84	Escherichia  coli
+T3	Protein 57 61	EmrE

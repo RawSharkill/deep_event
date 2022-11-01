@@ -1,0 +1,49 @@
+T1	Bacteria 48 64	Escherichia coli
+T2	Antibiotic_efflux 100 106	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 171 187	Escherichia coli
+T4	Antibiotic_efflux 126 138	efflux pumps
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Bacteria 302 309	E. coli
+T6	Antibiotic_efflux 372 383	efflux pump
+E3	Antibiotic_efflux:T6 Theme:T5
+T7	Antibiotic 431 442	beta-lactam
+T9	Bacteria 457 464	E. coli
+T10	Resistance_by_absence 591 599	Deletion
+E5	Resistance_by_absence:T10 Theme:T11 Cause:T13
+T11	Bacteria 653 667	E. coli strain
+T13	Antibiotic 672 681	oxacillin
+T14	Antibiotic 683 695	azithromycin
+T15	Antibiotic 697 709	erythromycin
+T16	Antibiotic 714 728	crystal violet
+T17	Antibiotic_efflux 954 966	efflux pumps
+E10	Antibiotic_efflux:T17 Theme:T18
+T18	Bacteria 970 977	E. coli
+T19	Bacteria 1247 1254	E. coli
+T20	Bacteria 1335 1342	E. coli
+T21	Antibiotic_efflux 1392 1403	efflux pump
+E11	Antibiotic_efflux:T21 Theme:T20
+*	Equiv T5 T1
+T22	Gene 876 880	tolC
+T23	Protein 0 3	CRP
+T24	Gene 84 89	mdtEF
+T25	Protein 253 256	CRP
+T26	Protein 356 361	MdtEF
+T8	Gene 508 511	crp
+T27	Antibiotic_target_alteration 496 504	mutation
+E4	Antibiotic_target_alteration:T27 Cause:T7 Theme:T9
+T28	Gene 603 606	crp
+E6	Resistance_by_absence:T10 Theme:T11 Cause:T14
+E7	Resistance_by_absence:T10 Cause:T15 Theme:T11
+E8	Resistance_by_absence:T10 Cause:T16 Theme:T11
+T12	Gene 773 776	crp
+T29	Protein 882 886	TolC
+T30	Protein 1028 1031	CRP
+T31	Gene 1060 1065	mdtEF
+T32	Gene 1080 1085	mdtEF
+T33	Protein 1108 1111	CRP
+T34	Protein 1203 1206	CRP
+T35	Protein 1375 1382	MdtEF  
+T36	Antibiotic_efflux 1203 1206	CRP
+E9	Antibiotic_efflux:T36 Theme:T19
+T37	Protein 1286 1289	CRP

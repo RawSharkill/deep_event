@@ -1,0 +1,24 @@
+T1	Antibiotic 88 98	vancomycin
+T2	Bacteria 113 134	Enterococcus faecalis
+T3	Antibiotic 221 231	vancomycin
+T4	Antibiotic 396 406	vancomycin
+T5	Bacteria 662 683	Enterococcus faecalis
+T6	Antibiotic 1854 1864	vancomycin
+T7	Bacteria 1643 1664	Staphylococcus aureus
+T8	Gene 46 50	VanG
+T9	Protein 209 216	enzymes
+T10	Bacteria 246 265	Gram-positive cocci
+T11	Gene 448 452	VanA
+T12	Gene 652 656	VanG
+T13	Gene 792 796	VanA
+T14	Protein 1100 1107	enzymes
+T15	Gene 1126 1130	VanA
+T16	Protein 1876 1883	enzymes
+T17	Gene 1621 1625	VanG
+T18	Gene 1630 1634	VanA
+T19	Gene 942 946	VanA
+T20	Gene 933 937	VanG
+T21	Gene 764 768	VanG
+T22	Gene 1231 1235	VanG
+T23	Gene 1387 1391	VanG
+T24	Protein 1298 1305	enzymes

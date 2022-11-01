@@ -1,0 +1,11 @@
+T1	Bacteria 134 155	Klebsiella pneumoniae
+T2	Bacteria 299 344	a clinical isolate   of Klebsiella pneumoniae
+T3	Protein 437 447	amino acid
+T4	Protein 69 98	IMP-2  metallo-beta-lactamase
+T5	Protein 230 259	IMP-2  metallo-beta-lactamase
+T6	Gene 552 563	 bla(IMP-2)
+T7	Gene 461 471	bla(IMP-8)
+T8	Gene 408 418	bla(IMP-8)
+T9	Gene 392 403	 bla(IMP-2)
+T10	Protein 272 277	IMP-8
+T11	Protein 100 105	IMP-8

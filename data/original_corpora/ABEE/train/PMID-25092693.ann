@@ -1,0 +1,16 @@
+T1	Bacteria 86 102	Escherichia coli
+T2	Bacteria 232 248	Escherichia coli
+T3	Antibiotic 569 578	doripenem
+T4	Protein 140 172	New Delhi metallo-beta-lactamase
+T5	Protein 16 48	New Delhi metallo-beta-lactamase
+T6	Antibiotic 65 75	carbapenem
+T7	Antibiotic 211 221	carbapenem
+T8	Protein 182 188	NDM-12
+T9	Protein 428 434	NDM-12
+T10	Gene 584 593	blaNDM-12
+T11	Protein 498 504	NDM-12
+T12	Protein 482 487	NDM-1
+T13	Protein 321 327	NDM-12
+T14	Protein 342 347	NDM-1
+T15	Protein 355 365	amino acid
+T16	Protein 0 6	NDM-12

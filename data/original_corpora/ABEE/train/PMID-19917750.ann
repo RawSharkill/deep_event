@@ -1,0 +1,21 @@
+T1	Bacteria 77 93	Escherichia coli
+T2	Bacteria 98 119	Klebsiella pneumoniae
+T3	Bacteria 162 178	Escherichia coli
+T4	Bacteria 196 217	Klebsiella pneumoniae
+T5	Antibiotic 563 574	carbapenems
+T6	Antibiotic 776 787	carbapenems
+T7	Gene 335 346	bla(VIM-19)
+T8	Gene 468 473	VIM-1
+T9	Gene 447 453	VIM-19
+T10	Gene 706 712	VIM-19
+T11	Gene 0 6	VIM-19
+T12	Protein 10 32	metallo-beta-lactamase
+T13	Antibiotic 127 137	carbapenem
+T14	Protein 281 312	VIM-type metallo-beta-lactamase
+T15	Protein 314 316	MB
+T16	Protein 680 693	carbapenemase
+T17	Protein 830 840	amino acid
+T18	Protein 741 745	MBLs
+T19	Protein 48 61	carbapenemase
+T20	Antibiotic_inactivation 536 546	hydrolytic
+E1	Antibiotic_inactivation:T20 Cause:T5

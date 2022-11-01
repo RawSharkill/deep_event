@@ -1,0 +1,45 @@
+T1	Antibiotic 487 497	penicillin
+T2	Bacteria 558 582	Streptococcus pneumoniae
+T3	Bacteria 585 607	Streptococcus faecalis
+T4	Bacteria 609 630	Staphylococcus aureus
+T5	Bacteria 632 653	Neisseria gonorrhoeae
+T6	Bacteria 656 667	Clostridium
+T7	Bacteria 673 695	Pseudomonas aeruginosa
+T8	Antibiotic 762 773	penicillins
+T9	Antibiotic 775 789	cephalosporins
+T10	Antibiotic 791 806	aminoglycosides
+T11	Antibiotic 813 826	tetracyclines
+T12	Bacteria 834 852	Enterobacteriaceae
+T13	Bacteria 857 879	Pseudomonas aeruginosa
+T14	Bacteria 958 967	Neisseria
+T15	Bacteria 969 980	Haemophilus
+T16	Bacteria 982 1000	Enterobacteriaceae
+T17	Bacteria 1006 1025	Pseudomonas species
+T18	Bacteria 1140 1152	Enterobacter
+T19	Bacteria 1157 1176	Citrobacter species
+T20	Antibiotic 1210 1241	third-generation cephalosporins
+T21	Antibiotic 1413 1424	penicillins
+T22	Antibiotic 1430 1444	cephalosporins
+T24	Reduced_permeability_to_antibiotic 1335 1347	permeability
+E1	Reduced_permeability_to_antibiotic:T24 Cause:T21
+E2	Reduced_permeability_to_antibiotic:T24 Cause:T22
+T23	Protein 510 537	penicillin-binding proteins
+T25	Antibiotic_target_alteration 479 486	Altered
+E3	Antibiotic_target_alteration:T25 Cause:T1 Theme:T2
+E4	Antibiotic_target_alteration:T25 Cause:T1 Theme:T3
+E5	Antibiotic_target_alteration:T25 Theme:T4 Cause:T1
+E6	Antibiotic_target_alteration:T25 Theme:T5 Cause:T1
+E7	Antibiotic_target_alteration:T25 Theme:T6 Cause:T1
+E8	Antibiotic_target_alteration:T25 Theme:T7 Cause:T1
+T26	Reduced_permeability_to_antibiotic 727 732	entry
+E9	Reduced_permeability_to_antibiotic:T26 Cause:T8 Theme:T12
+E10	Reduced_permeability_to_antibiotic:T26 Cause:T8 Theme:T13
+E11	Reduced_permeability_to_antibiotic:T26 Cause:T9 Theme:T12
+E12	Reduced_permeability_to_antibiotic:T26 Cause:T9 Theme:T13
+E13	Reduced_permeability_to_antibiotic:T26 Cause:T10 Theme:T12
+E14	Reduced_permeability_to_antibiotic:T26 Cause:T10 Theme:T13
+E15	Reduced_permeability_to_antibiotic:T26 Cause:T11 Theme:T12
+E16	Reduced_permeability_to_antibiotic:T26 Theme:T13 Cause:T11
+T27	Antibiotic_inactivation 1051 1066	beta-lactamases
+E17	Antibiotic_inactivation:T27 Theme:T18 Cause:T20
+E18	Antibiotic_inactivation:T27 Theme:T19 Cause:T20

@@ -1,0 +1,42 @@
+T1	Bacteria 106 128	Pseudomonas aeruginosa
+T2	Bacteria 243 274	Pseudomonas aeruginosa isolates
+T3	Bacteria 795 818	Escherichia coli strain
+T4	Antibiotic 864 873	doripenem
+T5	Antibiotic 878 887	meropenem
+T6	Antibiotic 899 907	imipenem
+T7	Bacteria 942 956	E. coli strain
+*	Equiv T7 T3
+T8	Antibiotic 1000 1009	doripenem
+T9	Antibiotic 1012 1020	imipenem
+T10	Antibiotic 1025 1034	meropenem
+T11	Antibiotic 1132 1143	carbapenems
+T12	Antibiotic 1254 1265	carbapenems
+T13	Antibiotic 1327 1338	carbapenems
+T14	Antibiotic 1531 1542	carbapenems
+T15	Protein 142 173	IMP-type metallo-beta-lactamase
+T16	Protein 184 190	IMP-43
+T17	Protein 11 41	IMP-44 metallo-beta-lactamases
+T18	Protein 1149 1154	IMP-7
+T19	Gene 968 977	blaIMP-44
+T20	Gene 830 839	blaIMP-43
+T21	Gene 1055 1064	blaIMP-11
+T22	Gene 1351 1357	IMP-11
+T23	Gene 1405 1412	 IMP-43
+T24	Gene 1267 1273	IMP-44
+T25	Protein 195 201	IMP-44
+T26	Protein 393 403	amino acid
+T27	Protein 458 464	IMP-44
+T28	Protein 443 448	IMP-7
+T29	Protein 343 353	amino acid
+T30	Protein 525 532	 IMP-11
+T31	Protein 0 6	IMP-43
+T32	Gene 929 937	blaIMP-7
+T33	Protein 1066 1072	IMP-43
+T34	Protein 379 385	IMP-43
+T35	Protein 538 548	amino acid
+T36	Protein 681 692	amino  acid
+T37	Protein 57 70	carbapenemase
+T38	Protein 666 671	IMP-1
+T39	Protein 779 790	amino acids
+T40	Antibiotic_inactivation 1293 1302	catalytic
+E1	Antibiotic_inactivation:T40 Cause:T13

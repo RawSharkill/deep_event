@@ -1,0 +1,13 @@
+T1	Bacteria 32 53	Chlamydia trachomatis
+T2	Antibiotic 86 96	macrolides
+T3	Bacteria 129 150	Chlamydia trachomatis
+T4	Antibiotic 180 192	erythromycin
+T5	Antibiotic 194 206	azithromycin
+T6	Antibiotic 212 221	josamycin
+T7	Bacteria 338 354	Escherichia coli
+T8	Antibiotic_target_alteration 0 9	Mutations
+E1	Antibiotic_target_alteration:T8 Cause:T2 Theme:T1
+T9	Antibiotic_target_alteration 308 317	mutations
+E2	Antibiotic_target_alteration:T9 Theme:T7
+T10	Gene 373 386	23S rRNA gene
+T11	Gene 467 480	23S rRNA gene

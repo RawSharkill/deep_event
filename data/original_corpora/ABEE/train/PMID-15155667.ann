@@ -1,0 +1,20 @@
+T1	Bacteria 4 19	Vibrio cholerae
+T3	Bacteria 338 353	Vibrio cholerae
+T4	Bacteria 440 456	Escherichia coli
+T5	Bacteria 461 501	Salmonella enterica  serovar Typhimurium
+T6	Bacteria 523 534	V. cholerae
+*	Equiv T6 T3
+T8	Bacteria 627 638	V. cholerae
+T9	Bacteria 1306 1317	V. cholerae
+T10	Antibiotic 68 91	antimicrobial  peptides
+T7	Antibiotic 883 894	polymyxin B
+T2	Protein 20 24	ToxR
+T11	Protein 41 45	OmpU
+T12	Protein 743 747	OmpU
+T13	Gene 754 758	toxR
+T14	Gene 763 767	ompU
+T15	Protein 848 852	OmpU
+T16	Protein 1067 1071	ToxR
+T17	Protein 1088 1092	OmpT
+T18	Protein 1291 1295	OmpU
+T19	Protein 597 601	ToxR

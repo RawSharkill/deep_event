@@ -1,0 +1,20 @@
+T1	Bacteria 121 154	gram-negative bacterial pathogens
+T3	Antibiotic_efflux 209 215	efflux
+E2	Antibiotic_efflux:T3 Theme:T1
+T4	Bacteria 319 335	Escherichia coli
+T5	Bacteria 850 873	Pseudomonas  aeruginosa
+T2	Protein 66 70	AcrA
+T6	Protein 336 340	AcrA
+T7	Protein 341 345	AcrB
+T8	Protein 346 350	TolC
+T9	Protein 402 406	AcrB
+T10	Protein 438 442	TolC
+T11	Protein 581 585	AcrA
+T12	Protein 613 617	AcrB
+T13	Protein 623 627	TolC
+T14	Protein 773 777	AcrA
+T15	Protein 784 788	AcrA
+T16	Protein 874 878	MexA
+T17	Protein 1134 1138	AcrA
+T18	Protein 1050 1054	AcrA
+T19	Protein 1157 1161	TolC

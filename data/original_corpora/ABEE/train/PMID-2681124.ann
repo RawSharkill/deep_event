@@ -1,0 +1,16 @@
+T1	Antibiotic 28 37	meropenem
+T3	Antibiotic 207 216	meropenem
+T4	Antibiotic 241 249	imipenem
+T5	Bacteria 258 276	Enterobacteriaceae
+T6	Bacteria 282 304	Pseudomonas aeruginosa
+T7	Bacteria 350 363	staphylococci
+T8	Antibiotic 373 381	imipenem
+T9	Antibiotic 306 315	Meropenem
+T10	Antibiotic 383 392	Meropenem
+T11	Bacteria 422 433	enterococci
+T12	Antibiotic 474 482	imipenem
+T13	Antibiotic 486 495	meropenem
+T14	Antibiotic 524 533	meropenem
+T15	Antibiotic 625 639	aminoglycoside
+T16	Antibiotic 677 686	meropenem
+T2	Bacteria 739 750	Ps. cepacia

@@ -1,0 +1,10 @@
+T1	Antibiotic 166 177	methicillin
+T2	Bacteria 199 220	Staphylococcus aureus
+T3	Antibiotic 487 499	beta-lactams
+T4	Antibiotic 535 550	aminoglycosides
+T5	Bacteria 558 569	enterococci
+T6	Antibiotic 571 580	quinolone
+T7	Antibiotic 607 618	methicillin
+T8	Bacteria 629 638	S. aureus
+*	Equiv T8 T2
+T9	Bacteria 703 727	gram-negative  organisms

@@ -1,0 +1,10 @@
+T1	Bacteria 83 101	Acinetobacter spp.
+T2	Antibiotic 43 55	tetracycline
+T4	Bacteria 223 244	Acinetobacter strains
+T5	Antibiotic 150 162	tetracycline
+T8	Antibiotic_efflux 500 506	efflux
+E4	Antibiotic_efflux:T8 Theme:T4
+T3	Gene 18 24	Tet 39
+T6	Gene 192 198	Tet 39
+T7	Gene 444 452	tetA(39)
+T9	Gene 539 547	tetR(39)

@@ -1,0 +1,32 @@
+T1	Antibiotic 12 24	tetracycline
+T2	Antibiotic 67 79	tetracycline
+T3	Antibiotic 104 116	tetracycline
+T4	Bacteria 126 142	Escherichia coli
+T5	Antibiotic 166 178	tetracycline
+T6	Bacteria 222 242	Bacteroides fragilis
+T7	Antibiotic 311 323	tetracycline
+T8	Antibiotic 356 368	tetracycline
+T9	Antibiotic 440 452	tetracycline
+T10	Bacteria 481 492	B. fragilis
+*	Equiv T10 T6
+T11	Antibiotic 643 655	tetracycline
+T12	Antibiotic 719 731	tetracycline
+T13	Bacteria 1051 1058	E. coli
+*	Equiv T13 T4
+T14	Antibiotic 1148 1160	tetracycline
+T15	Antibiotic 1193 1205	tetracycline
+T16	Antibiotic 1228 1240	tetracycline
+T17	Antibiotic_efflux 117 123	efflux
+E1	Antibiotic_efflux:T17 Cause:T1
+T18	Antibiotic_inactivation 81 92	degradation
+E2	Antibiotic_inactivation:T18 Cause:T1
+T19	Antibiotic_inactivation 293 307	detoxification
+E3	Antibiotic_inactivation:T19 Cause:T7 Theme:T4
+T20	Antibiotic_efflux 345 351	efflux
+E4	Antibiotic_efflux:T20 Cause:T8 Theme:T4
+T21	Antibiotic_inactivation 410 424	detoxification
+E5	Antibiotic_inactivation:T21 Cause:T9 Theme:T10
+T22	Antibiotic_efflux 1183 1189	efflux
+E6	Antibiotic_efflux:T22 Cause:T15
+T23	Antibiotic_inactivation 1212 1225	degradation  
+E7	Antibiotic_inactivation:T23 Cause:T16

@@ -1,0 +1,9 @@
+T1	Antibiotic 35 45	penicillin
+T2	Antibiotic 65 75	penicillin
+T3	Bacteria 158 172	staphylococcus
+T4	Antibiotic 226 236	penicillin
+T5	Bacteria 303 317	staphylococcus
+T6	Antibiotic 468 478	penicillin
+T7	Antibiotic_inactivation 456 467	inactivates
+E1	Antibiotic_inactivation:T7 Cause:T6 Theme:T5
+T8	Bacteria 675 688	staphylococci

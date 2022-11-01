@@ -1,0 +1,19 @@
+T1	Bacteria 117 138	Staphylococcus aureus
+T2	Bacteria 174 195	Staphylococcus aureus
+T3	Antibiotic 273 288	aminoglycosides
+T4	Bacteria 454 469	aminoglycosides
+T5	Antibiotic 502 514	fusidic acid
+T6	Antibiotic 516 518	FA
+*	Equiv T6 T5
+T7	Antibiotic 589 591	FA
+T8	Bacteria 1355 1364	S. aureus
+*	Equiv T8 T2
+T9	Antibiotic 1425 1427	FA
+T10	Antibiotic 1492 1494	FA
+T11	Antibiotic 985 987	FA
+T12	Protein 705 715	amino acid
+T13	Antibiotic 658 660	FA
+T14	Antibiotic 1285 1287	FA
+T15	Antibiotic_target_alteration 1298 1305	mutants
+E1	Antibiotic_target_alteration:T15 Cause:T14 Theme:T8
+T16	Antibiotic 41 53	fusidic acid

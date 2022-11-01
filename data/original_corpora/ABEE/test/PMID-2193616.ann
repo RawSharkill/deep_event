@@ -1,0 +1,30 @@
+T1	Antibiotic 27 38	beta-lactam
+T2	Bacteria 68 85	Escherichia  coli
+T3	Antibiotic 162 173	beta-lactam
+T4	Bacteria 216 232	Escherichia coli
+T5	Antibiotic 276 286	ampicillin
+T6	Antibiotic 308 318	ampicillin
+T7	Antibiotic 732 750	carboxypenicillins
+T8	Antibiotic 787 808	acylureidopenicillins
+T9	Antibiotic 882 893	cephalothin
+T10	Antibiotic 921 930	cefazolin
+T11	Antibiotic 985 995	cefuroxime
+T12	Antibiotic 1001 1012	cefamandole
+T13	Antibiotic 1064 1074	cefsulodin
+T14	Antibiotic 1096 1108	cefoperazone
+T15	Antibiotic 1159 1173	cephalosporins
+T16	Antibiotic 1177 1186	aztreonam
+T17	Antibiotic 1259 1282	beta-lactam antibiotics
+T18	Protein 1425 1444	TEM beta-lactamases
+T19	Antibiotic 1780 1783	TEM
+T20	Antibiotic 1835 1853	carboxypenicillins
+T21	Antibiotic 1855 1876	acylureidopenicillins
+T22	Antibiotic 1879 1890	cephalothin
+T23	Antibiotic 1892 1903	cefamandole
+T24	Antibiotic 1905 1915	cefsulodin
+T25	Antibiotic 1921 1933	cefoperazone
+T26	Protein 2048 2051	TEM
+T27	Protein 2146 2149	TEM
+T28	Bacteria 2219 2226	E. coli
+T29	Antibiotic 2170 2181	beta-lactam
+T30	Protein 2256 2274	TEM beta-lactamase

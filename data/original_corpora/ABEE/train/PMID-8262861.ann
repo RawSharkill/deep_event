@@ -1,0 +1,9 @@
+T1	Bacteria 60 79	Helicobacter pylori
+T2	Antibiotic 101 114	metronidazole
+T3	Bacteria 129 148	Helicobacter pylori
+T4	Bacteria 578 587	H. pylori
+*	Equiv T4 T3
+T5	Bacteria 951 961	H.  pylori
+T6	Antibiotic 759 772	metronidazole
+T7	Antibiotic 874 887	metronidazole
+T8	Antibiotic 620 633	metronidazole

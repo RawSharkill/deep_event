@@ -1,0 +1,6 @@
+T1	Antibiotic 356 371	fluoroquinolone
+T2	Antibiotic 410 426	 aminoglycosides
+T3	Bacteria 1417 1429	P aeruginosa
+T4	Bacteria 1431 1449	Acinetobacter  spp
+T5	Bacteria 1487 1509	gram-negative bacteria
+T6	Antibiotic 1819 1834	fluoroquinolone

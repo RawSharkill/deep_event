@@ -1,0 +1,29 @@
+T1	Antibiotic 86 117	cationic antimicrobial peptides
+T2	Bacteria 121 129	Yersinia
+T3	Antibiotic 175 206	cationic antimicrobial peptides
+T4	Antibiotic 208 213	CAMPs
+*	Equiv T3 T4
+T6	Antibiotic 340 345	CAMPs
+T8	Antibiotic_efflux 598 604	efflux
+E2	Antibiotic_efflux:T8 Theme:T11 Cause:T9
+T9	Antibiotic 526 531	CAMPs
+T11	Bacteria 564 572	Yersinia
+T13	Antibiotic 795 800	CAMPs
+T14	Antibiotic 810 821	polymyxin B
+T15	Antibiotic_target_protection 963 971	protects
+E5	Antibiotic_target_protection:T15 Cause:T18 Theme:T24
+T18	Antibiotic 1034 1039	CAMPs
+T20	Antibiotic 1063 1068	CAMPs
+T21	Antibiotic_efflux 22 28	efflux
+E10	Antibiotic_efflux:T21 Theme:T2 Cause:T1
+T23	Antibiotic 854 859	CAMPs
+T25	Antibiotic 913 918	CAMPs
+T7	Protein 652 656	RosA
+T10	Protein 661 665	RosB
+T12	Protein 681 685	RosA
+T16	Protein 686 690	RosB
+T17	Protein 946 950	RosA
+T19	Protein 951 955	RosB
+T22	Antibiotic_efflux 1051 1058	pumping
+E1	Antibiotic_efflux:T22 Cause:T20 Theme:T24
+T24	Bacteria 976 984	Yersinia

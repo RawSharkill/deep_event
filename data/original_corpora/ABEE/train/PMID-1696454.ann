@@ -1,0 +1,16 @@
+T1	Bacteria 70 85	gramicidin   S.
+T2	Bacteria 138 156	Escherichia coli B
+T3	Bacteria 180 192	Gramicidin S
+T4	Bacteria 232 241	E. coli B
+*	Equiv T4 T2
+T5	Bacteria 337 347	E.  coli B
+T6	Bacteria 478 487	E. coli B
+T7	Bacteria 588 600	gramicidin S
+T8	Bacteria 638 647	E. coli B
+T9	Bacteria 747 759	gramicidin S
+T10	Bacteria 816 825	E. coli B
+T11	Bacteria 931 943	gramicidin S
+T12	Bacteria 1295 1303	E.  coli
+T13	Bacteria 1423 1435	gramicidin S
+T14	Bacteria 1485 1492	E. coli
+T15	Bacteria 1534 1547	gramicidin  S

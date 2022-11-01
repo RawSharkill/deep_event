@@ -1,0 +1,5 @@
+T1	Bacteria 58 80	Pseudomonas aeruginosa
+T2	Bacteria 83 105	Pseudomonas aeruginosa
+T3	Bacteria 768 781	P. aeruginosa
+*	Equiv T3 T2
+T4	Bacteria 1218 1231	P. aeruginosa

@@ -1,0 +1,9 @@
+T1	Bacteria 105 129	Streptococcus pneumoniae
+T2	Antibiotic 411 421	penicillin
+T3	Antibiotic 611 621	penicillin
+T4	Antibiotic 1043 1053	penicillin
+T6	Bacteria 632 644	pneumococcus
+T7	Bacteria 1087 1108	pneumococcal isolates
+T5	Antibiotic_target_alteration 1122 1134	modification
+E1	Antibiotic_target_alteration:T5 Cause:T4 Theme:T7
+T8	Bacteria 437 449	pneumococcus

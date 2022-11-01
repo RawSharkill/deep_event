@@ -1,0 +1,14 @@
+T1	Bacteria 67 100	epidemic  Vibrio cholerae O1/O139
+T2	Bacteria 105 133	non-epidemic Vibrio cholerae
+T3	Bacteria 232 247	Vibrio cholerae
+T4	Bacteria 736 764	epidemic V. cholerae O1/O139
+T5	Bacteria 799 811	V.  cholerae
+*	Equiv T5 T3
+*	Equiv T4 T1
+T6	Bacteria 926 937	V. cholerae
+T7	Bacteria 1452 1471	V. cholerae strains
+T8	Bacteria 1578 1615	epidemic V. cholerae  O1/O139 strains
+T9	Protein 0 4	OmpU
+T10	Protein 821 825	OmpU
+T11	Protein 1508 1512	OmpU
+T12	Protein 1568 1572	OmpU

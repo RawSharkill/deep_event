@@ -1,0 +1,10 @@
+T1	Bacteria 58 81	Pseudomonas  aeruginosa
+T2	Antibiotic 150 160	cefsulodin
+T3	Bacteria 99 121	Pseudomonas aeruginosa
+T4	Protein 453 459	enzyme
+T5	Antibiotic 290 300	cefsulodin
+T6	Antibiotic 32 42	cefsulodin
+T7	Antibiotic_inactivation 352 362	hydrolytic
+E1	Antibiotic_inactivation:T7 Theme:T3 Cause:T2
+T8	Protein 573 577	Case
+T9	Protein 461 465	Case

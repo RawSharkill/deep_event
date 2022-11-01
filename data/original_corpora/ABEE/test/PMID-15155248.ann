@@ -1,0 +1,19 @@
+T3	Bacteria 129 145	Pseudomonas spp.
+T5	Bacteria 329 352	Pseudomonas fluorescens
+T4	Bacteria 193 219	Pseudomonas putida isolate
+T6	Bacteria 437 455	P. putida isolates
+*	Equiv T6 T4
+T2	Gene 232 235	bla
+T7	Gene 314 317	bla
+T8	Gene 466 469	bla
+T9	Gene 0 5	IMP-1
+T10	Gene 42 47	VIM-6
+T11	Gene 470 475	VIM-6
+T12	Gene 487 490	VIM
+T13	Gene 236 241	IMP-1
+T14	Gene 318 323	IMP-1
+T15	Protein 18 40	metallo-beta-lactamase
+T1	Antibiotic 108 118	carbapenem
+T16	Antibiotic_target_alteration 375 384	mutations
+E1	Antibiotic_target_alteration:T16 Theme:T5
+T17	Bacteria 52 76	fluorescent pseudomonads

@@ -1,0 +1,15 @@
+T3	Bacteria 336 356	Bacteroides fragilis
+T4	Bacteria 361 384	Clostridium perfringens
+T5	Bacteria 451 462	bacteroides
+T6	Antibiotic 498 509	penicillins
+T7	Antibiotic 511 552	cephalosporins and tetracycline compounds
+T8	Antibiotic 601 612	clindamycin
+T9	Antibiotic 617 626	cefoxitin
+T10	Antibiotic 672 687	chloramphenicol
+T11	Antibiotic 692 705	metronidazole
+T12	Antibiotic 734 744	penicillin
+T13	Antibiotic 746 758	tetracycline
+T14	Antibiotic 763 774	clindamycin
+T15	Bacteria 800 811	bacteroides
+T16	Antibiotic 832 844	tetracycline
+T17	Bacteria 879 889	clostridia

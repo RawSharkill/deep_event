@@ -1,0 +1,6 @@
+T1	Bacteria 151 167	Candida albicans
+T2	Bacteria 271 282	C. albicans
+*	Equiv T2 T1
+T3	Bacteria 677 684	Candida
+T4	Bacteria 923 944	Staphylococcus aureus
+T5	Bacteria 948 969	Aspergillus fumigatus

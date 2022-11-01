@@ -1,0 +1,11 @@
+T1	Bacteria 66 81	Ureaplasma spp.
+T2	Antibiotic 119 135	fluoroquinolones
+T3	Bacteria 167 182	Ureaplasma spp.
+T4	Antibiotic 254 270	fluoroquinolones
+T5	Bacteria 87 105	Mycoplasma hominis
+T6	Bacteria 202 220	Mycoplasma hominis
+T7	Protein 4 10	gyrase
+T8	Antibiotic_target_alteration 32 41	mutations
+E1	Antibiotic_target_alteration:T8 Theme:T1 Cause:T2
+E2	Antibiotic_target_alteration:T8 Theme:T1 Cause:T2
+T9	Bacteria 337 353	Escherichia coli

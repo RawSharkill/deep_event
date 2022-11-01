@@ -1,0 +1,33 @@
+T1	Antibiotic 28 51	beta-lactam antibiotics
+T2	Antibiotic 69 92	beta-lactam antibiotics
+T3	Antibiotic 162 176	cephalosporins
+T4	Antibiotic 178 195	ureidopenicillins
+T5	Antibiotic 200 211	monobactams
+T6	Antibiotic 222 233	carbapenems
+T7	Antibiotic 240 248	imipenem
+T8	Bacteria 332 342	E. cloacae
+T9	Bacteria 347 360	P. aeruginosa
+T10	Bacteria 458 466	Serratia
+T11	Bacteria 468 479	Citrobacter
+T12	Antibiotic 529 543	cephalosporins
+T13	Antibiotic 548 559	monobactams
+T14	Antibiotic 569 580	carbapenems
+T15	Antibiotic 585 596	cephamycins
+T16	Antibiotic 982 994	beta-lactams
+T17	Bacteria 998 1020	Gram-negative bacteria
+T18	Reduced_permeability_to_antibiotic 931 945	impermeability
+E1	Reduced_permeability_to_antibiotic:T18 Cause:T16 Theme:T17
+T19	Bacteria 1071 1084	P. aeruginosa
+T20	Protein 1195 1197	D2
+T21	Antibiotic 1246 1257	carbapenems
+T22	Antibiotic 1272 1284	beta-lactams
+T23	Reduced_permeability_to_antibiotic 1183 1187	loss
+E2	Reduced_permeability_to_antibiotic:T23 Cause:T21
+T24	Antibiotic 1362 1373	beta-lactam
+T25	Antibiotic 1396 1405	quinolone
+T26	Antibiotic 1422 1430	imipenem
+T27	Antibiotic 1440 1450	penicillin
+T28	Antibiotic 1592 1604	beta-lactams
+T29	Antibiotic 1617 1628	carbapenems
+T30	Antibiotic 1640 1651	penicillins
+T31	Antibiotic 1656 1670	cephalosporins

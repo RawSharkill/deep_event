@@ -1,0 +1,11 @@
+T1	Bacteria 42 64	Pseudomonas aeruginosa
+T2	Bacteria 260 282	Pseudomonas aeruginosa
+T3	Bacteria 481 504	P.  aeruginosa isolates
+*	Equiv T3 T1
+T4	Bacteria 1220 1233	P. aeruginosa
+T5	Bacteria 1430 1443	P. aeruginosa
+T6	Bacteria 1619 1632	P. aeruginosa
+T7	Antibiotic 1712 1723	beta-lactam
+T8	Antibiotic 1729 1743	aminoglycoside
+T9	Bacteria 1817 1830	P. aeruginosa
+T10	Bacteria 1959 1970	Pseudomonas

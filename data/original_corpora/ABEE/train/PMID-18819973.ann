@@ -1,0 +1,36 @@
+T1	Bacteria 13 35	Pseudomonas aeruginosa
+T2	Bacteria 213 229	Pseudomonas spp.
+T3	Bacteria 407 423	Pseudomonas spp.
+T4	Antibiotic 495 506	ceftazidime
+T5	Antibiotic 653 661	imipenem
+T6	Bacteria 822 838	Pseudomonas spp.
+T7	Bacteria 961 983	Pseudomonas aeruginosa
+T8	Antibiotic 1305 1318	ciprofloxacin
+T9	Antibiotic 1351 1359	colistin
+T10	Bacteria 1388 1401	P. aeruginosa
+*	Equiv T10 T1
+T11	Bacteria 1688 1704	Pseudomonas spp.
+T12	Bacteria 1909 1920	Pseudomonas
+T13	Gene 605 613	bla(MBL)
+T14	Protein 579 602	metallo-beta-lactamases
+T15	Protein 546 554	bla(VEB)
+T16	Gene 924 932	bla(VEB)
+T17	Protein 314 346	extended-spectrum beta-lactamase
+T18	Protein 348 352	ESBL
+T19	Protein 64 98	extended-spectrum  beta-lactamases
+T20	Protein 1929 1933	ESBL
+T21	Protein 1877 1882	ESBLs
+T22	Protein 1438 1441	VIM
+T23	Protein 193 204	VEB enzymes
+T24	Protein 866 870	ESBL
+T25	Protein 1105 1117	VEB-1 enzyme
+T26	Protein 1206 1234	VIM-10 metallo-carbapenemase
+T27	Protein 1430 1433	VEB
+T28	Protein 1442 1449	enzymes
+T29	Protein 1602 1613	VEB enzymes
+T30	Protein 1733 1737	ESBL
+T31	Protein 1772 1790	VIM carbapenemases
+T32	Protein 55 58	VEB
+T33	Antibiotic 1271 1283	beta-lactams
+T34	Antibiotic 1285 1300	aminoglycosides
+T35	Antibiotic 1969 1980	beta-lactam

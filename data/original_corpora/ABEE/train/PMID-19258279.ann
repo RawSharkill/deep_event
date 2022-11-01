@@ -1,0 +1,38 @@
+T1	Bacteria 64 85	Enterococcus  faecium
+T2	Bacteria 87 108	Enterococcus faecalis
+T3	Bacteria 114 132	Enterococcus avium
+T4	Bacteria 177 202	Enterococcus faecium NEF1
+T5	Antibiotic 233 243	vancomycin
+T6	Antibiotic 269 280	teicoplanin
+T7	Bacteria 303 330	Enterococcus faecium BM4653
+T8	Bacteria 346 371	Enterococcus avium BM4655
+T9	Antibiotic 406 416	vancomycin
+T10	Antibiotic 459 470	teicoplanin
+T11	Bacteria 495 523	Enterococcus faecalis BM4654
+T12	Antibiotic 550 560	vancomycin
+T13	Antibiotic 600 611	teicoplanin
+T14	Bacteria 335 341	BM4656
+T15	Bacteria 992 998	BM4653
+*	Equiv T15 T7
+T16	Bacteria 1044 1050	BM4655
+*	Equiv T16 T8
+T17	Bacteria 1071 1077	BM4656
+T18	Bacteria 1131 1137	BM4654
+T19	Bacteria 1542 1548	BM4654
+T20	Bacteria 1604 1610	BM4653
+T21	Bacteria 1750 1756	BM4656
+T22	Antibiotic 43 63	vancomycin-resistant
+T23	Gene 33 42	VanD-Type
+T24	Antibiotic_target_alteration 20 29	mutations
+E1	Antibiotic_target_alteration:T24 Cause:T22 Theme:T1
+E2	Antibiotic_target_alteration:T24 Theme:T2 Cause:T22
+E3	Antibiotic_target_alteration:T24 Theme:T3 Cause:T22
+T25	Gene 800 804	vanD
+T26	Protein 1593 1599	enzyme
+T27	Gene 1611 1618	vanY(D)
+T28	Protein 1929 1939	Ddl enzyme
+T29	Gene 2045 2049	VanD
+T30	Gene 2262 2266	vanD
+T31	Gene 1894 1898	VanD
+T32	Gene 2123 2130	vanR(D)
+T33	Gene 2111 2118	vanS(D)

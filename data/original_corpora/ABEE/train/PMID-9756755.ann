@@ -1,0 +1,25 @@
+T1	Bacteria 28 57	Enterobacter aerogenes BM2688
+T2	Bacteria 126 155	Enterobacter aerogenes BM2688
+T3	Bacteria 248 256	BM2688-1
+T4	Bacteria 303 316	Strain BM2688
+*	Equiv T4 T1
+T5	Antibiotic 602 630	nonenzymatic chloramphenicol
+T6	Bacteria 1006 1014	BM2688-1
+T7	Protein 20 24	In40
+T8	Gene 108 113	cmlA2
+T9	Gene 118 122	qacF
+T10	Antibiotic 210 224	aminoglycoside
+T11	Protein 377 381	In40
+T12	Gene 425 429	sul1
+T13	Gene 500 510	aac(6')-Ib
+T14	Gene 512 516	qacF
+T15	Gene 519 524	cmlA2
+T16	Gene 530 535	oxa-9
+T17	Gene 541 546	cmlA2
+T18	Gene 642 647	cmlA1
+T19	Gene 658 662	qacF
+T20	Gene 771 775	qacE
+T21	Gene 890 895	oxa-9
+T22	Gene 1078 1088	aac(6')-Ib
+T23	Protein 1126 1130	In40
+T24	Protein 1281 1285	In40

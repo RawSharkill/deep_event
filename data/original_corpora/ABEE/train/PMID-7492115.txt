@@ -1,0 +1,3 @@
+Efficacy of the herbicide trifluralin against four P-glycoprotein-expressing  strains of Leishmania.
+
+Drug resistance has emerged as a major obstacle to chemotherapy for many  infectious diseases. Trifluralin, an antimicrotubule herbicide, is a new  experimental drug for treatment of leishmaniasis. Here, we found that it was  effective against two strains of Leishmania that express the multidrug-resistant   genes ldmdr1 and lmpgpA and two strains that express proteins that are  immunologically cross-reactive with mammalian P glycoproteins. These results  suggest that trifluralin is not subject to counteractions of these multidrug  resistance mechanisms of Leishmania species.

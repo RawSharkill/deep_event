@@ -1,0 +1,14 @@
+T1	Antibiotic 187 201	aminoglycoside
+T2	Antibiotic 247 262	gentamicin G418
+T3	Antibiotic 268 280	hygromycin B
+T4	Antibiotic 233 244	paromomycin
+T5	Antibiotic 450 464	aminoglycoside
+T6	Bacteria 502 516	T. thermophila
+T7	Antibiotic 554 565	paromomycin
+T8	Antibiotic 1684 1696	hygromycin B
+T9	Antibiotic 1356 1368	Hygromycin B
+T10	Antibiotic 1170 1181	paromomycin
+T11	Antibiotic 1187 1202	gentamicin G418
+T12	Antibiotic 1107 1118	paromomycin
+T13	Antibiotic 571 586	gentamicin G418
+T14	Antibiotic 24 38	aminoglycoside

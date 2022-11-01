@@ -1,0 +1,14 @@
+T1	Antibiotic 36 56	class G tetracycline
+T2	Bacteria 86 104	Vibrio anguillarum
+T5	Antibiotic 139 159	class G tetracycline
+T6	Bacteria 209 227	Vibrio anguillarum
+T7	Antibiotic 823 835	tetracycline
+T3	Gene 332 337	tet A
+T4	Gene 446 451	tet R
+T8	Gene 608 613	tet A
+T9	Gene 621 626	tet R
+T10	Protein 751 755	Tn10
+T11	Protein 670 673	RP1
+T12	Protein 674 680	Tn1721
+T13	Protein 695 701	pSC101
+T14	Protein 702 708	pBR322

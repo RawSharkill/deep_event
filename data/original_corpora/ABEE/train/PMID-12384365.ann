@@ -1,0 +1,45 @@
+T1	Bacteria 56 73	Myroides odoratus
+T2	Bacteria 79 100	Myroides odoratimimus
+T3	Bacteria 111 134	Flavobacterium odoratum
+T4	Bacteria 208 225	Myroides odoratus
+T5	Bacteria 230 251	Myroides odoratimimus
+T6	Bacteria 297 320	Flavobacterium odoratum
+T8	Antibiotic 482 493	carbapenems
+T9	Bacteria 518 540	M. odoratus CIP 103105
+T10	Bacteria 545 571	M. odoratimimus CIP 103073
+T11	Bacteria 684 700	Escherichia coli
+T12	Bacteria 802 824	M. odoratus CIP 103105
+T13	Bacteria 829 856	M. odoratimimus CIP  103073
+T14	Bacteria 1204 1232	Chryseobacterium indologenes
+T15	Bacteria 1428 1442	Flavobacterium
+T16	Antibiotic 1593 1602	aztreonam
+T18	Bacteria 1770 1787	Flavobacteriaceae
+*	Equiv T9 T1
+*	Equiv T10 T2
+T17	Protein 1396 1424	subclass B1  beta-lactamases
+T19	Protein 178 204	subclass B1 metalloenzymes
+T7	Protein 1070 1109	subclass B1 of  metallo-beta-lactamases
+T20	Protein 1360 1379	subclass B1 enzymes
+T21	Protein 1145 1159	metalloenzymes
+T22	Protein 1682 1696	metalloenzymes
+T23	Protein 1750 1764	metalloenzymes
+T24	Antibiotic_inactivation 1531 1541	hydrolysis
+E1	Antibiotic_inactivation:T24 Cause:T28
+T25	Protein 883 893	amino acid
+T26	Protein 714 724	amino acid
+T27	Bacteria 326 347	gram-negative aerobes
+T28	Antibiotic 1573 1585	beta-lactams
+T29	Antibiotic 1857 1869	beta-lactams
+T30	Protein 781 786	TUS-1
+T31	Protein 791 796	MUS-1
+T32	Protein 920 925	TUS-1
+T33	Protein 931 936	MUS-1
+T34	Protein 35 40	TUS-1
+T35	Protein 45 50	MUS-1
+T36	Antibiotic 435 447	beta-lactams
+T37	Protein 1302 1307	TUS-1
+T38	Protein 1312 1317	MUS-1
+T39	Protein 1500 1505	TUS-1
+T40	Protein 1510 1515	MUS-1
+T41	Protein 1630 1635	MUS-1
+T42	Protein 1620 1625	TUS-1

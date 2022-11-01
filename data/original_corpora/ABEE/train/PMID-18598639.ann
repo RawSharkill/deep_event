@@ -1,0 +1,11 @@
+T1	Bacteria 64 83	Vibrio cholerae  O1
+T3	Bacteria 146 164	Vibrio cholerae O1
+T4	Bacteria 286 302	parahaemolyticus
+T5	Bacteria 343 357	V. cholerae O1
+*	Equiv T5 T3
+T6	Bacteria 392 403	V. cholerae
+T2	Antibiotic 122 135	ciprofloxacin
+T7	Gene 95 98	qnr
+T8	Gene 205 211	qnrVC1
+T9	Gene 367 373	qnrVC2
+T10	Gene 4 7	qnr

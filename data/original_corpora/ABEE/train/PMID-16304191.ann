@@ -1,0 +1,16 @@
+T1	Bacteria 61 83	Klebsiella  pneumoniae
+T2	Bacteria 151 172	Klebsiella pneumoniae
+T3	Gene 286 297	bla(VIM-12)
+T4	Gene 212 223	bla(VIM-12)
+T5	Gene 233 241	bla(VIM)
+T6	Gene 279 284	aacA7
+T7	Protein 0 6	VIM-12
+T8	Gene 567 577	bla(VIM-2)
+T9	Gene 365 375	bla(VIM-1)
+T10	Gene 320 330	bla(VIM-1)
+T11	Gene 335 345	bla(VIM-2)
+T12	Gene 492 503	bla(VIM-12)
+T13	Gene 476 486	bla(VIM-2)
+T14	Protein 33 55	metallo-beta-lactamase
+T15	Protein 101 106	VIM-1
+T16	Protein 107 112	VIM-2

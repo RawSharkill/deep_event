@@ -1,0 +1,24 @@
+T1	Antibiotic 13 26	spectinomycin
+T3	Bacteria 126 142	Escherichia coli
+T4	Bacteria 147 157	Salmonella
+T2	Bacteria 67 107	Salmonella  enterica serovar Typhimurium
+T5	Antibiotic 236 249	spectinomycin
+T6	Bacteria 313 352	Salmonella enterica serovar Typhimurium
+T7	Antibiotic 492 505	spectinomycin
+T8	Antibiotic 510 522	fusidic acid
+T9	Antibiotic_target_alteration 38 47	mutations
+E1	Antibiotic_target_alteration:T9 Theme:T2
+T10	Antibiotic_target_alteration 177 186	mutations
+E2	Antibiotic_target_alteration:T10 Theme:T6
+T15	Antibiotic 569 582	spectinomycin
+T16	Bacteria 586 610	Escherichia coli strains
+T17	Bacteria 701 711	Salmonella
+T14	Antibiotic_target_alteration 369 378	mutations
+E7	Antibiotic_target_alteration:T14 Theme:T6
+T18	Antibiotic_target_alteration 529 538	mutations
+E9	Antibiotic_target_alteration:T18 Theme:T16
+T20	Bacteria 763 778	E. coli strains
+T21	Antibiotic 853 866	spectinomycin
+T23	Antibiotic 953 966	spectinomycin
+T24	Bacteria 1056 1063	E. coli
+T25	Bacteria 1099 1109	Salmonella

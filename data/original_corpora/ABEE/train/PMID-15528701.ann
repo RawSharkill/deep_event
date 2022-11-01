@@ -1,0 +1,23 @@
+T3	Bacteria 33 55	Pseudomonas aeruginosa
+T4	Antibiotic 172 180	imipenem
+T8	Antibiotic 1284 1292	imipenem
+T9	Antibiotic 1925 1933	imipenem
+T2	Bacteria 198 229	Pseudomonas aeruginosa isolates
+T1	Antibiotic 12 22	carbapenem
+T5	Protein 66 71	VIM-8
+T6	Gene 803 806	bla
+T11	Gene 816 819	bla
+T7	Gene 1831 1834	bla
+T10	Gene 2021 2024	bla
+T12	Gene 2142 2145	bla
+T13	Gene 1516 1519	bla
+T14	Gene 1427 1430	bla
+T15	Gene 1600 1603	bla
+T16	Protein 83 105	metallo-beta-lactamase
+T17	Protein 820 823	VIM
+T18	Protein 1604 1609	VIM-2
+T19	Protein 1431 1434	VIM
+T20	Protein 807 810	IMP
+T21	Protein 1520 1525	VIM-8
+T22	Protein 1835 1838	VIM
+T23	Protein 2146 2149	VIM

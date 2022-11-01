@@ -1,0 +1,26 @@
+T1	Antibiotic 14 24	quinolones
+T2	Bacteria 33 55	Pseudomonas aeruginosa
+T3	Antibiotic 1174 1184	quinolones
+T4	Antibiotic 1292 1302	quinolones
+T5	Bacteria 1067 1089	Pseudomonas aeruginosa
+T6	Antibiotic 1529 1538	quinolone
+T7	Bacteria 1344 1366	Pseudomonas aeruginosa
+T8	Antibiotic 1047 1057	quinolones
+T9	Antibiotic 157 166	ofloxacin
+T10	Antibiotic 710 720	quinolones
+T11	Bacteria 824 847	 Pseudomonas aeruginosa
+T12	Antibiotic 949 962	ciprofloxacin
+T13	Antibiotic 966 975	ofloxacin
+T14	Antibiotic 315 325	quinolones
+T15	Antibiotic 1663 1671	uinolone
+T16	Bacteria 1741 1763	Pseudomonas aeruginosa
+T17	Antibiotic 803 815	levofloxacin
+T18	Antibiotic 790 799	ofloxacin
+T19	Antibiotic 185 197	levofloxacin
+T20	Antibiotic 221 234	ciprofloxacin
+T21	Bacteria 279 301	Pseudomonas aeruginosa
+T22	Bacteria 370 392	Pseudomonas aeruginosa
+T23	Bacteria 412 434	Gram-negative bacteria
+T24	Bacteria 553 575	Pseudomonas aeruginosa
+T25	Antibiotic 753 766	ciprofloxacin
+T26	Bacteria 1688 1711	Pseudomonas  aeruginosa

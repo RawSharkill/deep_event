@@ -1,0 +1,13 @@
+T1	Antibiotic 59 72	penicillinase
+T2	Antibiotic 106 119	penicillinase
+T3	Antibiotic 602 615	penicillinase
+T4	Bacteria 638 652	staphylococcus
+T5	Antibiotic 773 789	benzylpenicillin
+T6	Antibiotic 791 801	ampicillin
+T7	Antibiotic 806 817	methicillin
+T8	Antibiotic 1026 1037	methicillin
+T9	Bacteria 1050 1072	staphylococcal strains
+T10	Antibiotic 1102 1118	benzylpenicillin
+T11	Antibiotic 1120 1130	ampicillin
+T12	Antibiotic 1135 1146	methicillin
+T13	Antibiotic 1288 1298	penicillin

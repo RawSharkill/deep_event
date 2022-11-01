@@ -1,0 +1,12 @@
+T1	Bacteria 23 45	Pseudomonas aeruginosa
+T2	Bacteria 183 205	Pseudomonas aeruginosa
+T3	Antibiotic 89 104	aminoglycosides
+T4	Antibiotic 624 632	amikacin
+T5	Antibiotic 255 263	amikacin
+T6	Antibiotic_inactivation 633 645	inactivating
+E1	Antibiotic_inactivation:T6 Theme:T2 Cause:T4
+T7	Antibiotic 508 516	amikacin
+T8	Antibiotic 431 445	aminoglycoside
+T9	Antibiotic 347 358	Ceftazidime
+T10	Antibiotic 360 368	imipenem
+T11	Antibiotic 375 385	cefsulodin

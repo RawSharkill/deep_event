@@ -1,0 +1,11 @@
+T1	Bacteria 25 36	enterococci
+T2	Bacteria 87 98	enterococci
+T3	Antibiotic 250 264	aminoglycoside
+T4	Antibiotic 316 326	vancomycin
+T5	Bacteria 357 378	enterococcal isolates
+T6	Antibiotic 571 583	streptomycin
+T7	Antibiotic 658 668	gentamicin
+T8	Antibiotic 714 724	vancomycin
+T10	Antibiotic 860 874	aminoglycoside
+T11	Bacteria 937 949	enterococcal
+T12	Antibiotic 1032 1046	aminoglycoside

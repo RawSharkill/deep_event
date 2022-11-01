@@ -1,0 +1,8 @@
+T1	Antibiotic_target_protection 54 64	Protection
+E1	Antibiotic_target_protection:T1 
+T2	Antibiotic_target_protection 581 591	protection
+E2	Antibiotic_target_protection:T2 Cause:T3
+T3	Antibiotic 646 654	ribosome
+T4	Protein 124 131	(ABC)-F
+T5	Protein 22 27	ABC-F
+T6	Antibiotic 777 782	ABC-F

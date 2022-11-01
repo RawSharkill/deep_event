@@ -1,0 +1,37 @@
+T1	Bacteria 14 35	Neisseria gonorrhoeae
+T2	Bacteria 171 192	Neisseria gonorrhoeae
+T3	Bacteria 215 225	gonococcal
+T4	Bacteria 822 845	Pseudomonas  aeruginosa
+T5	Bacteria 882 898	Escherichia coli
+T6	Bacteria 1169 1178	gonococci
+T7	Bacteria 1267 1276	gonococci
+T8	Bacteria 1885 1895	gonococcal
+T9	Gene 444 448	mtrR
+T10	Protein 498 502	MtrR
+T11	Gene 545 551	mtrCDE
+T12	Protein 93 100	mtrRCDE
+T13	Gene 678 684	mtrCDE
+T14	Gene 557 563	mtrCDE
+T15	Gene 662 666	mtrR
+T16	Bacteria 705 719	N. gonorrhoeae
+*	Equiv T16 T2
+T17	Antibiotic_efflux 101 114	efflux system
+E1	Antibiotic_efflux:T17 Theme:T1
+T18	Protein 800 809	MexABOprK
+T19	Protein 854 859	AcrAE
+T20	Protein 864 869	EnvCD
+T21	Gene 977 981	mtrC
+T22	Protein 1012 1016	MtrC
+T23	Bacteria 1042 1051	gonococci
+T24	Gene 1214 1220	mtrCDE
+T25	Gene 1162 1165	HAR
+T26	Gene 1260 1263	HAR
+T27	Gene 1335 1339	mtrR
+T28	Gene 1413 1417	mtrR
+T29	Protein 1467 1471	MtrC
+T30	Protein 1478 1481	HAR
+T31	Protein 1507 1511	MtrC
+T32	Protein 1516 1519	HAR
+T33	Gene 1681 1685	mtrR
+T34	Gene 1690 1694	mtrC
+T35	Gene 1833 1840	mtrRCDE

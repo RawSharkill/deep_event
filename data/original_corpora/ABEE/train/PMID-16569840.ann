@@ -1,0 +1,47 @@
+T1	Bacteria 25 46	Staphylococcus aureus
+T2	Antibiotic_efflux 69 75	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 164 185	Staphylococcus aureus
+T4	Antibiotic_efflux 286 292	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Gene 141 147	mepRAB
+T6	Protein 0 4	MepR
+T7	Protein 47 51	MATE
+T8	Protein 83 87	MepA
+T9	Protein 196 200	MarR
+T10	Protein 221 225	MepR
+T11	Gene 244 248	mepA
+T12	Protein 264 268	MATE
+T13	Protein 300 304	MepA
+T14	Protein 342 346	MepB
+T15	Protein 379 383	MepR
+T16	Gene 486 490	mepR
+T17	Gene 492 496	lacZ
+T18	Gene 509 513	mepR
+T19	Gene 582 586	mepA
+T20	Gene 588 592	lacZ
+T21	Protein 644 648	MepA
+T22	Protein 755 759	MepR
+T23	Gene 713 717	mepA
+T24	Gene 778 782	mepR
+T25	Gene 788 792	mepA
+T26	Gene 837 841	mepA
+T27	Protein 856 860	MepA
+T28	Protein 883 887	MepR
+T29	Protein 977 981	MepR
+T30	Gene 982 986	mepA
+T31	Gene 1149 1153	mepR
+T32	Gene 1158 1162	mepA
+T33	Protein 1251 1255	MepR
+T34	Protein 1327 1331	QacR
+T35	Protein 1348 1352	MepR
+T36	Gene 1409 1413	mepA
+T37	Gene 1451 1455	mepR
+T38	Gene 1547 1551	mepA
+T39	Gene 1564 1568	mepR
+T40	Protein 1593 1597	MepR
+T41	Gene 1598 1602	mepA
+T42	Gene 1658 1662	mepA
+T43	Gene 1693 1697	mepR
+T44	Protein 1731 1735	MepA
+T45	Protein 1758 1762	MepR

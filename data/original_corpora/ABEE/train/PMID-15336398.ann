@@ -1,0 +1,17 @@
+T1	Bacteria 70 93	Pseudomonas  aeruginosa
+T2	Antibiotic_efflux 44 55	efflux pump
+E1	Antibiotic_efflux:T2 Theme:T1
+T4	Antibiotic 234 248	aminoglycoside
+T5	Bacteria 263 285	Pseudomonas aeruginosa
+T6	Antibiotic_efflux 199 210	transporter
+E3	Antibiotic_efflux:T6 Theme:T5 Cause:T4
+T3	Protein 0 4	MexZ
+T7	Protein 140 144	MexZ
+T8	Gene 112 116	mexZ
+T9	Protein 304 308	MexZ
+T10	Gene 359 363	mexZ
+T11	Gene 117 121	mexX
+T12	Gene 364 370	mexX  
+T13	Protein 551 555	MexZ
+T14	Protein 675 679	MexZ
+T15	Protein 892 896	MexZ

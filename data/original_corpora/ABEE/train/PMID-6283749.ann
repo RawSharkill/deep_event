@@ -1,0 +1,13 @@
+T1	Antibiotic 14 28	streptothricin
+T2	Bacteria 52 62	E coli K12
+T4	Antibiotic 123 137	streptothricin
+T5	Bacteria 158 178	Escherichia coli K12
+T7	Antibiotic 280 294	Nourseothricin
+T8	Antibiotic 311 333	streptothricin F and D
+T9	Bacteria 446 469	E. coli  A19 Stcr 2/2/1
+T10	Antibiotic 508 533	aminoglycoside antibiotic
+T11	Antibiotic 577 592	chloramphenicol
+T12	Antibiotic 597 613	chlortetracyclin
+T13	Antibiotic 671 685	streptothricin
+T14	Antibiotic 691 717	aminoglycoside antibiotics
+T3	Antibiotic 414 428	streptothricin

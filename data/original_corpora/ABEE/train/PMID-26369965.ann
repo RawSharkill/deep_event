@@ -1,0 +1,51 @@
+T1	Antibiotic 92 101	Isoniazid
+T2	Antibiotic 106 117	Ethionamide
+T3	Bacteria 121 147	Mycobacterium tuberculosis
+T4	Antibiotic 170 181	Ethionamide
+T5	Antibiotic 183 186	ETH
+*	Equiv T5 T4
+T6	Bacteria 355 381	Mycobacterium tuberculosis
+T7	Antibiotic 394 397	ETH
+T8	Bacteria 412 429	M.   tuberculosis
+*	Equiv T8 T6
+T9	Antibiotic 496 505	isoniazid
+T10	Antibiotic 507 510	INH
+*	Equiv T10 T9
+T11	Antibiotic 553 556	INH
+T12	Antibiotic 561 564	ETH
+T13	Bacteria 716 731	M. tuberculosis
+T14	Antibiotic 1606 1609	INH
+T15	Antibiotic 1614 1617	ETH
+T16	Antibiotic 1695 1698	INH
+T17	Antibiotic 1784 1787	ETH
+T18	Bacteria 1795 1810	M. tuberculosis
+T19	Antibiotic 1872 1875	ETH
+T20	Gene 1507 1511	ethA
+T21	Gene 1513 1517	mshA
+T22	Gene 1519 1523	katG
+T23	Gene 1529 1532	ndh
+T24	Gene 1415 1419	mshA
+T25	Gene 1277 1281	inhA
+T26	Gene 1268 1272	mshA
+T27	Gene 1246 1250	ethA
+T28	Gene 1216 1220	katG
+T29	Gene 1091 1095	mshA
+T30	Gene 1105 1108	ndh
+T31	Gene 1123 1127	inhA
+T32	Antibiotic 1159 1162	ETH
+T33	Gene 641 645	katG
+T34	Gene 647 651	ethA
+T35	Gene 653 657	ethR
+T36	Gene 660 664	mshA
+T37	Gene 666 669	ndh
+T38	Gene 675 679	inhA
+T39	Antibiotic 788 791	ETH
+T40	Antibiotic 751 754	ETH
+T41	Antibiotic 804 819	MDR-TB isolates
+T42	Antibiotic 1000 1003	ETH
+T43	Antibiotic 1014 1029	MDR-TB isolates
+T44	Gene 1076 1080	ethA
+T45	Gene 1062 1066	katG
+T46	Bacteria 1175 1190	MDR-TB isolates
+T47	Antibiotic_target_alteration 1203 1212	mutations
+E1	Antibiotic_target_alteration:T47 Cause:T32 Theme:T46

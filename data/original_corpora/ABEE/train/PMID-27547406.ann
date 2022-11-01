@@ -1,0 +1,20 @@
+T1	Bacteria 107 128	Staphylococcus aureus
+T2	Bacteria 285 306	Staphylococcus aureus
+T3	Bacteria 393 402	S. aureus
+*	Equiv T3 T2
+T4	Bacteria 520 529	S. aureus
+T5	Bacteria 1400 1409	S. aureus
+T6	Antibiotic 1564 1576	tetracycline
+T7	Antibiotic 1578 1590	erythromycin
+T8	Antibiotic 1592 1602	rifampicin
+T9	Antibiotic 1604 1612	amikacin
+T10	Antibiotic 1619 1631	streptomycin
+T11	Antibiotic 1711 1723	beta-lactams
+T12	Antibiotic 1725 1740	chloramphenicol
+T13	Antibiotic 1742 1754	trimethoprim
+T14	Antibiotic 1756 1765	quinolone
+T15	Antibiotic 1768 1780	streptomycin
+T16	Antibiotic 1785 1797	tetracycline
+T17	Antibiotic 1378 1389	methicillin
+T18	Gene 1414 1419	lukFS
+T19	Gene 661 665	mecA

@@ -1,0 +1,26 @@
+T1	Antibiotic 26 36	vancomycin
+T2	Antibiotic 120 130	vancomycin
+T3	Antibiotic 348 358	vancomycin
+T4	Antibiotic 415 425	vancomycin
+T5	Bacteria 494 526	Desulfitobacterium hafniense Y51
+T6	Bacteria 71 99	Desulfitobacterium hafniense
+T7	Bacteria 658 670	D. hafniense
+*	Equiv T7 T6
+T8	Bacteria 672 690	D. chlororespirans
+T9	Bacteria 711 734	Desulfosporosinus  spp.
+T10	Bacteria 791 809	Desulfitobacterium
+T11	Bacteria 814 836	Desulfosporosinus spp.
+T12	Bacteria 937 965	Desulfitobacterium hafniense
+T13	Bacteria 971 989	D. chlororespirans
+T14	Antibiotic 1144 1154	vancomycin
+T15	Bacteria 1196 1210	Actinobacteria
+T16	Antibiotic 1376 1386	vancomycin
+T17	Antibiotic 1524 1534	vancomycin
+T18	Bacteria 1557 1569	D. hafniense
+T19	Bacteria 192 214	Gram-positive bacteria
+T20	Gene 617 621	vanI
+T21	Antibiotic 770 780	vancomycin
+T22	Antibiotic 1233 1243	vancomycin
+T23	Gene 1275 1279	vanH
+T24	Gene 1626 1630	vanI
+T25	Gene 0 4	vanI

@@ -1,0 +1,6 @@
+T1	Antibiotic 1209 1219	novobiocin
+T2	Bacteria 1235 1247	Streptomyces
+T3	Antibiotic 1058 1067	macrolide
+T4	Antibiotic 1292 1302	novobiocin
+T5	Antibiotic_target_alteration 877 889	modification
+E1	Antibiotic_target_alteration:T5 Cause:T3

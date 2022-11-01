@@ -1,0 +1,20 @@
+T1	Antibiotic 73 83	vancomycin
+T3	Bacteria 98 128	Enterococcus gallinarum BM4174
+T4	Antibiotic 132 142	Vancomycin
+T6	Bacteria 157 180	Enterococcus gallinarum
+T7	Antibiotic_target_alteration 198 208	production
+E3	Antibiotic_target_alteration:T7 Theme:T6
+T8	Bacteria 429 452	Escherichia coli TKL-10
+T9	Bacteria 658 685	Bacillus stearothermophilus
+T10	Bacteria 603 618	Ent. gallinarum
+T11	Bacteria 727 741	E. coli TKL-10
+T12	Bacteria 834 848	E. coli TKL-10
+T13	Bacteria 988 1002	E. coli TKL-10
+T14	Bacteria 1103 1117	E. coli TKL-10
+T15	Bacteria 1133 1145	E. coli XL-1
+T16	Bacteria 1246 1261	E. coli  TKL-10
+T17	Bacteria 1406 1417	E. coli M15
+T18	Bacteria 1890 1897	E. coli
+*	Equiv T10 T6
+T2	Gene 42 46	VanT
+T5	Gene 1373 1377	VanT

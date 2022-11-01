@@ -1,0 +1,24 @@
+T2	Antibiotic_target_alteration 532 541	modifying
+E1	Antibiotic_target_alteration:T2 Cause:T3
+T3	Antibiotic 605 620	aminoglycosides
+T4	Antibiotic 622 641	AAC(6')-I (T, N, A)
+T5	Antibiotic 643 658	APH (2") (G, T)
+T6	Antibiotic 660 676	APH (3')-VI  (I)
+T7	Antibiotic 438 452	aminoglycoside
+T8	Antibiotic 166 180	gentamicin (G)
+T9	Bacteria 57 93	Pseudomonas aeruginosa  serotype O11
+T10	Antibiotic 138 152	aminoglycoside
+T11	Antibiotic 183 197	tobramycin (T)
+T12	Antibiotic 199 213	netilmicin (N)
+T13	Antibiotic 215 227	amikacin (A)
+T14	Antibiotic 232 246	isepamicin (I)
+T15	Bacteria 290 325	Pseudomonas aeruginosa serotype O11
+T16	Antibiotic 915 929	aminoglycoside
+T17	Bacteria 969 987	P. aeruginosa 1008
+T18	Antibiotic 28 42	aminoglycoside
+T19	Antibiotic_target_alteration 954 965	conjugation
+E2	Antibiotic_target_alteration:T19 Cause:T16 Theme:T17
+E3	Antibiotic_target_alteration:T2 Cause:T4
+E4	Antibiotic_target_alteration:T2 Cause:T5
+E5	Antibiotic_target_alteration:T2 Cause:T6
+T1	Protein 542 556	enzymes (AGME)

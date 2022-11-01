@@ -1,0 +1,9 @@
+T1	Antibiotic 22 34	tetracycline
+T3	Antibiotic 140 152	tetracycline
+T5	Bacteria 339 364	Fusobacterium prausnitzii
+T6	Bacteria 369 391	Bifidobacterium longum
+T7	Bacteria 466 491	Butyrivibrio fibrisolvens
+T2	Gene 51 57	tet(W)
+T4	Gene 243 249	tet(W)
+T8	Gene 310 316	tet(W)
+T9	Gene 170 177	 tet(W)

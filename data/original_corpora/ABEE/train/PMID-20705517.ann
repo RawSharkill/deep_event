@@ -1,0 +1,21 @@
+T1	Antibiotic 202 212	carbapenem
+T2	Bacteria 383 401	Enterobacteriaceae
+T3	Bacteria 444 462	Enterobacteriaceae
+T4	Antibiotic 696 706	carbapenem
+T5	Bacteria 1199 1215	Escherichia coli
+T6	Bacteria 1225 1246	Klebsiella pneumoniae
+T7	Antibiotic 1312 1323	tigecycline
+T8	Antibiotic 1329 1337	colistin
+T9	Bacteria 1339 1351	K pneumoniae
+*	Equiv T9 T6
+T10	Gene 723 733	bla(NDM-1)
+T11	Gene 1390 1395	NDM-1
+T12	Gene 1480 1484	NDM-
+T13	Gene 1623 1628	NDM-1
+T14	Gene 1774 1779	NDM-1
+T15	Gene 263 268	NDM-1
+T16	Protein 227 261	New Delhi metallo-beta-lactamase 1
+T17	Gene 352 357	NDM-1
+T18	Bacteria 164 182	Enterobacteriaceae
+T19	Gene 1075 1080	NDM-1
+T20	Gene 1169 1174	NDM-1

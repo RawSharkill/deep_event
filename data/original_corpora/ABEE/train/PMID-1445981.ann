@@ -1,0 +1,18 @@
+T1	Bacteria 493 509	Escherichia coli
+T2	Bacteria 404 426	Haemophilus influenzae
+T3	Antibiotic 434 444	ampicillin
+T4	Antibiotic 511 521	ampicillin
+T5	Antibiotic 603 634	third-generation cephalosporins
+T6	Bacteria 783 801	Enterobacteriaceae
+T7	Bacteria 807 829	Pseudomonas aeruginosa
+T8	Antibiotic 890 904	cephalosporins
+T9	Bacteria 906 929	Xanthomonas maltophilia
+T10	Antibiotic 1059 1067	imipenem
+T11	Antibiotic 0 11	beta-Lactam
+T12	Bacteria 26 48	gram-negative bacteria
+T13	Antibiotic 290 301	beta-lactam
+T14	Bacteria 375 397	gram-negative bacteria
+T15	Protein 682 697	beta-lactamases
+T16	Antibiotic 746 757	beta-lactam
+T17	Antibiotic 1234 1245	beta-lactam
+T18	Protein 953 968	beta-lactamases

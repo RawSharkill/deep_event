@@ -1,0 +1,24 @@
+T1	Bacteria 46 70	gram-positive infections
+T2	Antibiotic 475 486	methicillin
+T3	Bacteria 508 517	S. aureus
+T4	Bacteria 522 536	S. epidermidis
+T5	Bacteria 351 372	Staphylococcus aureus
+T6	Bacteria 374 398	Staphylococcus epidermis
+T7	Bacteria 240 262	Gram-positive bacteria
+T8	Antibiotic 102 112	vancomycin
+T9	Antibiotic 117 128	teicoplanin
+T10	Bacteria 417 428	Clostridium
+T11	Bacteria 401 412	enterococci
+T12	Antibiotic 538 550	Glycopeptide
+T13	Antibiotic 15 25	vancomycin
+T14	Antibiotic 0 11	Teicoplanin
+T15	Bacteria 587 600	staphylococci
+T16	Bacteria 605 616	enterococci
+T17	Antibiotic 618 628	Vancomycin
+T18	Antibiotic 1112 1123	 vancomycin
+T19	Bacteria 1560 1584	Gram-positive infections
+T20	Antibiotic 1462 1472	vancomycin
+T21	Antibiotic 840 851	teicoplanin
+T22	Antibiotic 1212 1222	vancomycin
+T23	Antibiotic 1406 1417	teicoplanin
+T24	Antibiotic 660 671	teicoplanin

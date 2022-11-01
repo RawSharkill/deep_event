@@ -1,0 +1,28 @@
+T1	Antibiotic 64 80	fluoroquinolones
+T2	Antibiotic 156 172	fluoroquinolones
+T3	Antibiotic 174 187	ciprofloxacin
+T4	Antibiotic 189 197	enoxacin
+T5	Antibiotic 199 210	norfloxacin
+T6	Antibiotic 212 221	ofloxacin
+T7	Antibiotic 227 239	temafloxacin
+T8	Bacteria 485 503	Enterobacteriaceae
+T9	Antibiotic 564 577	ciprofloxacin
+T10	Bacteria 604 626	Moraxella  catarrhalis
+T11	Bacteria 628 639	Haemophilus
+T12	Bacteria 655 676	Neisseria gonorrhoeae
+T13	Antibiotic 779 792	ciprofloxacin
+T14	Bacteria 834 845	pneumococci
+T15	Bacteria 817 829	streptococci
+T16	Bacteria 959 979	Citrobacter freundii
+T17	Bacteria 984 1004	Providencia rettgeri
+T18	Bacteria 1041 1063	Pseudomonas aeruginosa
+T20	Bacteria 1287 1300	staphylococci
+T21	Bacteria 1302 1313	pseudomonas
+T22	Bacteria 1324 1342	Enterobacteriaceae
+T19	Antibiotic 21 30	OPC-17116
+T23	Antibiotic 108 117	OPC-17116
+T24	Antibiotic 521 530	OPC-17116
+T25	Antibiotic 847 856	OPC-17116
+T26	Antibiotic 1104 1113	OPC-17116
+T27	Antibiotic 1193 1202	OPC-17116
+T28	Antibiotic 703 712	OPC-17116

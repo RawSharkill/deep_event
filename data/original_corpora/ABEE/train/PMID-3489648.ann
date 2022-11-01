@@ -1,0 +1,29 @@
+T1	Antibiotic 14 26	beta-lactams
+T2	Bacteria 30 48	Enterobacteriaceae
+T3	Antibiotic 149 160	amoxycillin
+T4	Antibiotic 162 165	Amo
+*	Equiv T4 T3
+T5	Antibiotic 168 179	ticarcillin
+T6	Antibiotic 181 184	Tic
+*	Equiv T6 T5
+T7	Antibiotic 187 198	cephalothin
+T8	Antibiotic 201 204	Ctn
+*	Equiv T8 T7
+T9	Bacteria 242 260	Enterobacteriaceae
+T10	Antibiotic 510 537	amoxycillin/clavulanic acid
+T11	Antibiotic 539 545	Amo/CA
+*	Equiv T11 T10
+T12	Antibiotic 551 578	ticarcillin/clavulanic acid
+T13	Antibiotic 580 586	Tic/CA
+*	Equiv T13 T12
+T14	Antibiotic 673 679	Amo/CA
+T15	Bacteria 705 721	Proteus vulgaris
+T16	Antibiotic 854 860	Amo/CA
+T17	Antibiotic 895 901	Tic/CA
+T18	Bacteria 984 1004	Serratia  marcescens
+T19	Antibiotic 1075 1081	Tic/CA
+T20	Bacteria 1113 1132	Serratia marcescens
+T21	Bacteria 1143 1165	Enterobacter   cloacae
+T22	Antibiotic 789 802	penicillinase
+T23	Antibiotic 432 445	penicillinase
+T24	Antibiotic 367 378	amoxycillin

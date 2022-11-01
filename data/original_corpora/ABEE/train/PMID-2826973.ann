@@ -1,0 +1,14 @@
+T1	Bacteria 96 116	Providencia stuartii
+T2	Bacteria 153 173	Providencia stuartii
+T3	Antibiotic 213 224	norfloxacin
+T4	Antibiotic 238 250	4-quinolones
+T5	Antibiotic 330 341	beta-lactam
+T6	Antibiotic 346 374	aminoglycoside   antibiotics
+T7	Antibiotic 481 492	norfloxacin
+T8	Antibiotic 497 510	ciprofloxacin
+T9	Antibiotic 777 789	4-quinolones
+T10	Antibiotic 53 64	norfloxacin
+T11	Antibiotic_target_alteration 667 680	modifications
+E1	Antibiotic_target_alteration:T11 Cause:T9 Theme:T2
+T12	Antibiotic_target_alteration 699 706	changes
+E2	Antibiotic_target_alteration:T12 Cause:T9 Theme:T2

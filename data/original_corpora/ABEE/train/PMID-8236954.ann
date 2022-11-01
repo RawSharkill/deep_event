@@ -1,0 +1,13 @@
+T1	Antibiotic 133 136	TMP
+T2	Antibiotic 119 131	trimethoprim
+*	Equiv T1 T2
+T3	Antibiotic 44 56	trimethoprim
+T4	Bacteria 60 83	Salmonella  typhimurium
+T5	Bacteria 167 189	Salmonella typhimurium
+T6	Antibiotic 384 387	TMP
+T7	Antibiotic 263 266	TMP
+T8	Bacteria 295 317	Salmonella typhimurium
+T9	Antibiotic 920 923	TMP
+T10	Antibiotic 956 959	TMP
+T11	Antibiotic 1196 1199	TMP
+T12	Antibiotic 1040 1043	TMP

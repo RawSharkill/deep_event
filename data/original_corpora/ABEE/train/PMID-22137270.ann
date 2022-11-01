@@ -1,0 +1,31 @@
+T1	Bacteria 102 123	Enterococcus faecalis
+T2	Bacteria 139 160	Enterococcus faecalis
+T3	Bacteria 343 354	E. faecalis
+*	Equiv T3 T1
+T4	Bacteria 456 467	E. faecalis
+T5	Bacteria 927 938	E. faecalis
+T6	Antibiotic 974 986	erythromycin
+T7	Antibiotic 991 1001	ampicillin
+T8	Bacteria 1396 1407	E. faecalis
+T9	Bacteria 1627 1638	E. faecalis
+T11	Antibiotic_efflux 45 51	efflux
+E2	Antibiotic_efflux:T11 
+T10	Antibiotic 299 311	erythromycin
+T12	Antibiotic 283 293	ampicillin
+T13	Antibiotic_efflux 804 810	efflux
+E1	Antibiotic_efflux:T13 
+T14	Antibiotic_efflux 883 889	efflux
+E3	Antibiotic_efflux:T14 
+T15	Protein 1123 1143	TEM-1 beta-lactamase
+T16	Antibiotic_efflux 1237 1243	efflux
+E4	Antibiotic_efflux:T16 
+T17	Antibiotic_efflux 1208 1214	efflux
+E5	Antibiotic_efflux:T17 
+T18	Antibiotic_efflux 1338 1344	efflux
+E6	Antibiotic_efflux:T18 
+T19	Protein 1443 1461	TEM beta-lactamase
+T20	Antibiotic_efflux 1486 1492	efflux
+E7	Antibiotic_efflux:T20 
+T21	Gene 1480 1484	msrB
+T22	Gene 1475 1479	msrA
+T23	Gene 1466 1470	mefA

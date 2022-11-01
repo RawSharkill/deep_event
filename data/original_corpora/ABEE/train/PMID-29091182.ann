@@ -1,0 +1,35 @@
+T1	Antibiotic 76 85	triclosan
+T2	Bacteria 235 245	Salmonella
+T3	Antibiotic 250 260	quinolones
+T4	Antibiotic 265 274	triclosan
+T5	Bacteria 420 436	Escherichia coli
+T6	Antibiotic 475 484	triclosan
+T7	Antibiotic 501 510	quinolone
+T8	Bacteria 535 542	E. coli
+*	Equiv T8 T5
+T9	Bacteria 544 584	Salmonella enterica serovar  Typhimurium
+T10	Antibiotic 867 876	triclosan
+T11	Antibiotic 892 901	quinolone
+T12	Antibiotic 975 984	triclosan
+T13	Antibiotic 1079 1088	triclosan
+T14	Bacteria 1318 1325	E. coli
+T15	Antibiotic 1416 1425	triclosan
+T16	Antibiotic 1482 1491	triclosan
+T17	Antibiotic 1511 1520	quinolone
+T18	Antibiotic 1601 1610	triclosan
+T19	Bacteria 1700 1707	E. coli
+T20	Bacteria 1712 1722	Salmonella
+T21	Antibiotic 1760 1769	quinolone
+T22	Gene 1564 1568	gyrA
+T23	Gene 1834 1838	gyrA
+T24	Antibiotic 1871 1880	quinolone
+T25	Gene 1739 1743	gyrA
+T26	Gene 1669 1673	gyrA
+T27	Gene 1345 1349	GyrA
+T28	Gene 1128 1132	GyrA
+T29	Antibiotic 0 9	Quinolone
+T30	Gene 589 593	gyrA
+T31	Protein 1093 1099	gyrase
+T32	Protein 942 948	gyrase
+T33	Antibiotic_target_alteration 1744 1752	mutation
+E1	Antibiotic_target_alteration:T33 Cause:T21

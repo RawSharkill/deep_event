@@ -1,0 +1,12 @@
+T1	Bacteria 78 99	gram-negative bacilli
+T2	Antibiotic 113 121	amikacin
+T3	Antibiotic 315 325	gentamicin
+T4	Protein 397 432	aminoglycoside-6'-acetyltransferase
+T5	Antibiotic 453 461	amikacin
+T6	Bacteria 476 495	Serratia marcescens
+T7	Antibiotic_inactivation 440 451	inactivates
+E1	Antibiotic_inactivation:T7 Cause:T5 Theme:T6
+T8	Antibiotic 523 531	amikacin
+T9	Bacteria 563 585	Pseudomonas aeruginosa
+T10	Reduced_permeability_to_antibiotic 507 519	permeability
+E2	Reduced_permeability_to_antibiotic:T10 Cause:T8 Theme:T9

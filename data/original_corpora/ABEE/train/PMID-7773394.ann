@@ -1,0 +1,20 @@
+T1	Bacteria 113 134	Neisseria gonorrhoeae
+T2	Bacteria 189 210	Neisseria gonorrhoeae
+T3	Bacteria 653 668	N.  gonorrhoeae
+*	Equiv T3 T1
+T4	Bacteria 771 795	HA-sensitive strain FA19
+T5	Bacteria 1389 1401	strain  FA19
+*	Equiv T5 T4
+T6	Protein 60 64	MtrR
+T7	Gene 324 328	mtrR
+T8	Antibiotic_target_alteration 24 29	alter
+E1	Antibiotic_target_alteration:T8 Theme:T1
+T9	Gene 619 623	mtrR
+T10	Gene 744 748	mtrR
+T11	Gene 887 891	mtrR
+T12	Gene 932 938	Gly-45
+T13	Gene 942 945	Asp
+T14	Protein 1074 1078	MtrR
+T15	Gene 1293 1297	mtrR
+T16	Gene 1332 1336	mtrR
+T17	Gene 1519 1523	mtrR

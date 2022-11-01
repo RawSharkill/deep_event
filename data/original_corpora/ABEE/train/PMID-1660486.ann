@@ -1,0 +1,11 @@
+T1	Antibiotic 103 117	aminoglycoside
+T2	Antibiotic 515 529	aminoglycoside
+T3	Antibiotic 644 659	chloramphenicol
+T4	Protein 680 683	CAT
+T5	Antibiotic 549 558	Geneticin
+T6	Antibiotic 543 547	G418
+*	Equiv T5 T6
+T7	Antibiotic 774 778	G418
+T8	Antibiotic 1586 1590	G418
+T9	Antibiotic 1703 1707	G418
+T10	Antibiotic 2316 2330	aminoglycoside

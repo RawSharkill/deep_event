@@ -1,0 +1,10 @@
+T1	Antibiotic 0 13	Ciprofloxacin
+T2	Bacteria 50 90	Salmonella enterica serovar  Typhimurium
+T3	Bacteria 251 290	Salmonella enterica serovar Typhimurium
+T4	Bacteria 376 405	Salmonella Typhimurium SL1344
+T5	Antibiotic 503 516	ciprofloxacin
+T6	Antibiotic 1274 1285	cyclohexane
+T7	Antibiotic 1553 1566	ciprofloxacin
+T8	Bacteria 1785 1796	S. enterica
+T9	Gene 201 205	ramA
+T10	Gene 901 905	ramR

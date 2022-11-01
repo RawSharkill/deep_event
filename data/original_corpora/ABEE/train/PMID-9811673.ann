@@ -1,0 +1,23 @@
+T1	Bacteria 4 20	Escherichia coli
+T2	Antibiotic 153 166	spectinomycin
+T3	Bacteria 301 317	Escherichia coli
+T4	Antibiotic 608 621	spectinomycin
+T5	Protein 65 68	Cmr
+T6	Protein 69 73	MdfA
+T7	Antibiotic_efflux 53 59	efflux
+T8	Antibiotic 99 137	isopropyl-beta-D-thiogalactopyranoside
+E2	Antibiotic_efflux:T7 Theme:T1 Cause:T8
+T9	Gene 21 25	cmlA
+T10	Protein 318 322	CmlA
+T11	Protein 323 326	Cmr
+T12	Protein 327 331	MdfA
+T13	Gene 440 445	cmlA1
+T14	Gene 484 489	cmlA1
+T15	Gene 503 507	IS30
+T16	Gene 530 533	cmr
+T17	Gene 534 538	mdfA
+T18	Protein 576 580	CmlA
+T19	Antibiotic 214 252	isopropyl-beta-D-thiogalactopyranoside
+T20	Antibiotic 255 259	IPTG
+*	Equiv T20 T19
+T21	Antibiotic 379 383	IPTG

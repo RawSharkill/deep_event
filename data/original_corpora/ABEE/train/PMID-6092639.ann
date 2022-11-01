@@ -1,0 +1,23 @@
+T1	Bacteria 124 146	Pseudomonas aeruginosa
+T2	Bacteria 297 320	Pseudomonas  aeruginosa
+T3	Antibiotic 334 347	carbenicillin
+T4	Antibiotic 498 510	beta-lactams
+T5	Antibiotic 512 522	quinolones
+T6	Antibiotic 524 535	tetracyline
+T7	Antibiotic 541 556	chloramphenicol
+T8	Antibiotic 1143 1155	beta-lactams
+T9	Protein 0 27	Penicillin-binding proteins
+T10	Antibiotic 72 85	carbenicillin
+T11	Reduced_permeability_to_antibiotic 55 67	permeability
+E1	Reduced_permeability_to_antibiotic:T11 Cause:T10 Theme:T1
+T12	Protein 186 212	penicillin-binding protein
+T13	Reduced_permeability_to_antibiotic 162 174	permeability
+E2	Reduced_permeability_to_antibiotic:T13 Theme:T2 Cause:T3
+T14	Antibiotic 425 438	carbenicillin
+T15	Antibiotic 566 579	carbenicillin
+T16	Antibiotic 837 850	carbenicillin
+T17	Antibiotic 866 879	carbenicillin
+T18	Protein 941 968	penicillin-binding proteins
+T19	Antibiotic 972 985	carbenicillin
+T20	Antibiotic 1018 1031	carbenicillin
+T21	Antibiotic 1060 1073	carbenicillin

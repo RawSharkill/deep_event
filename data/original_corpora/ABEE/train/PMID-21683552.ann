@@ -1,0 +1,50 @@
+T1	Bacteria 221 237	Vibrio fluvialis
+T2	Bacteria 411 423	V. fluvialis
+*	Equiv T2 T1
+T3	Antibiotic 30 39	quinolone
+T4	Antibiotic 447 463	fluoroquinolones
+T5	Antibiotic 532 541	quinolone
+T6	Antibiotic 685 694	quinolone
+T7	Bacteria 918 935	Escherichia  coli
+T8	Antibiotic 1046 1059	ciprofloxacin
+T9	Antibiotic 1064 1075	norfloxacin
+T10	Bacteria 1438 1450	V. fluvialis
+T11	Antibiotic 1814 1830	fluoroquinolones
+T12	Gene 1081 1086	qnrA1
+T13	Gene 1659 1664	qnrA1
+T14	Gene 1694 1697	bla
+T15	Gene 1698 1705	CTX-M-3
+T16	Gene 1302 1305	bla
+T17	Gene 1306 1313	CTX-M-3
+T18	Gene 1121 1125	sul1
+T19	Gene 1226 1231	qnrA1
+T20	Protein 805 838	extended-spectrum beta-lactamases
+T21	Protein 72 105	extended-spectrum beta-lactamases
+T22	Gene 1643 1648	qnrA1
+T23	Gene 1355 1359	sul1
+T24	Gene 711 716	qnrA1
+T25	Gene 1676 1689	aac(6')-Ib-cr
+T26	Gene 1284 1297	aac(6')-Ib-cr
+T27	Gene 847 856	 bla(SHV)
+T28	Gene 861 873	bla(CTX-M-3)
+T29	Gene 768 781	aac(6')-Ib-cr
+T30	Gene 1521 1524	qnr
+T31	Antibiotic 110 125	fluoroquinolone
+T32	Antibiotic 139 153	aminoglycoside
+T33	Antibiotic_inactivation 159 176	acetyltransferase
+E1	Antibiotic_inactivation:T33 Cause:T32
+T34	Antibiotic_inactivation 0 12	Transferable
+E2	Antibiotic_inactivation:T34 Cause:T3
+T35	Antibiotic_inactivation 126 137	acetylating
+E3	Antibiotic_inactivation:T35 Cause:T31
+T36	Protein 584 588	GyrA
+T37	Antibiotic 468 479	beta-lactam
+T38	Antibiotic_target_alteration 514 523	mutations
+E4	Antibiotic_target_alteration:T38 Cause:T5 Theme:T2
+T39	Protein 612 616	ParC
+T40	Antibiotic 722 735	ciprofloxacin
+T41	Antibiotic_target_alteration 736 745	modifying
+E5	Antibiotic_target_alteration:T41 Cause:T40
+T42	Antibiotic 1835 1846	beta-lactam
+E6	Antibiotic_target_alteration:T38 Cause:T4 Theme:T2
+E7	Antibiotic_target_alteration:T38 Cause:T37 Theme:T2

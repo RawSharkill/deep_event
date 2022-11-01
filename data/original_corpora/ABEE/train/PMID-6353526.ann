@@ -1,0 +1,16 @@
+T1	Antibiotic 54 77	beta-lactam antibiotics
+T2	Antibiotic 160 183	beta-lactam antibiotics
+T3	Antibiotic 550 573	beta-lactam antibiotics
+T4	Antibiotic 598 613	aminoglycosides
+T5	Bacteria 648 660	Enterobacter
+T6	Bacteria 662 670	Serratia
+T7	Bacteria 676 694	Pseudomonas-genera
+T8	Antibiotic 874 897	beta-lactam antibiotics
+T9	Antibiotic 1509 1532	beta-lactam antibiotics
+T10	Antibiotic 1647 1672	beta-lactam   antibiotics
+T11	Protein 98 113	beta-lactamases
+T12	Protein 232 247	beta-lactamases
+T13	Protein 738 753	beta-lactamases
+T14	Protein 1058 1073	beta-lactamases
+T15	Protein 1176 1203	penicillin-binding proteins
+T16	Antibiotic 1431 1442	beta-lactam

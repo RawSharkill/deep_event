@@ -1,0 +1,10 @@
+T1	Bacteria 0 16	Candida albicans
+T2	Bacteria 141 157	Candida albicans
+T3	Bacteria 209 220	C. albicans
+*	Equiv T3 T2
+T4	Bacteria 275 282	Candida
+T5	Antibiotic 331 347	5-fluorocytosine
+T6	Bacteria 788 799	C. albicans
+T7	Bacteria 902 913	C. albicans
+T8	Bacteria 915 927	C.  albicans
+T9	Bacteria 1102 1113	C. albicans

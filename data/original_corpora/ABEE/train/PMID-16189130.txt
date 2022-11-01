@@ -1,0 +1,3 @@
+Contribution of mutation at amino acid 45 of AcrR to acrB expression and  ciprofloxacin resistance in clinical and veterinary Escherichia coli isolates.
+
+Fluoroquinolone resistant Escherichia coli isolates which overexpressed acrB and   had a substitution at amino acid 45 of AcrR were complemented with wild-type  acrR. Complementation led to increased sensitivity to ciprofloxacin and to  ethidium bromide, suggesting that mutation at amino acid 45 of AcrR contributes  to ciprofloxacin resistance.

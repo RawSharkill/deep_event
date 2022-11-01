@@ -1,0 +1,33 @@
+T1	Bacteria 39 62	Propionibacterium acnes
+T2	Antibiotic 191 207	fluoroquinolones
+T3	Bacteria 223 246	Propionibacterium acnes
+T4	Antibiotic 284 300	fluoroquinolones
+T5	Antibiotic 420 432	nadifloxacin
+T6	Antibiotic 889 902	ciprofloxacin
+T7	Antibiotic 907 919	levofloxacin
+T8	Antibiotic 980 992	nadifloxacin
+T9	Antibiotic 1049 1065	fluoroquinolones
+T10	Antibiotic 1352 1364	nadifloxacin
+T11	Antibiotic 1394 1410	fluoroquinolones
+T12	Bacteria 1542 1550	P. acnes
+*	Equiv T12 T3
+T13	Bacteria 1658 1666	P. acnes
+T14	Antibiotic 1803 1819	fluoroquinolones
+T15	Bacteria 1823 1831	P. acnes
+T16	Antibiotic 13 28	fluoroquinolone
+T17	Protein 106 112	gyrase
+T18	Gene 572 576	parC
+T19	Gene 581 585	parE
+T20	Protein 525 531	gyrase
+T21	Gene 533 537	gyrA
+T22	Gene 542 546	gyrB
+T23	Gene 657 661	GyrA
+T24	Antibiotic 762 777	fluoroquinolone
+T25	Gene 845 849	GyrA
+T26	Gene 964 968	GyrA
+T27	Gene 1176 1180	GyrB
+T28	Gene 1260 1264	ParC
+T29	Gene 1270 1274	ParE
+T30	Gene 1206 1210	GyrA
+T31	Gene 1693 1697	GyrA
+T32	Antibiotic 1631 1647	fluoroquinolones

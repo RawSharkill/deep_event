@@ -1,0 +1,8 @@
+T1	Bacteria 101 123	Gram-negative bacteria
+T2	Antibiotic_efflux 177 182	expel
+E1	Antibiotic_efflux:T2 Theme:T1
+T4	Bacteria 473 511	human  pathogen Pseudomonas aeruginosa
+T3	Protein 291 295	AcrB
+T5	Protein 351 355	TolC
+T6	Protein 451 455	MexA
+T7	Protein 707 711	MexA

@@ -1,0 +1,3 @@
+Plasmid-mediated quinolone resistance determinants qnrA, qnrB, and qnrS among  clinical isolates of Enterobacteriaceae in a Korean hospital. 
+
+Screening of 368 consecutive nonreplicate clinical isolates of Enterobacteriaceae  resistant to nalidixic acid and at least one extended-spectrum beta-lactam  revealed the presence of qnrA, qnrB, and qnrS determinants, and identified novel   qnrB variants, in Citrobacter freundii isolates. This study also revealed, for  the first time, the linkage of qnrB, armA, and extended-spectrum and/or AmpC-type  beta-lactamase genes on large conjugative plasmids.

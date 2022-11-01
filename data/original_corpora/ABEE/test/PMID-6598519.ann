@@ -1,0 +1,34 @@
+T1	Antibiotic 957 969	tetracycline
+T2	Antibiotic 1262 1277	streptinogramin
+T3	Antibiotic 1250 1261	lincosamide
+T4	Antibiotic 1240 1249	macrolide
+T5	Bacteria 1983 1994	Bacteroides
+T6	Bacteria 1961 1972	B. fragilis
+T7	Antibiotic 712 723	B. fragilis
+T8	Bacteria 351 361	Bacteroide
+T9	Antibiotic 320 330	penicillin
+T10	Bacteria 265 276	B. fragilis
+T11	Bacteria 498 509	Bacteroides
+T12	Antibiotic 513 526	penicillinase
+T13	Antibiotic 593 602	cefoxitin
+T14	Antibiotic 546 563	ureidopenicillins
+T15	Antibiotic_inactivation 534 545	inactivates
+E1	Antibiotic_inactivation:T15 Cause:T14
+T16	Antibiotic_inactivation 581 592	inactivates
+E2	Antibiotic_inactivation:T16 Cause:T13
+T17	Antibiotic 1057 1069	erythromycin
+T18	Antibiotic 1045 1056	Clindamycin
+T19	Bacteria 1084 1095	Bacteroides
+T20	Antibiotic 1680 1691	clindamycin
+T21	Antibiotic 1320 1331	clindamycin
+T22	Bacteria 1648 1659	Bacteroides
+T23	Antibiotic 1621 1632	clindamycin
+T24	Antibiotic 1753 1764	clindamycin
+T25	Bacteria 1851 1862	Bacteroides
+T26	Antibiotic 2016 2027	clindamycin
+T27	Bacteria 2093 2113	Bacteroides fragilis
+*	Equiv T27 T10
+T28	Antibiotic 0 11	Clindamycin
+T29	Antibiotic 667 676	cefoxitin
+T30	Antibiotic 648 661	penicillinase
+T31	Bacteria 919 930	B. fragilis

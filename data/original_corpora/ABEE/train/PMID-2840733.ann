@@ -1,0 +1,18 @@
+T1	Antibiotic 0 14	Aminoglycoside
+T3	Antibiotic 95 121	aminoglycoside antibiotics
+T5	Antibiotic 228 238	gentamicin
+T6	Antibiotic 247 257	netilmicin
+T7	Antibiotic 266 276	tobramycin
+T8	Antibiotic 296 304	amikacin
+T10	Antibiotic 541 556	aminoglycosides
+T11	Antibiotic 714 728	aminoglycoside
+T12	Antibiotic 993 1007	aminoglycoside
+T13	Bacteria 1152 1174	Pseudomonas aeruginosa
+T2	Bacteria 61 91	gram-negative aerobic bacteria
+T4	Bacteria 178 199	gram-negative bacilli
+T9	Bacteria 455 477	gram-negative bacteria
+T14	Antibiotic_inactivation 362 386	aminoglycoside-modifying
+E3	Antibiotic_inactivation:T14 Theme:T4 Cause:T5
+E1	Antibiotic_inactivation:T14 Cause:T6 Theme:T4
+E2	Antibiotic_inactivation:T14 Cause:T7 Theme:T4
+E4	Antibiotic_inactivation:T14 Cause:T8 Theme:T4

@@ -1,0 +1,5 @@
+T1	Antibiotic 241 253	trimethoprim
+T2	Bacteria 274 295	Staphylococcus aureus
+T3	Bacteria 300 333	 coagulase-negative staphylococci
+T4	Gene 593 597	dfrA
+T5	Bacteria 1098 1111	staphylococci

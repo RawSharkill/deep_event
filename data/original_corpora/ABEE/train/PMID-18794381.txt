@@ -1,0 +1,3 @@
+Recovery of a functional class 2 integron from an Escherichia coli strain  mediating a urinary tract infection. 
+
+A class 2 integron was found in an Escherichia coli isolate mediating a urinary  tract infection. Unlike other class 2 integrons from pathogens, the encoded IntI2  protein was functional. The integron possessed a dfrA14 cassette, and a second  novel cassette in which a lipoprotein signal peptidase gene is predicted.

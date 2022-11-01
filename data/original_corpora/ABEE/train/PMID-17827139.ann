@@ -1,0 +1,22 @@
+T1	Bacteria 153 192	Salmonella enterica serovar Brandenburg
+T2	Bacteria 325 370	Salmonella enterica (S.)  serovar Brandenburg
+T3	Bacteria 452 466	S. Brandenburg
+*	Equiv T3 T1
+T4	Antibiotic 1017 1029	streptomycin
+T5	Antibiotic 1031 1043	tetracycline
+T6	Antibiotic 1045 1054	kanamycin
+T7	Antibiotic 1057 1072	chloramphenicol
+T8	Antibiotic 1074 1084	ampicillin
+T9	Antibiotic 1089 1118	trimethoprim-sulfamethoxazole
+T10	Bacteria 2034 2048	S. Brandenburg
+T11	Bacteria 2088 2101	salmonellosis
+T12	Gene 1131 1136	aadA1
+T13	Gene 1140 1146	tet(A)
+T14	Gene 1150 1156	tet(B)
+T15	Gene 1158 1163	aphA1
+T16	Gene 1165 1170	catA1
+T17	Gene 1172 1180	bla(TEM)
+T18	Gene 1185 1200	dfrA1-sul1-sul3
+T19	Gene 1371 1382	dfrA1-aadA1
+T20	Gene 1574 1580	tet(B)
+T21	Gene 1529 1535	tet(A)

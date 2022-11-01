@@ -1,0 +1,16 @@
+T1	Bacteria 74 97	Mycobacterium fortuitum
+T2	Bacteria 248 271	Mycobacterium fortuitum
+T3	Antibiotic 421 436	aminoglycosides
+T4	Antibiotic 442 465	beta-lactam antibiotics
+T5	Antibiotic 527 541	aminoglycoside
+T6	Antibiotic 853 868	aminoglycosides
+T7	Antibiotic 949 958	kanamycin
+T8	Antibiotic 1077 1092	aminoglycosides
+T9	Protein 131 163	aminoglycoside-acetyltransferase
+T10	Protein 111 125	beta-lactamase
+T11	Antibiotic_efflux 208 217	transport
+E1	Antibiotic_efflux:T11 Theme:T1
+T12	Antibiotic_inactivation 837 849	inactivation
+E2	Antibiotic_inactivation:T12 Cause:T6 Theme:T1
+T13	Antibiotic_inactivation 938 948	inactivate
+E3	Antibiotic_inactivation:T13 Cause:T7 Theme:T1

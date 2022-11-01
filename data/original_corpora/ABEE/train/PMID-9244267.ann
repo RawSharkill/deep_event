@@ -1,0 +1,34 @@
+T1	Antibiotic 22 31	kanamycin
+T2	Antibiotic 36 44	viomycin
+T3	Bacteria 59 83	Mycobacterium  smegmatis
+T4	Antibiotic 174 183	kanamycin
+T5	Antibiotic 188 196	viomycin
+T6	Bacteria 201 224	Mycobacterium smegmatis
+T7	Bacteria 237 249	M. smegmatis
+*	Equiv T7 T6
+T8	Antibiotic 275 284	kanamycin
+T9	Bacteria 433 449	Escherichia coli
+T10	Bacteria 584 596	M. smegmatis
+T11	Bacteria 724 736	M. smegmatis
+T12	Antibiotic 814 823	kanamycin
+T13	Antibiotic 828 836	viomycin
+T14	Antibiotic 854 863	kanamycin
+T15	Bacteria 986 1012	Mycobacterium tuberculosis
+T16	Antibiotic 1037 1046	kanamycin
+T17	Bacteria 1146 1158	M. smegmatis
+T18	Antibiotic 622 630	viomycin
+T19	Antibiotic_target_alteration 455 463	mutation
+E1	Antibiotic_target_alteration:T19 Theme:T9 Cause:T20
+T20	Antibiotic 499 513	aminoglycoside
+T21	Gene 599 602	rrs
+T22	Antibiotic_target_alteration 641 648	mutants
+E2	Antibiotic_target_alteration:T22 Theme:T10 Cause:T18
+T23	Gene 675 679	vicB
+T24	Antibiotic_target_alteration 782 791	mutations
+E3	Antibiotic_target_alteration:T24 Cause:T14 Theme:T11
+E4	Antibiotic_target_alteration:T24 Cause:T13 Theme:T11
+E5	Antibiotic_target_alteration:T24 Cause:T12 Theme:T11
+T25	Gene 378 381	rrs
+T26	Antibiotic_target_alteration 1065 1073	mutation
+E6	Antibiotic_target_alteration:T26 Cause:T16 Theme:T15
+E7	Antibiotic_target_alteration:T26 Theme:T17 Cause:T16

@@ -1,0 +1,8 @@
+T1	Bacteria 25 43	anaerobic bacteria
+T2	Antibiotic 235 248	tetracyclines
+T3	Antibiotic 255 266	penicillins
+T4	Antibiotic 268 279	clindamycin
+T5	Bacteria 334 345	Bacteroides
+T6	Bacteria 347 358	Clostridium
+T7	Bacteria 364 379	anaerobic cocci
+T8	Bacteria 1318 1336	anaerobic bacteria

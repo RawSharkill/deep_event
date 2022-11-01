@@ -1,0 +1,22 @@
+T1	Bacteria 169 190	Klebsiella pneumoniae
+T2	Bacteria 343 364	Klebsiella pneumoniae
+T3	Antibiotic_target_replacement 389 397	replaces
+E1	Antibiotic_target_replacement:T3 Theme:T2
+T4	Gene 370 374	aadB
+T5	Gene 464 470	dfrA10
+T6	Gene 475 480	aphA1
+T7	Gene 538 543	aphA1
+T8	Gene 604 608	tniA
+T9	Gene 619 625	dfrA10
+T10	Gene 55 61	orf513
+T11	Gene 66 72	dfrA10
+T12	Bacteria 1302 1318	Escherichia coli
+T13	Gene 1046 1052	dfrA10
+T14	Antibiotic 1487 1497	ampicillin
+T15	Antibiotic 1499 1514	chloramphenicol
+T16	Antibiotic 1517 1527	gentamicin
+T17	Antibiotic 1529 1538	kanamycin
+T18	Antibiotic 1540 1548	neomycin
+T19	Antibiotic 1550 1560	tobramycin
+T20	Antibiotic 1562 1574	trimethoprim
+T21	Antibiotic 1580 1592	sulfonamides

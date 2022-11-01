@@ -1,0 +1,15 @@
+T1	Bacteria 50 66	Escherichia coli
+T2	Antibiotic 0 13	Oxazolidinone
+T4	Antibiotic_target_alteration 25 34	mutations
+E2	Antibiotic_target_alteration:T4 Theme:T1
+T5	Antibiotic 144 157	Oxazolidinone
+T6	Antibiotic 297 310	oxazolidinone
+T7	Bacteria 461 477	Escherichia coli
+T8	Antibiotic 478 491	oxazolidinone
+T10	Antibiotic 791 804	oxazolidinone
+T12	Antibiotic_target_alteration 711 719	mutation
+E5	Antibiotic_target_alteration:T12 Theme:T7
+T14	Antibiotic 1013 1026	oxazolidinone
+T15	Antibiotic_target_alteration 973 981	mutation
+E7	Antibiotic_target_alteration:T15 Theme:T7
+T16	Antibiotic 1366 1380	oxazolidinones

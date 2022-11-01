@@ -1,0 +1,24 @@
+T1	Antibiotic 23 32	mupirocin
+T2	Bacteria 57 78	Staphylococcus aureus
+T3	Antibiotic 82 91	Mupirocin
+T4	Bacteria 182 225	methicillin-resistant Staphylococcus aureus
+T5	Antibiotic 345 354	mupirocin
+T6	Antibiotic 531 540	mupirocin
+T7	Antibiotic 959 968	mupirocin
+T8	Bacteria 1218 1227	S. aureus
+T9	Antibiotic 1302 1311	mupirocin
+*	Equiv T8 T2
+T10	Gene 0 4	MupB
+T11	Gene 580 584	mupB
+T12	Gene 648 652	mupA
+T13	Gene 799 803	MupA
+T14	Gene 808 812	IleS
+T15	Protein 700 704	MupB
+T16	Protein 859 863	MupB
+T17	Protein 1048 1052	mupB
+T18	Protein 1116 1120	mupB
+T19	Protein 1261 1265	mupB
+T20	Protein 1388 1392	mupB
+T21	Gene 424 428	mupA
+T22	Gene 682 686	ileS
+T23	Gene 590 594	mupB

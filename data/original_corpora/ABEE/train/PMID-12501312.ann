@@ -1,0 +1,28 @@
+T1	Bacteria 93 109	Escherichia coli
+T2	Bacteria 574 588	E. coli MC4100
+T3	Antibiotic 125 137	tetracycline
+T4	Antibiotic 689 701	tetracycline
+T5	Antibiotic 704 719	chloramphenicol
+T6	Antibiotic 723 733	salicylate
+T7	Antibiotic 746 786	carbonylcyanide  m-chlorophenylhydrazone
+T8	Antibiotic 788 802	nalidixic acid
+T9	Antibiotic 806 815	kanamycin
+T10	Antibiotic 925 937	tetracycline
+T11	Antibiotic_efflux 70 76	efflux
+E1	Antibiotic_efflux:T11 Cause:T3 Theme:T1
+T12	Bacteria 222 238	Escherichia coli
+T13	Gene 40 45	emrKY
+T14	Gene 78 83	emrAB
+T15	Gene 151 155	emrK
+T16	Gene 160 164	emrY
+T17	Gene 190 194	dsdA
+T18	Gene 199 203	evgA
+T19	Protein 270 274	EmrK
+T20	Protein 279 283	EmrY
+T21	Protein 342 346	EmrA
+T22	Protein 351 355	EmrB
+T23	Gene 441 446	emrKY
+T24	Gene 528 532	emrK
+T25	Gene 533 537	lacZ
+T26	Gene 851 856	emrKY
+T27	Gene 946 948	S1

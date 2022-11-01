@@ -1,0 +1,24 @@
+T2	Bacteria 340 353	Fusobacterium
+T3	Bacteria 358 369	Clostridium
+T5	Antibiotic 683 698	chloramphenicol
+T6	Antibiotic 1348 1363	chloramphenicol
+T7	Antibiotic 1365 1373	imipenem
+T8	Antibiotic 1375 1388	metronidazole
+T9	Antibiotic 1417 1439	beta-lactam antibiotic
+T10	Antibiotic 1483 1492	mpicillin
+T11	Antibiotic 1498 1507	sulbactam
+T12	Antibiotic 1512 1523	amoxicillin
+T13	Antibiotic 1527 1538	ticarcillin
+T1	Bacteria 231 242	Bacteroides
+T4	Bacteria 270 290	Bacteroides fragilis
+*	Equiv T4 T1 T21
+T14	Antibiotic 524 546	beta-lactam antibiotic
+T15	Antibiotic_inactivation 572 583	inactivated
+E1	Antibiotic_inactivation:T15 Cause:T14
+T16	Antibiotic_inactivation 654 666	inactivating
+E2	Antibiotic_inactivation:T16 Cause:T5
+T17	Protein 933 960	penicillin-binding proteins
+T18	Antibiotic 1085 1094	cefoxitin
+T19	Antibiotic 1096 1107	clindamycin
+T20	Antibiotic 1113 1125	piperacillin
+T21	Bacteria 1187 1198	B. fragilis

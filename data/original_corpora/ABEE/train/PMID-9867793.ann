@@ -1,0 +1,5 @@
+T1	Bacteria 67 88	Streptomyces  rimosus
+T2	Antibiotic 34 46	tetracycline
+T3	Protein 20 24	OtrB
+T4	Antibiotic_efflux 47 53	efflux
+E1	Antibiotic_efflux:T4 Cause:T2 Theme:T1

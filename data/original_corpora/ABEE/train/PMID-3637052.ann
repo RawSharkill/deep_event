@@ -1,0 +1,15 @@
+T1	Antibiotic 14 28	aminoglycoside
+T2	Antibiotic 76 84	amikacin
+T3	Bacteria 236 254	Enterobacteriaceae
+T4	Bacteria 259 270	Pseudomonas
+T5	Bacteria 342 355	Acinetobacter
+T6	Bacteria 360 373	staphylococci
+T7	Antibiotic 1018 1031	ephalosporins
+T8	Bacteria 1054 1072	Enterobacteriaceae
+T9	Antibiotic 867 881	cephalosporins
+T10	Antibiotic 1104 1118	aminoglycoside
+T11	Antibiotic 217 225	amikacin
+T12	Antibiotic 323 331	amikacin
+T13	Antibiotic 537 547	gentamicin
+T14	Antibiotic 680 690	gentamicin
+T15	Antibiotic 717 725	amikacin

@@ -1,0 +1,13 @@
+T1	Antibiotic 31 46	chloramphenicol
+T2	Antibiotic 231 246	chloramphenicol
+T3	Antibiotic 248 250	Cm
+*	Equiv T3 T2
+T4	Gene 27 30	R26
+T5	Gene 117 120	cml
+T6	Gene 137 140	R26
+T7	Gene 420 423	cml
+T8	Antibiotic 578 593	chloramphenicol
+T9	Protein 606 609	CmR
+T10	Protein 682 685	TcR
+T11	Antibiotic 657 669	tetracycline
+T12	Gene 745 748	cml

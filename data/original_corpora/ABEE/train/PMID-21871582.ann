@@ -1,0 +1,37 @@
+T1	Bacteria 63 90	Mycobacterium  tuberculosis
+T2	Antibiotic_efflux 16 22	efflux
+E1	Antibiotic_efflux:T2 Theme:T1 Cause:T3
+T3	Antibiotic 35 44	isoniazid
+T5	Antibiotic 116 125	isoniazid
+T6	Antibiotic 127 130	INH
+*	Equiv T6 T5
+T7	Antibiotic 281 284	INH
+T9	Bacteria 295 330	Mycobacterium tuberculosis isolates
+T11	Antibiotic 391 394	INH
+T13	Antibiotic 597 600	INH
+T15	Bacteria 613 637	M. tuberculosis isolates
+T16	Bacteria 646 669	H37Rv reference  strain
+T18	Antibiotic 698 701	INH
+R1	Member-of Arg1:T16 Arg2:T15	
+T19	Antibiotic 1328 1331	INH
+T21	Antibiotic 1716 1719	INH
+T23	Antibiotic_efflux 1752 1758	efflux
+E10	Antibiotic_efflux:T23 Theme:T26 Cause:T24
+T24	Antibiotic 1801 1804	INH
+T26	Bacteria 1819 1834	M. tuberculosis
+T27	Antibiotic 865 868	INH
+T30	Antibiotic 943 946	INH
+T32	Antibiotic 1029 1032	INH
+*	Equiv T26 T1
+T8	Bacteria 830 853	Mycobacterium bovis BCG
+T4	Antibiotic_efflux 903 909	efflux
+E2	Antibiotic_efflux:T4 Theme:T8 Cause:T27
+T10	Antibiotic 1094 1108	chlorpromazine
+T12	Antibiotic 1110 1122	thioridazine
+T14	Antibiotic 1350 1353	INH
+T17	Antibiotic 1127 1136	verapamil
+T20	Gene 1604 1608	efpA
+T28	Gene 1611 1616	mmpL7
+T29	Gene 1618 1621	mmr
+T31	Gene 1623 1626	p55
+T33	Gene 1649 1656	Rv1258c

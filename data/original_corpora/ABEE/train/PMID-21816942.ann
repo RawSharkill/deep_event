@@ -1,0 +1,22 @@
+T1	Bacteria 55 76	Klebsiella pneumoniae
+T2	Antibiotic 80 89	Quinolone
+T3	Bacteria 115 133	Enterobacteriaceae
+T4	Antibiotic 226 242	fluoroquinolones
+T5	Bacteria 304 325	Klebsiella pneumoniae
+T6	Antibiotic 714 724	quinolones
+T7	Antibiotic 757 767	quinolones
+T8	Antibiotic 959 969	quinolones
+T11	Bacteria 733 739	KP4707
+T12	Bacteria 648 654	KP3606
+T9	Gene 551 557	qnrB32
+T10	Gene 776 780	qnrB
+T13	Gene 976 980	qnrB
+T14	Gene 1090 1094	qnrB
+T15	Gene 814 820	qnrB32
+T16	Gene 830 836	qnrB31
+T17	Gene 466 472	qnrB31
+T18	Protein 246 256	DNA gyrase
+T19	Protein 206 213	enzymes
+T20	Gene 22 26	qnrB
+T21	Gene 33 39	qnrB31
+T22	Gene 44 50	qnrB32

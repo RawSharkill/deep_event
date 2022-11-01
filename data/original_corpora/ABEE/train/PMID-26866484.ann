@@ -1,0 +1,21 @@
+T1	Bacteria 84 106	Pseudomonas aeruginosa
+T2	Bacteria 297 320	Pseudomonas  aeruginosa
+T3	Bacteria 424 437	P. aeruginosa
+*	Equiv T3 T1
+T4	Antibiotic 1081 1094	ciprofloxacin
+T5	Antibiotic 1100 1109	meropenem
+T6	Protein 25 29	MexR
+T7	Protein 57 62	MexAB
+T8	Protein 63 67	OprM
+T9	Gene 246 250	mexR
+T10	Gene 785 789	mexA
+T11	Protein 798 803	MexAB
+T12	Protein 804 808	OprM
+T13	Gene 870 874	mexR
+T14	Protein 915 920	MexAB
+T15	Protein 921 925	OprM
+T16	Gene 1274 1278	mexR
+T17	Protein 1219 1224	MexAB
+T18	Protein 1225 1229	OprM
+T19	Protein 1591 1596	MexAB
+T20	Protein 1597 1601	OprM

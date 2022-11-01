@@ -1,0 +1,23 @@
+T3	Bacteria 33 55	Pseudomonas aeruginosa
+T4	Bacteria 200 222	Pseudomonas aeruginosa
+T7	Bacteria 363 376	P. aeruginosa
+*	Equiv T7 T3
+T8	Antibiotic 897 908	polymyxin B
+T9	Antibiotic 913 922	aztreonam
+T12	Antibiotic 952 963	polymyxin B
+T2	Protein 234 262	SPM-1 metallo-beta-lactamase
+T6	Protein 66 97	SPM-1  metallo-{beta}-lactamase
+T1	Antibiotic 12 22	carbapenem
+T5	Antibiotic 342 352	carbapenem
+T10	Gene 642 652	bla(VIM-2)
+T11	Gene 627 637	bla(IMP-1)
+T13	Gene 615 625	bla(SPM-1)
+T14	Gene 568 571	MBL
+T15	Gene 1196 1206	bla(SPM-1)
+T16	Protein 1134 1137	MBL
+T17	Protein 264 267	MBL
+T18	Protein 1001 1004	MBL
+T19	Protein 1392 1402	bla(SPM-1)
+T20	Protein 1695 1698	MBL
+T21	Protein 1449 1452	MBL
+T22	Protein 1551 1556	SPM-1

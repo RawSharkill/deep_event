@@ -1,0 +1,34 @@
+T1	Bacteria 124 145	Staphylococcus aureus
+T2	Antibiotic_efflux 99 110	transporter
+E1	Antibiotic_efflux:T2 Theme:T1 Cause:T4
+T4	Antibiotic 169 193	hydrophobic beta-lactams
+T5	Bacteria 198 211	strain ISP794
+T6	Bacteria 792 795	MW2
+T7	Antibiotic 1014 1026	Moenomycin A
+T8	Bacteria 1047 1050	MW2
+T11	Bacteria 1105 1108	MW2
+T12	Antibiotic 1122 1132	moenomycin
+T13	Bacteria 1158 1170	MW2DeltaabcA
+T14	Bacteria 1202 1205	MW2
+T15	Antibiotic 1242 1252	moenomycin
+T3	Gene 28 32	abcA
+T9	Gene 116 120	abcA
+T10	Gene 213 217	abcA
+T16	Protein 266 270	MgrA
+T17	Protein 275 279	NorG
+T18	Protein 409 413	Pbp4
+T19	Gene 550 554	abcA
+T20	Gene 637 641	abcA
+T21	Protein 698 702	SarA
+T22	Protein 704 708	SarZ
+T23	Protein 714 717	Rot
+T24	Gene 846 850	abcA
+T25	Gene 877 881	abcA
+T26	Gene 961 965	abcA
+T27	Gene 989 992	rot
+T28	Gene 997 1001	sarZ
+T29	Gene 1075 1079	abcA
+T30	Gene 1206 1210	abcA
+T31	Protein 1271 1275	AbcA
+T32	Gene 768 772	abcA
+T33	Gene 777 781	pbp4

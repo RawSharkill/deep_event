@@ -1,0 +1,9 @@
+T1	Antibiotic_efflux 27 38	transporter
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 49 65	Escherichia coli
+T3	Antibiotic_efflux 89 100	transporter
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 204 220	Escherichia coli
+T5	Protein 39 43	EmrD
+T6	Protein 69 73	EmrD
+T7	Protein 262 266	EmrD

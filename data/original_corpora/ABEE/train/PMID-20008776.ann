@@ -1,0 +1,54 @@
+T3	Bacteria 246 280	Escherichia coli clinical isolates
+T4	Antibiotic 191 206	fluoroquinolone
+T6	Bacteria 354 359	NorE5
+T7	Bacteria 393 418	E. coli  clinical isolate
+T8	Bacteria 420 423	PS5
+T9	Bacteria 566 569	PS5
+T10	Bacteria 571 576	NorE5
+T11	Bacteria 669 674	NorE5
+T14	Bacteria 885 890	NorE5
+T15	Antibiotic_efflux 776 782	efflux
+E5	Antibiotic_efflux:T15 Theme:T11
+*	Equiv T7 T3
+T1	Protein 13 17	SoxS
+T2	Antibiotic 34 49	fluoroquinolone
+T5	Protein 85 89	SoxR
+T12	Gene 140 144	marA
+T13	Gene 145 149	soxS
+T16	Gene 150 153	rob
+T17	Gene 164 168	mdtG
+T18	Antibiotic 483 494	norfloxacin
+T19	Protein 542 546	GyrA
+T20	Protein 548 552	S83L
+T21	Protein 605 609	ParC
+T22	Protein 611 615	S80R
+T23	Protein 788 793	AcrAB
+T24	Protein 794 798	TolC
+T25	Gene 894 898	soxS
+T26	Gene 931 936	acrAB
+T27	Gene 941 945	tolC
+T28	Gene 956 960	soxS
+T29	Protein 1027 1031	SoxR
+T30	Gene 1092 1096	soxS
+T31	Gene 1175 1179	mdtG
+T32	Gene 1181 1185	yceE
+T33	Protein 1264 1268	SoxS
+T34	Protein 1270 1274	MarA
+T35	Protein 1280 1283	Rob
+T36	Gene 1298 1302	mdtG
+T37	Gene 1304 1308	lacZ
+T38	Protein 1321 1325	SoxS
+T39	Gene 1351 1355	mdtG
+T40	Gene 1381 1385	mdtG
+T41	Gene 1405 1409	marA
+T42	Gene 1410 1414	soxS
+T43	Gene 1415 1418	rob
+T44	Gene 1432 1436	mdtG
+T45	Protein 1575 1579	MarA
+T46	Protein 1581 1585	SoxS
+T47	Protein 1591 1594	Rob
+T48	Gene 1628 1632	parC
+T49	Gene 1637 1641	soxR
+T50	Bacteria 1702 1707	NorE5
+T51	Antibiotic_target_alteration 1615 1624	mutations
+E1	Antibiotic_target_alteration:T51 Theme:T50

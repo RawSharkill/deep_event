@@ -1,0 +1,3 @@
+Nosocomial outbreak of carbapenem resistant Pseudomonas aeruginosa with a new  bla(IMP) allele, bla(IMP-7). 
+
+Pseudomonas aeruginosa isolates from an outbreak in Canada were highly resistant   to carbapenems and ceftazidime but not piperacillin. They produced a novel  integron-associated metallo-beta-lactamase, designated IMP-7, with 91% identity  to IMP-1. bla(IMP-7) was not detected with standard bla(IMP)-specific primers,  owing to mismatches in the forward primer.

@@ -1,0 +1,22 @@
+T1	Antibiotic 6 17	methicillin
+T2	Bacteria 51 84	Macrococcus caseolyticus  strains
+T3	Bacteria 141 165	Macrococcus caseolyticus
+T4	Antibiotic 285 297	beta-lactams
+T5	Antibiotic 318 332	cephalosporins
+T6	Bacteria 422 431	S. aureus
+T7	Bacteria 479 494	M. caseolyticus
+*	Equiv T7 T3
+T8	Bacteria 547 562	M. caseolyticus
+T9	Bacteria 1342 1350	Bacillus
+T10	Bacteria 1355 1364	S. aureus
+T11	Antibiotic 1434 1445	methicillin
+T12	Gene 234 238	mecD
+T13	Gene 697 701	mecD
+T14	Gene 500 504	mecD
+T15	Gene 34 38	mecD
+T16	Antibiotic 119 130	Methicillin
+T17	Bacteria 313 317	MRSA
+T18	Gene 453 457	mecD
+T19	Gene 1462 1466	mecD
+T20	Gene 673 677	rpsI
+T21	Gene 378 382	mecD

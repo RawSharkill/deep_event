@@ -1,0 +1,11 @@
+T1	Antibiotic 209 220	beta-Lactam
+T2	Antibiotic 450 461	beta-lactam
+T3	Antibiotic 560 574	Aminoglycoside
+T4	Protein 363 390	penicillin-binding proteins
+T5	Antibiotic_target_alteration 351 360	modifying
+E1	Antibiotic_target_alteration:T5 Cause:T2
+T6	Reduced_permeability_to_antibiotic 500 512	permeability
+E2	Reduced_permeability_to_antibiotic:T6 Cause:T2
+T7	Reduced_permeability_to_antibiotic 629 635	uptake
+E3	Reduced_permeability_to_antibiotic:T7 Cause:T3 Theme:T8
+T8	Bacteria 828 850	Pseudomonas aeruginosa

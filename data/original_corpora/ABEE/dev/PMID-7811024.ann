@@ -1,0 +1,21 @@
+T1	Antibiotic 339 352	ciprofloxacin
+T2	Gene 143 147	gyrA
+T3	Gene 45 49	gyrA
+T4	Bacteria 107 128	Enterococcus faecalis
+T5	Antibiotic 76 92	 fluoroquinolone
+T6	Antibiotic_target_alteration 50 59	mutations
+E1	Antibiotic_target_alteration:T6 Cause:T5 Theme:T4
+T7	Bacteria 277 299	Enterococcus  faecalis
+T8	Bacteria 304 333	Enterococcus faecium isolates
+T9	Antibiotic 755 770	fluoroquinolone
+T10	Antibiotic 501 514	ciprofloxacin
+T11	Antibiotic 392 405	ciprofloxacin
+T12	Antibiotic 968 981	ciprofloxacin
+T13	Bacteria 1004 1015	E. faecalis
+T14	Bacteria 1139 1150	enterococci
+T15	Bacteria 879 898	E. faecium isolates
+T16	Bacteria 678 694	Escherichia coli
+T17	Protein 695 699	GyrA
+T18	Antibiotic 855 868	ciprofloxacin
+T19	Antibiotic 1104 1119	fluoroquinolone
+T20	Bacteria 481 492	E. faecalis

@@ -1,0 +1,36 @@
+T1	Bacteria 53 74	Pasteurella multocida
+T2	Bacteria 196 217	Pasteurella multocida
+T3	Bacteria 511 523	P. multocida
+T4	Bacteria 865 878	P.  multocida
+T6	Antibiotic 1076 1088	streptomycin
+T7	Antibiotic 1089 1102	spectinomycin
+T8	Antibiotic 1114 1126	streptomycin
+T9	Antibiotic 1144 1154	gentamicin
+T10	Antibiotic 1163 1172	kanamycin
+T11	Antibiotic 1173 1181	neomycin
+T12	Antibiotic 1192 1204	tetracycline
+T13	Antibiotic 1220 1235	chloramphenicol
+T14	Antibiotic 1236 1247	florfenicol
+T15	Antibiotic 1256 1269	sulphonamides
+T16	Antibiotic 1279 1289	tilmicosin
+T17	Antibiotic 1290 1301	clindamycin
+T18	Antibiotic 1315 1325	tilmicosin
+T19	Antibiotic 1326 1339	tulathromycin
+T20	Bacteria 1469 1481	P. multocida
+T21	Bacteria 1891 1904	P.  multocida
+*	Equiv T3 T1
+T5	Gene 1104 1110	aadA25
+T22	Gene 1128 1132	strA
+T23	Gene 1137 1141	strB
+T24	Gene 1156 1160	aadB
+T25	Gene 1183 1188	aphA1
+T26	Gene 1206 1210	tetR
+T27	Gene 1211 1217	tet(H)
+T28	Gene 1249 1253	floR
+T29	Gene 1272 1276	sul2
+T30	Gene 1303 1310	erm(42)
+T31	Gene 1342 1348	msr(E)
+T32	Gene 1349 1355	mph(E)
+T33	Gene 1382 1392	bla(OXA-2)
+T34	Antibiotic_target_alteration 2013 2021	transfer
+E1	Antibiotic_target_alteration:T34 Theme:T21

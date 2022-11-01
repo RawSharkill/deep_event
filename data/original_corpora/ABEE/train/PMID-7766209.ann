@@ -1,0 +1,13 @@
+T1	Antibiotic 509 515	Nickel
+T2	Antibiotic 674 680	nickel
+T3	Antibiotic 613 619	nickel
+T4	Antibiotic_target_alteration 545 557	inactivation
+E1	Antibiotic_target_alteration:T4 Cause:T5
+T5	Antibiotic 561 567	nickel
+T6	Antibiotic 776 782	nickel
+T7	Antibiotic 319 325	nickel
+T8	Antibiotic 497 503	nickel
+T9	Antibiotic 79 85	nickel
+T10	Antibiotic 140 146	Nickel
+T11	Antibiotic 99 105	nickel
+T12	Antibiotic 0 6	Nickel

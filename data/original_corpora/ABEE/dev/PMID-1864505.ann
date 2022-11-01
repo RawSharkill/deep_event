@@ -1,0 +1,17 @@
+T1	Antibiotic 59 66	tylosin
+T2	Bacteria 38 58	Streptomyces fradiae
+T3	Bacteria 142 162	Streptomyces fradiae
+T4	Bacteria 641 663	Streptomyces  lividans
+T5	Bacteria 1142 1158	Escherichia coli
+T6	Protein 451 462	amino acids
+T7	Gene 195 199	tlrA
+T8	Gene 201 205	tlrB
+T9	Gene 207 211	tlrC
+T10	Gene 308 312	tlrC
+T11	Gene 493 497	TlrC
+T12	Gene 697 701	TlrC
+T13	Gene 824 828	TlrC
+T14	Antibiotic_efflux 1045 1051	efflux
+E1	Antibiotic_efflux:T14 
+T15	Gene 1187 1191	TlrC
+T16	Gene 1303 1307	tlrC

@@ -1,0 +1,3 @@
+Characterization of new mutations in pyrazinamide resistant strains of  Mycobacterium tuberculosis and identification of conserved regions important for   the catalytic activity of the pyrazinamidase PncA. 
+
+A new set of mutations, including transposition of the insertion sequence IS6110,  was identified in the pncA gene from 19 pyrazinamide resistant Mycobacterium  tuberculosis strains. Alignment of the PncA protein from M. tuberculosis with  homologous proteins from different bacterial species revealed three highly  conserved regions in PncA which may play an important role in the processing of  pyrazinamide.

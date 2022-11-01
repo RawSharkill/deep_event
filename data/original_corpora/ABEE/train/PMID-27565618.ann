@@ -1,0 +1,9 @@
+T1	Antibiotic 17 29	Tetracycline
+T2	Antibiotic 76 88	Tetracycline
+T3	Antibiotic 135 147	tetracycline
+T4	Antibiotic 614 626	tetracycline
+T5	Antibiotic 1422 1434	tetracycline
+T6	Antibiotic 1543 1555	tetracycline
+T7	Antibiotic_efflux 629 635	efflux
+E1	Antibiotic_efflux:T7 Cause:T4
+T8	Gene 594 601	tet(59)

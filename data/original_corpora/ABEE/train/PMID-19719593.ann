@@ -1,0 +1,3 @@
+T1	Antibiotic 896 910	aminoglycoside
+T2	Antibiotic_target_alteration 911 920	modifying
+E1	Antibiotic_target_alteration:T2 Cause:T1

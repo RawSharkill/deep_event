@@ -1,0 +1,5 @@
+T1	Bacteria 17 35	pyocyanic bacillus
+T2	Bacteria 255 277	Pseudomonas aeruginosa
+T3	Bacteria 279 281	PA
+*	Equiv T3 T2
+T4	Bacteria 477 479	PA

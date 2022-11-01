@@ -1,0 +1,24 @@
+T1	Antibiotic 40 52	microcin J25
+T2	Antibiotic_efflux 53 59	efflux
+E1	Antibiotic_efflux:T2 Cause:T1 Theme:T3
+T3	Bacteria 8 24	Escherichia coli
+T4	Bacteria 114 130	Escherichia coli
+T5	Antibiotic 223 237	microcin   J25
+T9	Antibiotic 369 381	microcin J25
+T10	Antibiotic_efflux 547 554	pumping
+E5	Antibiotic_efflux:T10 Theme:T3 Cause:T11
+T11	Antibiotic 560 568	microcin
+T12	Antibiotic 862 874	Microcin J25
+T13	Antibiotic 645 657	microcin J25
+T14	Antibiotic 832 844	microcin J25
+T6	Protein 0 4	YojI
+T7	Gene 105 109	yojI
+T8	Gene 330 334	yojI
+T15	Protein 387 391	YojI
+T16	Protein 528 532	YojI
+T17	Protein 666 670	YojI
+T18	Protein 780 784	TolC
+T19	Protein 801 805	YojI
+T20	Protein 914 918	YojI
+T21	Antibiotic_efflux 105 109	yojI
+E2	Antibiotic_efflux:T21 Theme:T4 Cause:T5

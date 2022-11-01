@@ -1,0 +1,30 @@
+T1	Antibiotic 888 897	Oxacillin
+T2	Bacteria 908 930	Staphylococcus  aureus
+T3	Antibiotic 989 999	cefquinome
+T4	Antibiotic 1007 1016	oxacillin
+T5	Bacteria 1297 1318	Streptococcus species
+T6	Bacteria 1183 1205	Haemophilus influenzae
+T7	Bacteria 1237 1259	Neisseria  gonorrhoeae
+T8	Bacteria 1129 1150	Moraxella catarrhalis
+T9	Antibiotic 1065 1075	Cefquinome
+T10	Antibiotic 0 10	Cefquinome
+T11	Antibiotic 716 726	Cefquinome
+T12	Antibiotic 115 125	Cefquinome
+T13	Antibiotic 358 368	Cefquinome
+T14	Bacteria 419 437	enterobacteriaceae
+T15	Bacteria 534 554	Citrobacter freundii
+T16	Bacteria 556 576	Enterobacter cloacae
+T17	Bacteria 582 603	Providencia  stuartii
+T18	Bacteria 761 783	Gram-positive isolates
+T19	Bacteria 793 817	Corynebacterium jeikeium
+T20	Bacteria 848 859	enterococci
+T21	Bacteria 635 657	Pseudomonas aeruginosa
+T22	Antibiotic 678 688	cefquinome
+T23	Antibiotic 1747 1755	cefepime
+T24	Antibiotic 1760 1769	cefpirome
+T25	Antibiotic 1471 1481	cefquinome
+T26	Antibiotic 198 206	cefepime
+T27	Antibiotic 208 217	cefpirome
+T28	Antibiotic 219 229	cefotaxime
+T29	Antibiotic 235 246	ceftazidime
+T30	Antibiotic 164 177	cephalosporin

@@ -1,0 +1,36 @@
+T1	Antibiotic 18 34	fluoroquinolones
+T2	Antibiotic 68 80	moxifloxacin
+T3	Bacteria 86 107	Clostridium difficile
+T4	Antibiotic 122 134	Moxifloxacin
+T5	Bacteria 256 278	Clostridium  difficile
+T6	Antibiotic 322 331	quinolone
+T7	Bacteria 382 394	C. difficile
+T8	Antibiotic 398 410	moxifloxacin
+*	Equiv T7 T5
+T9	Bacteria 456 468	C. difficile
+T10	Antibiotic 524 536	moxifloxacin
+T11	Antibiotic 670 685	fluoroquinolone
+T12	Antibiotic 751 763	moxifloxacin
+T13	Antibiotic 994 1006	moxifloxacin
+T14	Antibiotic 1040 1056	fluoroquinolones
+T15	Antibiotic 1120 1132	moxifloxacin
+T16	Antibiotic 1255 1270	fluoroquinolone
+T17	Antibiotic 1294 1306	moxifloxacin
+T18	Bacteria 1310 1331	C. difficile isolates
+T19	Antibiotic 1440 1456	fluoroquinolones
+T20	Antibiotic 1492 1504	moxifloxacin
+T21	Bacteria 207 244	Gram-positive and -negative anaerobes
+T22	Antibiotic_inactivation 169 176	against
+E1	Antibiotic_inactivation:T22 Cause:T4 Theme:T21
+E2	Antibiotic_inactivation:T22 Theme:T5 Cause:T4
+T23	Protein 559 569	DNA gyrase
+T24	Antibiotic 928 940	moxifloxacin
+T25	Gene 873 877	gyrA
+T26	Bacteria 177 197	Gram-positive  cocci
+T27	Protein 846 856	amino acid
+T28	Antibiotic 791 803	moxifloxacin
+T29	Antibiotic_target_alteration 834 842	mutation
+E3	Antibiotic_target_alteration:T29 Cause:T28
+T30	Gene 1471 1475	gyrA
+T31	Antibiotic_target_alteration 1458 1467	Mutations
+E4	Antibiotic_target_alteration:T31 Cause:T20

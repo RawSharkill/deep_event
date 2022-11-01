@@ -1,0 +1,47 @@
+T1	Bacteria 128 144	Escherichia coli
+T2	Antibiotic 0 11	Beta-lactam
+T4	Bacteria 163 179	Escherichia coli
+T5	Bacteria 514 526	E. coli KAM3
+T7	Antibiotic 858 869	beta-lactam
+T12	Antibiotic 1257 1267	cefalothin
+T14	Antibiotic 1459 1470	beta-lactam
+T16	Bacteria 1485 1492	E. coli
+T17	Antibiotic 1580 1591	beta-lactam
+T10	Antibiotic 469 492	beta-lactam antibiotics
+T19	Bacteria 496 503	E. coli
+*	Equiv T19 T1
+T3	Gene 755 759	baeR
+T6	Gene 761 765	cheY
+T8	Gene 767 771	cpxR
+T9	Gene 780 784	evgA
+T11	Gene 773 777	creB
+T13	Gene 786 790	fimZ
+T15	Gene 792 796	narL
+T18	Gene 798 802	ompR
+T20	Gene 804 808	rcsB
+T21	Gene 810 814	rstA
+T22	Gene 816 820	yedW
+T23	Gene 822 826	yehT
+T24	Gene 831 835	dcuR
+T25	Gene 528 532	acrB
+T26	Antibiotic_efflux 104 116	transduction
+E1	Antibiotic_efflux:T26 Theme:T1 Cause:T2
+T28	Gene 912 916	baeR
+T29	Gene 918 922	evgA
+T30	Gene 924 928	rcsB
+T31	Gene 933 937	dcuR
+T32	Gene 976 980	baeR
+T33	Gene 986 990	evgA
+T34	Gene 1083 1087	acrD
+T35	Gene 1092 1098	mdtABC
+T36	Gene 1105 1109	baeR
+T37	Gene 1115 1120	yhiUV
+T38	Gene 1125 1129	evgA
+T39	Gene 1139 1143	baeR
+T40	Gene 1149 1153	evgA
+T41	Gene 1242 1246	fimZ
+T42	Gene 1305 1309	ampC
+T43	Gene 1328 1332	ampC
+T44	Gene 1363 1367	fimZ
+T45	Resistance_by_absence 1334 1342	deletion
+E3	Resistance_by_absence:T45 Cause:T12

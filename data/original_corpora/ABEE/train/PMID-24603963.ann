@@ -1,0 +1,37 @@
+T1	Bacteria 81 103	Pseudomonas aeruginosa
+T2	Antibiotic 229 239	carbapenem
+T3	Bacteria 296 318	Pseudomonas aeruginosa
+T4	Antibiotic 483 491	imipenem
+T5	Antibiotic 493 502	meropenem
+T6	Antibiotic 504 513	doripenem
+T7	Antibiotic 515 524	aztreonam
+T8	Antibiotic 526 537	ceftazidime
+T9	Antibiotic 542 550	cefepime
+T10	Antibiotic 641 652	cloxacillin
+T11	Bacteria 843 861	P. aeruginosa PAO1
+T12	Bacteria 1039 1053	P.  aeruginosa
+T13	Antibiotic 1582 1593	cloxacillin
+T14	Bacteria 1749 1763	P.  aeruginosa
+*	Equiv T12 T1
+T15	Bacteria 2131 2144	P. aeruginosa
+T16	Gene 1077 1099	metallo-beta-lactamase
+T17	Gene 1101 1107	MbetaL
+T18	Gene 1952 1958	MbetaL
+T19	Antibiotic 269 279	carbapenem
+T20	Protein 671 684	Carbapenemase
+T21	Antibiotic 1012 1022	carbapenem
+T22	Protein 1126 1131	VIM-2
+T23	Protein 1146 1151	VIM-4
+T24	Protein 1158 1163	VIM-1
+T25	Protein 1172 1177	VIM-5
+T26	Protein 1183 1189	IMP-15
+T27	Protein 1214 1220	IMP-33
+T28	Protein 1233 1239	VIM-37
+T29	Protein 1222 1228	VIM-36
+T30	Gene 1543 1549	MbetaL
+T31	Antibiotic 53 63	carbapenem
+T32	Antibiotic 399 408	Doripenem
+T33	Antibiotic 17 27	carbapenem
+T34	Antibiotic 0 12	Epidemiology
+T35	Antibiotic 1574 1581	PAbetaN
+T36	Antibiotic 2105 2114	arbapenem

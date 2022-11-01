@@ -1,0 +1,8 @@
+T1	Bacteria 80 101	Neisseria gonorrhoeae
+T2	Bacteria 132 148	Escherichia coli
+T3	Bacteria 213 234	Neisseria gonorrhoeae
+T4	Bacteria 265 275	gonococcus
+T5	Antibiotic 292 302	novobiocin
+T6	Antibiotic 482 493	Norfloxacin
+T7	Antibiotic 551 565	nalidixic acid
+T8	Antibiotic 686 700	nalidixic acid

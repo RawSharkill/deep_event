@@ -1,0 +1,10 @@
+T1	Antibiotic 108 120	trimethoprim
+T2	Antibiotic 145 157	trimethoprim
+T4	Antibiotic 880 892	trimethoprim
+T5	Bacteria 1092 1116	Escherichia coli strains
+T6	Bacteria 1220 1227	E. coli
+*	Equiv T6 T5
+T7	Bacteria 1237 1260	enterobacterial strains
+T8	Antibiotic 1307 1319	trimethoprim
+T3	Gene 1367 1369	ca
+T9	Protein 54 57	Tn7

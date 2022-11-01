@@ -1,0 +1,23 @@
+T1	Antibiotic 14 23	quinolone
+T2	Bacteria 60 76	Escherichia coli
+T3	Antibiotic 98 114	fluoroquinolones
+T4	Antibiotic 254 269	fluoroquinolone
+T5	Bacteria 315 334	Escherichia coli Q2
+T6	Antibiotic 350 361	norfloxacin
+T7	Bacteria 405 415	E. coli Q1
+*	Equiv T7 T5
+T8	Antibiotic 574 590	fluoroquinolones
+T9	Antibiotic_target_alteration 443 450	changes
+E1	Antibiotic_target_alteration:T9 Theme:T7 Cause:T8
+T10	Bacteria 706 716	E. coli Q2
+T11	Antibiotic 766 782	fluoroquinolones
+T12	Bacteria 829 846	E. coli Q1 and Q2
+T13	Bacteria 904 914	E. coli Q1
+T14	Antibiotic 918 929	norfloxacin
+T15	Bacteria 973 983	E. coli Q2
+T16	Antibiotic 1172 1181	quinolone
+T17	Bacteria 1206 1216	E. coli Q2
+T18	Reduced_permeability_to_antibiotic 1066 1078	permeability
+E2	Reduced_permeability_to_antibiotic:T18 Cause:T16 Theme:T17
+T19	Antibiotic_target_alteration 1109 1119	alteration
+E3	Antibiotic_target_alteration:T19 Cause:T16 Theme:T17

@@ -1,0 +1,18 @@
+T1	Antibiotic 27 35	amikacin
+T2	Antibiotic 40 49	kanamycin
+T3	Bacteria 53 79	Mycobacterium tuberculosis
+T4	Bacteria 136 162	Mycobacterium tuberculosis
+T5	Bacteria 165 168	MTB
+*	Equiv T5 T4
+T6	Bacteria 198 201	MTB
+T7	Antibiotic 234 252	amikacin-kanamycin
+T8	Bacteria 344 347	MTB
+T9	Antibiotic 432 450	amikacin-kanamycin
+T10	Gene 109 112	rrs
+T11	Gene 373 376	rrs
+T12	Antibiotic_target_alteration 93 101	mutation
+E1	Antibiotic_target_alteration:T12 Theme:T4 Cause:T7
+T13	Antibiotic_target_alteration 329 337	mutation
+E2	Antibiotic_target_alteration:T13 Theme:T8
+T14	Antibiotic_target_alteration 470 477	mutants
+E3	Antibiotic_target_alteration:T14 Cause:T9

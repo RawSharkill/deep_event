@@ -1,0 +1,17 @@
+T1	Bacteria 71 95	Streptococcus pneumoniae
+T2	Antibiotic 121 132	amoxicillin
+T3	Antibiotic 176 199	beta-lactam antibiotics
+T4	Bacteria 203 227	Streptococcus pneumoniae
+T5	Antibiotic 360 371	amoxicillin
+T6	Antibiotic 381 391	penicillin
+T7	Bacteria 691 704	S. pneumoniae
+*	Equiv T7 T4
+T8	Antibiotic 720 731	amoxicillin
+T9	Antibiotic 949 960	amoxicillin
+T10	Antibiotic 1120 1131	amoxicillin
+T11	Antibiotic 1327 1338	amoxicillin
+T12	Antibiotic 1779 1790	amoxicillin
+T13	Antibiotic 1941 1952	amoxicillin
+T14	Antibiotic 288 298	penicillin
+T15	Protein 318 322	PBPs
+T16	Protein 650 654	PBPs

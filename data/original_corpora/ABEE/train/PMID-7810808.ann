@@ -1,0 +1,15 @@
+T1	Bacteria 446 462	Escherichia coli
+T2	Bacteria 981 992	L.  tropica
+T3	Antibiotic 0 11	Paromomycin
+T4	Bacteria 26 44	Leishmania tropica
+T5	Bacteria 280 299	Leishmania tropica.
+T6	Antibiotic 153 164	paromomycin
+T7	Antibiotic 300 313	Promastigotes
+T8	Antibiotic 828 839	paromomycin
+T9	Antibiotic 955 966	Paromomycin
+T10	Antibiotic 774 784	L. tropica
+T11	Bacteria 544 551	E. coli
+T12	Antibiotic_target_alteration 527 536	mutations
+E1	Antibiotic_target_alteration:T12 Theme:T11
+T13	Bacteria 464 475	Tetrahymena
+T14	Antibiotic 127 141	aminoglycoside

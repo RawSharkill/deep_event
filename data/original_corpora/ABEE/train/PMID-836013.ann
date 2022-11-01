@@ -1,0 +1,13 @@
+T1	Antibiotic 14 24	gentamicin
+T2	Bacteria 39 60	Staphylococcus aureus
+T3	Bacteria 90 111	Staphylococcus aureus
+T4	Antibiotic 125 135	gentamicin
+T5	Antibiotic 147 162	aminoglycosides
+T6	Antibiotic_target_alteration 197 206	modifying
+E1	Antibiotic_target_alteration:T6 Cause:T5 Theme:T3
+E2	Antibiotic_target_alteration:T6 Cause:T4 Theme:T3
+T7	Antibiotic 313 327	aminoglycoside
+T8	Bacteria 338 359	gram-negative strains
+T9	Antibiotic 456 466	gentamicin
+T10	Antibiotic 483 497	aminoglycoside
+T11	Antibiotic 542 552	gentamicin

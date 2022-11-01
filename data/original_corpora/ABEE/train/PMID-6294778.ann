@@ -1,0 +1,10 @@
+T1	Antibiotic 90 100	cefotaxime
+T2	Antibiotic 111 132	beta-lactam compounds
+T3	Antibiotic 709 732	beta-lactam antibiotics
+T4	Antibiotic 927 950	beta-lactam antibiotics
+T5	Antibiotic 1158 1175	beta-lactam drugs
+T6	Protein 815 830	beta-lactamases
+T7	Protein 1049 1076	penicillin-binding proteins
+T8	Antibiotic_inactivation 989 1000	destruction
+E1	Antibiotic_inactivation:T8 Cause:T4
+T9	Protein 1005 1020	beta-lactamases

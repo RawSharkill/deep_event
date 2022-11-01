@@ -1,0 +1,19 @@
+T1	Bacteria 26 48	Pseudomonas aeruginosa
+T2	Antibiotic 91 104	ciprofloxacin
+T3	Antibiotic 148 161	ciprofloxacin
+T4	Bacteria 178 201	Pseudomonas  aeruginosa
+T5	Antibiotic 226 239	ciprofloxacin
+T6	Antibiotic 345 358	ciprofloxacin
+T7	Antibiotic 418 431	ciprofloxacin
+T8	Antibiotic 460 473	ciprofloxacin
+T9	Antibiotic 502 515	ciprofloxacin
+T10	Antibiotic 634 647	ciprofloxacin
+T11	Bacteria 999 1015	Escherichia coli
+T12	Gene 1016 1020	gyrA
+T13	Antibiotic 1097 1110	ciprofloxacin
+T14	Antibiotic 1167 1180	ciprofloxacin
+T15	Antibiotic 1282 1295	ciprofloxacin
+T16	Bacteria 1406 1428	Pseudomonas aeruginosa
+T17	Antibiotic 1433 1446	ciprofloxacin
+T18	Antibiotic_target_alteration 1042 1049	altered
+E1	Antibiotic_target_alteration:T18 Theme:T11 Cause:T13

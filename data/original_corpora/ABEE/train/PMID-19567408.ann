@@ -1,0 +1,36 @@
+T1	Antibiotic 145 160	fluoroquinolone
+T2	Bacteria 73 90	Ureaplasma parvum
+T3	Bacteria 95 126	Ureaplasma urealyticum serovars
+T4	Antibiotic 354 369	fluoroquinolone
+T5	Bacteria 465 484	Ureaplasma serovars
+T6	Bacteria 1305 1322	Ureaplasma parvum
+T7	Bacteria 1342 1375	Ureaplasma   urealyticum serovars
+T8	Bacteria 1764 1778	U. urealyticum
+*	Equiv T8 T6
+T9	Antibiotic 2105 2120	fluoroquinolone
+T10	Bacteria 1925 1935	Ureaplasma
+T11	Protein 266 276	amino acid
+T12	Gene 19 23	gyrA
+T13	Gene 25 29	gyrB
+T14	Gene 31 35	parC
+T15	Gene 40 44	parE
+T16	Antibiotic_target_alteration 183 192	mutations
+E1	Antibiotic_target_alteration:T16 Cause:T1 Theme:T3
+T17	Protein 305 309	GyrA
+T18	Protein 312 316	GyrB
+T19	Protein 318 322	ParC
+T20	Protein 327 331	ParE
+T21	Protein 1086 1090	GyrA
+T22	Protein 1097 1101	GyrB
+T23	Protein 1110 1114	ParC
+T24	Protein 1125 1129	ParE
+T25	Gene 1222 1226	parE
+T26	Antibiotic 1417 1432	fluoroquinolone
+T27	Gene 420 424	gyrA
+T28	Gene 426 430	gyrB
+T29	Gene 441 445	parE
+T30	Gene 432 436	parC
+T31	Antibiotic 687 700	ciprofloxacin
+T32	Antibiotic 913 928	fluoroquinolone
+T33	Protein 844 855	amino  acid
+T34	Antibiotic 964 979	fluoroquinolone

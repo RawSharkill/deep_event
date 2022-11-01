@@ -1,0 +1,24 @@
+T1	Antibiotic 14 24	vancomycin
+T2	Antibiotic 29 40	teicoplanin
+T3	Antibiotic 73 83	Vancomycin
+T4	Antibiotic 88 99	teicoplanin
+T5	Bacteria 150 172	gram-positive bacteria
+T6	Antibiotic 214 224	vancomycin
+T7	Antibiotic 235 245	vancomycin
+T8	Antibiotic 388 398	vancomycin
+T9	Antibiotic 402 413	teicoplanin
+T10	Bacteria 466 477	Leuconostoc
+T11	Bacteria 479 492	Lactobacillus
+T12	Bacteria 494 505	Pediococcus
+T13	Bacteria 511 525	Erysipelothrix
+T14	Bacteria 594 605	enterococci
+T15	Bacteria 611 643	coagulase-negative staphylococci
+T16	Bacteria 761 772	enterococci
+T17	Antibiotic 824 834	vancomycin
+T18	Antibiotic 884 895	teicoplanin
+T19	Antibiotic 956 966	vancomycin
+T20	Antibiotic 1007 1018	teicoplanin
+T21	Bacteria 1236 1269	coagulase-negative  staphylococci
+T22	Antibiotic 1289 1299	vancomycin
+T23	Antibiotic 1331 1342	teicoplanin
+T24	Bacteria 1568 1579	enterococci

@@ -1,0 +1,11 @@
+T1	Antibiotic_efflux 451 457	efflux
+E1	Antibiotic_efflux:T1 
+T2	Antibiotic_target_protection 476 486	protection
+E2	Antibiotic_target_protection:T2 
+T3	Protein 813 818	ABC-F
+T4	Protein 0 5	ABC-F
+T5	Antibiotic_target_protection 1921 1928	protect
+E3	Antibiotic_target_protection:T5 
+T6	Protein 1084 1089	ABC-F
+T7	Antibiotic_target_protection 735 745	protection
+E4	Antibiotic_target_protection:T7 

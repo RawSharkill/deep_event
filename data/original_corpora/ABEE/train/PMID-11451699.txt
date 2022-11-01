@@ -1,0 +1,3 @@
+Identification of a plasmid encoding SHV-12, TEM-1, and a variant of IMP-2  metallo-beta-lactamase, IMP-8, from a clinical isolate of Klebsiella pneumoniae. 
+
+A multidrug-resistant plasmid encoding TEM-1, SHV-12, and a variant of IMP-2  metallo-beta-lactamase, designated IMP-8, was identified from a clinical isolate   of Klebsiella pneumoniae. There are four nucleotide differences between  bla(IMP-2) and bla(IMP-8), resulting in two amino acid differences. bla(IMP-8)  was also found to be carried by an integron-borne gene cassette similar to the  bla(IMP-2) cassette.

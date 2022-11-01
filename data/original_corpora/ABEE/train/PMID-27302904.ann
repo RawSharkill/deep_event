@@ -1,0 +1,9 @@
+T1	Bacteria 49 65	Escherichia coli
+T2	Bacteria 121 137	Escherichia coli
+T3	Bacteria 281 289	E.  coli
+*	Equiv T3 T2
+T4	Bacteria 759 766	E. coli
+T5	Antibiotic 1419 1434	aminoglycosides
+T6	Antibiotic 1436 1449	sulphonamides
+T7	Antibiotic 1455 1467	trimethoprim
+T8	Bacteria 1914 1922	E.  coli

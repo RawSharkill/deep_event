@@ -1,0 +1,7 @@
+T1	Bacteria 40 63	nontyphoidal Salmonella
+T2	Bacteria 268 278	Salmonella
+T3	Antibiotic 436 448	streptomycin
+T4	Antibiotic 449 462	spectinomycin
+T5	Bacteria 605 615	Salmonella
+T6	Gene 560 564	int1
+T7	Gene 677 688	dfrA5-ereA2

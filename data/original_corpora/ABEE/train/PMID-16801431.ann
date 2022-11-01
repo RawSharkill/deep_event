@@ -1,0 +1,37 @@
+T1	Bacteria 52 70	Vibrio cholerae O1
+T2	Bacteria 117 140	Vibrio parahaemolyticus
+T3	Bacteria 261 279	Vibrio cholerae O1
+T4	Bacteria 286 328	Vibrio parahaemolyticus clinical  isolates
+T5	Bacteria 346 360	V. cholerae O1
+T6	Bacteria 367 408	V. cholerae non-O1 environmental  isolate
+T7	Bacteria 501 515	V. cholerae O1
+T9	Antibiotic 534 544	ampicillin
+T10	Antibiotic 547 562	chloramphenicol
+T11	Antibiotic 564 576	trimethoprim
+T12	Antibiotic 578 594	sulfamethoxazole
+T13	Antibiotic 600 612	tetracycline
+T14	Antibiotic 792 804	trimethoprim
+T15	Antibiotic 806 818	beta-lactams
+T16	Antibiotic 820 849	quaternary ammonium compounds
+T17	Antibiotic 856 871	aminoglycosides
+T19	Antibiotic 902 917	Chloramphenicol
+T20	Antibiotic 926 935	kanamycin
+T21	Antibiotic 944 955	sulfonamide
+T22	Antibiotic 968 980	tetracycline
+T24	Bacteria 1145 1172	V. parahaemolyticus strains
+T25	Bacteria 1216 1236	V. cholerae isolates
+T26	Bacteria 1451 1465	Vibrio strains
+*	Equiv T5 T1
+*	Equiv T24 T2
+T8	Gene 78 84	dfrA15
+T18	Gene 721 727	dfrA15
+T23	Gene 729 734	blaP1
+T27	Gene 740 744	qacH
+T28	Gene 745 750	aadA8
+T29	Gene 919 923	cat1
+T30	Gene 938 941	aph
+T31	Gene 957 961	sul2
+T32	Gene 982 986	tetG
+T33	Gene 1108 1114	dfrA15
+T34	Gene 1176 1179	SXT
+T35	Gene 1285 1288	SXT

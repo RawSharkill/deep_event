@@ -1,0 +1,22 @@
+T1	Bacteria 78 98	Pseudomonas stutzeri
+T2	Bacteria 161 181	Pseudomonas stutzeri
+T3	Bacteria 362 378	Escherichia coli
+T4	Antibiotic 667 681	cephalosporins
+T5	Antibiotic 686 697	carbapenems
+T6	Antibiotic 710 719	aztreonam
+T7	Protein 269 297	metallo-beta-lactamase (MBL)
+T8	Protein 382 402	beta-Lactamase DIM-1
+T9	Gene 726 729	MBL
+T10	Antibiotic 140 150	carbapenem
+T11	Protein 47 69	metallo-beta-lactamase
+T12	Protein 605 625	beta-Lactamase DIM-1
+T13	Protein 552 555	MBL
+T14	Protein 595 599	MBLs
+T15	Protein 501 511	amino acid
+T16	Protein 20 25	DIM-1
+T17	Antibiotic 832 847	aminoglycosides
+T18	Protein 462 486	 class B beta-lactamases
+T19	Antibiotic_inactivation 641 651	hydrolyzed
+E1	Antibiotic_inactivation:T19 Cause:T4
+E2	Antibiotic_inactivation:T19 Cause:T6
+E3	Antibiotic_inactivation:T19 Cause:T5

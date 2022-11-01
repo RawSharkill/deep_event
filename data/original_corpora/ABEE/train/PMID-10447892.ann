@@ -1,0 +1,41 @@
+T1	Bacteria 53 62	gonococci
+T2	Antibiotic 94 105	fatty acids
+T3	Antibiotic_efflux 18 24	efflux
+E1	Antibiotic_efflux:T3 Theme:T1 Cause:T2
+T4	Antibiotic 173 184	fatty acids
+T5	Antibiotic 187 190	FAs
+*	Equiv T5 T4 T8 T13
+T6	Bacteria 109 118	Gonococci
+T7	Bacteria 207 216	gonococci
+T8	Antibiotic 220 223	FAs
+T9	Antibiotic_efflux 311 317	efflux
+E2	Antibiotic_efflux:T9 Theme:T7 Cause:T8
+T10	Antibiotic 464 480	long-chained FAs
+T11	Bacteria 439 449	gonococcal
+T12	Antibiotic_efflux 506 512	efflux
+E3	Antibiotic_efflux:T12 Cause:T10 Theme:T11
+T13	Antibiotic 560 562	FA
+T14	Bacteria 584 593	gonococci
+T15	Antibiotic_efflux 664 670	efflux
+E4	Antibiotic_efflux:T15 Theme:T16
+T16	Bacteria 691 707	Escherichia coli
+T17	Antibiotic_efflux 730 734	pump
+E5	Antibiotic_efflux:T17 Theme:T18
+T18	Bacteria 738 753	Vibrio cholerae
+T20	Antibiotic_efflux 797 803	efflux
+E6	Antibiotic_efflux:T20 Cause:T21 Theme:T22
+T21	Antibiotic 870 872	FA
+T22	Bacteria 897 906	gonococci
+T19	Bacteria 1096 1105	gonococci
+T23	Antibiotic_efflux 1068 1074	efflux
+E7	Antibiotic_efflux:T23 Theme:T19 Cause:T24
+T24	Antibiotic 1141 1144	FAs
+T25	Protein 1229 1233	MtrE
+T26	Gene 1303 1307	farA
+T27	Gene 1312 1316	farB
+T28	Protein 1375 1379	MtrR
+T29	Bacteria 1605 1614	gonococci
+T30	Protein 1865 1869	MtrR
+T31	Protein 1755 1759	MtrE
+T33	Antibiotic_efflux 1583 1590	mediate
+E9	Antibiotic_efflux:T33 Theme:T29

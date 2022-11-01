@@ -1,0 +1,15 @@
+T1	Bacteria 19 40	Neisseria gonorrhoeae
+T2	Antibiotic 98 107	quinolone
+T3	Bacteria 145 166	Neisseria gonorrhoeae
+T4	Antibiotic 198 207	quinolone
+T5	Antibiotic 704 713	quinolone
+T6	Antibiotic 838 847	quinolone
+T7	Bacteria 890 899	gonococci
+T8	Antibiotic 1144 1153	quinolone
+T9	Antibiotic 1321 1330	quinolone
+T10	Bacteria 270 279	gonococci
+T11	Antibiotic 554 563	Quinolone
+T12	Bacteria 584 593	gonococci
+T13	Antibiotic_target_alteration 1038 1049	alterations
+E1	Antibiotic_target_alteration:T13 Theme:T7 Cause:T6
+T14	Bacteria 1169 1178	gonococci

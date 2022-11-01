@@ -1,0 +1,14 @@
+T1	Bacteria 20 46	Mycobacterium tuberculosis
+T2	Bacteria 423 449	Mycobacterium tuberculosis
+T3	Bacteria 1469 1484	M. tuberculosis
+*	Equiv T3 T2
+T4	Gene 64 68	katG
+T5	Gene 73 77	rpoB
+T6	Antibiotic_target_alteration 410 419	mutations
+E1	Antibiotic_target_alteration:T6 Theme:T2
+T7	Gene 657 661	katG
+T8	Gene 648 652	rpoB
+T9	Gene 794 798	rpoB
+T10	Gene 803 807	katG
+T11	Gene 875 879	katG
+T12	Gene 1318 1322	rpoB

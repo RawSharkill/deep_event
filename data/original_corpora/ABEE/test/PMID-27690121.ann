@@ -1,0 +1,13 @@
+T1	Antibiotic 14 26	beta-Lactams
+T2	Bacteria 30 43	Neisseria ssp
+T3	Bacteria 105 127	Neisseria meningitidis
+T4	Bacteria 132 153	Neisseria gonorrhoeae
+T5	Antibiotic 448 458	penicillin
+T6	Protein 561 564	PBP
+T7	Gene 628 632	penA
+T8	Antibiotic 73 84	 Penicillin
+T9	Gene 602 606	penA
+T10	Protein 581 585	PBP2
+T11	Protein 663 667	PBP2
+T12	Protein 709 719	amino acid
+T13	Antibiotic 532 542	penicillin

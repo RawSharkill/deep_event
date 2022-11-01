@@ -1,0 +1,11 @@
+T1	Antibiotic 64 75	methicillin
+T2	Bacteria 86 112	Staphylococcus epidermidis
+T3	Antibiotic 193 204	methicillin
+T4	Bacteria 237 284	Staphylococcus epidermidis sensu  strictu RP62A
+T5	Antibiotic 565 575	penicillin
+T6	Antibiotic 550 559	oxacillin
+T7	Antibiotic 537 548	methicillin
+T8	Gene 1120 1124	mecA
+T9	Gene 1229 1233	mecA
+T10	Antibiotic 1300 1311	methicillin
+T11	Gene 8 12	mecA

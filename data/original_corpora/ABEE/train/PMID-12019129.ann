@@ -1,0 +1,24 @@
+T1	Bacteria 86 108	Pseudomonas aeruginosa
+T2	Bacteria 116 147	alcaligenes xylosoxidans strain
+T4	Antibiotic 548 559	penicillins
+T5	Antibiotic 569 585	benzylpenicillin
+T6	Antibiotic 587 597	ampicillin
+T7	Antibiotic 603 615	piperacillin
+T3	Antibiotic_inactivation 520 531	hydrolyzing
+E1	Antibiotic_inactivation:T3 Cause:T4
+T8	Gene 160 171	bla(IMP-10)
+T9	Protein 185 207	metallo-beta-lactamase
+T10	Protein 209 215	IMP-10
+T11	Protein 293 303	amino acid
+T12	Protein 23 45	metallo-beta-lactamase
+T13	Protein 47 53	IMP-10
+T14	Protein 378 384	IMP-10
+T15	Protein 467 473	IMP-10
+T16	Protein 493 498	IMP-1
+T17	Protein 421 426	IMP-1
+T18	Protein 348 353	IMP-1
+T19	Protein 354 360	enzyme
+T20	Protein 444 451	enzymes
+E2	Antibiotic_inactivation:T3 Cause:T7
+E3	Antibiotic_inactivation:T3 Cause:T6
+E4	Antibiotic_inactivation:T3 Cause:T5

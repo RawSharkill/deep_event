@@ -1,0 +1,41 @@
+T1	Antibiotic 6 18	tetracycline
+T2	Antibiotic_efflux 19 25	efflux
+E1	Antibiotic_efflux:T2 Cause:T1 Theme:T3
+T3	Bacteria 85 114	human gut firmicute bacterium
+T4	Bacteria 156 197	bacterium Clostridium saccharolyticum K10
+T5	Antibiotic 286 298	tetracycline
+T6	Antibiotic 334 346	tetracycline
+T8	Antibiotic_efflux 483 494	efflux-type
+E3	Antibiotic_efflux:T8 Theme:T4 Cause:T6
+T9	Antibiotic 631 643	Tetracycline
+T10	Bacteria 666 682	Escherichia coli
+T12	Antibiotic_efflux 714 720	efflux
+E5	Antibiotic_efflux:T12 Theme:T10 Cause:T9
+T14	Antibiotic 748 760	tetracycline
+T15	Bacteria 831 838	E. coli
+T16	Antibiotic 901 913	tetracycline
+T17	Bacteria 989 1018	strain C. saccharolyticum K10
+T18	Bacteria 1029 1092	recipient human gut commensal bacterium Roseburia inulinivorans
+T19	Antibiotic 1237 1249	tetracycline
+T21	Bacteria 1449 1470	Enterococcus faecalis
+*	Equiv T15 T10
+*	Equiv T17 T4
+T22	Gene 32 39	tet(40)
+T7	Gene 365 371	tet(W)
+T23	Gene 387 399	 tet(O/32/O)
+T24	Antibiotic_target_protection 426 441	protection-type
+E2	Antibiotic_target_protection:T24 Cause:T6 Theme:T4
+T25	Gene 522 529	tet(40)
+T26	Gene 531 538	tet(40)
+T27	Gene 621 628	tetA(P)
+T11	Protein 704 711	Tet(40)
+T13	Gene 854 861	tet(40)
+T28	Antibiotic_efflux 854 861	tet(40)
+E4	Antibiotic_efflux:T28 Cause:T16 Theme:T15
+T20	Gene 1109 1120	tet(O/32/O)
+T29	Gene 1125 1132	tet(40)
+T30	Gene 1335 1346	tet(O/32/O)
+T31	Gene 1352 1359	tet(40)
+T32	Protein 1410 1414	VanG
+T33	Gene 1526 1537	tet(O/32/O)
+T34	Gene 1551 1558	tet(40)

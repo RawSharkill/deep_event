@@ -1,0 +1,14 @@
+T1	Antibiotic 14 29	chloramphenicol
+T2	Bacteria 44 66	Haemophilus influenzae
+T3	Bacteria 113 135	Haemophilus influenzae
+T4	Antibiotic 195 210	chloramphenicol
+T5	Antibiotic 352 367	chloramphenicol
+T6	Antibiotic 473 488	chloramphenicol
+T7	Bacteria 626 639	H. influenzae
+*	Equiv T7 T2
+T8	Bacteria 684 698	enterobacteria
+T9	Antibiotic 849 864	chloramphenicol
+T10	Protein 387 390	CAT
+T11	Protein 393 396	CAT
+T12	Protein 659 671	Type-II CATs
+T13	Protein 909 912	CAT

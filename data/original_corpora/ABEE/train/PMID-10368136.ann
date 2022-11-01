@@ -1,0 +1,10 @@
+T1	Bacteria 72 99	Enterococcus faecium BM4339
+T2	Bacteria 144 171	Enterococcus faecium BM4339
+T3	Antibiotic 127 140	glycopeptides
+T7	Bacteria 906 912	BM4339
+T8	Bacteria 1041 1058	E. faecium BM4339
+T9	Antibiotic 1097 1110	glycopeptides
+T5	Antibiotic_target_alteration 196 205	synthesis
+E2	Antibiotic_target_alteration:T5 Theme:T2 Cause:T3
+T4	Gene 896 899	ddl
+T6	Protein 661 666	VanYD

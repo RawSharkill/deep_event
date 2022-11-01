@@ -1,0 +1,38 @@
+T1	Bacteria 531 552	Staphylococcus aureus
+T2	Antibiotic 566 578	beta-lactams
+T3	Antibiotic 741 764	beta-lactam antibiotics
+T4	Bacteria 766 781	S.  epidermidis
+T5	Antibiotic 950 961	penicillins
+T6	Antibiotic 966 980	cephalosporins
+T7	Bacteria 982 1003	Streptococcus fecalis
+T8	Antibiotic 1043 1058	aminoglycosides
+T9	Antibiotic 1060 1072	erythromycin
+T10	Antibiotic 1078 1091	tetracyclines
+T11	Bacteria 1126 1147	Hemophilus influenzae
+T12	Antibiotic 1167 1178	penicillins
+T13	Antibiotic 1183 1198	chloramphenicol
+T14	Antibiotic 1232 1247	chloramphenicol
+T15	Bacteria 1326 1344	Enterobacteriaceae
+T16	Bacteria 1346 1362	Escherichia coli
+T17	Bacteria 1368 1389	Klebsiella pneumoniae
+T18	Antibiotic 1393 1417	beta-lactam  antibiotics
+T19	Bacteria 1451 1470	Serratia marcescens
+T20	Bacteria 1475 1499	Pseudomonas   aeruginosa
+T21	Antibiotic 1503 1518	aminoglycosides
+T22	Antibiotic 1523 1534	penicillins
+T24	Antibiotic_target_alteration 586 593	altered
+E1	Antibiotic_target_alteration:T24 Theme:T1 Cause:T2
+T25	Antibiotic_target_alteration 1250 1264	transacetylase
+E2	Antibiotic_target_alteration:T25 Cause:T14 Theme:T11
+T27	Antibiotic_target_alteration 864 871	altered
+E3	Antibiotic_target_alteration:T27 Cause:T5 Theme:T4
+T23	Protein 594 622	penicillin-binding  proteins
+T26	Protein 872 899	penicillin-binding proteins
+E4	Antibiotic_target_alteration:T27 Cause:T6 Theme:T4
+T28	Antibiotic_inactivation 1212 1227	beta-lactamases
+E5	Antibiotic_inactivation:T28 Cause:T12 Theme:T11
+E6	Antibiotic_inactivation:T28 Cause:T13 Theme:T11
+T29	Antibiotic_inactivation 1287 1310	Beta-lactamase-mediated
+E7	Antibiotic_inactivation:T29 Theme:T15 Cause:T18
+E8	Antibiotic_inactivation:T29 Theme:T16 Cause:T18
+E9	Antibiotic_inactivation:T29 Theme:T17 Cause:T18

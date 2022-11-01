@@ -1,0 +1,53 @@
+T1	Antibiotic 27 37	aminosides
+T2	Bacteria 41 63	Pseudomonas aeruginosa
+T4	Bacteria 100 122	Pseudomonas aeruginosa
+T5	Antibiotic 156 171	aminoglycosides
+T6	Bacteria 200 221	P. aeruginosa strains
+*	Equiv T6 T2
+T7	Bacteria 315 327	P. Courvalin
+T8	Bacteria 332 344	A. Philippon
+T9	Antibiotic 360 375	aminoglycosides
+T10	Antibiotic 388 400	streptomycin
+T11	Antibiotic 402 403	S
+*	Equiv T11 T10
+T12	Antibiotic 406 419	spectinomycin
+T13	Antibiotic 421 423	Sp
+*	Equiv T13 T12
+T14	Antibiotic 426 435	kanamycin
+T15	Antibiotic 437 438	K
+*	Equiv T15 T14
+T16	Antibiotic 441 449	neomycin
+T17	Antibiotic 451 452	N
+*	Equiv T17 T16
+T18	Antibiotic 456 466	gentamicin
+T19	Antibiotic 468 469	G
+*	Equiv T19 T18
+T20	Antibiotic 472 481	sisomicin
+T21	Antibiotic 483 485	Ss
+*	Equiv T21 T20
+T22	Antibiotic 488 498	netilmicin
+T23	Antibiotic 500 502	Nt
+*	Equiv T23 T22
+T24	Antibiotic 505 515	tobramycin
+T25	Antibiotic 517 518	T
+*	Equiv T25 T24
+T26	Antibiotic 521 529	amikacin
+T27	Antibiotic 531 532	A
+*	Equiv T27 T26
+T28	Antibiotic 536 545	habekacin
+T29	Antibiotic 547 548	H
+*	Equiv T29 T28
+T30	Antibiotic 776 791	aminoglycosides
+T31	Antibiotic 797 798	G
+T32	Antibiotic 807 809	Ss
+T33	Antibiotic 818 819	T
+T34	Antibiotic 828 830	Nt
+T35	Antibiotic 839 840	A
+T36	Antibiotic 893 894	G
+T37	Antibiotic 900 904	G Ss
+T38	Antibiotic 910 914	G Nt
+T39	Antibiotic 920 927	G Ss Nt
+T40	Antibiotic 933 940	G Ss  T
+T41	Antibiotic 946 955	G Ss T Nt
+T42	Antibiotic 962 973	G Ss T Nt A
+T3	Bacteria 77 98	Gram-negative bacilli

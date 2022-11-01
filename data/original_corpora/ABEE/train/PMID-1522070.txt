@@ -1,0 +1,3 @@
+Cloning, sequencing, and enhanced expression of the dihydropteroate synthase gene  of Escherichia coli MC4100. 
+
+The Escherichia coli gene coding for dihydropteroate synthase (DHPS) has been  cloned and sequenced. The protein has 282 amino acids and a compositional  molecular mass of 30,314 daltons. Increased expression of the enzyme was realized  by using a T7 expression system. The enzyme was purified and crystallized. A  temperature-sensitive mutant was isolated and found to express a DHPS with a  lower specific activity and lower affinities for para-aminobenzoic acid and  sulfathiazole. The allele had a point mutation that changed a phenylalanine codon  to a leucine codon, and the mutation was in a codon that is conserved among  published DHPS sequences.

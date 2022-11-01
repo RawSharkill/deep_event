@@ -1,0 +1,22 @@
+T1	Antibiotic 38 48	vancomycin
+T2	Antibiotic 78 88	Vancomycin
+T3	Antibiotic 219 229	vancomycin
+T4	Antibiotic 585 595	vancomycin
+T5	Bacteria 103 125	Gram-positive bacteria
+T6	Gene 448 452	VanX
+T7	Gene 457 461	VanY
+T8	Gene 1253 1258	Van D
+T9	Gene 1286 1290	VanY
+T10	Protein 1291 1298	enzymes
+T11	Antibiotic 1726 1736	vancomycin
+T12	Gene 1065 1070	VanXY
+T13	Gene 821 827	VanXYC
+T14	Gene 832 838	VanXYG
+T15	Gene 894 900	VanXYC
+T16	Gene 747 752	Van D
+T17	Antibiotic_inactivation 657 667	hydrolyzes
+E1	Antibiotic_inactivation:T17 Cause:T4
+T18	Gene 622 630	VanXY  D
+T19	Gene 1041 1046	VanXY
+T20	Antibiotic_inactivation 1697 1724	hydrolytic activity against
+E2	Antibiotic_inactivation:T20 Cause:T11

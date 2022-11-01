@@ -1,0 +1,10 @@
+T1	Antibiotic 32 43	4-quinolone
+T2	Antibiotic 119 143	fluorinated 4-quinolones
+T3	Antibiotic 312 336	fluorinated 4-quinolones
+T4	Bacteria 514 530	Escherichia coli
+T5	Antibiotic 620 632	quinolones  
+T6	Antibiotic 695 705	quinolones
+T7	Antibiotic_efflux 682 691	transport
+E1	Antibiotic_efflux:T7 Cause:T6 Theme:T4
+T8	Antibiotic_target_alteration 584 593	mutations
+E2	Antibiotic_target_alteration:T8 Cause:T5 Theme:T4

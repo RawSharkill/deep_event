@@ -1,0 +1,9 @@
+T1	Bacteria 63 79	Escherichia coli
+T2	Antibiotic 152 164	streptomycin
+T3	Antibiotic 288 300	streptomycin
+T4	Bacteria 253 269	parental strains
+T5	Gene 244 248	polA
+T6	Gene 238 242	lexA
+T7	Gene 232 236	RecA
+T8	Protein 184 187	Smr
+T9	Bacteria 213 229	Escherichia coli

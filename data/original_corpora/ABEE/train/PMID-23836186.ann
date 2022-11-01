@@ -1,0 +1,9 @@
+T1	Antibiotic 96 107	ceftazidime
+T2	Antibiotic 534 545	ceftazidime
+T3	Antibiotic 626 637	ceftazidime
+T4	Protein 42 64	metallo-beta-lactamase
+T5	Protein 32 38	IMP-30
+T6	Protein 173 196	metallo-beta-lactamases
+T7	Protein 330 337	 IMP-30
+T8	Protein 355 360	IMP-1
+T9	Protein 111 127	IMP-type enzymes

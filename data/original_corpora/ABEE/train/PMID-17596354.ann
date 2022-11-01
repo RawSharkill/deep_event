@@ -1,0 +1,14 @@
+T1	Bacteria 119 153	mycobacterium tuberculosis strains
+T2	Bacteria 171 197	Mycobacterium tuberculosis
+T3	Antibiotic 201 213	pyrazinamide
+T4	Antibiotic 215 218	PZA
+*	Equiv T4 T3
+T5	Antibiotic 415 418	PZA
+T6	Bacteria 472 488	M.  tuberculosis
+*	Equiv T6 T2
+T7	Antibiotic 525 528	PZA
+T8	Antibiotic 629 632	PZA
+T9	Gene 258 262	pncA
+T10	Gene 77 81	pncA
+T11	Antibiotic 96 108	pyrazinamide
+T12	Gene 391 395	pncA

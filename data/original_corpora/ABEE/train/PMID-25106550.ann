@@ -1,0 +1,20 @@
+T1	Bacteria 68 88	Morganella  morganii
+T2	Bacteria 229 248	Morganella morganii
+T3	Bacteria 420 434	Enterobacteria
+T4	Bacteria 504 515	M. morganii
+*	Equiv T4 T2
+T5	Antibiotic 707 716	Quinolone
+T6	Antibiotic 820 829	quinolone
+T7	Antibiotic 1008 1018	quinolones
+T8	Antibiotic 1083 1094	norfloxacin
+T9	Antibiotic 1111 1120	ofloxacin
+T10	Antibiotic 1125 1138	ciprofloxacin
+T11	Antibiotic 1157 1169	levofloxacin
+T12	Antibiotic 1207 1216	quinolone
+T13	Bacteria 1450 1461	M. morganii
+T14	Gene 1241 1245	qnrD
+T15	Gene 1433 1437	gyrB
+T16	Gene 1290 1294	gyrB
+T17	Gene 1329 1333	parC
+T18	Gene 1404 1408	qnrD
+T19	Gene 469 473	qnrD

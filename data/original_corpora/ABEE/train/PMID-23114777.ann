@@ -1,0 +1,32 @@
+T2	Antibiotic 80 90	daptomycin
+T3	Bacteria 105 116	enterococci
+T4	Antibiotic 120 130	Daptomycin
+T5	Antibiotic 132 135	DAP
+*	Equiv T5 T4
+T6	Bacteria 151 162	enterococci
+T7	Antibiotic 402 413	cardiolipin
+T8	Antibiotic 483 486	DAP
+T9	Bacteria 630 655	Enterococcus faecium S447
+T10	Bacteria 691 717	Enterococcus faecalis S613
+T11	Bacteria 850 860	E. faecium
+T12	Bacteria 862 880	E. faecium Cls447a
+T13	Bacteria 885 904	E. faecalis Cls613a
+T1	Antibiotic 1405 1408	DAP
+T14	Bacteria 1455 1472	Streptomyces  sp.
+T15	Antibiotic 1826 1829	DAP
+T16	Protein 1136 1142	enzyme
+T17	Antibiotic 823 827	 DAP
+T18	Protein 792 802	amino-acid
+T19	Antibiotic_target_alteration 53 62	mutations
+E1	Antibiotic_target_alteration:T19 Cause:T2 Theme:T3
+T20	Antibiotic_target_alteration 182 191	mutations
+E2	Antibiotic_target_alteration:T20 Theme:T6 Cause:T4
+T21	Protein 612 619	enzymes
+T22	Antibiotic_target_alteration 1669 1678	mutations
+E3	Antibiotic_target_alteration:T22 Cause:T15
+T23	Antibiotic_target_alteration 517 526	mutations
+E4	Antibiotic_target_alteration:T23 Cause:T8
+T24	Antibiotic_target_alteration 1364 1373	mutations
+E5	Antibiotic_target_alteration:T24 Cause:T1
+T25	Antibiotic_target_alteration 1517 1526	mutations
+E6	Antibiotic_target_alteration:T25 Theme:T14

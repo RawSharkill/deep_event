@@ -1,0 +1,9 @@
+T1	Antibiotic 14 25	sulfonamide
+T2	Bacteria 40 62	Neisseria meningitidis
+T3	Bacteria 183 198	N. meningitidis
+*	Equiv T3 T2
+T4	Bacteria 235 251	Escherichia coli
+T5	Bacteria 424 446	Neisseria meningitidis
+T6	Antibiotic 564 575	sulfonamide
+T7	Bacteria 802 819	Escherichia  coli
+T8	Antibiotic 372 383	sulfonamide

@@ -1,0 +1,28 @@
+T1	Antibiotic 53 67	Nitrofurantoin
+T2	Bacteria 83 99	Escherichia coli
+T3	Antibiotic 129 143	nitrofurantoin
+T4	Antibiotic 145 148	NIT
+*	Equiv T4 T3
+T5	Antibiotic 260 263	NIT
+T6	Bacteria 444 460	Escherichia coli
+T7	Bacteria 989 996	E. coli
+T8	Antibiotic 1099 1102	NIT
+T9	Antibiotic 1243 1246	NIT
+T10	Antibiotic 1535 1538	NIT
+T11	Gene 378 383	oqxAB
+T12	Gene 626 631	oqxAB
+T13	Antibiotic 665 668	NIT
+T14	Antibiotic 769 772	NIT
+T15	Gene 825 830	oqxAB
+T16	Gene 973 979	 oqxAB
+T17	Gene 1030 1035	oqxAB
+T18	Gene 1126 1131	oqxAB
+T19	Gene 1040 1044	nfsA
+T20	Antibiotic 1158 1161	NIT
+T21	Gene 1340 1344	nfsA
+T22	Gene 1406 1410	nfsA
+T23	Gene 1477 1482	oqxAB
+T24	Gene 1696 1701	oqxAB
+T25	Antibiotic_target_alteration 1497 1505	mutation
+E1	Antibiotic_target_alteration:T25 Cause:T10
+T26	Antibiotic 1636 1650	nitrofurantoin

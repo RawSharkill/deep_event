@@ -1,0 +1,15 @@
+T1	Antibiotic 28 38	rifampicin
+T2	Antibiotic 252 262	rifampicin
+T3	Antibiotic 634 644	rifampicin
+T4	Bacteria 848 863	E. coli strains
+T5	Antibiotic 867 877	rifampicin
+T6	Antibiotic 925 940	chloramphenicol
+T7	Antibiotic 945 957	tetracycline
+T8	Antibiotic 1187 1197	rifampicin
+T9	Antibiotic 1218 1228	rifampicin
+T10	Antibiotic 1246 1254	neomycin
+T11	Antibiotic 1255 1270	chloramphenicol
+T12	Antibiotic 1272 1284	tetracycline
+T13	Antibiotic 1289 1301	streptomycin
+T14	Bacteria 1345 1352	E. coli
+T15	Bacteria 96 112	Escherichia coli

@@ -1,0 +1,11 @@
+T1	Antibiotic 0 11	Sulfonamide
+T2	Bacteria 26 48	Streptococcus pyogenes
+T3	Antibiotic 155 166	Sulfonamide
+T4	Bacteria 200 222	Streptococcus pyogenes
+T5	Bacteria 667 689	Neisseria meningitidis
+T6	Antibiotic 641 652	sulfonamide
+T7	Antibiotic 1264 1277	sulfathiazole
+T8	Antibiotic_target_alteration 257 268	alterations
+E1	Antibiotic_target_alteration:T8 Cause:T3 Theme:T4
+T9	Antibiotic_target_replacement 502 521	substantial changes
+E2	Antibiotic_target_replacement:T9 Cause:T6 Theme:T5

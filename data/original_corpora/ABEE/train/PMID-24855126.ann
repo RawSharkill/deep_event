@@ -1,0 +1,40 @@
+T1	Antibiotic 39 48	isoniazid
+T2	Bacteria 84 110	Mycobacterium tuberculosis
+T3	Antibiotic 175 184	isoniazid
+T4	Bacteria 262 288	Mycobacterium tuberculosis
+T5	Bacteria 501 516	M. tuberculosis
+*	Equiv T5 T4
+T6	Bacteria 683 699	M.  tuberculosis
+T7	Antibiotic 1501 1510	isoniazid
+T8	Antibiotic 1586 1595	isoniazid
+T9	Bacteria 1625 1640	M. tuberculosis
+T10	Antibiotic 1845 1854	isoniazid
+T11	Gene 360 364	katG
+T12	Gene 366 370	inhA
+T13	Gene 374 378	ahpC
+T14	Gene 380 384	kasA
+T15	Gene 399 403	mshA
+T16	Gene 391 394	nat
+T17	Gene 386 389	ndh
+T18	Gene 730 734	katG
+T19	Gene 749 753	katG
+T20	Gene 874 878	inhA
+T21	Antibiotic_target_alteration 13 22	mutations
+E1	Antibiotic_target_alteration:T21 Theme:T2 Cause:T1
+T22	Antibiotic_target_alteration 208 217	mutations
+E2	Antibiotic_target_alteration:T22 Cause:T3 Theme:T4
+T23	Gene 839 843	katG
+T24	Gene 935 939	inhA
+T25	Gene 1098 1102	katG
+T26	Gene 1145 1149	kasA
+T27	Gene 1151 1154	ndh
+T28	Gene 1165 1169	mshA
+T29	Gene 1156 1159	nat
+T30	Gene 1322 1327	 katG
+T31	Gene 1451 1455	inhA
+T32	Gene 1442 1446	katG
+T33	Gene 1553 1557	inhA
+T34	Gene 1540 1544	katG
+T35	Gene 1741 1745	katG
+T36	Antibiotic_target_alteration 1465 1474	mutations
+E3	Antibiotic_target_alteration:T36 Cause:T7

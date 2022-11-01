@@ -1,0 +1,32 @@
+T1	Bacteria 59 76	Bacillus subtilis
+T2	Bacteria 243 261	Bacillus  subtilis
+T3	Antibiotic 298 308	lincomycin
+T4	Antibiotic 310 313	Lnc
+*	Equiv T4 T3
+T5	Antibiotic 324 339	streptogramin A
+T6	Antibiotic 341 343	SA
+*	Equiv T6 T5
+T7	Antibiotic 356 371	virginiamycin M
+T8	Antibiotic 373 376	VgM
+*	Equiv T8 T7
+T9	Bacteria 792 803	B. subtilis
+*	Equiv T9 T2
+T10	Bacteria 838 849	B. subtilis
+T11	Antibiotic 1518 1521	VgM
+T12	Antibiotic 1523 1526	Lnc
+T13	Antibiotic 1574 1589	chloramphenicol
+T14	Antibiotic 1593 1596	Cam
+*	Equiv T14 T13
+T15	Antibiotic 1599 1608	linezolid
+T16	Antibiotic 1610 1613	Lnz
+*	Equiv T16 T15
+T17	Antibiotic 1634 1646	erythromycin
+T18	Antibiotic 1648 1651	Ery
+*	Equiv T18 T17
+T19	Antibiotic 1550 1558	tiamulin
+T20	Antibiotic 1560 1563	Tia
+*	Equiv T20 T19
+T21	Bacteria 103 136	Gram-positive pathogenic bacteria
+T22	Antibiotic_target_protection 154 164	protection
+E1	Antibiotic_target_protection:T22 Theme:T21
+T23	Protein 1624 1633	macrolide

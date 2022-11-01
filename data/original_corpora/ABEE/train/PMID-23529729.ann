@@ -1,0 +1,13 @@
+T1	Bacteria 39 50	Citrobacter
+T2	Bacteria 154 165	Citrobacter
+T3	Bacteria 186 216	Citrobacter freundii ATCC 6879
+T4	Bacteria 272 305	Citrobacter braakii ATCC 51113(T)
+T5	Bacteria 338 359	C. freundii   complex
+T6	Bacteria 441 465	C. freundii ATCC 8090(T)
+T7	Bacteria 519 551	Citrobacter koseri ATCC 27028(T)
+T8	Gene 628 632	qnrB
+T9	Gene 485 489	qnrB
+T10	Gene 401 405	qnrB
+T11	Gene 20 24	qnrB
+T12	Gene 175 181	qnrB60
+T13	Gene 261 267	qnrB61

@@ -1,0 +1,31 @@
+T1	Bacteria 70 88	Enterobacteriaceae
+T2	Antibiotic 703 711	imipenem
+T3	Antibiotic 715 724	meropenem
+T4	Bacteria 905 931	Enterobacteriaceae strains
+T5	Bacteria 1080 1098	Enterobacteriaceae
+T6	Bacteria 1555 1573	Enterobacteriaceae
+T7	Antibiotic 1596 1604	imipenem
+T8	Protein 169 192	Metallo-beta-lactamases
+T9	Bacteria 262 284	Gram-negative bacteria
+T10	Protein 13 39	IMP metallo-beta-lactamase
+T11	Protein 194 198	MBLs
+T12	Antibiotic 43 53	carbapenem
+T13	Antibiotic 365 375	carbapenem
+T14	Protein 487 491	MBLs
+T15	Protein 586 589	MBL
+T16	Protein 561 564	IMP
+T17	Protein 891 894	IMP
+T18	Protein 1728 1735	IMP MBL
+T19	Protein 1105 1108	IMP
+T20	Protein 1024 1033	MBL Etest
+T21	Protein 774 777	IMP
+T22	Protein 749 752	IMP
+T23	Protein 1202 1215	IMP-type MBLs
+T24	Protein 1227 1230	IMP
+T25	Protein 1498 1507	MBL Etest
+T26	Protein 1279 1282	IMP
+T27	Bacteria 823 841	Gram-negative rods
+T28	Bacteria 116 134	Gram-negative rods
+T29	Protein 865 868	IMP
+T30	Antibiotic 218 232	carbapenemases
+T31	Antibiotic 652 662	carbapenem

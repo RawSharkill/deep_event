@@ -1,0 +1,6 @@
+T1	Bacteria 104 120	Escherichia coli
+T2	Bacteria 170 186	Escherichia coli
+T3	Antibiotic_target_alteration 93 100	mutants
+E1	Antibiotic_target_alteration:T3 Theme:T1
+T4	Antibiotic_target_alteration 159 166	mutants
+E2	Antibiotic_target_alteration:T4 Theme:T2

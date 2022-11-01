@@ -1,0 +1,20 @@
+T1	Antibiotic 26 38	pyrazinamide
+T2	Bacteria 61 88	Mycobacterium  tuberculosis
+T3	Antibiotic 155 167	pyrazinamide
+T4	Bacteria 183 209	Mycobacterium tuberculosis
+T5	Bacteria 930 945	M. tuberculosis
+*	Equiv T5 T4
+T6	Gene 540 544	pncA
+T7	Antibiotic_target_alteration 963 973	 mutations
+E1	Antibiotic_target_alteration:T7 Theme:T5
+T8	Protein 581 591	amino acid
+T9	Antibiotic 416 440	pyrazinamide-susceptible
+T10	Gene 465 469	pncA
+T11	Gene 53 57	pncA
+T12	Antibiotic_target_alteration 0 9	Mutations
+E2	Antibiotic_target_alteration:T12 Cause:T1 Theme:T2
+T13	Gene 118 122	pncA
+T14	Antibiotic_target_alteration 129 138	mutations
+E3	Antibiotic_target_alteration:T14 Cause:T3 Theme:T4
+T15	Antibiotic 250 273	 pyrazinamide-resistant
+T16	Antibiotic 281 305	pyrazinamide-susceptible

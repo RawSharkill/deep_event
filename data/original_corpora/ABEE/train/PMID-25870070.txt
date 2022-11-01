@@ -1,0 +1,3 @@
+Molecular characterization of ISCR1-mediated blaPER-1 in a non-O1, non-O139  Vibrio cholerae strain from China. 
+
+We report the detection of PER-1 extended-spectrum beta-lactamase (ESBL) in a  clinical non-O1, non-O139 Vibrio cholerae strain from China. ISCR1-mediated  bla(PER-1) was embedded in a complex In4 family class 1 integron belonging to the  lineage of Tn1696 on a conjugative IncA/C plasmid. A free 8.98-kb circular  molecule present with the ISCR1-bla(PER-1)-truncated 3'-conserved sequence (CS)  structure was detected in this isolate. These findings may provide insight into  the mobilization of bla(PER-1).

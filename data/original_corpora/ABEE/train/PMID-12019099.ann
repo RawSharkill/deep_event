@@ -1,0 +1,66 @@
+T2	Antibiotic 96 107	clindamycin
+T3	Bacteria 3 24	Enterococcus faecalis
+T4	Antibiotic 112 137	quinupristin-dalfopristin
+T5	Bacteria 141 171	Enterococcus faecalis isolates
+T7	Antibiotic 189 200	clindamycin
+T8	Antibiotic 202 205	CLI
+*	Equiv T8 T7
+T9	Antibiotic 212 237	quinupristin-dalfopristin
+T10	Antibiotic 239 242	Q-D
+*	Equiv T10 T9
+T11	Antibiotic 497 500	CLI
+T12	Antibiotic 535 547	dalfopristin
+T13	Antibiotic 549 552	DAL
+*	Equiv T13 T12
+T14	Bacteria 594 606	E.  faecalis
+T15	Antibiotic 624 627	Q-D
+T16	Antibiotic 647 650	CLI
+T17	Antibiotic 676 679	DAL
+T18	Antibiotic 472 475	Q-D
+T19	Bacteria 402 413	E. faecalis
+T20	Antibiotic 354 365	lincosamide
+T21	Antibiotic 370 385	streptogramin A
+T23	Antibiotic 813 816	CLI
+T24	Antibiotic 1069 1072	CLI
+T25	Antibiotic 1353 1356	CLI
+T26	Antibiotic 1501 1504	CLI
+T27	Antibiotic 1518 1521	CLI
+T28	Antibiotic 1748 1751	CLI
+T29	Antibiotic 2343 2346	CLI
+T30	Antibiotic 1201 1204	CLI
+T31	Antibiotic 818 821	Q-D
+T32	Antibiotic 1813 1816	Q-D
+T33	Antibiotic 1681 1684	Q-D
+T34	Antibiotic 1567 1570	Q-D
+T35	Antibiotic 2352 2355	Q-D
+T36	Bacteria 928 939	E. faecalis
+T37	Bacteria 1003 1031	Enterococcus faecium strains
+T38	Bacteria 1314 1334	E.  faecalis strains
+T39	Bacteria 1457 1474	E. faecium strain
+T40	Bacteria 965 976	enterococci
+T41	Bacteria 2267 2279	E.  faecalis
+T42	Antibiotic 827 830	DAL
+T43	Antibiotic 1111 1114	DAL
+T44	Bacteria 1177 1195	E. faecium strains
+T45	Antibiotic 1209 1212	DAL
+T47	Antibiotic 1388 1391	DAL
+T48	Antibiotic 1642 1645	DAL
+T50	Bacteria 1728 1746	E. faecium strains
+T52	Bacteria 2028 2049	Staphylococcus aureus
+T53	Bacteria 2062 2080	Lactococcus lactis
+T56	Antibiotic_efflux 2183 2189	efflux
+E13	Antibiotic_efflux:T56 Theme:T52
+E15	Antibiotic_efflux:T56 Theme:T53
+T1	Protein 988 994	erm(B)
+T6	Protein 1162 1168	erm(B)
+T22	Protein 1961 1964	Lsa
+T46	Gene 320 326	abc-23
+T49	Gene 343 346	lsa
+T51	Gene 40 43	Lsa
+T54	Protein 1299 1305	erm(B)
+T55	Gene 1430 1433	lsa
+T57	Gene 1627 1630	lsa
+T58	Protein 1997 2003	Vga(A)
+T59	Protein 2005 2011	Vga(B)
+T60	Protein 2017 2023	Msr(A)
+T61	Protein 2228 2231	lsa

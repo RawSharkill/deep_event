@@ -1,0 +1,47 @@
+T1	Antibiotic 394 402	imipenem
+T2	Bacteria 710 729	Serratia marcescens
+T3	Bacteria 967 990	Acinetobacter baumannii
+T4	Bacteria 992 1014	Pseudomonas aeruginosa
+T5	Bacteria 1017 1043	Acinetobacter haemolyticus
+T6	Bacteria 1048 1061	S. marcescens
+*	Equiv T6 T2
+T7	Bacteria 1199 1212	P. aeruginosa
+*	Equiv T7 T4
+T8	Bacteria 1442 1455	P. aeruginosa
+T9	Bacteria 1460 1472	A. baumannii
+*	Equiv T9 T3
+T10	Antibiotic 1602 1612	carbapenem
+T11	Antibiotic 67 75	imipenem
+T12	Gene 34 56	metallo-beta-lactamase
+T13	Bacteria 86 108	Gram-negative bacteria
+T14	Antibiotic 193 201	imipenem
+T15	Bacteria 212 234	Gram-negative bacteria
+T16	Protein 337 359	metallo-beta-lactamase
+T17	Protein 506 509	MBL
+T18	Gene 601 604	MBL
+T19	Gene 755 764	blaVIM-11
+T20	Gene 769 777	blaIMP-8
+T21	Gene 929 937	blaIMP-8
+T22	Gene 915 923	blaVIM-1
+T23	Gene 905 913	blaVIM-3
+T24	Gene 849 854	intI1
+T25	Gene 1146 1152	blaVIM
+T26	Gene 1268 1271	MBL
+T27	Gene 1411 1420	blaVIM-11
+T28	Gene 1553 1562	blaVIM-11
+T29	Gene 744 747	MBL
+T30	Gene 1354 1359	aacA4
+T31	Gene 1307 1315	blaVIM-3
+T32	Gene 1365 1370	aacA4
+T33	Gene 1338 1348	bla(VIM-3)
+T34	Gene 684 693	blaIMP-24
+T35	Gene 641 650	blaVIM-11
+T36	Gene 631 639	blaVIM-3
+T37	Gene 652 662	blaVIM-11a
+T38	Gene 665 673	blaIMP-8
+T39	Gene 1321 1326	aacA4
+T40	Gene 620 628	blaVIM-2
+T41	Protein 361 364	MBL
+T42	Protein 407 415	ethylene
+T43	Gene 1360 1364	aadB
+T44	Gene 1316 1320	orf2

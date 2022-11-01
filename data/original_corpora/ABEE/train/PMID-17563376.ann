@@ -1,0 +1,30 @@
+T1	Antibiotic 21 36	streptogramin B
+T3	Bacteria 51 72	Staphylococcus aureus
+T4	Antibiotic 106 119	streptogramin
+T5	Antibiotic 143 168	quinupristin-dalfopristin
+T8	Bacteria 272 293	Staphylococcus aureus
+T11	Bacteria 319 340	Enterococcus  faecium
+T12	Antibiotic 445 458	streptogramin
+T15	Antibiotic_inactivation 541 553	inactivation
+E6	Antibiotic_inactivation:T15 Cause:T17
+T16	Antibiotic 566 583	B  streptogramins
+T17	Antibiotic 593 605	quinupristin
+T18	Bacteria 836 845	S. aureus
+T19	Antibiotic 889 901	quinupristin
+T20	Antibiotic 1119 1131	Quinupristin
+T22	Antibiotic 1513 1525	quinupristin
+T23	Antibiotic 1632 1646	streptogramins
+*	Equiv T18 T8
+T2	Antibiotic 250 261	methicillin
+T6	Antibiotic 298 308	vancomycin
+T7	Antibiotic 170 178	Synercid
+T9	Protein 612 627	streptogramin B
+T10	Protein 641 657	 virginiamycin B
+T13	Protein 665 668	Vgb
+T14	Protein 827 830	Vgb
+T21	Protein 1445 1448	Vgb
+T24	Protein 1672 1675	Vgb
+T25	Antibiotic 1449 1461	quinupristin
+T26	Protein 675 681	enzyme
+T27	Protein 1183 1188	nzyme
+E1	Antibiotic_inactivation:T15 Cause:T16

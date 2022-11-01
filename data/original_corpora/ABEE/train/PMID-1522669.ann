@@ -1,0 +1,45 @@
+T1	Antibiotic 112 123	ceftriaxone
+T2	Antibiotic 125 129	CTRX
+*	Equiv T2 T1
+T3	Bacteria 434 453	Staphylococcus spp.
+T4	Bacteria 455 479	Streptococcus pneumoniae
+T5	Bacteria 482 498	Escherichia coli
+T6	Bacteria 500 516	Citrobacter spp.
+T7	Bacteria 518 535	Enterobacter spp.
+T8	Bacteria 537 550	Serratia spp.
+T9	Bacteria 552 569	Proteus  vulgaris
+T10	Bacteria 571 590	Morganella morganii
+T11	Bacteria 595 611	Providencia spp.
+T12	Bacteria 697 719	Streptococcus pyogenes
+T13	Bacteria 722 733	Haemophilus
+T14	Bacteria 746 767	Klebsiella pneumoniae
+T15	Bacteria 769 786	Proteus mirabilis
+T16	Bacteria 792 815	Peptostreptococcus spp.
+T17	Antibiotic 832 836	CTRX
+T18	Bacteria 840 853	S. pneumoniae
+*	Equiv T18 T4 T20
+T19	Antibiotic 891 907	benzylpenicillin
+T20	Bacteria 926 939	S. pneumoniae
+T21	Bacteria 993 1013	Bacteroides fragilis
+T22	Bacteria 1060 1071	B. fragilis
+*	Equiv T22 T21
+T23	Bacteria 1076 1095	B. thetaiotaomicron
+T24	Antibiotic 1183 1190	cephems
+T25	Antibiotic 1354 1358	CTRX
+T26	Bacteria 1376 1387	B. fragilis
+T27	Antibiotic 1440 1451	methicillin
+T28	Bacteria 1462 1483	Staphylococcus aureus
+T29	Antibiotic 1492 1502	cephamycin
+T30	Antibiotic 1537 1543	cephem
+T31	Bacteria 1575 1598	Gram-negative  bacteria
+T32	Antibiotic 1608 1617	quinolone
+T33	Antibiotic 1682 1686	CTRX
+T34	Antibiotic 1702 1706	CTRX
+T35	Antibiotic 1868 1872	CTRX
+T36	Antibiotic 2169 2180	beta-lactam
+T37	Antibiotic 2307 2314	cephems
+T38	Antibiotic 2325 2329	CTRX
+T39	Antibiotic 2405 2409	CTRX
+T40	Antibiotic 2510 2514	CTRX
+T41	Antibiotic 2614 2618	CTRX
+T42	Antibiotic 2632 2638	cephem

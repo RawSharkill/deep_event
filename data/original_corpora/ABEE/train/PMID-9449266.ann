@@ -1,0 +1,24 @@
+T1	Antibiotic 46 59	sulfathiazole
+T2	Bacteria 75 91	Escherichia coli
+T3	Bacteria 201 217	Escherichia coli
+T4	Antibiotic 243 256	sulfathiazole
+T5	Antibiotic 609 622	sulfathiazole
+T6	Antibiotic 722 735	sulfathiazole
+T7	Antibiotic 890 903	sulfathiazole
+T8	Antibiotic 1013 1026	sulfathiazole
+T9	Bacteria 1060 1067	E. coli
+*	Equiv T9 T3
+T10	Antibiotic 1229 1241	bicyclomycin
+T11	Antibiotic 1384 1397	sulfathiazole
+T12	Antibiotic 97 120	sulfathiazole-resistant
+T13	Gene 311 315	folP
+T14	Gene 526 530	folP
+T15	Antibiotic_target_replacement 500 511	Replacement
+E1	Antibiotic_target_replacement:T15 Cause:T5
+T16	Antibiotic_target_replacement 500 510	Replacemen
+E2	Antibiotic_target_replacement:T16 Cause:T6
+T17	Gene 790 794	folP
+T18	Antibiotic_target_alteration 783 789	mutant
+E3	Antibiotic_target_alteration:T18 Cause:T8 Theme:T9
+T19	Antibiotic_target_alteration 1359 1367	mutation
+E4	Antibiotic_target_alteration:T19 Cause:T11

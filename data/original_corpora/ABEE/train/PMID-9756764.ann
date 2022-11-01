@@ -1,0 +1,38 @@
+T1	Bacteria 90 114	Streptomyces ambofaciens
+T2	Bacteria 121 145	Streptomyces ambofaciens
+T3	Antibiotic 188 198	spiramycin
+T4	Antibiotic 292 302	spiramycin
+T5	Bacteria 371 392	Streptomyces lividans
+T6	Bacteria 544 555	S. lividans
+*	Equiv T6 T5
+T7	Antibiotic 755 765	Spiramycin
+T8	Antibiotic 803 813	spiramycin
+T9	Bacteria 1038 1052	S. ambofaciens
+T10	Antibiotic 1265 1275	spiramycin
+T11	Gene 253 257	srmA
+T12	Antibiotic_inactivation 43 55	inactivating
+E1	Antibiotic_inactivation:T12 Theme:T1
+T13	Protein 22 42	glycosyl transferase
+T14	Gene 80 84	gimA
+T15	Antibiotic 56 66	macrolides
+T16	Antibiotic_inactivation 1065 1076	inactivated
+E2	Antibiotic_inactivation:T16 Theme:T9
+T17	Gene 1054 1058	gimA
+T19	Antibiotic_inactivation 1401 1413	inactivating
+E3	Antibiotic_inactivation:T19 Theme:T29 Cause:T21
+T20	Protein 1414 1434	glycosyl transferase
+T21	Antibiotic 1391 1400	macrolide
+T22	Antibiotic_inactivation 421 432	inactivates
+E4	Antibiotic_inactivation:T22 Theme:T5 Cause:T23
+T23	Antibiotic 434 444	macrolides
+T24	Gene 470 474	gimA
+T25	Antibiotic_inactivation 774 785	inactivated
+E5	Antibiotic_inactivation:T25 Cause:T7
+T26	Gene 868 872	gimA
+T27	Antibiotic 920 930	macrolides
+T28	Gene 1232 1236	gimA
+T29	Bacteria 1316 1354	wild-type and gimA-null mutant strains
+T18	Gene 1535 1539	gimA
+T30	Antibiotic 725 735	macrolides
+T31	Protein 582 604	macrolide-inactivating
+T32	Gene 487 491	gimA

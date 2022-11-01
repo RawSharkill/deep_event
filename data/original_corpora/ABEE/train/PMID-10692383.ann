@@ -1,0 +1,17 @@
+T2	Antibiotic 31 45	aminoglycoside
+T7	Antibiotic 180 195	aminoglycosides
+T10	Antibiotic 247 255	amikacin
+T11	Antibiotic 257 267	gentamicin
+T12	Antibiotic 269 277	neomycin
+T13	Antibiotic 279 288	kanamycin
+T14	Antibiotic 294 304	tobramycin
+T15	Antibiotic 391 410	dihydrostreptomycin
+T16	Antibiotic 421 431	gentamicin
+T1	Bacteria 8 24	Escherichia coli
+T3	Protein 0 4	AcrD
+T5	Antibiotic_efflux 46 52	efflux
+E1	Antibiotic_efflux:T5 Cause:T2 Theme:T1
+T4	Protein 61 65	AcrD
+T6	Antibiotic_efflux 170 176	efflux
+E2	Antibiotic_efflux:T6 Cause:T7 Theme:T1
+T8	Gene 213 217	acrD

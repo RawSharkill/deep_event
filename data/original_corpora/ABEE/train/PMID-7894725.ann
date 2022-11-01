@@ -1,0 +1,9 @@
+T1	Gene 17 26	flagellin
+T2	Gene 419 423	flaA
+T3	Gene 428 432	flaB
+T4	Bacteria 377 386	C. jejuni
+T5	Bacteria 837 847	C.  jejuni
+T6	Bacteria 127 147	Campylobacter jejuni
+*	Equiv T4 T6
+T7	Bacteria 41 61	Campylobacter jejuni
+T8	Gene 640 644	flaA

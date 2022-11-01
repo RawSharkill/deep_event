@@ -1,0 +1,35 @@
+T1	Antibiotic 28 38	tobramycin
+T2	Bacteria 42 63	Klebsiella pneumoniae
+T3	Bacteria 68 90	Enterobacter   cloacae
+T4	Antibiotic 132 142	tobramycin
+T6	Bacteria 225 243	Enterobacteriaceae
+T7	Antibiotic 262 272	tobramycin
+T8	Antibiotic 347 357	gentamicin
+T9	Bacteria 383 404	Klebsiella pneumoniae
+T10	Antibiotic 413 440	Enterobacter cloacae strain
+T11	Antibiotic 506 532	aminoglycoside antibiotics
+T12	Antibiotic 572 582	tobramycin
+T13	Bacteria 654 677	Escherichia coli strain
+T14	Antibiotic 809 819	tobramycin
+T15	Antibiotic 821 830	kanamycin
+T16	Antibiotic 836 844	neomycin
+T17	Antibiotic 916 926	tobramycin
+T18	Antibiotic 929 939	gentamicin
+T19	Antibiotic 945 954	kanamycin
+T20	Antibiotic 1049 1064	aminoglycosides
+T21	Bacteria 1131 1144	K. pneumoniae
+T22	Bacteria 1149 1159	E. cloacae
+*	Equiv T21 T2
+*	Equiv T22 T3
+T23	Antibiotic 1171 1180	kanamycin
+T24	Antibiotic 1230 1244	aminoglycoside
+T25	Antibiotic 1322 1332	tobramycin
+T26	Antibiotic 1398 1408	tobramycin
+T5	Antibiotic 1088 1102	aminoglycoside
+T27	Antibiotic_target_alteration 1181 1198	acetyltransferase
+E1	Antibiotic_target_alteration:T27 Cause:T23
+T28	Bacteria 151 172	gram-negative bacilli
+T29	Protein 1300 1303	KAT
+T30	Antibiotic_inactivation 117 128	acetylation
+E2	Antibiotic_inactivation:T30 Theme:T3 Cause:T1
+E3	Antibiotic_inactivation:T30 Theme:T2 Cause:T1

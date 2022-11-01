@@ -1,0 +1,20 @@
+T1	Antibiotic 91 101	vancomycin
+T2	Bacteria 112 142	Enterococcus gallinarum BM4174
+T4	Antibiotic 340 352	glycopeptide
+T5	Bacteria 363 374	enterococci
+T7	Bacteria 446 477	Enterococcus  gallinarum BM4174
+T8	Antibiotic 579 589	vancomycin
+T10	Antibiotic_target_alteration 478 489	synthesizes
+E4	Antibiotic_target_alteration:T10 Theme:T7 Cause:T8
+T11	Antibiotic 1399 1409	vancomycin
+T12	Bacteria 1422 1449	Enterococcus faecalis JH2-2
+T13	Antibiotic 1470 1480	vancomycin
+T15	Bacteria 1584 1601	E. faecalis JH2-2
+T16	Antibiotic 1825 1835	vancomycin
+T14	Bacteria 1606 1619	JH2-2(pAT708)
+T18	Bacteria 1624 1637	JH2-2(pAT717)
+T19	Gene 5 11	vanXYC 
+T6	Gene 635 641	vanC-1
+T9	Gene 830 836	vanC-1
+T17	Protein 1000 1011	amino acids
+T20	Protein 1177 1184	enzymes

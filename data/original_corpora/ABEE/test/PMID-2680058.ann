@@ -1,0 +1,19 @@
+T1	Antibiotic 0 15	Fluoroquinolone
+T2	Antibiotic 43 59	fluoroquinolones
+T3	Bacteria 614 632	Enterobacteriaceae
+T4	Bacteria 634 650	Haemophilus spp.
+T5	Bacteria 657 671	eisseria  spp.
+T6	Bacteria 700 722	Pseudomonas aeruginosa
+T7	Bacteria 727 740	staphylococci
+T8	Bacteria 797 809	streptococci
+T10	Antibiotic 1072 1083	beta-lactam
+T11	Antibiotic 1087 1101	aminoglycoside
+T13	Bacteria 1955 1977	Neisseria meningitidis
+T14	Antibiotic 1738 1754	Fluoroquinolones
+T16	Antibiotic 2259 2275	fluoroquinolones
+T17	Bacteria 2425 2438	P. aeruginosa
+T18	Bacteria 2443 2464	Staphylococcus aureus
+T19	Antibiotic 2549 2565	Fluoroquinolones
+*	Equiv T17 T6
+T9	Bacteria 1715 1736	gram-negative bacilli
+T12	Bacteria 1856 1877	gram-negative bacilli

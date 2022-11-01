@@ -1,0 +1,3 @@
+Identification of a novel NDM variant, NDM-13, from a multidrug-resistant  Escherichia coli clinical isolate in Nepal. 
+
+A novel New Delhi metallo-beta-lactamase, NDM-13, was identified in a  carbapenem resistant Escherichia coli clinical isolate obtained from the urine of  a patient in Nepal. The enzymatic activity of NDM-13 against beta-lactams was  similar to that of NDM-1. However, NDM-13 displayed significantly higher k cat/Km  ratios for cefotaxime. The genetic environment of bla NDM-13 was determined to be  tnpA-IS30-bla NDM-13-ble MBL-trpF-dsbC-cutA-groES-groL, with bla NDM-13 located  within the chromosome.

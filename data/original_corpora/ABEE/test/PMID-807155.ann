@@ -1,0 +1,12 @@
+T1	Antibiotic 11 22	cephalothin
+T2	Antibiotic 24 38	aminoglycoside
+T3	Bacteria 57 68	enterococci
+T4	Antibiotic 87 98	cephalothin
+T5	Antibiotic 103 117	aminoglycoside
+T7	Bacteria 290 301	enterococci
+T6	Antibiotic 475 486	cephalothin
+T8	Bacteria 497 508	enterococci
+T9	Bacteria 548 569	Streptococcus faecium
+T10	Antibiotic 633 648	aminoglycosides
+T11	Bacteria 674 685	enterococci
+T12	Bacteria 819 831	enterococcus

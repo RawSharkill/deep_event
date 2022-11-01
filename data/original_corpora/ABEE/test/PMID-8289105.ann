@@ -1,0 +1,12 @@
+T1	Bacteria 61 80	Gram-positive cocci
+T2	Bacteria 39 58	gram-positive cocci
+T3	Bacteria 162 183	Staphylococcus aureus
+T4	Bacteria 185 217	coagulase-negative staphylococci
+T5	Bacteria 242 266	Streptococcus pneumoniae
+T6	Antibiotic 704 714	penicillin
+T7	Bacteria 224 236	enterococcus
+T8	Antibiotic 810 820	gentamicin
+T9	Antibiotic 828 836	rifampin
+T10	Bacteria 890 913	gram-positive organisms
+T11	Bacteria 1180 1199	gram-positive cocci
+T12	Bacteria 725 736	pneumococci

@@ -1,0 +1,42 @@
+T1	Antibiotic 27 41	Clarithromycin
+T2	Bacteria 45 68	Mycobacterium abscessus
+T3	Bacteria 82 105	Mycobacterium abscessus
+T4	Antibiotic 144 158	clarithromycin
+T5	Bacteria 403 415	M. abscessus
+*	Equiv T5 T3
+T6	Antibiotic 507 521	clarithromycin
+T7	Bacteria 744 773	M. abscessus subsp. abscessus
+T8	Bacteria 808 836	M. abscessus subsp. bolletii
+T9	Antibiotic 1142 1150	amikacin
+T10	Antibiotic 1152 1161	cefoxitin
+T11	Antibiotic 1163 1171	imipenem
+T12	Antibiotic 1173 1184	tigecycline
+T13	Antibiotic 1188 1197	linezolid
+T14	Antibiotic 1203 1216	ciprofloxacin
+T15	Bacteria 1244 1274	M. abscessus subsp.  abscessus
+T16	Bacteria 1300 1331	M. abscessus subsp. massiliense
+T17	Bacteria 1524 1555	M. abscessus subsp. massiliense
+T18	Antibiotic 1672 1686	clarithromycin
+T19	Bacteria 1766 1795	M. abscessus subsp. abscessus
+T20	Bacteria 1812 1844	M. abscessus subsp.  massiliense
+T21	Bacteria 1876 1905	M. abscessus subsp. abscessus
+T22	Bacteria 1933 1961	M. abscessus subsp. bolletii
+T23	Gene 275 278	rrl
+T24	Gene 358 365	erm(41)
+T25	Gene 462 469	erm(41)
+T26	Gene 636 639	rrl
+T27	Gene 641 648	erm(41)
+T28	Gene 650 654	whiB
+T29	Gene 656 660	rpIV
+T30	Gene 666 670	rplD
+T31	Gene 774 781	erm(41)
+T32	Gene 892 895	rrl
+T33	Gene 1275 1282	erm(41)
+T34	Gene 1415 1418	rrl
+T35	Gene 1600 1604	rpIV
+T36	Protein 1619 1622	L22
+T37	Antibiotic_target_alteration 1752 1761	mutations
+E1	Antibiotic_target_alteration:T37 Theme:T19 Cause:T18
+T38	Gene 1796 1803	erm(41)
+E2	Antibiotic_target_alteration:T37 Cause:T18 Theme:T20
+T39	Gene 1906 1913	erm(41)

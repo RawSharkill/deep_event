@@ -1,0 +1,28 @@
+T1	Bacteria 98 114	Escherichia coli
+T2	Antibiotic 148 157	quinolone
+T3	Bacteria 245 261	Escherichia coli
+T4	Antibiotic 287 300	ciprofloxacin
+T5	Antibiotic 340 354	nalidixic acid
+T6	Antibiotic 445 458	ciprofloxacin
+T7	Antibiotic 699 713	nalidixic acid
+T8	Bacteria 827 834	E. coli
+*	Equiv T8 T3
+T9	Antibiotic 980 994	nalidixic acid
+T10	Antibiotic 1137 1150	ciprofloxacin
+T11	Gene 204 208	gyrB
+T12	Gene 195 199	gyrA
+T13	Antibiotic_target_alteration 131 140	mutations
+E1	Antibiotic_target_alteration:T13 Cause:T2 Theme:T3
+T14	Protein 528 532	GyrA
+T15	Protein 763 773	amino acid
+T16	Protein 896 902	gyrase
+T17	Protein 1057 1063	gyrase
+T18	Antibiotic_target_alteration 1014 1022	mutation
+E2	Antibiotic_target_alteration:T18 Cause:T9
+E3	Antibiotic_target_alteration:T18 Cause:T10
+T19	Gene 39 43	gyrA
+T20	Antibiotic 52 65	ciprofloxacin
+T21	Antibiotic_target_alteration 27 35	mutation
+E4	Antibiotic_target_alteration:T21 Cause:T20 Theme:T1
+T22	Antibiotic_target_alteration 751 759	mutation
+E5	Antibiotic_target_alteration:T22 Cause:T7

@@ -1,0 +1,3 @@
+Two new dfr genes in trimethoprim resistant integron-negative Escherichia coli  isolates. 
+
+Two Escherichia coli isolates resistant to trimethoprim but negative for  integrons carried two new resistance genes, dfrA24 and dfrA26, remotely similar  to one another and to the cassette-independent genes dfrA8 and dfrA9. The dfrA24   gene was not associated with known mobile elements, while dfrA26 was associated  with the CR1 common region.

@@ -1,0 +1,14 @@
+T1	Bacteria 0 24	Pseudomonas pseudomallei
+T2	Antibiotic 39 62	beta-lactam antibiotics
+T3	Antibiotic_target_alteration 70 83	alterations  
+E1	Antibiotic_target_alteration:T3 Cause:T2 Theme:T1
+T4	Bacteria 129 153	Pseudomonas pseudomallei
+T5	Antibiotic 256 270	cephalosporins
+T6	Antibiotic 296 307	beta-lactam
+T7	Antibiotic 727 739	beta-lactams
+T8	Antibiotic 902 914	beta-lactams
+T9	Antibiotic 1185 1197	beta-lactams
+T10	Antibiotic 1273 1285	beta-lactams
+T11	Antibiotic 1300 1311	ceftazidime
+T12	Antibiotic 1028 1039	ceftazidime
+T13	Antibiotic 1382 1394	beta-lactams

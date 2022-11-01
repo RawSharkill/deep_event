@@ -1,0 +1,27 @@
+T1	Antibiotic 41 50	quinolone
+T2	Antibiotic 98 110	sparfloxacin
+T3	Antibiotic 142 151	quinolone
+T4	Antibiotic 181 194	ciprofloxacin
+T5	Antibiotic 196 208	temafloxacin
+T6	Bacteria 386 407	Chlamydia trachomatis
+T7	Bacteria 452 470	Enterobacteriaceae
+T8	Bacteria 505 527	Pseudomonas aeruginosa
+T9	Antibiotic 551 563	Sparfloxacin
+T10	Bacteria 596 614	Acinetobacter spp.
+T11	Antibiotic 621 634	ciprofloxacin
+T12	Bacteria 640 659	Staphylococcus spp.
+T13	Bacteria 661 674	Streptococcus
+T14	Bacteria 685 707	Enterococcus  faecalis
+T15	Antibiotic 747 759	sparfloxacin
+T16	Bacteria 795 810	Str. pneumoniae
+T17	Antibiotic 816 829	ciprofloxacin
+T18	Bacteria 861 883	Haemophilus influenzae
+T19	Bacteria 885 908	Branhamella catarrhalis
+T20	Bacteria 913 927	Neisseria spp.
+T21	Bacteria 972 992	Bacteroides fragilis
+T22	Bacteria 1038 1054	Chl. trachomatis
+*	Equiv T22 T6
+T23	Antibiotic 1140 1153	ciprofloxacin
+T24	Antibiotic 1193 1203	quinolones
+T25	Antibiotic 1225 1235	quinolones
+T26	Antibiotic 1296 1308	sparfloxacin

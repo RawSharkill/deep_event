@@ -1,0 +1,54 @@
+T1	Antibiotic_efflux 37 41	pump
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 45 67	Pseudomonas aeruginosa
+T3	Antibiotic_efflux 228 234	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 188 210	Pseudomonas aeruginosa
+T5	Bacteria 435 448	P. aeruginosa
+T6	Antibiotic_target_alteration 474 482	mutation
+E3	Antibiotic_target_alteration:T6 Theme:T5
+T7	Antibiotic_target_alteration 327 336	mutations
+E4	Antibiotic_target_alteration:T7 Theme:T4
+T8	Antibiotic_target_alteration 122 128	mutant
+E5	Antibiotic_target_alteration:T8 Theme:T2
+T9	Bacteria 825 838	P. aeruginosa
+T10	Antibiotic_target_alteration 869 878	mutations
+E6	Antibiotic_target_alteration:T10 Theme:T9
+T11	Bacteria 1593 1606	P. aeruginosa
+*	Equiv T5 T2
+T12	Protein 211 216	MexAB
+T13	Protein 217 223	OprM  
+T14	Protein 460 464	MexB
+T15	Protein 605 609	MexA
+T16	Protein 611 615	MexB
+T17	Protein 657 661	MexA
+T18	Protein 691 695	MexA
+T19	Protein 740 744	MexA
+T20	Protein 745 749	MexB
+T21	Protein 850 854	OprM
+T22	Protein 917 921	OprM
+T23	Protein 958 962	MexB
+T24	Protein 1028 1032	MexA
+T25	Protein 1033 1037	MexB
+T26	Protein 1043 1047	MexB
+T27	Protein 1048 1052	OprM
+T28	Protein 1286 1290	OprM
+T29	Protein 1151 1155	MexA
+T30	Protein 1170 1174	OprM
+T31	Protein 1359 1363	OprM
+T32	Protein 1303 1307	MexA
+T33	Protein 1422 1426	OprM
+T34	Protein 1225 1230	T198I
+T35	Protein 1474 1478	MexA
+T36	Protein 1505 1509	OprM
+T37	Protein 1533 1537	OprM
+T38	Protein 1618 1622	MexB
+T39	Antibiotic_target_alteration 1549 1558	mutations
+E7	Antibiotic_target_alteration:T39 Theme:T11
+T40	Gene 1644 1648	oprM
+T41	Protein 1728 1732	MexA
+T42	Protein 1733 1737	MexB
+T43	Protein 1738 1742	OprM
+T44	Protein 1832 1836	MexA
+T45	Protein 1885 1890	MexAB
+T46	Protein 1891 1895	OprM

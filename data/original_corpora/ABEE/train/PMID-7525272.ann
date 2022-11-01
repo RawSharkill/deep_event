@@ -1,0 +1,12 @@
+T1	Antibiotic 44 54	kirromycin
+T2	Bacteria 94 110	Escherichia coli
+T3	Antibiotic 189 199	kirromycin
+T4	Bacteria 203 219	Escherichia coli
+T5	Antibiotic 708 718	kirromycin
+T6	Antibiotic 925 935	kirromycin
+T7	Antibiotic 1141 1151	kirromycin
+T8	Antibiotic 1312 1322	kirromycin
+T9	Antibiotic_target_alteration 1080 1089	mutations
+E1	Antibiotic_target_alteration:T9 Cause:T7
+T10	Antibiotic_target_alteration 1282 1288	mutant
+E2	Antibiotic_target_alteration:T10 Cause:T8

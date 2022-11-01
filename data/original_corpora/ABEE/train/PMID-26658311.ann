@@ -1,0 +1,11 @@
+T1	Antibiotic 27 36	quinolone
+T2	Bacteria 63 84	Campylobacter  jejuni
+T3	Bacteria 89 107	Campylobacter coli
+T4	Antibiotic 440 453	ciprofloxacin
+T5	Antibiotic 428 437	Quinolone
+T6	Bacteria 469 489	Campylobacter jejuni
+T7	Bacteria 494 512	Campylobacter coli
+T8	Antibiotic 879 888	quinolone
+T9	Bacteria 916 934	Campylobacter spp.
+T10	Bacteria 978 991	Campylobacter
+T11	Antibiotic 1193 1206	ciprofloxacin

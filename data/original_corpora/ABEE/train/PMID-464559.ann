@@ -1,0 +1,13 @@
+T1	Antibiotic 183 194	levomycetin
+T2	Antibiotic_inactivation 167 179	inactivation
+E1	Antibiotic_inactivation:T2 Cause:T1 Theme:T6
+T3	Antibiotic 39 50	levomycetin
+T4	Bacteria 54 68	El Tor vibrios
+T5	Antibiotic_inactivation 23 35	inactivation
+E2	Antibiotic_inactivation:T5 Cause:T3 Theme:T4
+T6	Bacteria 407 412	vitro
+*	Equiv T6 T4
+T7	Bacteria 418 424	vibrio
+T8	Antibiotic 527 538	levomycetin
+T9	Antibiotic 819 830	levomycetin
+T10	Antibiotic 1065 1076	levomycetin

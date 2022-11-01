@@ -1,0 +1,39 @@
+T1	Antibiotic 40 49	linezolid
+T2	Antibiotic 137 164	chloramphenicol-florfenicol
+T3	Antibiotic 247 256	linezolid
+T4	Antibiotic 271 280	linezolid
+T5	Antibiotic 360 369	linezolid
+T6	Bacteria 374 417	methicillin-resistant Staphylococcus aureus
+T7	Bacteria 430 440	MRSA CM-05
+T8	Bacteria 549 562	staphylococci
+T9	Bacteria 678 688	MRSA CM-05
+T10	Bacteria 757 761	MRSA
+T11	Bacteria 928 933	CM-05
+*	Equiv T11 T9
+*	Equiv T10 T6 T7
+T12	Bacteria 1096 1109	staphylococci
+T13	Antibiotic 1203 1212	linezolid
+T14	Bacteria 1228 1233	CM-05
+T15	Antibiotic 1337 1350	Oxazolidinone
+T16	Antibiotic 1505 1514	linezolid
+T17	Gene 320 332	cfr-carrying
+T18	Gene 512 515	cfr
+T19	Antibiotic 720 745	chloramphenicol-resistant
+T20	Gene 857 860	cfr
+T21	Gene 882 888	erm(B)
+T22	Gene 894 900	erm(A)
+T23	Gene 1024 1027	mec
+T24	Bacteria 988 1002	staphylococcal
+T25	Gene 1065 1068	cfr
+T26	Gene 1378 1381	cfr
+T27	Gene 1492 1495	cfr
+T28	Gene 77 80	cfr
+T29	Gene 132 135	cfr
+T30	Antibiotic_target_alteration 132 135	cfr
+E1	Antibiotic_target_alteration:T30 Cause:T3
+T31	Antibiotic_target_alteration 320 332	cfr-carrying
+E2	Antibiotic_target_alteration:T31 Cause:T4 Theme:T6
+T32	Antibiotic_target_alteration 1378 1381	cfr
+E3	Antibiotic_target_alteration:T32 Cause:T15
+T33	Antibiotic_target_alteration 1492 1495	cfr
+E4	Antibiotic_target_alteration:T33 Cause:T16

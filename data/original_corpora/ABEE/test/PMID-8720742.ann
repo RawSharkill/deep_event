@@ -1,0 +1,7 @@
+T1	Antibiotic 524 535	methicillin
+T2	Bacteria 546 567	Staphylococcus aureus
+T3	Bacteria 569 573	MRSA
+T4	Bacteria 595 599	MRSA
+T5	Bacteria 873 894	Gram-negative bacilli
+T6	Bacteria 1052 1077	 Streptococcus pneumoniae
+T7	Antibiotic 827 837	vancomycin

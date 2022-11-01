@@ -1,0 +1,8 @@
+T1	Antibiotic 95 105	quinolones
+T2	Antibiotic 157 171	nalidixic acid
+T3	Bacteria 364 387	Pseudomonas  aeruginosa
+T4	Antibiotic 429 439	quinolones
+T5	Bacteria 997 1010	P. aeruginosa
+*	Equiv T5 T3
+T6	Bacteria 1016 1037	Staphylococcus aureus
+T7	Antibiotic 1062 1071	quinolone

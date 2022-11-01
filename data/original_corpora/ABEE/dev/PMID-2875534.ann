@@ -1,0 +1,8 @@
+T1	Bacteria 173 195	Salmonella typhimurium
+T2	Bacteria 411 433	Salmonella typhimurium
+T4	Antibiotic 750 760	Adriamycin
+T5	Antibiotic 766 776	daunomycin
+T6	Antibiotic 382 395	anthracycline
+T3	Antibiotic 478 492	anthracyclines
+T7	Antibiotic 1328 1341	anthracycline
+T8	Antibiotic 679 708	N-demethylated anthracyclines

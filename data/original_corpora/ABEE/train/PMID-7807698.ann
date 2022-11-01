@@ -1,0 +1,37 @@
+T1	Bacteria 1071 1093	Gram-negative bacteria
+T2	Antibiotic 131 145	new quinolones
+T3	Antibiotic 719 721	NQ
+T4	Bacteria 746 764	Staphylococcus spp
+T5	Bacteria 853 875	Gram-positive bacteria
+T6	Antibiotic 1127 1130	NQs
+T7	Antibiotic 1473 1476	NQs
+T8	Antibiotic 1606 1609	NQs
+T9	Antibiotic 1631 1633	NQ
+T10	Bacteria 1665 1688	Haemophilus  influenzae
+T11	Bacteria 1693 1722	Neisseria gonorrhoeae strains
+T12	Antibiotic 1951 1954	PCG
+T13	Antibiotic 1912 1929	 benzylpenicillin
+T14	Antibiotic 1931 1934	PCG
+*	Equiv T14 T13
+T15	Bacteria 1965 1989	Streptococcus pneumoniae
+T16	Antibiotic 2010 2014	CEPs
+T17	Bacteria 2025 2041	Escherichia coli
+T18	Antibiotic 1855 1865	ampicillin
+T19	Antibiotic 1870 1878	cefaclor
+T20	Antibiotic 1525 1527	NQ
+T21	Bacteria 1538 1560	Gram-negative bacteria
+T22	Antibiotic 1406 1408	NQ
+T23	Bacteria 1419 1442	Gram-negative  bacteria
+T24	Antibiotic 1182 1184	NQ
+T25	Bacteria 1195 1218	 Gram-negative bacteria
+T26	Antibiotic 1315 1317	NQ
+T27	Antibiotic 700 703	NQs
+T28	Antibiotic 894 897	NQs
+T29	Bacteria 996 1018	Gram-positive bacteria
+T30	Antibiotic 984 987	NQs
+T31	Bacteria 559 582	 Gram-positive bacteria
+T32	Antibiotic 540 543	NQs
+T33	Antibiotic 147 150	NQs
+T34	Antibiotic 29 43	new quinolones
+*	Equiv T2 T33
+T35	Antibiotic 350 353	NQs

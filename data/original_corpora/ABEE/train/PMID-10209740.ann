@@ -1,0 +1,24 @@
+T1	Bacteria 109 139	Enterococcus gallinarum BM4174
+T3	Bacteria 214 244	Enterococcus gallinarum BM4174
+T4	Antibiotic_target_alteration 49 63	membrane-bound
+E2	Antibiotic_target_alteration:T4 Theme:T1
+T6	Bacteria 1240 1261	E.  gallinarum BM4174
+T7	Antibiotic_target_alteration 1179 1187	membrane
+E4	Antibiotic_target_alteration:T7 Theme:T6
+T8	Bacteria 584 600	Escherichia coli
+T11	Bacteria 1553 1581	Bacillus  stearothermophilus
+T2	Gene 198 204	vanXYc
+T5	Bacteria 1960 1971	enterococci
+T9	Antibiotic_target_alteration 2048 2062	membrane-bound
+E1	Antibiotic_target_alteration:T9 Theme:T5
+T10	Antibiotic 88 98	vancomycin
+T12	Antibiotic 1219 1229	vancomycin
+T13	Gene 1404 1410	vanXYc
+T14	Gene 1415 1419	vanT
+T15	Gene 1684 1688	VanT
+T16	Gene 1732 1736	VanT
+T17	Gene 1513 1517	VanT
+T18	Gene 288 292	vanT
+T19	Protein 314 324	amino-acid
+T20	Antibiotic 1938 1948	vancomycin
+T21	Protein 1627 1638	amino acids

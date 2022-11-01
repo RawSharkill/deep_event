@@ -1,0 +1,14 @@
+T1	Antibiotic 630 640	ampicillin
+T2	Bacteria 151 168	Escherichia  coli
+T3	Bacteria 222 250	Escherichi coli strain JA300
+T4	Antibiotic 355 365	ampicillin
+T5	Antibiotic 456 465	kanamycin
+T6	Antibiotic 404 417	 tetracycline
+T7	Antibiotic 367 382	chloramphenicol
+T8	Antibiotic 384 398	nalidixic acid
+T9	Antibiotic 785 794	kanamycin
+T10	Antibiotic 188 199	cyclohexane
+T11	Antibiotic 722 734	 cyclohexane
+T12	Antibiotic_target_alteration 209 216	mutants
+E1	Antibiotic_target_alteration:T12 Cause:T10 Theme:T3
+T13	Antibiotic 666 677	cyclohexane

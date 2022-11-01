@@ -1,0 +1,16 @@
+T1	Antibiotic 146 156	peplomycin
+T2	Antibiotic 160 163	PEP
+*	Equiv T2 T1
+T3	Antibiotic 196 205	bleomycin
+T4	Antibiotic 207 210	BLM
+*	Equiv T4 T3
+T5	Antibiotic 434 437	PEP
+T6	Antibiotic 299 302	PEP
+T7	Antibiotic 306 309	BLM
+T8	Antibiotic 346 349	BLM
+T9	Antibiotic 687 690	PEP
+T10	Antibiotic 732 735	BLM
+T11	Antibiotic 916 919	PEP
+T12	Antibiotic 1189 1192	BLM
+T13	Antibiotic 1230 1233	PEP
+T14	Antibiotic 1314 1317	BLM

@@ -1,0 +1,25 @@
+T1	Bacteria 43 65	pseudomonas aeruginosa
+T2	Bacteria 266 288	Pseudomonas aeruginosa
+T3	Bacteria 373 386	P. aeruginosa
+*	Equiv T3 T1
+T4	Antibiotic 410 421	carbapenems
+T5	Antibiotic 426 437	ceftazidime
+T6	Bacteria 715 728	P. aeruginosa
+T7	Bacteria 1623 1636	P. aeruginosa
+T8	Bacteria 2025 2038	P. aeruginosa
+T9	Gene 536 544	bla(VIM)
+T10	Gene 549 557	bla(IMP)
+T11	Gene 102 134	blaVIM-17 metallo-beta-lactamase
+T12	Gene 1751 1761	bla(VIM-2)
+T13	Gene 1970 1981	bla(VIM-17)
+T14	Gene 1369 1379	bla(VIM-17
+T15	Gene 1585 1596	bla(VIM-17)
+T16	Gene 600 610	bla(VIM-2)
+T17	Gene 637 648	bla(VIM-17)
+T18	Gene 677 687	bla(VIM-2)
+T19	Gene 871 882	bla(VIM-17)
+T20	Gene 1170 1178	bla(VIM)
+T21	Protein 460 483	 metallo-beta-lactamase
+T22	Gene 1884 1892	bla(VIM)
+T23	Gene 1205 1211	aacA29
+T24	Gene 992 1003	bla(VIM-17)

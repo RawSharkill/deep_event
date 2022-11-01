@@ -1,0 +1,26 @@
+T2	Bacteria 99 110	Bacteroides
+T3	Bacteria 116 126	clostridia
+T4	Antibiotic 132 143	clindamycin
+T5	Antibiotic 145 148	Cln
+*	Equiv T5 T4
+T6	Bacteria 188 208	Bacteroides fragilis
+T7	Antibiotic 292 303	clindamycin
+T9	Antibiotic 373 376	Cln
+T10	Bacteria 387 398	Bacteroides
+T8	Bacteria 639 650	Bacteroides
+T11	Bacteria 681 697	Escherichia coli
+T12	Bacteria 773 780	E. coli
+*	Equiv T12 T11
+T13	Bacteria 789 800	B. fragilis
+*	Equiv T13 T6
+T14	Bacteria 967 978	B. fragilis
+T15	Bacteria 987 994	E. coli
+T16	Antibiotic 1012 1024	tetracycline
+T17	Bacteria 1047 1071	B. fragilis strain TM230
+T18	Bacteria 1127 1138	B. fragilis
+T19	Bacteria 1143 1150	E. coli
+T20	Bacteria 1203 1214	Bacteroides
+T21	Bacteria 1315 1326	Bacteroides
+T22	Bacteria 1331 1338	E. coli
+T1	Bacteria 22 40	anaerobic bacteria
+T23	Protein 631 637	Tn4400

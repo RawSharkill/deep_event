@@ -1,0 +1,10 @@
+T1	Antibiotic 0 11	Beta-lactam
+T2	Bacteria 22 44	Pseudomonas aeruginosa
+T3	Antibiotic 132 143	beta-lactam
+T4	Bacteria 165 187	Pseudomonas aeruginosa
+T5	Antibiotic 301 312	beta-lactam
+T6	Antibiotic 465 476	beta-lactam
+T7	Reduced_permeability_to_antibiotic 429 441	permeability
+E1	Reduced_permeability_to_antibiotic:T7 Cause:T5 Theme:T4
+T8	Reduced_permeability_to_antibiotic 522 534	permeability
+E2	Reduced_permeability_to_antibiotic:T8 Cause:T6 Theme:T2

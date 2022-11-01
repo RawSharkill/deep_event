@@ -1,0 +1,35 @@
+T1	Antibiotic_efflux 38 44	efflux
+E1	Antibiotic_efflux:T1 Cause:T3 Theme:T2
+T2	Bacteria 92 108	Escherichia coli
+T3	Antibiotic 28 37	macrolide
+T4	Antibiotic 183 192	macrolide
+T5	Antibiotic_efflux 195 201	efflux
+E2	Antibiotic_efflux:T5 Theme:T6 Cause:T4
+T6	Bacteria 250 266	Escherichia coli
+T7	Bacteria 297 313	E. coli isolates
+T8	Antibiotic 567 576	macrolide
+T10	Antibiotic 1393 1405	erythromycin
+T11	Antibiotic 1410 1422	azithromycin
+T12	Antibiotic 1601 1610	macrolide
+*	Equiv T7 T2
+T13	Antibiotic_efflux 577 583	efflux
+E5	Antibiotic_efflux:T13 Cause:T8 Theme:T2
+T14	Antibiotic_efflux 1611 1617	efflux
+E6	Antibiotic_efflux:T14 Theme:T2 Cause:T12
+T15	Gene 51 57	mef(B)
+T16	Gene 75 79	sul3
+T17	Gene 234 238	sul3
+T18	Gene 283 287	sul3
+T19	Gene 606 610	pK18
+T20	Gene 748 752	sul3
+T9	Gene 868 872	sul3
+T21	Gene 950 954	sul3
+T22	Protein 1104 1110	Mef(A)
+T23	Gene 1199 1203	IS26
+T24	Antibiotic_efflux 1492 1498	efflux
+E3	Antibiotic_efflux:T24 Cause:T10
+E4	Antibiotic_efflux:T24 Cause:T11
+T25	Gene 1573 1579	mef(B)
+T26	Protein 1627 1633	Mef(B)
+T27	Protein 1667 1673	Mef(A)
+T28	Gene 1739 1742	mef

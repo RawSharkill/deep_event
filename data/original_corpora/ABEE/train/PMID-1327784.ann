@@ -1,0 +1,27 @@
+T1	Bacteria 42 62	Enterobacter cloacae
+T2	Bacteria 82 102	Enterobacter cloacae
+T3	Antibiotic 615 625	gentamicin
+T4	Antibiotic 628 638	tobramycin
+T5	Antibiotic 640 648	amikacin
+T6	Antibiotic 653 663	netilmicin
+T7	Antibiotic 940 950	gentamicin
+T8	Antibiotic 1007 1017	tobramycin
+T9	Antibiotic 1073 1083	netilmicin
+T10	Antibiotic 1134 1142	amikacin
+T11	Antibiotic 1192 1200	neomycin
+T12	Antibiotic 1205 1217	streptomycin
+T13	Antibiotic 1223 1236	spectinomycin
+T14	Bacteria 1450 1470	Enterobacter cloacae
+T15	Antibiotic 13 27	aminoglycoside
+T16	Antibiotic 738 752	Aminoglycoside
+T17	Antibiotic_efflux 691 706	transferability
+E1	Antibiotic_efflux:T17 Cause:T3
+E2	Antibiotic_efflux:T17 Cause:T4
+E3	Antibiotic_efflux:T17 Cause:T5
+E4	Antibiotic_efflux:T17 Cause:T6
+T18	Antibiotic_efflux 781 793	transferable
+E5	Antibiotic_efflux:T18 Cause:T16
+T19	Antibiotic_target_alteration 1185 1191	modify
+E6	Antibiotic_target_alteration:T19 Cause:T11
+E7	Antibiotic_target_alteration:T19 Cause:T12
+E8	Antibiotic_target_alteration:T19 Cause:T13

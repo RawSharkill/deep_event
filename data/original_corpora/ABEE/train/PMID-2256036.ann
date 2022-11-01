@@ -1,0 +1,28 @@
+T1	Antibiotic 30 53	beta-lactam antibiotics
+T2	Antibiotic 57 80	Beta-lactam antibiotics
+T3	Antibiotic 93 104	penicillins
+T4	Antibiotic 106 120	cephalosporins
+T5	Antibiotic 122 134	oxacephems  
+T6	Antibiotic 135 145	moxalactam
+T7	Antibiotic 148 159	carbapenems
+T8	Antibiotic 161 169	imipenem
+T9	Antibiotic 175 186	monobactams
+T10	Antibiotic 188 198	azthreonam
+T11	Antibiotic 238 261	Beta-lactam antibiotics
+T12	Protein 335 362	penicillin-binding proteins
+T13	Antibiotic 430 454	beta-lactam  antibiotics
+T14	Antibiotic 670 693	beta-lactam antibiotics
+T15	Reduced_permeability_to_antibiotic 471 483	permeability
+E1	Reduced_permeability_to_antibiotic:T15 Cause:T13
+T16	Protein 609 636	penicillin-binding proteins
+T17	Antibiotic_target_alteration 573 581	affinity
+E2	Antibiotic_target_alteration:T17 Cause:T13
+T18	Bacteria 794 805	Pseudomonas
+T19	Bacteria 807 815	Serratia
+T20	Bacteria 821 833	Enterobacter
+T21	Antibiotic 931 942	beta-lactam
+T22	Bacteria 993 1006	staphylococci
+T23	Bacteria 1008 1020	streptococci
+T24	Bacteria 1022 1044	Haemophilus influenzae
+T25	Bacteria 1046 1060	meningococci  
+T26	Bacteria 1064 1073	gonococci

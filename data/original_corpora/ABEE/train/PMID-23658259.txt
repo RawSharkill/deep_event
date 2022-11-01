@@ -1,0 +1,3 @@
+Identification of blaOXA-(5)(1)-like, blaOXA-(5)(8), blaDIM-(1), and blaVIM  carbapenemase genes in hospital Enterobacteriaceae isolates from Sierra Leone. 
+
+We describe the results of a molecular epidemiological survey of 15  carbapenemase-encoding genes from a recent collection of clinical isolates from  Mercy Hospital in Bo, Sierra Leone. The most salient findings revealed that (i)  60% of the isolates harbored multiple carbapenemase genes; (ii) the blaDIM-1  gene, which has previously only been reported in The Netherlands, is also  circulating in this environment; and (iii) blaOXA-51-like and blaOXA-58 genes,  which were thought to reside exclusively in Acinetobacter species, can also be  found in members of the Enterobacteriaceae.

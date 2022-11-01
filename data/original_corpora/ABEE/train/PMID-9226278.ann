@@ -1,0 +1,15 @@
+T1	Bacteria 52 76	Rhodococcus erythropolis
+T2	Bacteria 161 193	Rhodococcus erythropolis NI86/21
+T3	Bacteria 464 484	R.  erythropolis SQ1
+T4	Antibiotic 361 376	chloramphenicol
+T5	Gene 395 401	Tn5561
+T6	Protein 21 25	IS21
+T7	Protein 42 48	IS1415
+T8	Protein 343 349	IS1415
+T9	Protein 218 224	IS1415
+T10	Protein 134 140	IS1415
+T11	Protein 100 104	IS21
+T12	Antibiotic_efflux 0 13	Transposition
+E1	Antibiotic_efflux:T12 Theme:T1
+T13	Antibiotic_efflux 326 339	transposition
+E2	Antibiotic_efflux:T13 Cause:T4 Theme:T3

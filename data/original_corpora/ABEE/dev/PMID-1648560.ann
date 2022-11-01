@@ -1,0 +1,18 @@
+T1	Antibiotic 24 52	nonenzymatic chloramphenicol
+T5	Antibiotic 412 440	nonenzymatic chloramphenicol
+T6	Antibiotic 484 496	streptomycin
+T7	Antibiotic 497 510	spectinomycin
+T9	Bacteria 1027 1050	gram-negative  bacteria
+T2	Gene 65 69	cmlA
+T3	Protein 84 87	In4
+T4	Protein 100 106	Tn1696
+T8	Protein 329 332	In4
+T10	Protein 345 351	Tn1696
+T11	Gene 453 457	cmlA
+T12	Gene 523 528	aadA2
+T13	Gene 650 654	cmlA
+T14	Protein 672 678	Tn1696
+T15	Gene 852 856	cmlA
+T16	Protein 1281 1285	OmpA
+T17	Protein 1196 1200	CmlA
+T18	Protein 1290 1294	OmpC

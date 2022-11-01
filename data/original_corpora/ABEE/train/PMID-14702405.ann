@@ -1,0 +1,18 @@
+T1	Bacteria 4 27	Clostridium perfringens
+T2	Antibiotic_efflux 36 42	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 170 193	Clostridium perfringens
+T4	Antibiotic 194 206	tetracycline
+T6	Antibiotic_efflux 291 297	efflux
+E3	Antibiotic_efflux:T6 Theme:T3 Cause:T7
+T7	Antibiotic 301 313	tetracycline
+T8	Antibiotic 952 964	tetracycline
+T10	Antibiotic 1272 1284	tetracycline
+T12	Antibiotic 1430 1442	tetracycline
+T5	Protein 28 35	TetA(P)
+T9	Protein 227 231	TetA
+T11	Protein 447 454	TetA(P)
+T13	Protein 759 766	TetA(P)
+T14	Protein 1023 1030	TetA(P)
+T15	Antibiotic 1158 1170	tetracycline
+T16	Protein 1619 1626	TetA(P)

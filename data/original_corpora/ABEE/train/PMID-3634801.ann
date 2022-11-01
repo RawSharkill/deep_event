@@ -1,0 +1,17 @@
+T1	Bacteria 0 21	Staphylococcus aureus
+T2	Bacteria 90 111	Staphylococcus aureus
+T3	Bacteria 238 251	staphylococci
+T5	Bacteria 283 296	Staphylococci
+T6	Bacteria 316 330	Micrococcaceae
+T7	Bacteria 474 487	staphylococci
+T8	Bacteria 528 537	S. aureus
+T9	Bacteria 539 553	S. epidermidis
+T10	Bacteria 561 577	S. saprophyticus
+T11	Antibiotic 644 654	novobiocin
+T12	Bacteria 667 680	Staphylococci
+T14	Bacteria 948 961	Staphylococci
+T15	Bacteria 1077 1090	staphylococci
+T16	Bacteria 1256 1269	Staphylococci
+T17	Antibiotic 1303 1314	methicillin
+T18	Bacteria 1398 1407	S. aureus
+*	Equiv T8 T1

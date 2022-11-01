@@ -1,0 +1,32 @@
+T1	Antibiotic 444 455	penicillins
+T2	Antibiotic 460 474	cephalosporins
+T3	Antibiotic_inactivation 489 499	hydrolysis
+E1	Antibiotic_inactivation:T3 Cause:T2
+E2	Antibiotic_inactivation:T3 Cause:T1
+T4	Protein 534 548	beta-lactamase
+T5	Antibiotic 653 664	beta-lactam
+T6	Antibiotic 707 730	beta-lactam antibiotics
+T7	Antibiotic 877 888	beta-lactam
+T8	Antibiotic 910 921	methicillin
+T9	Antibiotic_target_alteration 992 1002	alteration
+E3	Antibiotic_target_alteration:T9 Cause:T8
+T10	Antibiotic 1257 1269	trimethoprim
+T11	Antibiotic 1275 1287	sulfonamides
+T12	Antibiotic 1293 1308	aminoglycosides
+T13	Antibiotic 1311 1326	chloramphenicol
+T14	Antibiotic 1336 1345	quinolone
+T15	Antibiotic_target_alteration 1082 1102	antibiotic-modifying
+E4	Antibiotic_target_alteration:T15 Cause:T10
+E5	Antibiotic_target_alteration:T15 Cause:T11
+E6	Antibiotic_target_alteration:T15 Cause:T12
+E7	Antibiotic_target_alteration:T15 Cause:T13
+E8	Antibiotic_target_alteration:T15 Cause:T14
+T16	Antibiotic 1468 1479	beta-lactam
+T17	Antibiotic 1491 1506	aminoglycosides
+T18	Antibiotic 1508 1523	chloramphenicol
+T19	Antibiotic 1533 1543	quinolones
+T20	Reduced_permeability_to_antibiotic 1372 1383	penetration
+E9	Reduced_permeability_to_antibiotic:T20 Cause:T16
+E10	Reduced_permeability_to_antibiotic:T20 Cause:T17
+E11	Reduced_permeability_to_antibiotic:T20 Cause:T18
+E12	Reduced_permeability_to_antibiotic:T20 Cause:T19

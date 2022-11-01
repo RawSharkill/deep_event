@@ -1,0 +1,26 @@
+T1	Bacteria 45 66	Enterococcus faecalis
+T2	Antibiotic 113 123	vancomycin
+T3	Antibiotic 173 184	teicoplanin
+T4	Bacteria 188 216	Enterococcus faecalis BM4518
+*	Equiv T4 T1 T5
+T5	Bacteria 1380 1397	E. faecalis JH2-2
+T6	Antibiotic 1525 1537	erythromycin
+T7	Gene 89 93	VanG
+T8	Gene 4 8	vanG
+T9	Antibiotic 9 21	glycopeptide
+T10	Gene 325 329	vanG
+T11	Gene 563 567	VanG
+T12	Gene 1343 1347	VanG
+T13	Gene 1512 1516	ermB
+T14	Antibiotic 1353 1365	glycopeptide
+T15	Gene 453 457	VanG
+T16	Gene 572 579	VanT(G)
+T17	Gene 534 540	VanT(G
+T18	Gene 646 650	VanE
+T19	Gene 636 640	VanC
+T20	Gene 1606 1610	vanG
+T21	Gene 971 978	VanY(G)
+T22	Gene 1090 1097	vanU(G)
+T23	Gene 1099 1106	vanR(G)
+T24	Gene 1111 1118	vanS(G)
+T25	Gene 725 732	vanW(G)

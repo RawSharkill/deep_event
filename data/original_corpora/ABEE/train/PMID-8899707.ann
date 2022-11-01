@@ -1,0 +1,15 @@
+T1	Bacteria 99 117	Planobispora rosea
+T2	Bacteria 249 267	Planobispora rosea
+T3	Antibiotic 424 434	kirromycin
+T4	Bacteria 481 489	P. rosea
+*	Equiv T4 T2
+T5	Bacteria 628 636	P. rosea
+T6	Bacteria 698 714	Escherichia coli
+T7	Bacteria 992 1000	P. rosea
+T8	Bacteria 1377 1395	Bacillus  subtilis
+T9	Protein 1117 1127	amino acid
+T10	Antibiotic_target_alteration 1306 1315	mutations
+E1	Antibiotic_target_alteration:T10 Theme:T8
+T11	Gene 637 640	tuf
+T12	Gene 547 550	fus
+T13	Gene 555 559	rpsJ

@@ -1,0 +1,16 @@
+T1	Bacteria 139 156	Bacillus subtilis
+T2	Bacteria 110 134	Streptococcus pneumoniae
+T3	Antibiotic 49 60	sulfonamide
+T4	Bacteria 193 217	Streptococcus pneumoniae
+T5	Gene 482 487	sul-d
+T6	Gene 708 713	sul-d
+T7	Gene 780 785	sul-s
+T8	Gene 899 904	sul-d
+T9	Bacteria 1746 1764	Bacillus  subtilis
+T10	Antibiotic 1363 1374	sulfonamide
+T11	Antibiotic 1576 1589	sulfanilamide
+T12	Antibiotic 1147 1159	tetracycline
+T13	Antibiotic 1085 1096	sulfonamide
+T14	Gene 248 253	sul-d
+T15	Gene 268 280	pneumococcal
+T16	Gene 1882 1894	pneumococcal

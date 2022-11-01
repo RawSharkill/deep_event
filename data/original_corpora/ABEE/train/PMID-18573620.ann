@@ -1,0 +1,37 @@
+T1	Antibiotic 31 40	quinolone
+T2	Bacteria 105 121	Escherichia coli
+T3	Bacteria 206 222	Escherichia coli
+T4	Bacteria 392 407	E. coli strains
+T5	Antibiotic 651 661	quinolones
+T6	Bacteria 822 838	E. coli isolates
+T7	Bacteria 1675 1691	E. coli isolates
+T8	Bacteria 1782 1798	E. coli isolates
+T9	Gene 531 542	aac (6')-Ib
+T10	Gene 564 567	qnr
+T11	Gene 261 272	aac (6')-Ib
+T12	Gene 477 481	qnrA
+T13	Gene 483 487	qnrB
+T14	Gene 492 496	qnrS
+T15	Bacteria 354 375	qnr-positive  strains
+T16	Gene 633 636	qnr
+T17	Protein 702 708	gyrase
+T18	Gene 785 789	gyrA
+T19	Gene 791 795	gyrB
+T20	Gene 797 801	parC
+T21	Antibiotic_target_alteration 679 688	Mutations
+E1	Antibiotic_target_alteration:T21 
+T22	Gene 806 810	parE
+T23	Gene 880 883	qnr
+T24	Gene 908 912	qnrB
+T25	Gene 921 925	qnrS
+T26	Gene 935 939	qnrA
+T27	Gene 1106 1117	aac (6')-Ib
+T28	Gene 1163 1175	aac  (6')-Ib
+T29	Gene 1759 1773	aac (6')-Ib-cr
+T30	Gene 1065 1069	qnrB
+T31	Gene 1403 1408	 gyrA
+T32	Gene 143 146	qnr
+T33	Gene 52 55	qnr
+T34	Protein 309 315	gyrase
+T35	Gene 992 1003	aac (6')-Ib
+T36	Gene 1273 1277	gyrA

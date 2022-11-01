@@ -1,0 +1,27 @@
+T1	Antibiotic 43 52	quinolone
+T2	Bacteria 67 95	Salmonella  enterica serovar
+T3	Bacteria 179 189	Salmonella
+T4	Antibiotic 276 289	ciprofloxacin
+T5	Antibiotic 346 360	nalidixic acid
+T6	Antibiotic 676 689	ciprofloxacin
+T7	Antibiotic 750 763	ciprofloxacin
+T8	Antibiotic 1331 1344	ciprofloxacin
+T9	Gene 0 4	qnrD
+T10	Bacteria 109 133	Bovismorbificans strains
+T11	Gene 424 427	qnr
+T12	Gene 449 461	aac(6')Ib-cr
+T13	Gene 1073 1077	qnrD
+T14	Protein 1010 1020	amino-acid
+T15	Gene 977 980	qnr
+T16	Gene 1105 1110	qnrA1
+T17	Gene 1130 1135	qnrB1
+T18	Gene 1246 1250	tetA
+T19	Gene 1159 1164	qnrS1
+T20	Gene 1193 1197	qnrD
+T21	Gene 1434 1439	qnrA1
+T22	Gene 1444 1449	qnrS1
+T23	Gene 1696 1700	qnrB
+T24	Gene 1802 1806	qnrD
+T25	Gene 1659 1663	qnrD
+T26	Gene 1614 1617	qnr
+T27	Bacteria 568 584	Escherichia coli

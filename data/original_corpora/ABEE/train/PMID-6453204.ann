@@ -1,0 +1,8 @@
+T1	Bacteria 70 91	Staphylococcus aureus
+T2	Antibiotic 1191 1199	neomycin
+T3	Antibiotic 1203 1215	tetracycline
+T4	Antibiotic 1406 1418	trimethoprim
+T5	Antibiotic 1422 1435	sulphadiazine
+T6	Bacteria 108 129	Staphylococcus aureus
+T7	Antibiotic 497 509	trimethoprim
+T8	Antibiotic 514 527	sulphadiazine

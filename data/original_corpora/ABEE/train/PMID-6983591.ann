@@ -1,0 +1,16 @@
+T1	Bacteria 137 158	gram negative bacilli
+T2	Antibiotic 113 126	cephaloridine
+T3	Bacteria 186 204	Gram negative rods
+T4	Antibiotic 346 356	gentamicin
+T5	Antibiotic 297 310	cephaloridine
+T6	Antibiotic 312 315	CER
+T7	Antibiotic 358 360	GM
+*	Equiv T7 T4
+*	Equiv T6 T5
+T8	Antibiotic 1159 1162	CER
+T9	Antibiotic 1167 1169	GM
+T10	Antibiotic 447 449	GM
+T11	Antibiotic 474 477	CER
+T12	Antibiotic 758 760	GM
+T13	Antibiotic 1070 1072	GM
+T14	Antibiotic 1389 1392	CER

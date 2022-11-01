@@ -1,0 +1,13 @@
+T1	Bacteria 88 104	Escherichia coli
+T2	Antibiotic 28 39	levomycetin
+T3	Antibiotic 177 188	levomycetin
+T4	Antibiotic 217 228	levomycetin
+T5	Bacteria 306 319	Coli bacteria
+T6	Antibiotic 415 426	levomycetin
+T7	Bacteria 474 487	Coli bacteria
+T8	Bacteria 738 747	Y. pestis
+T9	Bacteria 752 759	E. coli
+*	Equiv T9 T1
+T10	Bacteria 1238 1246	Y. petis
+T11	Bacteria 1251 1258	E. coli
+T12	Antibiotic 1444 1455	levomycetin

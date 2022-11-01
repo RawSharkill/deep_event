@@ -1,0 +1,23 @@
+T1	Bacteria 65 82	Escherichia  coli
+T2	Bacteria 136 152	Escherichia coli
+T3	Bacteria 1070 1077	E. coli
+*	Equiv T3 T1
+T4	Gene 51 55	acrE
+T5	Gene 42 46	acrA
+T6	Gene 118 122	acrA
+T7	Gene 457 461	acrA
+T8	Gene 504 507	IS2
+T9	Gene 576 580	acrA
+T10	Gene 690 694	acrE
+T11	Gene 702 706	acrA
+T12	Gene 711 715	acrE
+T13	Gene 939 943	acrA
+T14	Gene 945 951	TnphoA
+T15	Gene 956 960	acrE
+T16	Gene 962 968	TnphoA
+T17	Protein 1002 1006	AcrA
+T18	Protein 1011 1015	AcrE
+T19	Protein 1092 1096	EnvC
+T20	Protein 1101 1105	EnvD
+T21	Gene 1151 1155	acrA
+T22	Gene 1177 1182	envCD

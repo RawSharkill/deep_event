@@ -1,0 +1,16 @@
+T1	Antibiotic 40 49	mupirocin
+T2	Bacteria 69 83	bifidobacteria
+T3	Antibiotic 87 96	Mupirocin
+T4	Bacteria 170 184	bifidobacteria
+T5	Antibiotic 283 292	mupirocin
+T6	Bacteria 343 357	bifidobacteria
+T7	Antibiotic 477 486	mupirocin
+T8	Bacteria 681 712	Bifidobacterium bifidum PRL2010
+T9	Bacteria 739 755	Escherichia coli
+T10	Antibiotic 878 887	mupirocin
+T11	Bacteria 913 927	bifidobacteria
+T12	Gene 668 672	ileS
+T13	Protein 819 824	 IleS
+T14	Protein 792 802	amino acid
+T15	Antibiotic 718 727	mupirocin
+T16	Gene 546 571	isoleucyl-tRNA synthetase

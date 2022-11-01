@@ -1,0 +1,22 @@
+T1	Bacteria 954 961	E. coli
+T2	Antibiotic 28 44	fluoroquinolones
+T3	Gene 424 428	gyrA
+T4	Antibiotic_target_alteration 409 420	Alterations
+E1	Antibiotic_target_alteration:T4 Cause:T14
+T5	Gene 583 587	gyrA
+T6	Bacteria 591 617	Mycobacterium tuberculosis
+T7	Bacteria 623 642	Campylobacter jejun
+T8	Antibiotic_target_alteration 570 579	mutations
+E2	Antibiotic_target_alteration:T8 Theme:T6
+E3	Antibiotic_target_alteration:T8 Theme:T7
+T9	Bacteria 1390 1413	Staphylococcus   aureus
+T10	Antibiotic 1362 1377	fluoroquinolone
+T11	Antibiotic_efflux 1378 1384	efflux
+E4	Antibiotic_efflux:T11 Cause:T10 Theme:T9
+T12	Antibiotic 1451 1466	fluoroquinolone
+T13	Gene 403 407	gyrA
+T14	Antibiotic 147 164	 fluoroquinolones
+T15	Bacteria 1632 1656	Pseudomonas   aeruginosa
+T16	Antibiotic 1752 1768	fluoroquinolones
+T17	Antibiotic 1770 1782	tetracycline
+T18	Antibiotic 1784 1799	chloramphenicol

@@ -1,0 +1,49 @@
+T1	Antibiotic 30 39	quinolone
+T3	Antibiotic 54 64	Quinolones
+T4	Antibiotic 239 248	quinolone
+T6	Antibiotic 295 304	quinolone
+T8	Antibiotic 451 461	quinolones
+T10	Antibiotic 482 499	plasmid-quinolone
+T11	Antibiotic 1007 1017	quinolones
+T12	Antibiotic 1137 1147	quinolones
+T13	Bacteria 1180 1196	Escherichia coli
+T14	Antibiotic 1227 1240	ciprofloxacin
+T15	Antibiotic_target_protection 1169 1178	protected
+E5	Antibiotic_target_protection:T15 Theme:T13 Cause:T14
+T16	Antibiotic 1365 1378	ciprofloxacin
+T17	Antibiotic_target_protection 1242 1259	Gyrase protection
+E6	Antibiotic_target_protection:T17 Theme:T13
+T18	Antibiotic 1472 1481	quinolone
+T19	Antibiotic 1584 1593	quinolone
+T20	Bacteria 1604 1611	E. coli
+T21	Antibiotic_target_protection 1529 1539	Protection
+E7	Antibiotic_target_protection:T21 Theme:T20
+T22	Antibiotic_target_protection 1634 1657	Qnr protects DNA gyrase
+E8	Antibiotic_target_protection:T22 Theme:T20
+T26	Antibiotic 821 833	microcin B17
+*	Equiv T20 T13
+T2	Protein 640 646	218-aa
+T5	Protein 755 759	McbG
+T7	Bacteria 1036 1057	Gram-negative strains
+T9	Protein 1026 1032	gyrase
+T24	Protein 1201 1207	gyrase
+T25	Antibiotic_inactivation 1482 1494	inactivation
+E1	Antibiotic_inactivation:T25 Cause:T18
+T27	Protein 1512 1518	gyrase
+T23	Protein 1118 1124	gyrase
+T28	Protein 791 801	DNA gyrase
+T29	Antibiotic_target_protection 783 790	protect
+E2	Antibiotic_target_protection:T29 Cause:T26
+T30	Protein 137 143	gyrase
+T31	Gene 524 527	qnr
+T32	Antibiotic_target_protection 1384 1394	protective
+E3	Antibiotic_target_protection:T32 Cause:T18
+T33	Antibiotic_target_alteration 326 335	mutations
+E4	Antibiotic_target_alteration:T33 Cause:T6
+T34	Gene 606 610	sulI
+T35	Gene 589 593	qacE
+T36	Gene 630 633	Qnr
+T37	Gene 1084 1087	Qnr
+T38	Protein 1158 1168	Qnr-His(6)
+T39	Protein 1302 1312	Qnr-His(6)
+T40	Protein 1407 1417	Qnr-His(6)

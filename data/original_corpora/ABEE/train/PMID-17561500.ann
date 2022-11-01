@@ -1,0 +1,32 @@
+T1	Antibiotic 48 57	quinolone
+T2	Antibiotic 253 262	quinolone
+T3	Bacteria 1043 1086	Enterobacter cloacae K34 (SHV-12+)  isolate
+T4	Bacteria 1180 1204	E. cloacae K37 (SHV-12+)
+T5	Bacteria 1209 1253	Citrobacter freundii K70  (VEB-1b+) isolates
+T6	Bacteria 1472 1490	Enterobacteriaceae
+T7	Protein 535 539	ESBL
+T8	Protein 499 531	expanded-spectrum beta-lactamase
+T9	Gene 399 403	qnrA
+T10	Gene 414 418	qnrB
+T11	Gene 432 436	qnrS
+T12	Gene 274 278	qnrA
+T13	Gene 280 284	qnrB
+T14	Gene 290 294	qnrS
+T15	Protein 83 87	ESBL
+T16	Gene 377 380	qnr
+T17	Gene 733 737	ESBL
+T18	Gene 933 937	qnrB
+T19	Gene 967 971	qnrA
+T20	Gene 981 985	qnrS
+T21	Gene 1013 1018	qnrB2
+T22	Gene 1126 1131	qnrB6
+T23	Gene 1096 1101	qnrB1
+T24	Gene 1145 1150	qnrB8
+T25	Gene 1433 1436	Qnr
+T26	Protein 1457 1461	ESBL
+T27	Bacteria 1351 1371	qnr-positive strains
+T28	Gene 1115 1120	qnrB7
+T29	Gene 622 626	ESBL
+T30	Gene 665 668	qnr
+T31	Gene 69 72	qnr
+T32	Gene 714 717	qnr

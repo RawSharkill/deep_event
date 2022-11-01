@@ -1,0 +1,17 @@
+T1	Bacteria 31 55	Serratia marcescens FS14
+T2	Bacteria 100 118	S. marcescens FS14
+*	Equiv T2 T1 T4 T8
+T3	Bacteria 200 218	Fusarium oxysporum
+T4	Bacteria 299 303	FS14
+T6	Bacteria 1112 1116	FS14
+T7	Bacteria 1165 1169	FS14
+T8	Bacteria 811 830	S.  marcescens FS14
+T9	Antibiotic 935 946	prodigiosin
+T10	Bacteria 1326 1339	Serratia spp.
+T11	Bacteria 748 764	Serratia species
+T5	Bacteria 366 380	Serratia genus
+T12	Bacteria 1366 1370	FS14
+T13	Bacteria 1417 1439	Ralstonia solanacearum
+T14	Bacteria 1451 1469	Fusarium oxysporum
+T15	Bacteria 1474 1498	Sclerotinia sclerotiorum
+T16	Bacteria 1557 1561	FS14

@@ -1,0 +1,12 @@
+T1	Bacteria 50 72	Pseudomonas aeruginosa
+T2	Bacteria 192 214	Pseudomonas aeruginosa
+T3	Gene 146 157	bla(IMP-26)
+T4	Antibiotic 173 181	imipenem
+T5	Gene 300 310	bla(IMP-1)
+T6	Gene 312 322	bla(IMP-7)
+T7	Gene 325 335	bla(VIM-2)
+T8	Gene 337 347	bla(VIM-6)
+T9	Gene 363 374	bla(IMP-26)
+T10	Protein 260 282	metallo-beta-lactamase
+T11	Gene 96 118	metallo-beta-lactamase
+T12	Antibiotic 29 39	carbapenem

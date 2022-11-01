@@ -1,0 +1,19 @@
+T1	Bacteria 190 211	Staphylococcus aureus
+T2	Bacteria 213 217	MRSA
+T3	Antibiotic 168 179	methicillin
+T4	Gene 155 159	mecA
+T5	Antibiotic 250 260	penicillin
+T6	Protein 278 284	PBP 2A
+T7	Bacteria 645 649	MRSA
+T8	Bacteria 893 897	MRSA
+T9	Antibiotic 675 686	methicillin
+T10	Antibiotic 606 617	methicillin
+T11	Gene 547 551	 fem
+T12	Antibiotic_target_alteration 540 546	mutant
+E1	Antibiotic_target_alteration:T12 Cause:T10 Theme:T7
+T13	Gene 916 920	mecA
+T14	Bacteria 420 424	MRSA
+T15	Gene 329 333	MecA
+T16	Antibiotic 802 811	oxacillin
+T17	Antibiotic 19 30	methicillin
+T18	Bacteria 45 66	Staphylococcus aureus

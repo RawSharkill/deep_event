@@ -1,0 +1,3 @@
+A broad-specificity multidrug efflux pump requiring a pair of homologous SMR-type  proteins. 
+
+The Bacillus subtilis genome encodes seven homologues of the small multidrug  resistance (SMR) family of drug efflux pumps. Six of these homologues are paired   in three distinct operons, and coexpression in Escherichia coli of one such  operon, ykkCD, but not expression of either ykkC or ykkD alone, gives rise to a  broad specificity, multidrug-resistant phenotype including resistance to  cationic, anionic, and neutral drugs.

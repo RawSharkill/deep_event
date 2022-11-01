@@ -1,0 +1,20 @@
+T2	Antibiotic 44 54	quinolones
+T3	Bacteria 58 76	Enterobacteriaceae
+T4	Antibiotic 89 98	quinolone
+T5	Bacteria 156 174	Enterobacteriaceae
+T6	Antibiotic 269 278	quinolone
+T7	Antibiotic 338 352	nalidixic acid
+T8	Antibiotic_target_protection 252 259	protect
+E2	Antibiotic_target_protection:T8 Theme:T5
+T10	Antibiotic 319 329	quinolones
+T11	Antibiotic 980 990	quinolones
+T1	Protein 219 222	Qnr
+T9	Protein 368 372	QnrA
+T12	Protein 354 357	Qnr
+T13	Protein 379 383	QnrB
+T14	Protein 388 392	QnrS
+T15	Protein 537 571	expanded-spectrum  beta-lactamases
+T16	Gene 616 620	qnrA
+T17	Gene 652 656	sul1
+T18	Gene 720 724	QnrA
+T19	Gene 925 929	qnrA

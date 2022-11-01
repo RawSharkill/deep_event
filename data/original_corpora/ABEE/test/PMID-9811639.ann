@@ -1,0 +1,39 @@
+T1	Bacteria 92 115	Mycobacterium fortuitum
+T2	Bacteria 120 146	Mycobacterium tuberculosis
+T3	Bacteria 188 211	Mycobacterium fortuitum
+T4	Antibiotic 316 330	aminoglycoside
+T5	Antibiotic 335 347	tetracycline
+T6	Bacteria 380 392	M. smegmatis
+T7	Bacteria 470 483	M.  fortuitum
+*	Equiv T7 T1
+T8	Bacteria 519 540	M. tuberculosis H37Rv
+T9	Bacteria 574 589	M. tuberculosis
+*	Equiv T9 T2
+T10	Bacteria 641 656	M. tuberculosis
+T11	Antibiotic 715 727	tetracycline
+T12	Bacteria 749 761	M. smegmatis
+T13	Antibiotic 921 933	tetracycline
+T14	Antibiotic 938 947	macrolide
+T15	Bacteria 1441 1453	M. fortuitum
+T16	Antibiotic 1477 1489	tetracycline
+T17	Antibiotic 1376 1388	tetracycline
+T18	Bacteria 1652 1664	M. fortuitum
+T19	Bacteria 1693 1708	M. tuberculosis
+T20	Protein 42 45	Tap
+T21	Antibiotic_efflux 68 74	efflux
+E1	Antibiotic_efflux:T21 Theme:T1
+E2	Antibiotic_efflux:T21 Theme:T2
+T22	Gene 590 593	tap
+T23	Protein 793 796	Tap
+T24	Antibiotic_efflux 856 862	efflux
+E3	Antibiotic_efflux:T24 Cause:T13 Theme:T1
+T25	Protein 1147 1150	MFS
+T26	Gene 1344 1347	tap
+T27	Gene 1454 1457	tap
+T28	Protein 1609 1612	Tap
+T29	Antibiotic_efflux 1739 1745	efflux
+E4	Antibiotic_efflux:T29 Theme:T19
+E5	Antibiotic_efflux:T29 Theme:T18
+E6	Antibiotic_efflux:T24 Cause:T13 Theme:T1
+E7	Antibiotic_efflux:T24 Cause:T14 Theme:T2
+E8	Antibiotic_efflux:T24 Cause:T14 Theme:T2

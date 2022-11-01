@@ -1,0 +1,23 @@
+T1	Bacteria 332 364	Pseudomonas aeruginosa 86-14571A
+T3	Antibiotic 507 515	amikacin
+T4	Antibiotic 534 542	imipenem
+T5	Bacteria 704 720	Escherichia coli
+T8	Bacteria 1902 1925	P. aeruginosa 86-14571A
+T2	Bacteria 1611 1629	Pseudomonas putida
+T6	Gene 65 74	blaIMP-13
+T7	Gene 861 870	blaIMP-13
+T9	Protein 1088 1098	amino acid
+T10	Gene 2038 2041	MBL
+T11	Gene 817 848	IMP-type metallo-beta-lactamase
+T12	Gene 850 853	MBL
+T13	Gene 1124 1133	blaIMP-13
+T14	Protein 1051 1061	amino acid
+T15	Protein 1113 1118	IMP-8
+T16	Protein 1075 1080	IMP-2
+T17	Protein 924 927	IMP
+T18	Protein 1939 1951	IMP-type MBL
+T19	Protein 36 58	metallo-beta-lactamase
+T20	Gene 135 148	carbapenemase
+T21	Protein 980 985	IMP-8
+T22	Protein 990 995	IMP-2
+T23	Gene 1818 1826	blaVIM-2

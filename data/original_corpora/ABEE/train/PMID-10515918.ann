@@ -1,0 +1,25 @@
+T1	Bacteria 90 112	Pseudomonas aeruginosa
+T2	Bacteria 193 215	Pseudomonas aeruginosa
+T4	Antibiotic 288 298	quinolones
+T7	Bacteria 592 608	Escherichia coli
+T10	Antibiotic_efflux 72 78	efflux
+E2	Antibiotic_efflux:T10 Theme:T1
+T11	Antibiotic 300 315	chloramphenicol
+T12	Antibiotic 320 332	trimethoprim
+T5	Antibiotic_efflux 175 181	efflux
+E5	Antibiotic_efflux:T5 Theme:T2 Cause:T4
+T6	Antibiotic 1276 1286	carbapenem
+T3	Gene 637 641	mexT
+T8	Gene 671 675	lacZ
+T9	Gene 665 669	mexE
+T13	Gene 780 784	mexT
+T14	Gene 800 804	mexT
+T16	Gene 852 856	mexT
+T17	Gene 1005 1009	lacZ
+E1	Antibiotic_efflux:T5 Cause:T11 Theme:T2
+E3	Antibiotic_efflux:T5 Theme:T2 Cause:T12
+T18	Protein 20 24	MexT
+T19	Antibiotic_efflux 1185 1191	efflux
+E4	Antibiotic_efflux:T19 Cause:T6
+T20	Protein 559 565	34-kDa
+T21	Protein 1051 1055	MexT

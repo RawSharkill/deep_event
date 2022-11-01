@@ -1,0 +1,23 @@
+T1	Antibiotic 22 35	ciprofloxacin
+T2	Antibiotic 40 52	sparfloxacin
+T3	Antibiotic 83 98	fluoroquinolone
+T4	Antibiotic 120 131	methicillin
+T5	Bacteria 142 163	Staphylococcus aureus
+T6	Antibiotic 188 198	quinolones
+T7	Antibiotic 222 233	methicillin
+T8	Bacteria 245 266	Staphylococcus aureus
+T9	Antibiotic 328 340	sparfloxacin
+T10	Antibiotic 345 358	ciprofloxacin
+T11	Antibiotic 360 375	fluoroquinolone
+T12	Bacteria 386 395	S. aureus
+*	Equiv T12 T8
+T13	Antibiotic 411 423	sparfloxacin
+T14	Antibiotic 451 464	ciprofloxacin
+T15	Antibiotic 490 505	fluoroquinolone
+T16	Bacteria 518 527	S. aureus
+T17	Antibiotic 871 884	ciprofloxacin
+T18	Antibiotic 890 902	sparfloxacin
+T19	Bacteria 1104 1113	S. aureus
+T20	Antibiotic 1123 1139	fluoroquinolones
+T21	Antibiotic_target_alteration 1145 1157	modification
+E1	Antibiotic_target_alteration:T21 Cause:T20 Theme:T19

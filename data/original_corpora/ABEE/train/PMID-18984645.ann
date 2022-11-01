@@ -1,0 +1,67 @@
+T1	Antibiotic_efflux 79 85	efflux
+E1	Antibiotic_efflux:T1 Theme:T2 Cause:T11
+T2	Bacteria 137 159	Salmonella Typhimurium
+T5	Antibiotic 212 227	fluoroquinolone
+T7	Bacteria 243 265	Salmonella Typhimurium
+T8	Antibiotic_efflux 300 306	efflux
+E4	Antibiotic_efflux:T8 Theme:T7 Cause:T5
+T10	Antibiotic 345 360	fluoroquinolone
+T13	Bacteria 420 442	Salmonella Typhimurium
+T14	Bacteria 452 455	LTL
+T15	Bacteria 460 463	LTH
+T16	Bacteria 497 500	LT2
+R1	Member-of Arg1:T16 Arg2:T13	
+R2	Member-of Arg1:T14 Arg2:T13	
+R3	Member-of Arg1:T15 Arg2:T13	
+T17	Antibiotic 603 618	fluoroquinolone
+T21	Bacteria 884 902	Salmonella strains
+T22	Bacteria 1162 1165	LTL
+T23	Bacteria 1261 1287	Salmonella Typhimurium LT2
+T25	Antibiotic 1350 1366	fluoroquinolones
+T26	Antibiotic 1368 1380	tetracycline
+T27	Antibiotic 1385 1400	chloramphenicol
+T28	Bacteria 1507 1510	LTH
+T29	Antibiotic 1522 1537	fluoroquinolone
+T32	Bacteria 1637 1640	LT2
+T33	Antibiotic 1718 1733	fluoroquinolone
+T34	Bacteria 1922 1944	Salmonella Typhimurium
+*	Equiv T16 T23
+T3	Protein 37 41	RamA
+T4	Protein 46 50	SoxS
+T6	Protein 92 97	AcrAB
+T9	Protein 102 107	AcrEF
+T11	Antibiotic 111 126	fluoroquinolone
+T12	Protein 197 200	MDR
+T18	Antibiotic 396 409	ciprofloxacin
+T19	Antibiotic_target_alteration 443 450	mutants
+E2	Antibiotic_target_alteration:T19 Theme:T13 Cause:T18
+T20	Gene 719 723	gyrA
+T24	Gene 725 729	gyrB
+T30	Protein 735 751	topoisomerase IV
+T31	Gene 753 757	parC
+T35	Gene 759 763	parE
+T36	Gene 824 829	acrAB
+T37	Gene 834 839	acrEF
+T38	Antibiotic 858 873	fluoroquinolone
+T39	Antibiotic_target_alteration 686 701	point mutations
+E3	Antibiotic_target_alteration:T39 Cause:T38 Theme:T21
+T40	Antibiotic_efflux 797 803	efflux
+E5	Antibiotic_efflux:T40 Cause:T38 Theme:T21
+T41	Gene 931 935	ramA
+T42	Gene 1039 1044	acrAB
+T43	Gene 1049 1054	acrEF
+T44	Protein 1072 1075	MDR
+T45	Bacteria 1089 1092	LTL
+T46	Protein 1226 1229	MDR
+T47	Gene 1111 1115	ramA
+T48	Antibiotic_target_alteration 1201 1207	mutant
+E6	Antibiotic_target_alteration:T48 Theme:T23 Cause:T25
+E7	Antibiotic_target_alteration:T48 Cause:T26 Theme:T23
+E8	Antibiotic_target_alteration:T48 Cause:T27 Theme:T23
+T49	Gene 1445 1450	soxRS
+T50	Gene 1686 1691	soxRS
+T51	Gene 1795 1799	ramA
+T52	Protein 1847 1851	RamA
+T53	Protein 1856 1861	AcrAB
+T54	Protein 1867 1871	RamA
+T55	Protein 1896 1899	MDR

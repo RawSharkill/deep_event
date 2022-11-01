@@ -1,0 +1,41 @@
+T1	Bacteria 111 130	Salmonella enterica
+T2	Antibiotic 87 96	polymyxin
+T4	Bacteria 169 188	Salmonella enterica
+T7	Antibiotic 351 362	polymyxin B
+T9	Antibiotic 523 534	polymyxin B
+T11	Antibiotic 593 604	polymyxin B
+T14	Antibiotic 797 808	polymyxin B
+T15	Antibiotic 1041 1052	polymyxin B
+T19	Antibiotic 1338 1349	polymyxin B
+T20	Antibiotic 1490 1501	polymyxin B
+T3	Protein 4 8	PmrA
+T5	Gene 20 21	m
+T6	Protein 138 142	PmrA
+T8	Protein 143 147	PmrB
+T10	Protein 385 389	PmrA
+T12	Gene 400 403	pbg
+T13	Gene 414 417	ugd
+T16	Antibiotic_target_alteration 58 70	modification
+E1	Antibiotic_target_alteration:T16 Cause:T2 Theme:T1
+T17	Gene 912 916	pmrC
+T18	Protein 897 901	PmrA
+T21	Antibiotic_target_alteration 293 305	modification
+E2	Antibiotic_target_alteration:T21 Cause:T7 Theme:T4
+T22	Antibiotic_target_alteration 368 377	mutations
+E3	Antibiotic_target_alteration:T22 Cause:T9 Theme:T4
+T23	Protein 547 551	PmrA
+T24	Gene 621 625	pbgP
+T25	Gene 630 633	ugd
+T26	Gene 683 687	pmrA
+T27	Antibiotic 666 677	polymyxin B
+T28	Antibiotic_target_alteration 689 695	mutant
+E4	Antibiotic_target_alteration:T28 Cause:T27
+T29	Antibiotic_target_alteration 745 757	modification
+E5	Antibiotic_target_alteration:T29 Cause:T14
+T30	Protein 1371 1375	PmrA
+T31	Gene 1268 1272	pmrA
+T32	Protein 1475 1479	PmrA
+T33	Antibiotic_target_alteration 1386 1398	modification
+E6	Antibiotic_target_alteration:T33 Cause:T20
+T35	Gene 1236 1240	pmrC
+T36	Gene 1231 1235	pbgP

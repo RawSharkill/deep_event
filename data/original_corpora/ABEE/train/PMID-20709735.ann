@@ -1,0 +1,53 @@
+T1	Antibiotic_efflux 74 80	efflux
+E1	Antibiotic_efflux:T1 Theme:T2 Cause:T3
+T2	Bacteria 92 116	Streptococcus pneumoniae
+T3	Antibiotic 0 16	Fluoroquinolones
+T6	Antibiotic 185 201	fluoroquinolones
+T7	Bacteria 206 230	Streptococcus pneumoniae
+T9	Antibiotic_efflux 139 145	efflux
+E5	Antibiotic_efflux:T9 Theme:T7 Cause:T6
+T10	Antibiotic 501 517	fluoroquinolones
+T11	Antibiotic 597 613	fluoroquinolones
+T13	Antibiotic 674 687	ciprofloxacin
+T15	Antibiotic 874 885	norfloxacin
+T16	Antibiotic 887 900	ciprofloxacin
+T17	Antibiotic 903 915	levofloxacin
+T18	Antibiotic 917 928	moxifloxaci
+T19	Antibiotic 933 945	gemifloxacin
+T21	Antibiotic 1007 1018	norfloxacin
+T22	Antibiotic 1020 1033	ciprofloxacin
+T23	Antibiotic 1038 1050	levofloxacin
+T24	Antibiotic 1223 1232	reserpine
+T25	Antibiotic 1262 1278	fluoroquinolones
+T28	Bacteria 1411 1424	S. pneumoniae
+T29	Antibiotic 1598 1614	fluoroquinolones
+*	Equiv T28 T2
+T4	Gene 42 46	patA
+T5	Gene 51 55	patB
+T8	Protein 70 73	ABC
+T12	Protein 296 300	PmrA
+T14	Protein 362 365	ABC
+T20	Protein 379 383	PatA
+T26	Protein 388 392	PatB
+T27	Gene 440 444	pmrA
+T30	Gene 446 450	patA
+T31	Gene 455 459	patB
+T32	Gene 1101 1105	patA
+T33	Gene 1111 1112	a
+T34	Gene 1175 1179	patA
+T35	Gene 1183 1187	patB
+T36	Resistance_by_absence 1188 1199	disruptants
+E2	Resistance_by_absence:T36 Cause:T21
+E3	Resistance_by_absence:T36 Cause:T22
+E4	Resistance_by_absence:T36 Cause:T23
+T37	Gene 1326 1330	patA
+T38	Gene 1335 1339	patB
+T39	Gene 1352 1356	pmrA
+T40	Antibiotic 1358 1369	Mitomycin C
+T41	Gene 1439 1443	patA
+T42	Gene 1448 1452	patB
+T43	Protein 1509 1512	ABC
+T44	Protein 1527 1531	PatA
+T45	Protein 1532 1538	PatB  
+T46	Antibiotic_efflux 1513 1519	efflux
+E6	Antibiotic_efflux:T46 Cause:T29

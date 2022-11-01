@@ -1,0 +1,34 @@
+T1	Bacteria 114 132	Enterobacteriaceae
+T2	Bacteria 330 357	Enterobacteriaceae isolates
+T3	Antibiotic 383 394	carbapenems
+T4	Bacteria 905 923	Enterobacteriaceae
+T5	Bacteria 939 955	Escherichia coli
+T6	Bacteria 961 982	Klebsiella pneumoniae
+T7	Bacteria 991 1008	Proteus mirabilis
+T8	Bacteria 1212 1219	E. coli
+*	Equiv T8 T5
+T9	Bacteria 1289 1301	P. mirabilis
+T10	Bacteria 1601 1608	E. coli
+T11	Bacteria 1645 1659	K.  pneumoniae
+*	Equiv T11 T6
+T12	Protein 185 217	New Delhi metallo-beta-lactamase
+T13	Protein 219 222	NDM
+T14	Protein 49 84	New Delhi  metallo-beta-lactamase-1
+T15	Protein 86 91	NDM-1
+T16	Protein 98 103	NDM-6
+T17	Protein 309 312	NDM
+T18	Gene 305 308	bla
+T19	Gene 1091 1094	bla
+T20	Gene 865 869	 bla
+T21	Protein 870 875	NDM-1
+T22	Protein 1095 1101	NDM-6)
+T23	Gene 1129 1132	bla
+T24	Protein 1133 1138	NDM-1
+T25	Protein 1425 1466	CTX-M-15 extended-spectrum beta-lactamase
+T26	Gene 1858 1861	bla
+T27	Protein 1862 1865	NDM
+T28	Gene 1269 1272	bla
+T29	Protein 1273 1278	NDM-1
+T30	Gene 1586 1590	rmtC
+T31	Gene 781 789	bla(NDM)
+T33	Gene 627 646	16S rRNA  methylase

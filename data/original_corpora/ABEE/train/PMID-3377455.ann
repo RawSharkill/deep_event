@@ -1,0 +1,18 @@
+T1	Antibiotic 34 46	lincosamides
+T2	Bacteria 69 87	Arthrobacter  spp.
+T3	Bacteria 110 124	Staphylococcus
+T4	Bacteria 129 146	Arthrobacter spp.
+T5	Antibiotic 166 177	lincosamide
+T8	Antibiotic 305 317	lincosamides
+T9	Antibiotic 343 355	erythromycin
+T12	Antibiotic 569 579	lincomycin
+T13	Antibiotic 584 595	clindamycin
+T14	Antibiotic 640 652	lincosamides
+T21	Antibiotic 932 942	lincomycin
+T22	Antibiotic 961 972	clindamycin
+T25	Antibiotic 1192 1204	lincosamides
+T26	Antibiotic 1301 1313	lincosamides
+T27	Antibiotic 1333 1345	erythromycin
+T29	Antibiotic 1386 1398	oleandomycin
+T30	Antibiotic 1435 1445	macrolides
+T6	Bacteria 50 64	Staphylococcus

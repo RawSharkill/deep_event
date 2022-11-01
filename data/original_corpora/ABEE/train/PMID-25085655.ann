@@ -1,0 +1,24 @@
+T1	Antibiotic 25 37	bicyclomycin
+T2	Antibiotic 272 284	Bicyclomycin
+T3	Antibiotic 404 416	bicyclomycin
+T4	Antibiotic 596 608	Bicyclomycin
+T5	Bacteria 736 759	Gram-negative pathogens
+T6	Antibiotic 787 799	bicyclomycin
+T7	Bacteria 845 861	Escherichia coli
+T9	Antibiotic 967 977	rifampicin
+T10	Antibiotic 948 963	chloramphenicol
+T11	Antibiotic 933 945	tetracycline
+T12	Bacteria 1031 1054	Acinetobacter baumannii
+T13	Bacteria 1056 1077	Klebsiella pneumoniae
+T14	Bacteria 1079 1120	Salmonella enterica serotype  Typhimurium
+T15	Bacteria 1125 1145	Shigella dysenteriae
+T16	Antibiotic 1185 1197	bicyclomycin
+T17	Antibiotic 1216 1228	tetracycline
+T18	Antibiotic 1232 1242	rifampicin
+T19	Bacteria 1385 1392	E. coli
+T20	Antibiotic 1556 1568	tetracycline
+T21	Antibiotic 1587 1599	bicyclomycin
+T22	Antibiotic 1656 1668	bicyclomycin
+*	Equiv T19 T7
+T8	Gene 312 315	Rho
+T23	Antibiotic 1519 1531	bicyclomycin

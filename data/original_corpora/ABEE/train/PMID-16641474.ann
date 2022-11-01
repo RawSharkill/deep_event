@@ -1,0 +1,12 @@
+T1	Bacteria 97 123	Mycobacterium tuberculosis
+T2	Bacteria 152 178	Mycobacterium tuberculosis
+T3	Antibiotic 261 264	EMB
+T4	Gene 352 356	embB
+T5	Antibiotic 540 543	EMB
+T6	Antibiotic 411 414	EMB
+T7	Gene 485 492	embB306
+T8	Gene 369 376	embB306
+T9	Gene 29 33	embB
+T10	Antibiotic 206 209	EMB
+T11	Antibiotic_target_alteration 379 388	Mutations
+E1	Antibiotic_target_alteration:T11 Cause:T6

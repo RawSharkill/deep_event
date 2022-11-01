@@ -1,0 +1,11 @@
+T1	Bacteria 62 78	Escherichia coli
+T3	Bacteria 96 112	Escherichia coli
+T4	Antibiotic 135 147	trimethoprim
+T5	Gene 321 327	dfrA24
+T6	Gene 388 394	dfrA26
+T7	Gene 210 216	dfrA24
+T8	Gene 221 227	dfrA26
+T9	Gene 300 305	dfrA8
+T10	Gene 310 315	dfrA9
+T11	Gene 8 11	dfr
+T2	Antibiotic 21 33	trimethoprim

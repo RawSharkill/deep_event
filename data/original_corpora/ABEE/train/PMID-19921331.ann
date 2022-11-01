@@ -1,0 +1,24 @@
+T1	Bacteria 109 128	Salmonella enterica
+T2	Bacteria 215 234	Salmonella enterica
+T3	Antibiotic 926 938	erythromycin
+T4	Bacteria 1365 1376	S. enterica
+*	Equiv T4 T2
+T5	Bacteria 1558 1569	S. enterica
+T6	Gene 1066 1071	aadA1
+T7	Gene 1055 1060	aadA2
+T8	Gene 1061 1065	cmlA
+T9	Gene 1049 1054	ereA1
+T10	Gene 1042 1048	dfrA32
+T11	Gene 1037 1041	qacH
+T12	Gene 1279 1285	dfrA32
+T13	Gene 1345 1349	dfrA
+T14	Gene 519 523	arr2
+T15	Gene 544 549	aadA1
+T16	Gene 524 529	cmlA5
+T17	Gene 712 717	ereA2
+T18	Gene 701 711	aac(6')IIc
+T19	Gene 718 724	IS1247
+T20	Gene 733 738	ereA2
+T21	Gene 729 732	arr
+T22	Gene 725 728	aac
+T23	Gene 530 533	bla

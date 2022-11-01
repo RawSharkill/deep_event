@@ -1,0 +1,14 @@
+T1	Antibiotic 42 54	trimethoprim
+T2	Bacteria 79 101	gram-negative bacteria
+T3	Bacteria 174 196	gram-negative bacteria
+T4	Antibiotic 225 237	trimethoprim
+T5	Antibiotic 239 241	TM
+*	Equiv T5 T4
+T6	Bacteria 431 450	Kebsiella aerogenes
+T7	Antibiotic 466 468	TM
+T8	Antibiotic 664 666	TM
+T9	Bacteria 675 691	Escherichia coli
+T10	Bacteria 696 708	K. aerogenes
+*	Equiv T10 T6
+T11	Antibiotic 821 823	TM
+T12	Antibiotic 1003 1005	TM

@@ -1,0 +1,7 @@
+T1	Bacteria 42 64	Salmonella typhimurium
+T2	Bacteria 163 185	Salmonella typhimurium
+T3	Bacteria 187 189	ST
+*	Equiv T3 T2
+T4	Antibiotic 793 805	tetracycline
+T5	Bacteria 1161 1171	Salmonella
+T6	Bacteria 1266 1292	Salmonella typhimurium LT2

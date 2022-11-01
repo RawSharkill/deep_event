@@ -1,0 +1,25 @@
+T1	Antibiotic 33 45	trimethoprim
+T2	Antibiotic 47 62	chloramphenicol
+T3	Antibiotic 67 80	sulphonamides
+T4	Bacteria 86 111	Bordetella bronchiseptica
+T5	Bacteria 210 235	Bordetella bronchiseptica
+T6	Antibiotic 359 371	trimethoprim
+T7	Bacteria 402 419	B. bronchiseptica
+*	Equiv T7 T5
+T8	Bacteria 534 551	B. bronchiseptica
+T9	Antibiotic 583 595	trimethoprim
+T10	Antibiotic 642 654	trimethoprim
+T11	Bacteria 1014 1031	B. bronchiseptica
+T12	Antibiotic 1112 1124	trimethoprim
+T13	Antibiotic 1166 1181	chloramphenicol
+T14	Bacteria 1352 1369	B. bronchiseptica
+T15	Antibiotic 1567 1579	sulphonamide
+T16	Antibiotic 1712 1724	trimethoprim
+T17	Antibiotic 1727 1742	chloramphenicol
+T18	Antibiotic 1747 1759	sulphonamide
+T19	Bacteria 1802 1829	B.  bronchiseptica isolates
+T20	Gene 1486 1491	dfrB1
+T21	Gene 1498 1503	catB2
+T22	Gene 1596 1600	sul1
+T23	Gene 1141 1146	dfrA1
+T24	Gene 1198 1203	catB3

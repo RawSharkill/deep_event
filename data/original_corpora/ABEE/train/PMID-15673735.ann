@@ -1,0 +1,38 @@
+T1	Antibiotic 25 36	capreomycin
+T2	Bacteria 51 77	Mycobacterium tuberculosis
+T3	Antibiotic 81 92	Capreomycin
+T4	Bacteria 384 407	Mycobacterium smegmatis
+T5	Bacteria 412 438	Mycobacterium tuberculosis
+T6	Antibiotic 463 474	capreomycin
+T7	Bacteria 531 543	M. smegmatis
+*	Equiv T7 T4
+T8	Bacteria 645 657	M. smegmatis
+T9	Bacteria 714 735	M. tuberculosis H37Rv
+T10	Bacteria 216 261	Saccharothrix  mutabolis subspecies capreolus
+T11	Bacteria 747 759	M. smegmatis
+T12	Bacteria 949 970	M. tuberculosis H37Rv
+T13	Antibiotic 1291 1302	capreomycin
+T14	Bacteria 1310 1322	M. smegmatis
+T15	Bacteria 1328 1343	M. tuberculosis
+*	Equiv T15 T5
+T16	Bacteria 1489 1504	M. tuberculosis
+T17	Antibiotic 1686 1697	capreomycin
+T18	Antibiotic 1818 1829	capreomycin
+T19	Gene 12 16	tlyA
+T20	Antibiotic 350 361	capreomycin
+T21	Gene 686 690	tlyA
+T22	Antibiotic 773 784	capreomycin
+T23	Gene 808 812	tlyA
+T24	Gene 1090 1094	tlyA
+T25	Gene 1017 1021	tlyA
+T26	Antibiotic 1105 1116	capreomycin
+T27	Gene 1207 1211	tlyA
+T28	Gene 1254 1258	tlyA
+T29	Antibiotic 1427 1438	capreomycin
+T30	Gene 1524 1528	tlyA
+T31	Antibiotic 1538 1549	capreomycin
+T32	Gene 1642 1647	 tlyA
+T33	Gene 1751 1755	TlyA
+T34	Gene 1805 1809	tlyA
+T35	Gene 1397 1401	tlyA
+T36	Gene 1344 1348	tlyA

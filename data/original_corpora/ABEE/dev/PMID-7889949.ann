@@ -1,0 +1,9 @@
+T1	Antibiotic 223 234	amoxicillin
+T2	Bacteria 167 188	Aeromonas salmonicida
+T3	Bacteria 36 57	Aeromonas salmonicida
+T5	Antibiotic 686 699	carbapenemase
+T6	Antibiotic 701 714	penicillinase
+T7	Antibiotic 719 735	cephalosporinase
+T8	Antibiotic 834 848	 carbapenemase
+T9	Antibiotic 1010 1023	carbapenemase
+T10	Antibiotic 72 85	carbapenemase

@@ -1,0 +1,31 @@
+T1	Antibiotic 20 33	aminocoumarin
+T2	Antibiotic 123 134	clorobiocin
+T3	Antibiotic 104 118	coumermycin A1
+T4	Antibiotic 141 154	aminocoumarin
+T5	Antibiotic 210 220	novobiocin
+T6	Antibiotic 222 238	coumermycin A(1)
+T7	Antibiotic 244 255	clorobiocin
+T8	Antibiotic 382 393	clorobiocin
+T9	Antibiotic 402 418	coumermycin A(1)
+T10	Bacteria 646 672	Streptomyces lividans TK24
+T11	Antibiotic 705 715	novobiocin
+T12	Antibiotic 720 736	coumermycin A(1)
+T13	Bacteria 946 969	Streptomyces coelicolor
+T14	Antibiotic 1189 1199	novobiocin
+T15	Antibiotic 1208 1224	coumermycin A(1)
+T16	Bacteria 1278 1294	S. lividans TK24
+*	Equiv T16 T10
+T17	Antibiotic 1347 1357	novobiocin
+T18	Antibiotic 1362 1378	coumermycin A(1)
+T19	Gene 307 311	gyrB
+T20	Gene 486 493	parY(R)
+T21	Gene 611 618	gyrB(R)
+T22	Gene 635 642	parY(R)
+T23	Antibiotic 798 811	aminocoumarin
+T24	Gene 1031 1038	gyrB(R)
+T25	Gene 1042 1049	parY(R)
+T26	Antibiotic 1074 1087	aminocoumarin
+T27	Protein 1098 1102	GyrB
+T28	Protein 1107 1111	ParY
+T29	Gene 1154 1159	 novA
+T30	Gene 1164 1169	couR5

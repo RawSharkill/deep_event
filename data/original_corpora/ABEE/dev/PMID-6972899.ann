@@ -1,0 +1,5 @@
+T1	Bacteria 322 344	Gram-positive bacteria
+T2	Antibiotic 355 365	penicillin
+T3	Antibiotic_inactivation 366 377	hydrolysing
+E1	Antibiotic_inactivation:T3 Cause:T2 Theme:T1
+T4	Bacteria 434 456	gram-negative bacteria

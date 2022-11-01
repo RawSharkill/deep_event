@@ -1,0 +1,10 @@
+T1	Antibiotic 25 36	florfenicol
+T2	Bacteria 113 134	Pasteurella piscicida
+T3	Antibiotic 142 153	florfenicol
+T4	Bacteria 221 242	Pasteurella piscicida
+T5	Antibiotic 349 378	non-enzymatic chloramphenicol
+T6	Gene 171 173	pp
+T7	Gene 174 177	flo
+T8	Gene 397 401	cmlA
+T9	Gene 408 410	pp
+T10	Gene 411 414	flo

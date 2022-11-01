@@ -1,0 +1,25 @@
+T1	Bacteria 21 42	Staphylococcus aureus
+T2	Bacteria 233 275	meticillin-resistant Staphylococcus aureus
+T3	Bacteria 277 281	MRSA
+T4	Bacteria 353 361	S aureus
+T5	Antibiotic 434 444	meticillin
+T6	Bacteria 627 631	MRSA
+T7	Bacteria 721 725	MRSA
+T8	Bacteria 895 903	S aureus
+T9	Antibiotic 932 942	meticillin
+T10	Bacteria 1283 1291	S aureus
+T11	Bacteria 1341 1349	S aureus
+T12	Bacteria 1928 1936	S aureus
+T13	Antibiotic 1981 1991	meticillin
+T14	Bacteria 2059 2063	MRSA
+T15	Bacteria 2112 2116	MRSA
+T16	Gene 56 60	mecA
+T17	Gene 473 477	mecA
+T18	Gene 1082 1086	mecA
+T19	Gene 1586 1591	mecA-
+T20	Bacteria 1600 1604	MRSA
+T21	Gene 1631 1635	mecA
+T22	Gene 1292 1296	mecA
+T23	Gene 1248 1252	mecA
+T24	Gene 2161 2165	mecA
+T25	Antibiotic 0 10	Meticillin

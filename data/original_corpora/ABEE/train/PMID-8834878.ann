@@ -1,0 +1,23 @@
+T1	Bacteria 24 79	metallo-beta-lactamase-producing Pseudomonas aeruginosa
+T2	Bacteria 165 196	Pseudomonas aeruginosa isolates
+T3	Bacteria 571 584	P. aeruginosa
+T4	Bacteria 1074 1087	P. aeruginosa
+T5	Bacteria 1092 1108	Escherichia coli
+*	Equiv T3 T2
+T6	Bacteria 1451 1506	metallo-beta-lactamase-producing P.  aeruginosa strains
+*	Equiv T6 T1
+T7	Antibiotic 133 144	carbapenems
+T8	Antibiotic 290 300	carbapenem
+T9	Gene 404 410	blaIMP
+T10	Antibiotic 610 618	imipenem
+T11	Antibiotic 930 941	carbapenems
+T12	Antibiotic 94 121	broad-spectrum beta-lactams
+T13	Gene 375 402	metallo-beta-lactamase gene
+T14	Gene 844 871	metallo-beta-lactamase gene
+T15	Gene 967 994	metallo-beta-lactamase gene
+T16	Gene 458 485	metallo-beta-lactamase gene
+T17	Antibiotic 696 704	imipenem
+T18	Antibiotic 1031 1041	carbapenem
+T19	Gene 1623 1650	metallo-beta-lactamase gene
+T20	Antibiotic 2004 2031	broad-spectrum beta-lactams
+T21	Antibiotic 2043 2054	carbapenems

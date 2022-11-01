@@ -1,0 +1,9 @@
+T1	Antibiotic 27 38	beta-lactam
+T2	Antibiotic 43 69	aminoglycoside antibiotics
+T3	Bacteria 100 122	Pseudomonas aeruginosa
+T4	Bacteria 158 180	Pseudomonas aeruginosa
+T5	Bacteria 294 317	P.  aeruginosa isolates
+T6	Antibiotic 382 397	aminoglycosides
+T7	Antibiotic 481 493	beta-lactams
+T8	Bacteria 985 998	P. aeruginosa
+*	Equiv T8 T3

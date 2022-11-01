@@ -1,0 +1,3 @@
+Spectinomycin resistance at site 1192 in 16S ribosomal RNA of E. coli: an  analysis of three mutants. 
+
+Three different single base substitutions were constructed at residue C-1192 in  16S rRNA on a plasmid-coded rrnB operon of E. coli using site-directed  mutagenesis. All 3 mutants conferred different levels of resistance to  spectinomycin in transformed cells but none affected the growth rate in the  absence of the antibiotic. The G-1192 mutant conferred remarkable resistance,  permitting growth in 40 mg/ml of spectinomycin.

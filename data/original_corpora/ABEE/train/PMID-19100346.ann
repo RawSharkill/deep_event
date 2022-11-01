@@ -1,0 +1,3 @@
+T1	Bacteria 222 244	gram-negative bacteria
+T2	Reduced_permeability_to_antibiotic 15 27	permeability
+E1	Reduced_permeability_to_antibiotic:T2 Theme:T1

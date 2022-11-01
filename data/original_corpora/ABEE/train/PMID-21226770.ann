@@ -1,0 +1,9 @@
+T1	Bacteria 22 38	Escherichia coli
+T2	Bacteria 118 134	Escherichia coli
+T3	Bacteria 1140 1147	E. coli
+*	Equiv T3 T2
+T4	Protein 1337 1341	SoxR
+T5	Protein 974 978	SoxR
+T6	Protein 611 615	SoxR
+T7	Protein 435 439	SoxR
+T8	Protein 890 894	SoxR

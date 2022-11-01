@@ -1,0 +1,3 @@
+Mechanisms of bacterial resistance.
+
+Antibiotic resistance is a growing problem in clinical pediatrics. Many of the  agents traditionally used to treat pediatric pathogens are becoming less  effective because of increasing bacterial resistance. In addition, many more  children are immunocompromised because of primary or acquired immunodeficiencies   and because of advances in cancer chemotherapy and transplantation. These  children are being admitted to hospitals where they may be exposed to multiply  resistant nosocomial pathogens. An improved understanding of the mechanisms of  antibiotic resistance and the development of treatment strategies to prevent the   emergence of resistance will be increasingly required in pediatrics.

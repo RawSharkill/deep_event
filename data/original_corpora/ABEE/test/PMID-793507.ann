@@ -1,0 +1,11 @@
+T1	Antibiotic 17 29	tetracycline
+T2	Antibiotic 88 105	chlortetracycline
+T3	Antibiotic_efflux 130 139	transport
+E1	Antibiotic_efflux:T3 Cause:T2
+T4	Bacteria 524 537	Staph. aureus
+T5	Antibiotic 733 750	chlortetracycline
+T6	Bacteria 819 832	Staph. aureus
+T7	Bacteria 1048 1055	E. coli
+T8	Antibiotic 1161 1178	chlortetracycline
+T9	Antibiotic_target_alteration 1062 1082	protein-synthesizing
+E2	Antibiotic_target_alteration:T9 Cause:T8

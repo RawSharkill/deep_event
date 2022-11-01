@@ -1,0 +1,7 @@
+T1	Antibiotic 14 25	beta-lactam
+T2	Bacteria 40 62	Haemophilus influenzae
+T3	Bacteria 65 87	Haemophilus influenzae
+T4	Antibiotic 125 149	beta-lactam  antibiotics
+T5	Antibiotic 552 575	beta-lactam antibiotics
+T6	Reduced_permeability_to_antibiotic 404 416	permeability
+E1	Reduced_permeability_to_antibiotic:T6 Theme:T3 Cause:T4

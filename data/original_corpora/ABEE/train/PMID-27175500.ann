@@ -1,0 +1,30 @@
+T1	Antibiotic 18 33	fluoroquinolone
+T2	Bacteria 68 92	Acinetobacter  baumannii
+T3	Bacteria 106 129	Acinetobacter baumannii
+T4	Antibiotic 318 334	Fluoroquinolones
+T5	Antibiotic 541 554	ciprofloxacin
+T6	Antibiotic 556 559	CIP
+*	Equiv T6 T5
+T7	Antibiotic 565 577	levofloxacin
+T8	Antibiotic 579 582	LEV
+*	Equiv T8 T7
+T9	Bacteria 796 807	A.baumannii
+*	Equiv T9 T3
+T10	Antibiotic 1592 1595	CIP
+T11	Antibiotic 1699 1702	LEV
+T12	Antibiotic 1727 1730	CIP
+T13	Antibiotic 1780 1783	LEV
+T14	Bacteria 1794 1805	A.baumannii
+T15	Antibiotic 2478 2481	LEV
+T16	Antibiotic 2444 2447	CIP
+T17	Antibiotic 2603 2618	fluoroquinolone
+T18	Bacteria 2678 2689	A.baumannii
+T19	Bacteria 760 771	A.baumannii
+T20	Protein 671 682	DNA  gyrase
+T21	Antibiotic 821 824	CIP
+T22	Antibiotic 843 846	CIP
+T23	Gene 1246 1250	gyrA
+T24	Gene 1255 1259	parC
+T25	Gene 2120 2124	gyrA
+T26	Gene 2129 2133	parC
+T27	Gene 2818 2821	Qnr

@@ -1,0 +1,53 @@
+T3	Antibiotic 106 116	penicillin
+T4	Bacteria 182 200	Bacillus anthracis
+T5	Antibiotic 235 245	penicillin
+T6	Antibiotic 368 380	penicillin G
+T10	Bacteria 729 742	B.  anthracis
+*	Equiv T10 T4
+T11	Bacteria 790 806	Escherichia coli
+T12	Bacteria 932 947	Bacillus cereus
+T13	Bacteria 1310 1319	B. cereus
+*	Equiv T13 T12
+T14	Bacteria 1476 1485	B. cereus
+T15	Antibiotic 1534 1544	ampicillin
+T17	Bacteria 1559 1566	E. coli
+T18	Bacteria 1571 1588	Bacillus subtilis
+T19	Bacteria 1682 1689	E. coli
+*	Equiv T19 T11
+T20	Bacteria 1903 1912	B. cereus
+T21	Bacteria 2026 2038	B. anthracis
+T22	Bacteria 2040 2049	B. cereus
+T23	Bacteria 2055 2071	B. thuringiensis
+T24	Bacteria 2113 2122	B. cereus
+T25	Bacteria 2127 2143	B. thuringiensis
+T26	Bacteria 2168 2181	B.  anthracis
+T27	Bacteria 2256 2268	B. anthracis
+T1	Bacteria 51 84	Bacillus anthracis Sterne  strain
+T8	Bacteria 1014 1026	B. anthracis
+T9	Bacteria 1786 1793	E. coli
+T28	Protein 671 674	bla
+T29	Protein 654 669	 beta-lactamase
+T2	Antibiotic 689 699	penicillin
+T7	Antibiotic 28 38	penicillin
+T30	Protein 0 14	Beta-lactamase
+T31	Gene 808 812	bla1
+T32	Gene 1506 1510	bla1
+T33	Gene 2077 2081	bla2
+T34	Gene 1515 1519	bla2
+T35	Gene 1826 1830	bla2
+T36	Gene 1795 1799	bla1
+T37	Gene 964 968	bla2
+T38	Protein 909 923	beta-lactamase
+T39	Protein 1148 1163	beta-lactamases
+T16	Gene 758 762	bla1
+T40	Gene 1398 1402	bla2
+T41	Gene 2228 2232	bla1
+T42	Gene 2237 2241	bla2
+T43	Gene 1994 1998	bla1
+T45	Antibiotic_inactivation 547 556	hydrolyze
+E2	Antibiotic_inactivation:T45 Cause:T46
+T46	Antibiotic 561 572	beta-lactam
+T47	Antibiotic 449 460	beta-lactam
+T48	Antibiotic 127 138	beta-lactam
+T49	Antibiotic 202 213	Beta-lactam
+T44	Antibiotic 2410 2420	eta-lactam

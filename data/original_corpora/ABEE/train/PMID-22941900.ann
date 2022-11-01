@@ -1,0 +1,26 @@
+T1	Antibiotic_efflux 39 50	transporter
+E1	Antibiotic_efflux:T1 Theme:T2 Cause:T4
+T2	Bacteria 90 113	Streptococcus australis
+T4	Antibiotic 62 74	tetracycline
+T5	Antibiotic 197 209	tetracycline
+T7	Bacteria 237 260	Streptococcus australis
+T8	Bacteria 325 337	S. australis
+T9	Bacteria 343 365	viridans Streptococcus
+T10	Antibiotic 594 606	tetracycline
+T13	Bacteria 693 710	Escherichia  coli
+T14	Antibiotic 735 747	tetracycline
+T16	Antibiotic 945 957	tetracycline
+T18	Bacteria 986 1007	S. australis FRStet12
+T19	Bacteria 1048 1055	E. coli
+T20	Antibiotic_efflux 1187 1199	transporters
+E7	Antibiotic_efflux:T20 Theme:T18 Cause:T16
+T21	Antibiotic 1230 1242	tetracycline
+T23	Antibiotic 1307 1320	tetracyclines
+T24	Antibiotic 1440 1452	tetracycline
+*	Equiv T8 T2
+*	Equiv T19 T13
+T3	Protein 35 38	ABC
+T6	Protein 0 7	TetAB46
+T11	Protein 1183 1186	ABC
+T12	Gene 1348 1357	tetAB(46)
+T15	Protein 1412 1417	ABC  

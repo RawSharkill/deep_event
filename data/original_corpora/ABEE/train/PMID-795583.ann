@@ -1,0 +1,8 @@
+T1	Bacteria 16 32	Escherichia coli
+T2	Bacteria 171 178	E. coli
+*	Equiv T2 T1
+T3	Antibiotic 245 258	cotrimoxazole
+T4	Bacteria 387 394	E. coli
+T5	Antibiotic 514 526	trimethoprim
+T6	Bacteria 537 544	E. coli
+T7	Antibiotic 767 779	trimethoprim

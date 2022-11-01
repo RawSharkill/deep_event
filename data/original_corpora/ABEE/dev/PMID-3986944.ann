@@ -1,0 +1,10 @@
+T1	Bacteria 25 45	Enterobacter cloacae
+T2	Antibiotic 59 89	3rd generation  cephalosporins
+T3	Antibiotic 160 170	cefotaxime
+T4	Bacteria 179 208	Enterobacter  cloacae strains
+T5	Antibiotic 332 342	cefotaxime
+T6	Antibiotic 368 379	cefamandole
+T7	Antibiotic 396 407	ceftriaxone
+T8	Antibiotic 444 452	amikacin
+T9	Antibiotic 589 599	cefuroxime
+T10	Antibiotic 726 736	cefotaxime

@@ -1,0 +1,15 @@
+T1	Bacteria 861 871	S. fradiae
+T2	Bacteria 876 892	S. kanamyceticus
+T3	Bacteria 123 157	Streptomyces kanamyceticus ISP5500
+T4	Antibiotic 25 34	kanamycin
+T5	Antibiotic 37 45	neomycin
+T6	Antibiotic 52 64	streptomycin
+T7	Bacteria 182 200	S. griseus ISP5236
+T8	Bacteria 159 177	S. fradiae ISP5063
+T9	Antibiotic 217 226	kanamycin
+T10	Antibiotic 228 236	neomycin
+T11	Antibiotic 240 252	streptomycin
+T12	Bacteria 1149 1174	S.  kanamyceticus ISP5500
+*	Equiv T12 T3
+T13	Antibiotic 1178 1190	streptomycin
+T14	Antibiotic 944 958	aminoglycoside

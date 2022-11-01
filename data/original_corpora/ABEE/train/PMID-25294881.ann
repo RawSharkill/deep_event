@@ -1,0 +1,30 @@
+T1	Bacteria 96 123	facilitate Escherichia coli
+T2	Bacteria 264 291	facilitate Escherichia coli
+T3	Antibiotic 347 356	protamine
+T4	Antibiotic 518 527	protamine
+T5	Antibiotic 1057 1066	protamine
+T6	Bacteria 1736 1745	E.   coli
+T7	Antibiotic 1772 1781	protamine
+T8	Antibiotic 1462 1471	protamine
+T9	Protein 4 8	CpxR
+T10	Protein 9 13	CpxA
+T11	Protein 237 241	CpxR
+T12	Protein 475 479	CpxR
+T13	Protein 480 484	CpxA
+T14	Gene 613 617	tolC
+T15	Protein 761 766	AcrAB
+T16	Protein 767 771	TolC
+T17	Protein 777 782	EmrAB
+T18	Protein 783 787	TolC
+T19	Protein 849 853	CpxR
+T20	Protein 854 860	CpxA  
+T21	Protein 1088 1091	Tat
+T22	Protein 1154 1158	CpxR
+T23	Protein 1279 1283	CpxR
+T24	Gene 1331 1335	aroK
+T25	Protein 1340 1344	CpxR
+T26	Protein 1593 1597	CpxR
+T27	Gene 1614 1618	degP
+T28	Gene 1623 1627	cpxP
+T29	Protein 1846 1850	CpxR
+T30	Protein 1851 1855	CpxA

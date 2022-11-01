@@ -1,0 +1,35 @@
+T1	Antibiotic 192 201	bleomycin
+T2	Antibiotic 203 213	phleomycin
+T3	Antibiotic 215 225	adriamycin
+T4	Antibiotic 227 238	aclarubicin
+T5	Antibiotic 241 253	neothramycin
+T6	Antibiotic 255 267	macromomycin
+T7	Antibiotic 269 280	auromomycin
+T8	Antibiotic 282 293	chartreusin
+T9	Antibiotic 295 305	pluramycin
+T10	Antibiotic 307 320	neopluramycin
+T11	Antibiotic 324 337	xanthomycin A
+T12	Antibiotic 339 359	angustmycins A and C
+T13	Antibiotic 361 374	blasticidin S
+T14	Antibiotic 379 389	phenomycin
+T15	Bacteria 975 992	soil Streptomyces
+T16	Bacteria 1476 1503	Sterptomyces  hygroscopicus
+T17	Antibiotic 1788 1800	cadeguomycin
+T18	Antibiotic 1765 1786	pyrimidine antibiotic
+T19	Antibiotic 1803 1815	Cadeguomycin
+T20	Antibiotic 2021 2031	Saframycin
+T21	Antibiotic 2200 2210	Stubomycin
+T22	Antibiotic 860 869	bleomycin
+T23	Antibiotic 837 848	aclarubicin
+T24	Antibiotic 818 828	adriamycin
+T25	Antibiotic 830 833	ADM
+T26	Antibiotic 850 853	ACR
+T27	Antibiotic 871 874	BLM
+*	Equiv T27 T22
+*	Equiv T26 T23
+*	Equiv T25 T24
+T28	Antibiotic 1222 1225	ACR
+T29	Antibiotic 1210 1213	ACR
+T30	Protein 738 764	alkaline phosphodiesterase
+T31	Protein 766 769	APD
+T32	Protein 945 948	APD

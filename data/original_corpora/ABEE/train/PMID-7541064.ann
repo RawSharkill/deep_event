@@ -1,0 +1,7 @@
+T1	Antibiotic 997 1007	Zidovudine
+T2	Antibiotic_target_alteration 1037 1046	mutations
+E1	Antibiotic_target_alteration:T2 Cause:T1
+T3	Antibiotic 1311 1321	zidovudine
+T4	Antibiotic 1326 1336	didanosine
+T5	Antibiotic 125 135	zidovudine
+T6	Antibiotic 140 150	didanosine

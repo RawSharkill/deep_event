@@ -1,0 +1,34 @@
+T1	Antibiotic 60 72	glycopeptide
+T2	Bacteria 94 105	enterococci
+T3	Bacteria 141 164	Enterococcus gallinarum
+T4	Bacteria 166 182	E. casseliflavus
+T5	Bacteria 188 202	E.  flavescens
+T6	Antibiotic 258 268	vancomycin
+T7	Bacteria 318 331	E. gallinarum
+*	Equiv T7 T3
+T8	Bacteria 352 369	E.  casseliflavus
+T9	Bacteria 394 407	E. flavescens
+T10	Bacteria 480 493	E. flavescens
+T11	Bacteria 822 833	enterococci
+T12	Bacteria 889 902	E. gallinarum
+T13	Bacteria 1011 1027	E. casseliflavus
+T14	Bacteria 1123 1136	E. gallinarum
+T15	Bacteria 1387 1398	enterococci
+T16	Bacteria 1171 1187	E. casseliflavus
+T17	Gene 1342 1348	vanC-3
+T18	Gene 1330 1336	vanC-2
+T19	Gene 1322 1328	vanC-1
+T20	Gene 1632 1636	vanC
+T21	Gene 337 343	vanC-2
+T22	Gene 379 385	vanC-3
+T23	Gene 53 59	vanC-3
+T24	Gene 41 47	vanC-2
+T25	Gene 33 39	vanC-1
+T26	Gene 113 117	VanC
+T27	Gene 303 309	vanC-1
+T28	Gene 572 578	vanC-2
+T29	Gene 583 589	vanC-3
+T30	Gene 713 717	vanC
+T31	Gene 965 971	vanC-2
+T32	Gene 976 982	vanC-3
+T33	Gene 1229 1235	vanC-3

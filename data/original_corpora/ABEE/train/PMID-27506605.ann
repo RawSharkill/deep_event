@@ -1,0 +1,23 @@
+T1	Bacteria 41 62	Neisseria gonorrhoeae
+T2	Bacteria 142 171	Neisseria gonorrhoeae strains
+T3	Bacteria 523 537	N. gonorrhoeae
+*	Equiv T3 T1
+T4	Bacteria 670 684	N. gonorrhoeae
+T5	Bacteria 757 771	N. gonorrhoeae
+T6	Antibiotic 1077 1089	penicillin G
+T7	Antibiotic 1091 1103	tetracycline
+T8	Antibiotic 1109 1124	fluoroquinolone
+T9	Bacteria 1290 1304	N. gonorrhoeae
+T10	Bacteria 1763 1777	N. gonorrhoeae
+T11	Bacteria 2140 2154	N. gonorrhoeae
+T12	Antibiotic 2275 2287	penicillin G
+T13	Antibiotic 2298 2311	ciprofloxacin
+T14	Antibiotic 2326 2338	tetracycline
+T15	Bacteria 2364 2378	N. gonorrhoeae
+T16	Antibiotic 2436 2447	ceftriaxone
+T17	Antibiotic 2452 2465	spectinomycin
+T18	Gene 1021 1025	penA
+T19	Gene 1027 1031	ponA
+T20	Gene 1033 1037	rpsJ
+T21	Gene 1039 1043	gyrA
+T22	Gene 1050 1054	parC

@@ -1,0 +1,43 @@
+T1	Bacteria 13 37	Bartonella bacilliformis
+T2	Antibiotic 64 78	coumermycin A1
+T3	Bacteria 223 233	Bartonella
+T4	Bacteria 248 272	Bartonella bacilliformis
+T5	Bacteria 561 578	B.  bacilliformis
+*	Equiv T5 T4
+T6	Bacteria 625 642	Bacillus subtilis
+T7	Bacteria 792 808	B. bacilliformis
+T8	Bacteria 835 851	Escherichia coli
+T9	Bacteria 934 941	E. coli
+T10	Bacteria 1030 1046	B. bacilliformis
+T11	Antibiotic 1061 1075	coumermycin A1
+T12	Bacteria 1161 1177	B. bacilliformis
+T13	Bacteria 1526 1546	Borrelia burgdorferi
+T14	Bacteria 1548 1555	E. coli
+T15	Bacteria 1557 1578	Staphylococcus aureus
+T16	Bacteria 1584 1598	Haloferax  sp.
+T17	Antibiotic 1658 1672	coumermycin A1
+T18	Gene 38 42	gyrB
+T19	Antibiotic_target_alteration 0 9	Mutations
+E1	Antibiotic_target_alteration:T19 Theme:T1 Cause:T2
+T20	Gene 273 277	gyrB
+T21	Protein 320 326	gyrase
+T22	Gene 358 362	gyrB
+T23	Protein 424 434	amino acid
+T24	Protein 607 611	GyrB
+T25	Protein 579 583	GyrB
+T26	Protein 753 757	GyrB
+T27	Gene 810 814	gyrB
+T28	Gene 947 951	gyrB
+T29	Antibiotic_target_alteration 952 958	mutant
+E2	Antibiotic_target_alteration:T29 Theme:T9
+T30	Antibiotic_target_alteration 1019 1026	mutants
+E3	Antibiotic_target_alteration:T30 Theme:T10 Cause:T11
+T31	Protein 1104 1108	GyrB
+T32	Gene 1132 1136	gyrB
+T33	Protein 1269 1281	amino acid  
+T34	Gene 1509 1513	gyrB
+T35	Antibiotic_target_alteration 1448 1455	mutated
+E4	Antibiotic_target_alteration:T35 Theme:T15
+E5	Antibiotic_target_alteration:T35 Theme:T14
+E6	Antibiotic_target_alteration:T35 Theme:T13
+E7	Antibiotic_target_alteration:T35 Theme:T16

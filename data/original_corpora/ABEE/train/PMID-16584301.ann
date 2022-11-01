@@ -1,0 +1,41 @@
+T1	Antibiotic 21 33	moxifloxacin
+T2	Bacteria 99 125	Mycobacterium tuberculosis
+T3	Antibiotic 144 153	ofloxacin
+T4	Antibiotic 203 215	moxifloxacin
+T5	Antibiotic 217 220	MOX
+*	Equiv T5 T4
+T6	Bacteria 257 283	Mycobacterium tuberculosis
+T7	Bacteria 285 288	MTB
+*	Equiv T7 T6
+T8	Antibiotic 329 332	MOX
+T9	Antibiotic 338 347	ofloxacin
+T10	Antibiotic 349 352	OFX
+*	Equiv T10 T9
+T11	Bacteria 405 408	MTB
+T12	Antibiotic 577 580	OFX
+T13	Antibiotic 618 621	MOX
+T14	Antibiotic 733 736	MOX
+T15	Antibiotic 754 757	OFX
+T16	Antibiotic 840 843	MOX
+T17	Antibiotic 848 851	OFX
+T18	Antibiotic 899 902	MOX
+T19	Antibiotic 976 979	MOX
+T20	Antibiotic 1042 1045	MOX
+T21	Antibiotic 1131 1141	quinolones
+T22	Antibiotic 1221 1224	OFX
+T23	Antibiotic 1253 1256	MOX
+T24	Antibiotic 1308 1311	MOX
+T25	Antibiotic 1387 1390	OFX
+T26	Antibiotic 1492 1495	OFX
+T27	Antibiotic 1500 1503	MOX
+T28	Antibiotic 1575 1578	MOX
+T29	Antibiotic 1611 1614	MOX
+T30	Bacteria 1705 1708	MTB
+T31	Bacteria 506 509	MTB
+T32	Antibiotic 484 487	OFX
+T33	Antibiotic 445 448	OFX
+T34	Antibiotic 424 427	OFX
+T35	Antibiotic 627 630	OFX
+T36	Antibiotic 935 938	OFX
+T37	Antibiotic 1060 1063	OFX
+T38	Protein 1173 1179	gyrase

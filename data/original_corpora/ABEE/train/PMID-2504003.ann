@@ -1,0 +1,11 @@
+T1	Bacteria 86 109	Mycobacterium fortuitum
+T2	Bacteria 190 203	M.  fortuitum
+T3	Antibiotic 207 219	beta-lactams
+T4	Bacteria 221 244	M. fortuitum ATCC 19542
+T8	Antibiotic 546 557	Amoxicillin
+T12	Bacteria 861 873	M. fortuitum
+T13	Antibiotic 877 889	beta-lactams
+T14	Antibiotic 958 969	amoxicillin
+T15	Bacteria 1069 1082	M.  fortuitum
+T16	Antibiotic 891 906	Clavulanic acid
+*	Equiv T2 T1

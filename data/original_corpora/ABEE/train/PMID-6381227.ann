@@ -1,0 +1,8 @@
+T1	Gene 373 376	NYS
+T2	Gene 175 178	nys
+T3	Bacteria 1 6	Yeast
+T4	Antibiotic 133 141	nystatin
+T5	Bacteria 113 119	yeasts
+T6	Antibiotic 506 514	nystatin
+T7	Antibiotic_target_alteration 526 535	mutations
+E1	Antibiotic_target_alteration:T7 Cause:T6

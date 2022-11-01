@@ -1,0 +1,7 @@
+T1	Bacteria 70 96	Mycobacterium tuberculosis
+T2	Bacteria 165 191	Mycobacterium tuberculosis
+T3	Bacteria 455 470	M. tuberculosis
+*	Equiv T3 T2
+T4	Bacteria 1056 1071	M. tuberculosis
+T5	Protein 729 739	amino acid
+T6	Gene 671 678	PG-PGRS

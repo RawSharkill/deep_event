@@ -1,0 +1,13 @@
+T1	Bacteria 326 344	Enterobacteriaceae
+T2	Antibiotic 424 435	carbapenams
+T3	Bacteria 481 502	Klebsiella pneumoniae
+T4	Gene 272 306	New Delhi metallo-beta-lactamase-1
+T5	Gene 308 313	NDM-1
+T6	Gene 21 53	New Delhi metallo-beta-lactamase
+T7	Gene 713 718	NDM-1
+T8	Gene 567 572	NDM-1
+T9	Protein 839 861	metallo-beta-lactamase
+T10	Antibiotic 385 408	beta-lactam antibiotics
+T11	Gene 508 513	NDM-1
+T12	Protein 257 263	enzyme
+T13	Antibiotic 108 120	beta-Lactams

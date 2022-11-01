@@ -1,0 +1,16 @@
+T1	Bacteria 81 102	Staphylococcus sciuri
+T2	Bacteria 158 179	Staphylococcus sciuri
+T3	Bacteria 381 409	Staphylococcus aureus RN4220
+T4	Bacteria 463 479	Escherichia coli
+T5	Bacteria 671 687	S. aureus RN4220
+T6	Antibiotic 1049 1064	chloramphenicol
+T7	Antibiotic 1065 1075	florfenico
+T8	Antibiotic 1129 1138	macrolide
+T9	Antibiotic 1139 1150	lincosamide
+T10	Antibiotic 1151 1166	streptogramin B
+T11	Antibiotic 1192 1205	spectinomycin
+T15	Antibiotic 1356 1367	lincosamide
+T12	Gene 1040 1043	cfr
+T13	Bacteria 1543 1565	Gram-negative bacteria
+T14	Gene 1092 1099	erm(33)
+T16	Protein 796 807	amino acids

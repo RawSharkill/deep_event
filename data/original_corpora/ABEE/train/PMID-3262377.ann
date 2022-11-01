@@ -1,0 +1,12 @@
+T1	Bacteria 16 61	phototrophic bacteria Rhodobacter sphaeroides
+T2	Bacteria 217 274	purple phototrophic soil bacteria Rhodobacter sphaeroides
+T4	Antibiotic 447 459	tetracycline
+T5	Antibiotic 462 465	Tet
+*	Equiv T5 T4
+T6	Antibiotic 471 485	nalidixic acid
+T7	Antibiotic 487 490	Nal
+*	Equiv T7 T6
+T8	Antibiotic 603 606	Nal
+T9	Antibiotic 611 614	Tet
+T10	Antibiotic 629 638	strain 2R
+T11	Bacteria 917 939	mutants R. sphaeroides

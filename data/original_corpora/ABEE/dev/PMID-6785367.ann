@@ -1,0 +1,18 @@
+T1	Antibiotic 75 85	Ampicillin
+T2	Antibiotic 13 23	ampicillin
+T3	Antibiotic 361 371	Ampicillin
+T5	Bacteria 34 60	Haemophilus parainfluenzae
+T7	Antibiotic 702 712	ampicillin
+T8	Bacteria 723 740	H. parainfluenzae
+T9	Bacteria 774 788	H.  influenzae
+T10	Antibiotic 831 841	ampicillin
+T11	Bacteria 852 866	H.  influenzae
+T12	Bacteria 911 928	H. parainfluenzae
+T14	Bacteria 151 173	Haemophilus influenzae
+T13	Bacteria 967 980	H. influenzae
+T4	Bacteria 382 400	H.  parainfluenzae
+T6	Bacteria 279 305	Haemophilus parainfluenzae
+*	Equiv T6 T4
+*	Equiv T14 T9
+T15	Bacteria 1042 1059	H. parainfluenzae
+T16	Bacteria 1120 1133	H. influenzae

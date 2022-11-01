@@ -1,0 +1,17 @@
+T1	Bacteria 13 35	Mycobacterium kansasii
+T2	Antibiotic 74 88	clarithromycin
+T3	Antibiotic 92 106	Clarithromycin
+T4	Bacteria 148 170	Mycobacterium kansasii
+T5	Bacteria 224 235	M. kansasii
+*	Equiv T5 T4
+T6	Antibiotic 293 307	clarithromycin
+T7	Antibiotic 367 381	clarithromycin
+T8	Antibiotic 387 397	ethambutol
+T9	Antibiotic 460 474	clarithromycin
+T10	Bacteria 643 662	Mycobacterium avium
+T11	Antibiotic 0 4	AIDS
+T12	Antibiotic 208 212	AIDS
+T13	Gene 506 514	23S rRNA
+T14	Antibiotic 617 631	clarithromycin
+T15	Antibiotic_target_alteration 564 572	mutation
+E1	Antibiotic_target_alteration:T15 Cause:T14 Theme:T10

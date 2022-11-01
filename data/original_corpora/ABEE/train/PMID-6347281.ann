@@ -1,0 +1,4 @@
+T1	Bacteria 284 296	mycobacteria
+T2	Bacteria 299 302	Bcg
+*	Equiv T2 T1
+T3	Antibiotic 1321 1331	ampicillin

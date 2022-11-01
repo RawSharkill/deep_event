@@ -1,0 +1,17 @@
+T1	Antibiotic 99 110	methicillin
+T2	Antibiotic 34 45	methicillin
+T3	Bacteria 56 77	Staphylococcus aureus
+T4	Bacteria 127 140	staphylococci
+T5	Antibiotic 191 202	methicillin
+T6	Antibiotic 286 297	methicillin
+T7	Antibiotic 488 499	methicillin
+T8	Bacteria 518 539	Staphylococcus aureus
+T9	Bacteria 583 593	Mcr strain
+T10	Bacteria 795 805	Mcr strain
+T11	Bacteria 720 731	Mcr  strain
+T12	Gene 742 746	mecA
+T13	Bacteria 968 980	Mcs   strain
+T14	Bacteria 1110 1120	Mcs strain
+T15	Bacteria 1584 1593	S. aureus
+T16	Gene 1657 1661	mecA
+T17	Antibiotic 1833 1844	methicillin

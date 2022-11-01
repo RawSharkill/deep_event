@@ -1,0 +1,9 @@
+T1	Bacteria 41 68	Staphylococcus aureus CC130
+T2	Bacteria 122 132	MRSA CC130
+T3	Bacteria 272 282	MRSA CC130
+T4	Bacteria 379 389	MRSA CC130
+T5	Bacteria 456 460	MRSA
+T6	Gene 148 152	mecA
+T7	Gene 83 87	mecA
+T8	Antibiotic 19 30	methicillin
+T9	Protein 501 506	PBP2a

@@ -1,0 +1,17 @@
+T1	Antibiotic 6 17	sulfonamide
+T3	Bacteria 44 60	Escherichia coli
+T4	Bacteria 268 284	Escherichia coli
+T5	Bacteria 385 392	E. coli
+T6	Antibiotic 365 381	sulfamethoxazole
+*	Equiv T5 T4
+T10	Bacteria 561 568	E. coli
+T11	Antibiotic_target_replacement 304 314	Expression
+E4	Antibiotic_target_replacement:T11 Theme:T5 Cause:T6
+T9	Gene 128 132	sul3
+T12	Gene 35 39	sul3
+T13	Gene 474 478	sul3
+T14	Gene 484 488	sul3
+T15	Protein 150 166	a 263-amino-acid
+T16	Protein 189 213	dihydropteroate synthase
+T2	Gene 329 333	sul3
+T7	Antibiotic 528 539	sulfonamide

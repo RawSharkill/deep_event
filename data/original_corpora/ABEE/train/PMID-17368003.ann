@@ -1,0 +1,16 @@
+T1	Antibiotic 62 71	quinolone
+T2	Bacteria 98 119	Klebsiella pneumoniae
+T3	Bacteria 287 308	Klebsiella pneumoniae
+T4	Antibiotic 611 623	beta-lactams
+T5	Antibiotic 625 640	aminoglycosides
+T6	Antibiotic 642 657	chloramphenicol
+T7	Antibiotic 662 674	trimethoprim
+T8	Antibiotic 752 764	beta-lactams
+T9	Antibiotic 766 781	aminoglycosides
+T10	Antibiotic 786 801	chloramphenicol
+T11	Bacteria 1026 1039	K. pneumoniae
+*	Equiv T11 T2
+T12	Gene 89 94	qnrA1
+T13	Gene 933 938	qnrA1
+T14	Gene 359 364	qnrA1
+T15	Gene 194 199	qnrA1

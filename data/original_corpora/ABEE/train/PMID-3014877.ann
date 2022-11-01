@@ -1,0 +1,46 @@
+T2	Antibiotic 51 66	aminoglycosides
+T3	Antibiotic 116 130	aminoglycoside
+T4	Antibiotic 93 101	amikacin
+T5	Antibiotic 141 149	Amikacin
+T6	Antibiotic 188 202	aminoglycoside
+T7	Antibiotic 461 475	aminoglycoside
+T8	Antibiotic 539 549	gentamicin
+T9	Antibiotic 569 583	aminoglycoside
+T10	Antibiotic 623 637	aminoglycoside
+T11	Antibiotic 737 751	aminoglycoside
+T12	Antibiotic 756 764	amikacin
+T13	Antibiotic 910 924	aminoglycoside
+T14	Antibiotic 959 973	aminoglycoside
+T16	Antibiotic 1100 1108	amikacin
+T17	Antibiotic 1230 1240	gentamicin
+T18	Antibiotic 1246 1256	tobramycin
+T19	Antibiotic 1278 1286	amikacin
+T20	Antibiotic 1329 1339	gentamicin
+T21	Antibiotic 1370 1380	tobramycin
+T23	Bacteria 1494 1510	Escherichia coli
+T24	Bacteria 1550 1567	Proteus mirabilis
+T25	Bacteria 1616 1623	Proteus
+T26	Bacteria 1657 1670	Acinetobacter
+T27	Bacteria 1703 1714	Citrobacter
+T28	Bacteria 1751 1773	Pseudomonas aeruginosa
+T29	Antibiotic 1833 1841	amikacin
+T30	Bacteria 1908 1921	P. aeruginosa
+*	Equiv T30 T28
+T31	Antibiotic 2036 2044	amikacin
+T32	Bacteria 2060 2079	Pseudomonas strains
+T33	Antibiotic 2437 2445	amikacin
+T34	Antibiotic 2463 2477	aminoglycoside
+T35	Antibiotic 2532 2547	aminoglycosides
+T36	Antibiotic 2595 2603	amikacin
+T38	Antibiotic 2660 2668	amikacin
+T1	Bacteria 18 47	aerobic gram-negative bacilli
+T15	Antibiotic 339 349	gentamicin
+T22	Bacteria 1031 1052	gram-negative bacilli
+T37	Bacteria 1417 1438	gram-negative bacilli
+T39	Antibiotic 1442 1452	gentamicin
+T40	Antibiotic 1180 1188	amikacin
+T41	Antibiotic 1810 1818	amikacin
+T42	Bacteria 2611 2640	aerobic gram-negative bacilli
+T43	Protein 2219 2228	AAC(6')-I
+T44	Protein 2262 2272	APH(3')-II
+T45	Protein 2308 2315	ANT(2")

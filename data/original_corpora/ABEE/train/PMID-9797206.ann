@@ -1,0 +1,47 @@
+T1	Antibiotic 25 37	beta-lactams
+T2	Antibiotic 42 54	tetracycline
+T4	Reduced_permeability_to_antibiotic 64 72	mutation
+E3	Reduced_permeability_to_antibiotic:T4 Theme:T5 Cause:T1
+T5	Bacteria 0 10	Gonococcal
+T7	Antibiotic 185 197	beta-lactams
+T8	Antibiotic 203 216	tetracyclines
+T9	Antibiotic 247 257	quinolones
+T10	Bacteria 261 282	Neisseria gonorrhoeae
+T12	Reduced_permeability_to_antibiotic 149 157	mutation
+E7	Reduced_permeability_to_antibiotic:T12 Theme:T5 Cause:T7
+E8	Reduced_permeability_to_antibiotic:T12 Theme:T10 Cause:T9
+T13	Bacteria 425 435	gonococcus
+T14	Antibiotic 668 678	penicillin
+T15	Antibiotic 901 911	penicillin
+T16	Bacteria 1204 1220	Escherichia coli
+T17	Bacteria 1146 1156	gonococcal
+T18	Bacteria 1650 1659	gonococci
+T19	Antibiotic 1702 1712	penicillin
+T22	Antibiotic 1916 1926	penicillin
+T23	Antibiotic 1931 1943	tetracycline
+T24	Bacteria 1947 1956	gonococci
+T25	Reduced_permeability_to_antibiotic 1773 1780	reduces
+E11	Reduced_permeability_to_antibiotic:T25 Theme:T24 Cause:T22
+E1	Reduced_permeability_to_antibiotic:T4 Cause:T2 Theme:T5
+T3	Gene 113 117	penB
+T6	Gene 127 131	penB
+E2	Reduced_permeability_to_antibiotic:T12 Cause:T8 Theme:T5
+T11	Gene 318 321	por
+T20	Gene 388 391	mtr
+T21	Gene 489 493	penA
+T26	Gene 494 497	mtr
+T27	Gene 498 502	penB
+T28	Protein 846 849	Mtr
+T29	Protein 854 858	PenB
+T30	Gene 952 955	por
+T31	Gene 970 974	penB
+T32	Protein 1221 1225	OmpF
+T33	Gene 1386 1389	por
+T34	Gene 1449 1453	penA
+T35	Gene 1454 1457	mtr
+T36	Gene 1578 1582	penB
+T37	Gene 1584 1588	penB
+T38	Reduced_permeability_to_antibiotic 1594 1603	mutations
+E4	Reduced_permeability_to_antibiotic:T38 Theme:T18 Cause:T19
+T39	Gene 1732 1736	penB
+E5	Reduced_permeability_to_antibiotic:T25 Theme:T24 Cause:T23

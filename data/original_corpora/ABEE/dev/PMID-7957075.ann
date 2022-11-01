@@ -1,0 +1,13 @@
+T1	Bacteria 32 38	E.coli
+T2	Bacteria 100 116	Escherichia coli
+*	Equiv T1 T2
+T3	Antibiotic 139 149	pulvomycin
+T4	Antibiotic 409 419	pulvomycin
+T5	Bacteria 547 567	Thermus thermophilus
+T6	Antibiotic 612 622	kirromycin
+T7	Antibiotic 795 805	pulvomycin
+T8	Antibiotic 810 820	kirromycin
+T9	Antibiotic 1389 1399	pulvomycin
+T10	Antibiotic 1522 1532	pulvomycin
+T11	Antibiotic 0 10	Pulvomycin
+T12	Gene 193 197	tufA

@@ -1,0 +1,43 @@
+T2	Antibiotic 30 41	florfenicol
+T3	Antibiotic 49 64	chloramphenicol
+T4	Bacteria 68 94	Bordetella  bronchiseptica
+T5	Antibiotic 122 136	chloramphenico
+T7	Antibiotic_efflux 138 146	exporter
+E4	Antibiotic_efflux:T7 Theme:T4 Cause:T5
+T11	Bacteria 215 250	Bordetella  bronchiseptica isolates
+T12	Bacteria 383 410	B.  bronchiseptica isolates
+T13	Bacteria 1163 1178	Vibrio cholerae
+T14	Antibiotic 993 1004	florfenicol
+T15	Antibiotic 1005 1020	chloramphenicol
+T21	Bacteria 1732 1758	B. bronchiseptica isolates
+T22	Antibiotic 1897 1912	chloramphenicol
+T23	Antibiotic_efflux 1913 1922	exporters
+E11	Antibiotic_efflux:T23 Theme:T21 Cause:T22
+*	Equiv T12 T4 T11
+T1	Antibiotic 1182 1207	chloramphenicol-resistant
+T6	Antibiotic 1213 1236	florfenicol-susceptible
+T8	Antibiotic 1609 1634	chloramphenicol-resistant
+T9	Antibiotic 1589 1600	florfenicol
+T10	Antibiotic_efflux 0 6	Efflux
+E1	Antibiotic_efflux:T10 Cause:T2 Theme:T4
+E2	Antibiotic_efflux:T10 Cause:T3 Theme:T4
+T16	Antibiotic 169 180	florfenicol
+T17	Antibiotic 189 214	chloramphenicol-resistant
+T18	Gene 319 323	floR
+T19	Gene 328 331	cml
+T20	Gene 939 943	floR
+T24	Protein 1086 1090	FloR
+T25	Protein 1155 1159	FloR
+T26	Gene 1276 1279	cml
+T27	Gene 1297 1302	cmlB1
+T28	Protein 1308 1313	CmlB1
+T29	Protein 1366 1370	CmlA
+T30	Protein 1390 1395	cmlB1
+T31	Antibiotic 1550 1558	phenicol
+T32	Antibiotic_efflux 1515 1521	efflux
+E3	Antibiotic_efflux:T32 Cause:T31 Theme:T12
+E5	Antibiotic_efflux:T32 Cause:T9 Theme:T12
+E6	Antibiotic_efflux:T32 Cause:T8 Theme:T12
+T33	Gene 1719 1723	floR
+T34	Gene 1821 1824	cml
+T35	Gene 1832 1837	cmlB1

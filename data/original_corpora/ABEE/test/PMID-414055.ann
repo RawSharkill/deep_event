@@ -1,0 +1,4 @@
+T1	Bacteria 36 55	Actinomyces griseus
+T2	Bacteria 128 150	Actinomyces griseus 15
+T3	Bacteria 352 367	Act. griseus 15
+*	Equiv T3 T2

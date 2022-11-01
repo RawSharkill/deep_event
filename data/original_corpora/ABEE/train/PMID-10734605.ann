@@ -1,0 +1,13 @@
+T1	Bacteria 94 136	enterohemorrhagic Escherichia coli O157:H7
+T2	Bacteria 177 211	enterohemorrhagic Escherichia coli
+T3	Bacteria 213 217	EHEC
+*	Equiv T3 T2
+T5	Bacteria 444 459	E. coli strains
+T4	Bacteria 396 408	EHEC strains
+T6	Bacteria 518 530	EHEC O157:H7
+T7	Gene 717 722	stx2A
+T8	Gene 728 733	stx2B
+T9	Bacteria 1152 1164	EHEC O157:H7
+T10	Gene 1546 1551	stx2B
+T11	Gene 1501 1506	IS629
+T12	Gene 1588 1589	S

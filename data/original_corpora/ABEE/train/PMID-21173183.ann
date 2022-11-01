@@ -1,0 +1,40 @@
+T1	Bacteria 41 59	Acinetobacter spp.
+T2	Antibiotic_efflux 0 37	Efflux-mediated antibiotic resistance
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 68 86	Acinetobacter spp.
+T4	Bacteria 88 100	A. baumannii
+T7	Bacteria 604 616	A. baumannii
+T8	Antibiotic_efflux 505 510	pumps
+E4	Antibiotic_efflux:T8 Theme:T7
+T9	Bacteria 912 924	A. baumannii
+T10	Bacteria 1371 1383	A. baumannii
+T11	Antibiotic_efflux 1285 1291	efflux
+E5	Antibiotic_efflux:T11 Theme:T10
+T12	Bacteria 1421 1439	Acinetobacter spp.
+E6	Antibiotic_efflux:T11 Theme:T12
+T13	Bacteria 1630 1648	Acinetobacter spp.
+T14	Antibiotic_efflux 1475 1481	efflux
+E7	Antibiotic_efflux:T14 Theme:T13
+T5	Protein 254 257	MDR
+T6	Protein 545 548	RND
+T15	Protein 618 621	RND
+T16	Gene 802 807	adeRS
+T17	Protein 764 770	AdeABC
+T18	Antibiotic_target_alteration 785 794	mutations
+E2	Antibiotic_target_alteration:T18 Theme:T9
+T19	Protein 926 932	AdeIJK
+T20	Protein 1153 1159	AdeFGH
+T21	Protein 1185 1189	LysR
+T22	Protein 1309 1313	CraA
+T23	Protein 1316 1320	AmvA
+T24	Protein 1322 1326	AbeM
+T25	Protein 1332 1336	AbeS
+T26	Protein 1394 1400	AdeXYZ
+T27	Protein 1405 1410	AdeDE
+T28	Protein 1532 1535	MFS
+T29	Protein 1545 1549	TetA
+T30	Protein 1551 1555	TetB
+T31	Protein 1558 1562	CmlA
+T32	Protein 1568 1572	FloR
+T33	Protein 1609 1612	SMR
+T34	Protein 1621 1625	QacE

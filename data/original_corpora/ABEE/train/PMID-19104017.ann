@@ -1,0 +1,39 @@
+T1	Antibiotic 56 69	ciprofloxacin
+T2	Bacteria 99 138	Salmonella enterica serovar enteritidis
+T3	Bacteria 270 309	Salmonella enterica serovar Enteritidis
+T4	Antibiotic 365 378	ciprofloxacin
+T5	Antibiotic 588 597	quinolone
+T6	Antibiotic 628 641	ciprofloxacin
+T7	Antibiotic 856 880	nonquinolone antibiotics
+T8	Antibiotic 1065 1075	quinolones
+T9	Antibiotic 1120 1133	ciprofloxacin
+T10	Antibiotic 1192 1201	quinolone
+T11	Antibiotic 1253 1266	ciprofloxacin
+T12	Antibiotic 1446 1459	ciprofloxacin
+T13	Antibiotic 1724 1738	nalidixic acid
+T14	Antibiotic 1763 1776	ciprofloxacin
+T15	Antibiotic 1790 1803	Ciprofloxacin
+T16	Gene 497 501	gyrA
+T17	Antibiotic 244 258	nalidixic acid
+T18	Antibiotic 403 416	ciprofloxacin
+T19	Gene 532 536	acrB
+T20	Gene 572 576	gyrA
+T21	Gene 707 711	gyrA
+T22	Gene 747 751	gyrB
+T23	Gene 764 768	parE
+T24	Gene 818 822	acrB
+T25	Protein 913 917	OmpF
+T26	Gene 1000 1004	gyrA
+T27	Gene 1009 1013	gyrB
+T28	Gene 1170 1174	parE
+T29	Gene 1221 1225	acrB
+T30	Gene 1303 1307	soxS
+T31	Gene 1312 1316	marA
+T32	Gene 1352 1356	ramA
+T33	Antibiotic_inactivation 1389 1401	Inactivation
+E1	Antibiotic_inactivation:T33 Cause:T12
+T34	Gene 1490 1494	acrB
+T35	Gene 1696 1700	gyrA
+T36	Antibiotic_target_alteration 1701 1709	mutation
+E2	Antibiotic_target_alteration:T36 Cause:T13
+E3	Antibiotic_target_alteration:T36 Cause:T14

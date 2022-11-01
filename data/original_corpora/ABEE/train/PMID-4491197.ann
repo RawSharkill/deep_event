@@ -1,0 +1,10 @@
+T1	Antibiotic 28 40	penicillin G
+T2	Antibiotic 42 50	neomycin
+T3	Antibiotic 56 71	chloramphenicol
+T4	Bacteria 76 95	Rhizobium japonicum
+T5	Bacteria 175 194	Rhizobium japonicum
+T6	Antibiotic 210 222	penicillin G
+T7	Antibiotic 224 232	neomycin
+T8	Antibiotic 238 253	chloramphenicol
+T9	Bacteria 339 357	Enterobacteriaceae
+T10	Bacteria 527 552	Agrobacterium tumefaciens

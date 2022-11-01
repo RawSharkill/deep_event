@@ -1,0 +1,41 @@
+T1	Bacteria 77 98	Enterococcus faecalis
+T2	Bacteria 103 123	Enterococcus faecium
+T3	Antibiotic_efflux 14 20	efflux
+E1	Antibiotic_efflux:T3 Theme:T2
+E2	Antibiotic_efflux:T3 Theme:T1
+T4	Bacteria 212 233	Enterococcus faecalis
+T5	Bacteria 238 258	Enterococcus faecium
+T6	Bacteria 670 690	E.  faecalis strains
+T7	Bacteria 714 732	E. faecium strains
+T8	Antibiotic_efflux 607 613	efflux
+E3	Antibiotic_efflux:T8 Theme:T7
+E4	Antibiotic_efflux:T8 Theme:T6
+T9	Antibiotic 818 828	gentamicin
+T10	Antibiotic 831 843	streptomycin
+T11	Antibiotic 848 863	chloramphenicol
+T13	Antibiotic 1141 1151	gentamicin
+T14	Antibiotic 1154 1166	streptomycin
+T15	Antibiotic 1168 1181	chlorhexidine
+T16	Antibiotic 1186 1195	triclosan
+T17	Bacteria 1307 1326	enterococci strains
+T18	Antibiotic_efflux 1390 1396	efflux
+E8	Antibiotic_efflux:T18 Theme:T19
+T19	Bacteria 1497 1508	enterococci
+T20	Bacteria 1638 1649	enterococci
+T21	Bacteria 1753 1764	enterococci
+*	Equiv T6 T1
+*	Equiv T7 T2
+T12	Protein 8 13	EfrAB
+T23	Protein 193 198	EfrAB
+T24	Protein 567 572	EfrAB
+T25	Protein 590 593	ABC
+T26	Protein 665 668	MDR
+T27	Protein 710 713	MDR
+T28	Protein 734 739	EfrAB
+T29	Gene 888 892	efrA
+T30	Gene 897 901	efrB
+T22	Protein 1257 1262	EfrAB
+T31	Protein 1376 1381	EfrAB
+T32	Protein 1462 1467	EfrAB
+T33	Protein 1686 1691	EfrAB
+T34	Protein 1704 1709	EfrAB

@@ -1,0 +1,27 @@
+T1	Antibiotic 25 40	fluoroquinolone
+T2	Bacteria 64 86	Klebsiella  pneumoniae
+T3	Antibiotic 125 138	ciprofloxacin
+T4	Bacteria 167 180	K. pneumoniae
+*	Equiv T4 T2
+T5	Antibiotic 214 228	cephalosporins
+T6	Antibiotic 330 345	fluoroquinolone
+T7	Antibiotic 414 427	ciprofloxacin
+T8	Antibiotic 1091 1106	fluoroquinolone
+T9	Antibiotic 1446 1461	fluoroquinolone
+T10	Bacteria 1476 1489	K. pneumoniae
+T11	Protein 8 12	AcrR
+T12	Protein 17 21	ramA
+T13	Protein 1600 1605	AcrAB
+T14	Gene 1545 1549	marA
+T15	Gene 1553 1557	soxS
+T16	Protein 1500 1504	AcrR
+T17	Gene 1516 1520	ramA
+T18	Antibiotic_target_alteration 1424 1431	changes
+E1	Antibiotic_target_alteration:T18 Cause:T9 Theme:T10
+T19	Protein 1029 1033	AcrA
+T20	Gene 984 988	acrR
+T21	Gene 1213 1217	acrE
+T22	Protein 899 903	AcrA
+T23	Gene 942 946	acrR
+T24	Antibiotic 761 776	fluoroquinolone
+T25	Protein 651 655	ParC

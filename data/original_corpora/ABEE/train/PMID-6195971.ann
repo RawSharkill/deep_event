@@ -1,0 +1,16 @@
+T1	Antibiotic 928 938	adriamycin
+T2	Antibiotic 941 944	ADM
+*	Equiv T2 T1
+T3	Antibiotic 947 958	aclarubicin
+T4	Antibiotic 960 963	ACR
+*	Equiv T4 T3
+T5	Antibiotic 968 977	bleomycin
+T6	Antibiotic 979 982	BLM
+*	Equiv T6 T5
+T7	Antibiotic 1572 1575	ACR
+T8	Antibiotic 1711 1714	ACR
+T9	Antibiotic 1780 1783	ADM
+T10	Antibiotic 1787 1790	BLM
+T11	Antibiotic 1795 1798	MCR
+T12	Antibiotic 1860 1863	ACR
+T13	Antibiotic 2030 2033	ACR

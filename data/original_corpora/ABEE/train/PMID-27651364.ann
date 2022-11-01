@@ -1,0 +1,21 @@
+T1	Bacteria 66 79	Campylobacter
+T2	Bacteria 535 548	Campylobacter
+T3	Bacteria 792 805	Campylobacter
+T4	Antibiotic 1255 1271	fluoroquinolones
+T5	Bacteria 1333 1351	campylobacteriosis
+T6	Bacteria 1502 1531	Campylobacter jejuni isolates
+T7	Bacteria 2304 2317	Campylobacter
+T8	Antibiotic_efflux 32 43	Efflux Pump
+E1	Antibiotic_efflux:T8 Theme:T1
+T11	Protein 525 531	CmeABC
+T12	Antibiotic_efflux 513 524	efflux pump
+E2	Antibiotic_efflux:T12 Theme:T2
+T13	Protein 726 732	CmeABC
+T10	Protein 481 490	RE-CmeABC
+T15	Protein 747 756	RE-CmeABC
+T16	Protein 1010 1014	CmeB
+T17	Antibiotic 1133 1146	ciprofloxacin
+T9	Protein 1084 1093	RE-CmeABC
+T14	Antibiotic_efflux 1084 1093	RE-CmeABC
+E3	Antibiotic_efflux:T14 Cause:T4 Theme:T5
+T18	Protein 1366 1375	RE-CmeABC

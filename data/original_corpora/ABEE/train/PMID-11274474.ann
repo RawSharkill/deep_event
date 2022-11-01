@@ -1,0 +1,19 @@
+T1	Bacteria 120 140	Enterococcus faecium
+T3	Bacteria 182 193	enterococci
+T4	Bacteria 537 557	Enterococcus faecium
+T5	Bacteria 1071 1081	E. faecium
+T6	Bacteria 1135 1151	Escherichia coli
+T2	Gene 225 228	ddl
+T7	Gene 494 497	ddl
+T8	Protein 829 839	amino acid
+T9	Protein 1082 1088	enzyme
+T10	Protein 1007 1013	enzyme
+T11	Antibiotic 513 525	glycopeptide
+T12	Antibiotic 86 98	glycopeptide
+T13	Gene 18 21	ddl
+T14	Antibiotic 144 156	Glycopeptide
+T15	Antibiotic_inactivation 239 249	inactivate
+E1	Antibiotic_inactivation:T15 Theme:T3
+T16	Protein 300 313	glycopeptides
+T17	Antibiotic_target_alteration 608 616	mutation
+E2	Antibiotic_target_alteration:T17 Theme:T4 Cause:T11

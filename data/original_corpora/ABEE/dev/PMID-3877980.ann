@@ -1,0 +1,38 @@
+T2	Antibiotic 64 75	beta-lactam
+T4	Antibiotic 219 231	beta-lactams
+T5	Antibiotic 291 302	beta-lactam
+T6	Bacteria 375 386	Bacteroides
+T7	Bacteria 388 401	Fusobacterium
+T8	Bacteria 406 425	Clostridium species
+T9	Antibiotic 448 459	Beta-lactam
+T10	Bacteria 474 494	Bacteroides fragilis
+T11	Bacteria 626 637	B. fragilis
+*	Equiv T11 T10
+T12	Antibiotic 685 697	piperacillin
+T13	Antibiotic 702 715	carbenicillin
+T14	Antibiotic 739 748	cefoxitin
+T15	Antibiotic 753 761	imipenem
+T16	Bacteria 791 802	B. fragilis
+T17	Bacteria 809 841	Bacteroides non-fragilis species
+T18	Bacteria 933 956	Fusobacterium nucleatum
+T19	Bacteria 992 1002	clostridia
+T20	Bacteria 1004 1025	Clostridium butyricum
+T21	Bacteria 1027 1046	C. clostridiiformis
+T22	Bacteria 1052 1062	C. ramosum
+T1	Bacteria 19 37	anaerobic bacteria
+T24	Bacteria 90 108	anaerobic bacteria
+T25	Antibiotic_inactivation 673 684	inactivates
+E2	Antibiotic_inactivation:T25 Cause:T13 Theme:T11
+E3	Antibiotic_inactivation:T25 Cause:T12 Theme:T11
+T26	Antibiotic_inactivation 726 738	inactivating
+E4	Antibiotic_inactivation:T26 Cause:T14 Theme:T16
+T27	Antibiotic_inactivation 726 738	inactivating
+E5	Antibiotic_inactivation:T27 Cause:T15 Theme:T16
+T3	Protein 163 190	penicillin-binding proteins
+T23	Reduced_permeability_to_antibiotic 204 215	penetration
+E1	Reduced_permeability_to_antibiotic:T23 Cause:T2 Theme:T24
+T28	Protein 653 666	penicillinase
+T29	Protein 876 889	penicillinase
+T30	Protein 850 865	beta-lactamases
+T31	Protein 914 927	penicillinase
+T32	Protein 1090 1104	penicillinases

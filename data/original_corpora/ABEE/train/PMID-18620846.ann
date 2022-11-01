@@ -1,0 +1,21 @@
+T1	Antibiotic 67 79	tetracycline
+T3	Bacteria 95 111	Escherichia coli
+T4	Antibiotic 178 190	tetracycline
+T5	Antibiotic 413 425	tetracycline
+T6	Antibiotic 1360 1372	tetracycline
+T7	Bacteria 1387 1394	E. coli
+T8	Bacteria 215 231	Escherichia coli
+T10	Reduced_permeability_to_antibiotic 115 126	Alterations
+E3	Reduced_permeability_to_antibiotic:T10 Theme:T8 Cause:T4
+*	Equiv T7 T3
+T2	Reduced_permeability_to_antibiotic 31 38	altered
+E1	Reduced_permeability_to_antibiotic:T2 Cause:T1 Theme:T3
+T9	Protein 339 343	FimD
+T11	Protein 345 348	Tsx
+T12	Protein 351 355	OmpW
+T13	Protein 357 361	OmpC
+T14	Protein 366 370	TolC
+T16	Protein 1309 1313	LamB
+T17	Protein 1315 1319	OmpC
+T18	Protein 1324 1328	TolC
+T19	Protein 393 397	LamB

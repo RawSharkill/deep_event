@@ -1,0 +1,5 @@
+T1	Antibiotic 29 52	beta-lactam antibiotics
+T2	Antibiotic 80 111	third-generation cephalosporins
+T3	Antibiotic 481 513	third-generation  cephalosporins
+T4	Bacteria 644 662	Enterobacteriaceae
+T5	Bacteria 687 701	Pseudomonas sp

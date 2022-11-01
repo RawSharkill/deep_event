@@ -1,0 +1,15 @@
+T1	Bacteria 56 75	gram-positive cocci
+T2	Bacteria 236 247	enterococci
+T3	Bacteria 252 265	staphylococci
+T4	Bacteria 327 338	enterococci
+T5	Bacteria 435 455	Enterococcus faecium
+T6	Bacteria 460 471	E. faecalis
+T7	Antibiotic 703 713	vancomycin
+T8	Bacteria 758 768	E. faecium
+T9	Antibiotic 902 912	vancomycin
+T10	Bacteria 1064 1077	E. gallinarum
+T11	Bacteria 1090 1103	staphylococci
+T12	Bacteria 1337 1350	staphylococci
+T13	Bacteria 1729 1741	enterococcus
+T14	Bacteria 1745 1759	staphylococcus
+T15	Antibiotic 1247 1258	teicoplanin

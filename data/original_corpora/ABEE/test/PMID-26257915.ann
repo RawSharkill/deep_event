@@ -1,0 +1,13 @@
+T1	Bacteria 77 98	Myroides odoratimimus
+T2	Antibiotic 178 188	carbapenem
+T3	Bacteria 240 262	Myroides  odoratimimus
+T4	Antibiotic 379 387	imipenem
+T5	Bacteria 994 1010	Escherichia coli
+T6	Antibiotic 1209 1219	carbapenem
+T7	Bacteria 1234 1255	Myroides odoratimimus
+T8	Protein 26 69	the chromosome-encoded beta-lactamase MUS-1
+T9	Protein 0 5	MUS-2
+T10	Antibiotic 209 217	imipenem
+T11	Protein 1159 1191	the chromosome-encoded bla MUS-1
+T12	Protein 937 942	MUS-2
+T13	Gene 933 936	bla

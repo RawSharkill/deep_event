@@ -1,0 +1,14 @@
+T1	Bacteria 238 266	Staphylococcus saprophyticus
+T2	Antibiotic 415 426	amoxicillin
+T3	Antibiotic 428 434	Amoxil
+T4	Antibiotic 436 441	Wymox
+*	Equiv T4 T3 T2
+T5	Antibiotic 446 456	ampicillin
+T6	Antibiotic 458 465	Omnipen
+T7	Antibiotic 467 477	Totacillin
+*	Equiv T7 T6 T5
+T8	Antibiotic 623 652	trimethoprim-sulfamethoxazole
+T9	Antibiotic 657 669	trimethoprim
+T10	Antibiotic 677 686	Proloprim
+T11	Antibiotic 688 695	Trimpex
+T12	Antibiotic 727 739	sulfonamides

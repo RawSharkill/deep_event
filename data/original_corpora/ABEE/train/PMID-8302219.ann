@@ -1,0 +1,13 @@
+T1	Bacteria 949 965	Escherichia coli
+T2	Bacteria 995 1015	Erwinia chrysanthemi
+T3	Bacteria 1048 1073	Agrobacterium tumefaciens
+T4	Bacteria 1078 1096	Rhizobium meliloti
+T5	Protein 0 3	ABC
+T6	Protein 45 48	ABC
+T7	Protein 83 90	ATPases
+T8	Protein 196 199	ABC
+T9	Protein 406 409	ABC
+T10	Protein 483 486	ABC
+T11	Protein 1166 1169	ABC
+T12	Protein 1211 1214	ABC
+T13	Protein 1652 1655	ABC

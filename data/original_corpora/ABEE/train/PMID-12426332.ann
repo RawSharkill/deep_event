@@ -1,0 +1,15 @@
+T1	Antibiotic 21 31	vancomycin
+T2	Bacteria 42 70	Enterococcus faecalis BM4405
+T4	Antibiotic 121 131	vancomycin
+T5	Bacteria 157 185	Enterococcus faecalis BM4405
+T6	Antibiotic_target_alteration 238 248	precursors
+E2	Antibiotic_target_alteration:T6 Theme:T5
+T8	Antibiotic 1197 1207	vancomycin
+T9	Bacteria 1226 1243	E. faecalis JH2-2
+T3	Gene 0 4	vanE
+T7	Gene 83 87	VanE
+T11	Gene 572 576	VanE
+T12	Gene 1122 1126	vanE
+T13	Gene 1129 1135	vanXYE
+T14	Gene 1141 1146	vanTE
+T10	Gene 899 904	vanTE

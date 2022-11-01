@@ -1,0 +1,21 @@
+T1	Antibiotic_target_replacement 45 56	replacement
+E1	Antibiotic_target_replacement:T1 Theme:T2
+T2	Bacteria 60 72	mycobacteria
+T3	Bacteria 110 122	mycobacteria
+T4	Gene 389 393	pyrF
+T5	Bacteria 404 417	Mycobacterium
+T6	Antibiotic 547 559	streptomycin
+T7	Antibiotic_inactivation 369 381	inactivation
+E2	Antibiotic_inactivation:T7 Theme:T5
+T8	Bacteria 299 311	mycobacteria
+T9	Antibiotic_target_replacement 284 295	replacement
+E3	Antibiotic_target_replacement:T9 Theme:T8
+T10	Gene 498 502	rpsL
+T11	Protein 537 540	S12
+T12	Bacteria 677 689	mycobacteria
+T13	Antibiotic_target_replacement 1244 1255	replacement
+E4	Antibiotic_target_replacement:T13 
+T14	Antibiotic 769 778	kanamycin
+T15	Antibiotic 833 845	streptomycin
+T16	Antibiotic 927 939	streptomycin
+T17	Gene 964 968	rpsL

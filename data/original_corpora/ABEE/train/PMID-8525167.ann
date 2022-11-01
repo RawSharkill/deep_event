@@ -1,0 +1,7 @@
+T1	Antibiotic 39 53	aminoglycoside
+T2	Antibiotic 134 148	aminoglycoside
+T3	Antibiotic_target_alteration 149 158	modifying
+E1	Antibiotic_target_alteration:T3 Cause:T2
+T4	Antibiotic 245 259	aminoglycoside
+T5	Bacteria 270 292	Gram  negative bacilli
+T6	Antibiotic 656 664	amikacin

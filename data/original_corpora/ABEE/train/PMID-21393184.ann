@@ -1,0 +1,15 @@
+T1	Bacteria 212 233	Klebsiella pneumoniae
+T2	Antibiotic 353 362	aztreonam
+T3	Bacteria 454 467	K. pneumoniae
+T4	Bacteria 522 538	Escherichia coli
+T5	Gene 369 379	bla(NDM-1)
+T6	Gene 162 167	NDM-1
+T7	Bacteria 132 154	Gram-negative bacteria
+T8	Antibiotic_inactivation 317 328	inactivates
+E1	Antibiotic_inactivation:T8 Cause:T14
+T9	Protein 50 53	NDM
+T10	Protein 990 993	NDM
+T11	Protein 941 944	NDM
+T12	Protein 5 31	broad-spectrum beta-lactam
+T13	Protein 288 310	metallo-beta-lactamase
+T14	Antibiotic 333 345	beta-lactams

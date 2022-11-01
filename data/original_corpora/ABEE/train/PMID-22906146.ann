@@ -1,0 +1,30 @@
+T1	Bacteria 100 120	Streptomyces rimosus
+T2	Antibiotic_efflux 78 89	transporter
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 153 173	Streptomyces rimosus
+T4	Antibiotic 207 222	oxytetracycline
+T6	Antibiotic 224 227	OTC
+T7	Bacteria 455 465	S. rimosus
+T8	Antibiotic_efflux 439 451	transporters
+E4	Antibiotic_efflux:T8 Theme:T7
+T9	Antibiotic 607 610	OTC
+T10	Bacteria 706 713	E. coli
+T11	Antibiotic 1130 1133	OTC
+T12	Bacteria 1584 1594	S. rimosus
+T13	Antibiotic_efflux 1518 1524	efflux
+E5	Antibiotic_efflux:T13 Theme:T12
+*	Equiv T7 T1
+T14	Protein 90 94	OtrC
+T15	Protein 571 575	OtrC
+T16	Gene 140 144	otrC
+T5	Protein 350 353	ABC
+T17	Protein 295 299	OtrC
+T18	Protein 434 439	ABC  
+T19	Gene 674 678	otrC
+T20	Protein 739 743	OtrC
+T21	Protein 860 864	OtrC
+T22	Protein 955 959	OtrC
+T23	Protein 1049 1053	OtrC
+T24	Protein 1398 1402	OtrC
+T25	Protein 1409 1412	ABC
+T26	Gene 1600 1604	otrC

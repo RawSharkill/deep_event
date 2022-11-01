@@ -1,0 +1,12 @@
+T1	Bacteria 222 235	H. influenzae
+T2	Antibiotic 272 282	ampicillin
+T3	Antibiotic 287 302	chloramphenicol
+T4	Antibiotic 547 557	penicillin
+T5	Antibiotic 449 459	penicillin
+T6	Antibiotic 370 380	penicillin
+T7	Bacteria 391 402	pneumococci
+T8	Bacteria 601 614	H. influenzae
+T9	Bacteria 616 629	S. pneumoniae
+T10	Bacteria 657 672	N. meningitidis
+T11	Antibiotic 824 834	cefotaxime
+T12	Antibiotic 838 849	ceftriaxone

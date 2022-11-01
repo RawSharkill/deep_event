@@ -1,0 +1,25 @@
+T1	Bacteria 138 148	Salmonella
+T4	Bacteria 1356 1366	Salmonella
+T2	Antibiotic_efflux 114 127	efflux-coding
+E1	Antibiotic_efflux:T2 Theme:T5
+T3	Protein 0 4	GolS
+T5	Bacteria 69 88	Salmonella-specific
+T6	Protein 110 113	CBA
+T7	Protein 330 336	ATPase
+T8	Protein 338 342	GolT
+T9	Protein 392 396	GolB
+T10	Protein 434 443	MerR-like
+T11	Protein 453 457	GolS
+T12	Protein 523 538	GolS-controlled
+T14	Protein 577 580	CBA
+T13	Protein 703 717	GolS-dependent
+T15	Protein 851 865	GolS-regulated
+T16	Gene 982 986	copA
+T17	Protein 1018 1032	GolS-dependent
+T18	Gene 1046 1051	golTS
+T19	Gene 1056 1060	golB
+T20	Protein 1150 1154	GolS
+T21	Gene 1197 1200	gol
+T22	Protein 1243 1247	GolS
+T23	Gene 1337 1340	gol
+T24	Protein 787 802	GolS-controlled

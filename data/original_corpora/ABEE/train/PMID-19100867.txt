@@ -1,0 +1,3 @@
+Multidrug efflux transporters in the MATE family. 
+
+The MATE (Multidrug And Toxic Compound Extrusion) family is the most recently  categorized one among five multidrug efflux transporter families. As far as we  know, about twenty MATE transporters have been characterized so far. According to  the information in sequence databases, huge numbers of MATE transporters seem to   be present in various microorganisms. In this review, we would like to summarize   the properties of the MATE-family transporters.

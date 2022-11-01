@@ -1,0 +1,42 @@
+T1	Bacteria 68 90	Clostridium  difficile
+T2	Bacteria 93 114	Clostridium difficile
+T3	Bacteria 241 253	C. difficile
+*	Equiv T3 T2
+T4	Bacteria 301 313	C. difficile
+T5	Antibiotic 398 410	erythromycin
+T6	Antibiotic 419 430	clindamycin
+T7	Antibiotic 413 416	ERY
+*	Equiv T7 T5
+T8	Antibiotic 432 435	CLI
+*	Equiv T8 T6
+T9	Antibiotic 438 450	moxifloxacin
+T10	Antibiotic 452 455	MXF
+*	Equiv T10 T9
+T11	Antibiotic 458 469	doxycycline
+T12	Antibiotic 471 474	DOX
+T13	Antibiotic 477 487	vancomycin
+T14	Antibiotic 490 493	VAN
+T15	Antibiotic 500 513	metronidazole
+T16	Antibiotic 515 518	MTR
+*	Equiv T12 T11
+*	Equiv T14 T13
+*	Equiv T16 T15
+T17	Antibiotic 724 727	VAN
+T18	Antibiotic 733 736	MTR
+T21	Antibiotic 767 770	MXF
+T22	Antibiotic 776 779	DOX
+T25	Antibiotic 882 885	MXF
+T26	Antibiotic 892 895	DOX
+T19	Antibiotic 1119 1156	macrolide-lincosamide-streptogramin B
+T20	Antibiotic 1170 1186	fluoroquinolones
+T23	Antibiotic 1193 1205	tetracycline
+T24	Bacteria 1209 1221	C. difficile
+T27	Bacteria 1290 1302	C. difficile
+T28	Antibiotic 873 876	ERY
+T29	Antibiotic 877 880	CLI
+T30	Gene 944 948	ermB
+T31	Gene 954 958	ermQ
+T32	Gene 963 968	ermFS
+T33	Gene 974 978	tetM
+T34	Gene 984 988	tetP
+T35	Gene 1006 1010	gyrA

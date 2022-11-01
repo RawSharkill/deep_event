@@ -1,0 +1,9 @@
+T1	Bacteria 22 43	Neisseria gonorrhoeae
+T2	Antibiotic 107 121	cephalosporins
+T3	Bacteria 136 157	Neisseria gonorrhoeae
+T4	Antibiotic 244 255	ceftriaxone
+T5	Antibiotic 352 366	cephalosporins
+T6	Antibiotic 444 458	cephalosporins
+T7	Gene 541 545	penA
+T8	Gene 215 219	penA
+T9	Gene 170 174	penA

@@ -1,0 +1,14 @@
+T1	Bacteria 35 57	Pseudomonas aeruginosa
+T2	Antibiotic 70 84	penicillin   G
+T3	Antibiotic 89 102	carbenicillin
+T4	Bacteria 191 220	Pseudomonas aeruginosa KM 338
+T5	Antibiotic 616 628	penicillin G
+T6	Antibiotic 635 648	carbenicillin
+T7	Antibiotic 725 736	penicillins
+T8	Antibiotic 774 786	penicillin G
+T9	Antibiotic 792 805	carbenicillin
+T10	Bacteria 889 909	P. aeruginosa KM 338
+T11	Antibiotic 979 991	penicillin G
+T12	Antibiotic 996 1009	carbenicillin
+*	Equiv T10 T4
+T13	Antibiotic 0 10	Penicillin

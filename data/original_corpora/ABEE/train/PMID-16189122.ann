@@ -1,0 +1,14 @@
+T1	Bacteria 20 43	Acinetobacter baumannii
+T2	Antibiotic_efflux 54 60	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Antibiotic_efflux 155 161	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 172 195	Acinetobacter baumannii
+T5	Bacteria 204 220	Escherichia coli
+T6	Protein 84 88	MATE
+T7	Protein 0 4	AbeM
+T8	Gene 133 137	abeM
+T9	Protein 266 270	AbeM
+T10	Protein 291 295	MATE
+T11	Protein 313 317	AbeM
+T12	Protein 400 404	MATE

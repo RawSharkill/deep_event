@@ -1,0 +1,27 @@
+T1	Bacteria 130 145	Vibrio cholerae
+T3	Bacteria 214 229	Vibrio cholerae
+T2	Antibiotic 497 509	trimethoprim
+T4	Antibiotic 526 534	amikacin
+T5	Antibiotic 539 549	tobramycin
+T6	Antibiotic 572 584	streptomycin
+T7	Antibiotic 589 602	spectinomycin
+T8	Antibiotic 618 630	erythromycin
+T10	Bacteria 778 789	V. cholerae
+*	Equiv T10 T1
+T9	Gene 63 68	dfrA5
+T11	Gene 70 76	dfrA12
+T12	Gene 83 88	ereA2
+T13	Gene 51 61	aac(6')-Ib
+T14	Gene 458 463	dfrA1
+T15	Gene 465 471	dfrA15
+T16	Gene 473 478	dfrA5
+T17	Gene 484 490	dfrA12
+T18	Gene 511 521	aac(6')-Ib
+T19	Gene 551 556	aadA1
+T20	Gene 561 566	aadA2
+T21	Gene 608 613	ereA2
+T22	Gene 706 711	dfrA5
+T23	Gene 713 719	dfrA12
+T24	Gene 721 731	aac(6')-Ib
+T25	Gene 738 743	ereA2
+T26	Protein 1202 1205	SXT

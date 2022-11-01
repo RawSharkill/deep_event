@@ -1,0 +1,24 @@
+T2	Bacteria 65 86	Streptomyces  rimosus
+T4	Bacteria 250 270	Streptomyces rimosus
+T6	Bacteria 993 1003	S. rimosus
+*	Equiv T6 T4
+T7	Bacteria 1135 1156	Streptomyces lividans
+T8	Bacteria 1272 1283	S. lividans
+*	Equiv T8 T7
+T9	Bacteria 1298 1308	S. rimosus
+T1	Antibiotic 23 38	oxytetracycline
+T10	Gene 56 60	otrA
+T3	Antibiotic 182 203	oxytetracycline (OTC)
+T11	Gene 221 225	otrA
+T12	Protein 324 328	OtrA
+T13	Protein 301 311	amino acid
+T5	Antibiotic 358 370	tetracycline
+T14	Gene 807 811	otrA
+T15	Gene 880 886	otrAp1
+T16	Gene 936 940	otrA
+T17	Gene 965 969	otcZ
+T18	Gene 1082 1086	OtrA
+T19	Gene 1248 1252	otrA
+T20	Gene 1466 1470	OtrA
+T21	Gene 1326 1330	OtrA
+T22	Bacteria 848 864	Escherichia coli

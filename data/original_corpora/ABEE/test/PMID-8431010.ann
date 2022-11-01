@@ -1,0 +1,21 @@
+T1	Antibiotic 0 15	Fluoroquinolone
+T2	Bacteria 43 64	Staphylococcus aureus
+T3	Bacteria 119 140	Staphylococcus aureus
+T4	Antibiotic 141 156	fluoroquinolone
+T5	Antibiotic 269 285	fluoroquinolones
+T6	Bacteria 311 328	Bacillus subtilis
+T7	Bacteria 344 356	B.  subtilis
+*	Equiv T7 T6
+T8	Bacteria 422 434	B.  subtilis
+T9	Protein 35 39	NorA
+T10	Antibiotic_efflux 81 87	efflux
+E1	Antibiotic_efflux:T10 Cause:T1 Theme:T2
+T11	Protein 186 190	NorA
+T12	Antibiotic_efflux 157 163	efflux
+E2	Antibiotic_efflux:T12 Cause:T4 Theme:T3
+T13	Protein 330 334	NorA
+T14	Protein 465 468	Bmr
+T15	Protein 475 479	NorA
+T16	Protein 484 487	Bmr
+T17	Protein 530 534	NorA
+T18	Protein 540 543	Bmr

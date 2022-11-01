@@ -1,0 +1,7 @@
+T1	Bacteria 0 19	Pseudomonas cepacia
+T2	Bacteria 70 89	Pseudomonas cepacia
+T3	Bacteria 471 481	P. cepacia
+*	Equiv T3 T1
+T4	Bacteria 750 760	P. cepacia
+T5	Bacteria 1113 1123	P. cepacia
+T6	Bacteria 1422 1432	P. cepacia

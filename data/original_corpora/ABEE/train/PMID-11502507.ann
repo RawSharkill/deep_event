@@ -1,0 +1,14 @@
+T1	Antibiotic 0 14	Aminoglycoside
+T3	Antibiotic 111 126	Aminoglycosides
+T4	Antibiotic 469 477	neomycin
+T5	Antibiotic 480 491	paromomycin
+T6	Antibiotic 497 509	ribostamycin
+T7	Antibiotic 511 522	Gentamicins
+T8	Antibiotic 527 537	kanamycins
+T9	Antibiotic 580 595	aminoglycosides
+T10	Bacteria 670 686	Escherichia coli
+T11	Bacteria 860 867	E. coli
+*	Equiv T11 T10
+T13	Antibiotic 1073 1106	4,6-disubstituted aminoglycosides
+T14	Antibiotic_target_alteration 1167 1175	mutation
+E3	Antibiotic_target_alteration:T14 Theme:T11

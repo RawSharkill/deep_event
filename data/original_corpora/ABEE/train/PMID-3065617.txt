@@ -1,0 +1,3 @@
+[Effect of a fragment of pBR322 plasmid in the region of tetracycline resistance   gene on the stability of this plasmid].
+
+A fragment destabilizing the pBR322 plasmid has been localized in the region of  pBR322 tet gene promoter. On the basis of stability analysis of pBR322  derivatives comprising the modified region of tet gene, we deduced that it is the  DNA sequence localized at the beginning of tet gene in the region of HindIII  splitting site that ensures the plasmid destabilization, and not tet gene product  or the active transcription of this region. The destabilizing effect of this  fragment of the plasmid is manifested both in cis and in trans. Possible  molecular mechanisms of the phenomenon are discussed.

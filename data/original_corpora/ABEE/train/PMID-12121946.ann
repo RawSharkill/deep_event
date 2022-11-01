@@ -1,0 +1,11 @@
+T1	Bacteria 92 114	Enterobacter aerogenes
+T2	Bacteria 184 207	Enterobacter  aerogenes
+T3	Antibiotic_efflux 169 175	efflux
+E1	Antibiotic_efflux:T3 Theme:T2
+T4	Gene 224 229	acrAB
+T5	Gene 234 238	tolC
+T6	Antibiotic_target_alteration 239 246	mutants
+E2	Antibiotic_target_alteration:T6 Theme:T2
+T7	Antibiotic_efflux 15 21	efflux
+E3	Antibiotic_efflux:T7 Theme:T1
+T8	Gene 469 473	acrR

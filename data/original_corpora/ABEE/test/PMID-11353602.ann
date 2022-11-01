@@ -1,0 +1,24 @@
+T1	Antibiotic 36 44	cefepime
+T2	Antibiotic 67 78	ceftazidime
+T3	Bacteria 83 105	Pseudomonas aeruginosa
+T5	Bacteria 109 154	Pseudomonas aeruginosa clinical isolate SOF-1
+T8	Antibiotic 201 212	ceftazidime
+T9	Antibiotic 172 180	cefepime
+T11	Antibiotic 490 498	cefepime
+T12	Bacteria 516 535	P. aeruginosa SOF-1
+T14	Antibiotic 551 559	cefepime
+T15	Antibiotic 583 594	ceftazidime
+T16	Bacteria 598 611	P. aeruginosa
+*	Equiv T12 T5
+*	Equiv T16 T3
+T4	Protein 276 282	OXA-31
+T6	Protein 353 358	OXA-1
+T7	Protein 328 351	class D  beta-lactamase
+T13	Gene 364 370	oxa-31
+T17	Gene 393 395	ca
+T10	Antibiotic_efflux 469 475	efflux
+E1	Antibiotic_efflux:T10 Cause:T11 Theme:T12
+T18	Protein 630 635	OXA-1
+T19	Antibiotic_efflux 617 626	conferred
+E2	Antibiotic_efflux:T19 Theme:T16 Cause:T15
+E3	Antibiotic_efflux:T19 Theme:T16 Cause:T14

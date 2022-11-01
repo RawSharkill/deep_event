@@ -1,0 +1,7 @@
+T1	Bacteria 859 871	B.  fragilis
+T2	Bacteria 775 796	Bacteroides  fragilis
+*	Equiv T1 T2
+T3	Antibiotic 719 736	5-nitroimidazoles
+T4	Bacteria 801 822	Trichomonas vaginalis
+T5	Antibiotic 30 47	5-nitroimidazoles
+T6	Antibiotic 1168 1181	metronidazole

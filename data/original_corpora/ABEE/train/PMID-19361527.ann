@@ -1,0 +1,23 @@
+T1	Antibiotic_efflux 35 43	exporter
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 54 76	Pseudomonas aeruginosa
+T3	Bacteria 124 146	Pseudomonas aeruginosa
+T4	Antibiotic_efflux 158 166	exporter
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Bacteria 519 535	Escherichia coli
+T6	Antibiotic_efflux 1285 1289	pump
+E3	Antibiotic_efflux:T6 Theme:T7
+T7	Bacteria 1348 1361	P. aeruginosa
+*	Equiv T7 T2
+T8	Protein 44 48	MexB
+T9	Protein 167 171	MexB
+T10	Protein 298 302	MexB
+T11	Protein 509 513	AcrB
+T12	Protein 615 619	AcrB
+T13	Protein 842 846	MexB
+T14	Protein 917 922	MexAB
+T15	Protein 923 927	OprM
+T16	Protein 1082 1086	MexB
+T17	Protein 1192 1197	MexAB
+T18	Protein 1198 1202	OprM
+T19	Protein 1234 1238	MexB

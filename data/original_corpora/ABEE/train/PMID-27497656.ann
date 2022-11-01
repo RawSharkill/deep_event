@@ -1,0 +1,15 @@
+T1	Bacteria 41 67	Haemophilus parainfluenzae
+T2	Antibiotic 83 93	cefotaxime
+T3	Antibiotic 137 153	fluoroquinolones
+T4	Bacteria 170 187	H. parainfluenzae
+*	Equiv T4 T1
+T5	Antibiotic 218 228	cefotaxime
+T6	Antibiotic 268 281	ciprofloxacin
+T7	Antibiotic 363 373	ampicillin
+T8	Antibiotic 419 429	cefuroxime
+T9	Antibiotic 386 409	amoxicillin-clavulanate
+T10	Antibiotic 442 452	cefotaxime
+T11	Antibiotic 698 711	ciprofloxacin
+T12	Gene 767 771	parC
+T13	Gene 747 751	gyrA
+T14	Antibiotic 501 528	amoxicillin-clavulanic acid

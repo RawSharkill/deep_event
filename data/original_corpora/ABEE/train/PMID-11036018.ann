@@ -1,0 +1,42 @@
+T1	Bacteria 207 246	Chryseobacterium indologenes strain 001
+T2	Bacteria 557 571	C. indologenes
+T4	Antibiotic 667 678	carbapenems
+T6	Antibiotic 924 935	carbapenems
+T7	Antibiotic 1135 1146	ceftazidime
+T8	Antibiotic_inactivation 1153 1163	hydrolyzed
+E3	Antibiotic_inactivation:T8 Cause:T7
+T9	Bacteria 1248 1271	C. indologenes isolates
+T10	Bacteria 1431 1454	C. indologenes isolates
+T11	Bacteria 438 479	C.  indologenes isolate, strain CIP101026
+T12	Gene 513 522	 bla(IND)
+T13	Protein 790 795	IND-2
+T14	Protein 814 824	amino acid
+T15	Protein 986 1032	class B carbapenem-hydrolyzing beta-lactamases
+T16	Protein 1562 1572	amino acid
+T17	Protein 1200 1207	bla(IND
+T18	Gene 278 281	bla
+T19	Protein 1397 1420	metallo-beta-lactamases
+T21	Protein 762 772	amino-acid
+T5	Gene 327 337	bla(IND-1)
+T3	Protein 292 297	IND-1
+T23	Gene 299 309	bla(IND-1)
+T24	Protein 797 802	IND-2
+T25	Protein 840 845	IND-1
+T26	Protein 1034 1039	IND-1
+T27	Protein 1044 1049	IND-2
+T28	Protein 1172 1177	IND-2
+T29	Protein 1504 1509	IND-1
+T30	Protein 1511 1516	IND-2
+T31	Protein 1539 1544	IND-4
+T32	Protein 1526 1531	IND-3
+T33	Protein 1518 1524	IND-2a
+T34	Bacteria 92 106	Flavobacterium
+T35	Bacteria 74 90	Chryseobacterium
+T36	Antibiotic_inactivation 380 393	hybridization
+E1	Antibiotic_inactivation:T36 Theme:T11
+T20	Antibiotic 21 31	carbapenem
+T37	Antibiotic_inactivation 32 43	hydrolyzing
+E2	Antibiotic_inactivation:T37 Cause:T20 Theme:T35
+T22	Antibiotic 135 145	carbapenem
+T38	Antibiotic_inactivation 146 157	hydrolyzing
+E4	Antibiotic_inactivation:T38 Cause:T22 Theme:T1

@@ -1,0 +1,45 @@
+T1	Antibiotic_efflux 58 64	efflux
+E1	Antibiotic_efflux:T1 Theme:T2 Cause:T3
+T2	Bacteria 135 155	Enterobacter cloacae
+T3	Antibiotic 120 131	tigecycline
+T5	Antibiotic 159 170	Tigecycline
+T6	Bacteria 245 258	gram-positive
+T7	Bacteria 263 296	gram-negative bacterial pathogens
+T8	Bacteria 324 344	Enterobacter cloacae
+T9	Bacteria 391 401	E. cloacae
+T11	Antibiotic 437 448	tigecycline
+T12	Antibiotic_target_alteration 508 515	mutants
+E4	Antibiotic_target_alteration:T12 Theme:T13 Cause:T17
+T13	Bacteria 519 529	E. cloacae
+T15	Bacteria 542 548	GC7697
+T16	Bacteria 635 639	G946
+T19	Bacteria 773 779	GC7696
+T20	Bacteria 784 790	GC7697
+T21	Bacteria 880 884	G946
+T22	Bacteria 912 916	G946
+T23	Bacteria 935 963	E. cloacae clinical  strains
+T25	Antibiotic 1007 1018	tigecycline
+T27	Antibiotic 1307 1318	tigecycline
+T28	Bacteria 1322 1332	E. cloacae
+T29	Antibiotic_efflux 1393 1399	efflux
+E9	Antibiotic_efflux:T29 Theme:T28 Cause:T27
+T30	Antibiotic 195 219	glycylcycline antibiotic
+*	Equiv T9 T2
+T14	Bacteria 531 537	GC7696
+T4	Protein 0 4	RamA
+T10	Protein 39 44	AcrAB
+T17	Antibiotic 484 495	tigecycline
+T18	Antibiotic 596 607	tigecycline
+T24	Antibiotic_target_alteration 579 590	mutagenesis
+E2	Antibiotic_target_alteration:T24 Cause:T18 Theme:T16
+T26	Gene 690 694	acrA
+T31	Gene 698 702	acrB
+T32	Gene 851 856	acrAB
+T33	Gene 1054 1059	acrAB
+T34	Gene 1103 1108	acrAB
+T35	Gene 1154 1158	ramA
+T36	Gene 1228 1232	marA
+T37	Protein 1351 1355	RamA
+T38	Protein 1387 1392	AcrAB
+E3	Antibiotic_target_alteration:T12 Theme:T14 Cause:T17
+E5	Antibiotic_target_alteration:T12 Theme:T15 Cause:T17

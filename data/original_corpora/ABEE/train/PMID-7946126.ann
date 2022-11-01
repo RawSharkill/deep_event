@@ -1,0 +1,27 @@
+T1	Gene 733 737	oleB
+T2	Gene 742 746	oleC
+T3	Antibiotic_efflux 39 45	efflux
+E1	Antibiotic_efflux:T3 Theme:T4 Cause:T18
+T4	Bacteria 95 120	Streptomyces antibioticus
+T5	Bacteria 379 404	Streptomyces antibioticus
+T6	Antibiotic 416 438	oleandomycin-sensitive
+T7	Antibiotic 559 571	oleandomycin
+T8	Antibiotic_inactivation 546 558	inactivating
+E2	Antibiotic_inactivation:T8 Cause:T7
+T9	Gene 641 645	oleD
+T10	Antibiotic 761 773	oleandomycin
+T11	Antibiotic 958 970	oleandomycin
+T12	Antibiotic_inactivation 1119 1127	inactive
+E3	Antibiotic_inactivation:T12 Cause:T15
+T13	Antibiotic 1260 1272	oleandomycin
+T14	Antibiotic 1061 1073	oleandomycin
+T15	Antibiotic 1141 1153	oleandomycin
+T16	Antibiotic 355 367	oleandomycin
+T17	Antibiotic 160 170	macrolides
+T18	Antibiotic 78 91	 oleandomycin
+T19	Antibiotic_target_alteration 225 238	 modification
+E4	Antibiotic_target_alteration:T19 Cause:T17
+T20	Antibiotic_inactivation 254 266	inactivation
+E5	Antibiotic_inactivation:T20 Cause:T17
+T21	Antibiotic_efflux 295 301	efflux
+E6	Antibiotic_efflux:T21 Cause:T17

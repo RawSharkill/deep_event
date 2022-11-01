@@ -1,0 +1,18 @@
+T1	Antibiotic 20 34	nalidixic acid
+T2	Bacteria 45 63	Enterobacteriaceae
+T3	Antibiotic 71 81	quinolones
+T4	Bacteria 128 155	isolates Enterobacteriaceae
+T5	Antibiotic 198 212	nalidixic acid
+T6	Antibiotic 303 317	nalidixic acid
+T7	Antibiotic 319 332	ciprofloxacin
+T8	Antibiotic 335 343	enoxacin
+T9	Antibiotic 345 355	gentamicin
+T10	Antibiotic 357 371	nitrofurantoin
+T11	Antibiotic 373 385	trimethoprim
+T12	Antibiotic 387 397	cephalexin
+T13	Antibiotic 402 413	ceftazidime
+T14	Antibiotic 435 449	nalidixic acid
+T15	Antibiotic 459 469	gentamicin
+T16	Antibiotic 475 488	cephalosporin
+T17	Bacteria 596 614	Enterobacteriaceae
+T18	Antibiotic 727 737	gentamicin

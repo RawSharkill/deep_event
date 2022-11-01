@@ -1,0 +1,3 @@
+Emergence of the trimethoprim resistance gene dfrD in Listeria monocytogenes  BM4293. 
+
+The sequence of the trimethoprim resistance gene of the 3.7-kb plasmid (pIP823)  that confers high-level resistance (MIC, 1,024 microg/ml) to Listeria  monocytogenes BM4293 was determined. The gene was identical to dfrD recently  detected in Staphylococcus haemolyticus MUR313. The corresponding protein,  S2DHFR, represents the second class of high-level trimethoprim resistant  dihydrofolate reductase identified in gram-positive bacteria. We propose that  trimethoprim resistance in L. monocytogenes BM4293 could originate in  staphylococci.

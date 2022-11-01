@@ -1,0 +1,24 @@
+T1	Bacteria 73 89	Escherichia coli
+T3	Antibiotic_efflux 102 127	multidrug exporter system
+E2	Antibiotic_efflux:T3 Theme:T1 Cause:T4
+T4	Antibiotic 207 217	novobiocin
+T5	Antibiotic 223 233	bile salts
+T9	Antibiotic 613 622	bile salt
+T10	Antibiotic 632 642	novobiocin
+T11	Bacteria 902 927	gram-negative   organisms
+T2	Protein 129 135	MdtABC
+T6	Protein 32 36	BaeR
+T7	Protein 180 184	BaeR
+T8	Gene 308 314	mdtABC
+T12	Protein 338 341	ABC
+T13	Protein 491 497	MdtABC
+T14	Protein 563 567	MdtA
+T15	Protein 534 538	MdtB
+T16	Protein 539 543	MdtC
+T17	Protein 699 703	MdtC
+T18	Protein 723 728	MdtBC
+T19	Protein 593 598	MdtAC
+T20	Antibiotic_efflux 605 612	confers
+E1	Antibiotic_efflux:T20 Cause:T9
+E3	Antibiotic_efflux:T20 Cause:T10
+E4	Antibiotic_efflux:T3 Theme:T1 Cause:T5

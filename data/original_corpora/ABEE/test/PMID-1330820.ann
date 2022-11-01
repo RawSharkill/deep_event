@@ -1,0 +1,25 @@
+T1	Bacteria 39 61	Pseudomonas aeruginosa
+T3	Antibiotic 99 113	new quinolones
+T4	Reduced_permeability_to_antibiotic 182 194	permeability
+E2	Reduced_permeability_to_antibiotic:T4 Theme:T6 Cause:T5
+T5	Antibiotic 200 210	quinolones
+T6	Bacteria 214 240	Pseudomonas aeruginosa PAO
+T7	Bacteria 377 380	PAO
+*	Equiv T7 T6
+T8	Reduced_permeability_to_antibiotic 848 860	permeability
+E3	Reduced_permeability_to_antibiotic:T8 Theme:T9
+T9	Bacteria 873 886	P. aeruginosa
+T10	Antibiotic_target_alteration 420 428	mutation
+E4	Antibiotic_target_alteration:T10 Theme:T7
+*	Equiv T9 T1
+T2	Gene 62 66	nfxB
+T11	Gene 126 130	nfxB
+T12	Gene 257 261	nfxB
+T13	Gene 275 279	nfxB
+T14	Gene 530 534	nfxB
+T15	Gene 394 398	nfxB
+T16	Protein 586 590	NfxB
+T17	Protein 767 771	NfxB
+T18	Protein 945 949	NfxB
+T19	Protein 966 972	Nfx13E
+T20	Protein 1069 1075	Nfx13E

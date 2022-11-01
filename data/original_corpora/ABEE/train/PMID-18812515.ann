@@ -1,0 +1,6 @@
+T1	Bacteria 35 57	Pseudomonas aeruginosa
+T2	Bacteria 176 198	Pseudomonas aeruginosa
+T3	Bacteria 1650 1663	P. aeruginosa
+*	Equiv T3 T2
+T4	Protein 25 29	MexR
+T5	Protein 93 97	ArmR

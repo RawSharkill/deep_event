@@ -1,0 +1,13 @@
+T1	Antibiotic 28 37	macrolide
+T3	Antibiotic 111 120	macrolide
+T5	Bacteria 158 178	Streptomyces fradiae
+T6	Bacteria 191 215	Streptomyces ambofaciens
+T7	Bacteria 231 258	Streptomyces thermotolerans
+T9	Antibiotic 688 698	macrolides
+T10	Antibiotic_efflux 709 715	export
+E6	Antibiotic_efflux:T10 Theme:T5
+E7	Antibiotic_efflux:T10 Theme:T6
+E8	Antibiotic_efflux:T10 Theme:T7
+T2	Gene 181 185	srmB
+T4	Gene 148 152	tlrC
+T11	Gene 221 225	carA

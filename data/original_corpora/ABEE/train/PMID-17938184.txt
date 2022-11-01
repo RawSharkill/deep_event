@@ -1,0 +1,3 @@
+Complex class 1 integrons with diverse variable regions, including aac(6')-Ib-cr,  and a novel allele, qnrB10, associated with ISCR1 in clinical enterobacterial  isolates from Argentina. 
+
+Transferable quinolone resistance has not previously been reported in Argentina.   Here we describe three complex class 1 integrons harboring the novel allele  qnrB10 in a unique region downstream of orf513, one of them also containing  aac(6')-Ib-cr within the variable region of integrons. The three arrays differed   from bla(CTX-M-2)-bearing integrons, which are broadly distributed in Argentina.

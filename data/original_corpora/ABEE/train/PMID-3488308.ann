@@ -1,0 +1,11 @@
+T1	Antibiotic 84 95	beta-lactam
+T2	Antibiotic 251 262	beta-lactam
+T3	Antibiotic 342 352	cefuroxime
+T4	Antibiotic 363 377	cephalosporins
+T6	Bacteria 613 629	Escherichia coli
+T7	Bacteria 677 692	Klebsiella spp.
+T8	Bacteria 706 726	Enterobacter cloacae
+T9	Antibiotic 1346 1357	ceftazidime
+T10	Antibiotic 1373 1387	cephalosporins
+T5	Antibiotic 395 405	ampicillin
+T11	Bacteria 417 439	Gram-negative isolates

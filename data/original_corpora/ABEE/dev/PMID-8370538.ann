@@ -1,0 +1,16 @@
+T1	Bacteria 75 104	Listeria monocytogenes BM4210
+T2	Bacteria 221 250	Listeria monocytogenes BM4210
+T3	Bacteria 771 795	Streptococcus pneumoniae
+T4	Bacteria 812 830	Campylobacter coli
+T5	Bacteria 1096 1112	L. monocytogenes
+T6	Antibiotic 35 47	tetracycline
+T7	Gene 64 70	tet(S)
+T8	Antibiotic 157 173	minocycline (Mc)
+T9	Antibiotic 139 156	tetracycline (Tc)
+T10	Gene 294 300	tet(S)
+T11	Gene 693 699	tet(S)
+T12	Gene 1046 1052	tet(S)
+T13	Gene 867 873	tet(S)
+T14	Gene 759 765	Tet(M)
+T15	Protein 733 743	amino acid
+T16	Gene 800 806	Tet(O)

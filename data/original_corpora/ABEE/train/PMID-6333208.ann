@@ -1,0 +1,28 @@
+T1	Antibiotic 48 58	ampicillin
+T2	Bacteria 74 96	Haemophilus influenzae
+T3	Antibiotic 99 109	Ampicillin
+T4	Bacteria 124 146	Haemophilus influenzae
+T5	Antibiotic 265 275	ampicillin
+T6	Antibiotic 576 586	ampicillin
+T7	Antibiotic 1044 1054	ampicillin
+T8	Antibiotic 1081 1096	chloramphenicol
+T9	Antibiotic 1102 1114	tetracycline
+T10	Antibiotic 1190 1200	ampicillin
+T11	Antibiotic 1524 1539	[14C]penicillin
+T12	Antibiotic 1692 1702	penicillin
+T13	Antibiotic 2280 2294	[3H]penicillin
+T14	Antibiotic 2499 2509	ampicillin
+T15	Antibiotic_inactivation 208 222	beta-lactamase
+E1	Antibiotic_inactivation:T15 Theme:T4 Cause:T3
+T16	Antibiotic 636 646	ampicillin
+T17	Antibiotic 1357 1367	penicillin
+T18	Antibiotic 1466 1476	ampicillin
+T19	Protein 1619 1633	beta-lactamase
+T20	Antibiotic 2017 2027	ampicillin
+T21	Antibiotic 2222 2232	ampicillin
+T22	Antibiotic 2322 2332	ampicillin
+T23	Protein 2625 2652	penicillin-binding proteins
+T24	Antibiotic_target_alteration 2617 2624	altered
+E2	Antibiotic_target_alteration:T24 Cause:T1 Theme:T2
+T25	Reduced_permeability_to_antibiotic 2692 2704	permeability
+E3	Reduced_permeability_to_antibiotic:T25 Theme:T2 Cause:T1

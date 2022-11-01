@@ -1,0 +1,13 @@
+T1	Bacteria 66 80	Enterobacter  
+T2	Antibiotic 118 126	imipenem
+T3	Antibiotic 129 139	Carbapenem
+T4	Bacteria 188 208	Enterobacter cloacae
+T5	Antibiotic 323 333	carbapenem
+T6	Gene 943 947	ampD
+T7	Gene 996 1000	ampC
+T8	Gene 1470 1474	ampC
+T9	Antibiotic 1559 1569	carbapenem
+T10	Bacteria 1742 1752	E. cloacae
+T11	Antibiotic 1763 1771	imipenem
+T12	Reduced_permeability_to_antibiotic 1634 1646	permeability
+E1	Reduced_permeability_to_antibiotic:T12 Theme:T10 Cause:T11

@@ -1,0 +1,14 @@
+T1	Bacteria 70 89	Escherichia  coli B
+T3	Bacteria 143 161	Escherichia coli B
+T5	Antibiotic 279 291	streptomycin
+T6	Bacteria 464 471	E. coli
+T7	Bacteria 616 628	E. coli B/UV
+T8	Bacteria 163 167	B/UV
+*	Equiv T8 T3 T7
+T10	Antibiotic 917 928	mitomycin C
+T14	Antibiotic 1199 1210	mitomycin C
+T2	Gene 532 536	purA
+T4	Gene 561 565	cysC
+T9	Protein 1223 1227	PurA
+T11	Gene 1750 1754	cysC
+T12	Gene 1571 1575	purA

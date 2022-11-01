@@ -1,0 +1,27 @@
+T1	Bacteria 93 114	Chlamydia trachomatis
+T2	Antibiotic 286 298	erythromycin
+T3	Antibiotic 300 312	azithromycin
+T4	Antibiotic 317 326	josamycin
+T5	Bacteria 624 638	C. trachomatis
+*	Equiv T5 T1
+T6	Antibiotic 698 708	macrolides
+T7	Antibiotic 833 845	erythromycin
+T8	Bacteria 1549 1563	C. trachomatis
+T9	Antibiotic 1209 1218	macrolide
+T10	Antibiotic 1355 1365	macrolides
+T11	Antibiotic 1525 1534	macrolide
+T12	Antibiotic_target_alteration 1390 1399	mutations
+E1	Antibiotic_target_alteration:T12 Theme:T8 Cause:T11
+T13	Gene 890 898	23S rRNA
+T14	Antibiotic 73 82	macrolide
+T15	Antibiotic_target_alteration 65 71	mutant
+E2	Antibiotic_target_alteration:T15 Cause:T14 Theme:T1
+T16	Antibiotic_target_alteration 219 225	mutant
+E3	Antibiotic_target_alteration:T16 
+T17	Bacteria 247 281	Chlamydia (C.) trachomatis strains
+T18	Antibiotic_target_alteration 727 734	mutants
+E4	Antibiotic_target_alteration:T18 Cause:T6 Theme:T5
+T19	Gene 939 947	23S rRNA
+T20	Antibiotic_target_alteration 864 872	mutation
+E5	Antibiotic_target_alteration:T20 Cause:T7
+T21	Gene 1381 1389	23S rRNA

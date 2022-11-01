@@ -1,0 +1,24 @@
+T1	Bacteria 92 117	Flavobacterium johnsoniae
+T2	Bacteria 121 156	Flavobacterium johnsoniae CIP100931
+T4	Antibiotic 242 253	carbapenems
+T5	Bacteria 306 328	Escherichia coli DH10B
+T6	Antibiotic_inactivation 518 528	hydrolyses
+E2	Antibiotic_inactivation:T6 Cause:T7
+T7	Antibiotic 529 540	penicillins
+T8	Antibiotic 610 621	monobactams
+T9	Antibiotic 589 600	carbapenems
+E3	Antibiotic_inactivation:T6 Cause:T10
+E4	Antibiotic_inactivation:T6 Cause:T9
+T10	Antibiotic 572 586	cephalosporins
+T11	Bacteria 744 776	Chryseobacterium meningosepticum
+T12	Bacteria 792 820	Chryseobacterium indologenes
+T14	Bacteria 969 982	F. johnsoniae
+*	Equiv T2 T1 T14
+T16	Bacteria 988 1009	Chryseobacterium spp.
+T17	Antibiotic 173 201	most beta-lactam antibiotics
+T18	Protein 678 700	class B beta-lactamase
+T19	Protein 1103 1126	class B beta-lactamases
+T20	Protein 781 786	IND-1
+T15	Antibiotic 48 58	carbapenem
+T21	Antibiotic_inactivation 59 70	hydrolysing
+E5	Antibiotic_inactivation:T21 Cause:T15 Theme:T2

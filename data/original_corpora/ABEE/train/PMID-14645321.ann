@@ -1,0 +1,30 @@
+T3	Bacteria 44 60	Escherichia coli
+T4	Bacteria 304 312	E.  coli
+T5	Antibiotic 216 227	florfenicol
+T6	Bacteria 373 389	E. coli isolates
+T7	Antibiotic 506 517	florfenicol
+T10	Bacteria 155 171	Escherichia coli
+T11	Antibiotic 692 703	florfenicol
+T13	Antibiotic 747 758	florfenicol
+T17	Bacteria 840 856	E. coli isolates
+T18	Antibiotic 1150 1162	streptomycin
+T20	Bacteria 1268 1284	E. coli isolates
+T21	Bacteria 1534 1541	E. coli
+*	Equiv T4 T3
+T1	Antibiotic 22 33	florfenicol
+T2	Antibiotic 132 143	florfenicol
+T8	Gene 584 588	floR
+T9	Gene 730 734	floR
+T12	Antibiotic 818 829	florfenicol
+T14	Gene 914 918	floR
+T15	Antibiotic 876 887	florfenicol
+T16	Gene 949 953	floR
+T19	Gene 1048 1052	floR
+T22	Gene 1181 1185	strA
+T23	Gene 1190 1194	strB
+T24	Gene 1221 1225	floR
+T25	Protein 1129 1135	Tn5393
+T26	Gene 1437 1441	floR
+T27	Gene 1359 1363	floR
+T28	Protein 1629 1633	floR
+T29	Protein 1604 1609	EcoRI

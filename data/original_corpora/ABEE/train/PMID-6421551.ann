@@ -1,0 +1,20 @@
+T1	Bacteria 235 251	Escherichia coli
+T2	Bacteria 9 25	Escherichia coli
+T3	Antibiotic 44 58	nitrofurantoin
+T4	Antibiotic 297 311	nitrofurantoin
+T5	Antibiotic 525 539	nitrofurantoin
+T6	Bacteria 671 678	E. coli
+*	Equiv T6 T1
+T7	Antibiotic 680 694	nitrofurantoin
+T8	Antibiotic 608 622	nitrofurantoin
+T9	Antibiotic 541 555	Aminoglycoside
+T10	Antibiotic 810 824	nitrofurantoin
+T11	Antibiotic 755 769	nitrofurantoin
+T12	Antibiotic 488 502	nitrofurantoin
+T13	Antibiotic 265 279	aminoglycoside
+T14	Antibiotic 333 347	aminoglycoside
+T15	Antibiotic_target_alteration 119 127	mutation
+E1	Antibiotic_target_alteration:T15 Cause:T3 Theme:T2
+T16	Antibiotic 80 95	 aminoglycoside
+T17	Antibiotic_target_alteration 719 726	mutants
+E2	Antibiotic_target_alteration:T17 Theme:T6 Cause:T7

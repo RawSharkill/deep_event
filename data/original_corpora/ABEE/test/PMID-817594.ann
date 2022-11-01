@@ -1,0 +1,16 @@
+T1	Bacteria 64 86	gram-negative  bacilli
+T2	Bacteria 253 271	Enterobacteriaceae
+T3	Bacteria 276 298	Pseudomonas aeruginosa
+T4	Bacteria 506 522	Escherichia coli
+T5	Bacteria 524 545	Klebsiella pneumoniae
+T6	Bacteria 547 565	Proteus  mirabilis
+T7	Bacteria 571 587	Proteus morganii
+T8	Antibiotic 613 624	penicillins
+T9	Antibiotic 630 644	cephalosporins
+T10	Bacteria 665 681	Proteus vulgaris
+T11	Bacteria 683 702	Serratia marcescens
+T12	Bacteria 708 730	Pseudomonas aeruginosa
+T13	Antibiotic 765 779	cephalosporins
+T14	Bacteria 831 843	Enterobacter
+T15	Antibiotic 950 973	beta-lactam antibiotics
+T16	Antibiotic 1041 1064	beta-lactam antibiotics

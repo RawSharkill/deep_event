@@ -1,0 +1,11 @@
+T1	Antibiotic 28 40	trimethoprim
+T2	Antibiotic 46 58	sulfonamides
+T3	Antibiotic 64 94	 trimethoprim-sulfamethoxazole
+T4	Antibiotic 206 218	trimethoprim
+T5	Antibiotic 224 236	sulfonamides
+T6	Antibiotic 242 266	trimethoprim-sulfonamide
+T7	Antibiotic 742 754	trimethoprim
+T8	Antibiotic 762 774	sulfonamides
+T9	Antibiotic_target_alteration 728 738	alteration
+E1	Antibiotic_target_alteration:T9 Cause:T8
+E2	Antibiotic_target_alteration:T9 Cause:T7

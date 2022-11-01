@@ -1,0 +1,30 @@
+T1	Antibiotic 40 50	ethambutol
+T2	Bacteria 87 113	Mycobacterium tuberculosis
+T3	Antibiotic 117 127	Ethambutol
+T4	Antibiotic 129 132	EMB
+*	Equiv T4 T3
+T5	Antibiotic 290 293	EMB
+T6	Antibiotic 476 479	EMB
+T7	Bacteria 516 542	Mycobacterium tuberculosis
+T8	Antibiotic 623 626	EMB
+T9	Bacteria 775 790	M. tuberculosis
+*	Equiv T9 T7
+T10	Antibiotic 946 949	EMB
+T11	Antibiotic 1828 1838	ethambutol
+T12	Gene 994 998	embC
+T13	Gene 985 989	embB
+T14	Gene 1719 1723	embB
+T15	Gene 1581 1585	embC
+T16	Gene 1753 1757	embC
+T17	Antibiotic 715 718	EMB
+T18	Gene 692 696	embC
+T19	Gene 683 687	embB
+T20	Gene 548 552	embB
+T21	Antibiotic_target_alteration 609 618	mutations
+E1	Antibiotic_target_alteration:T21 Cause:T8 Theme:T7
+T22	Gene 1221 1225	embB
+T23	Gene 1273 1277	embB
+T24	Gene 1507 1511	embC
+T25	Antibiotic_target_alteration 1767 1775	mutation
+E2	Antibiotic_target_alteration:T25 Cause:T11
+T26	Bacteria 1097 1129	H37Rv standard laboratory strain

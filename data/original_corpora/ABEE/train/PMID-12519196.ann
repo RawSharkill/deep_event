@@ -1,0 +1,35 @@
+T1	Bacteria 49 70	Staphylococcus aureus
+T2	Antibiotic 22 34	fusidic acid
+T3	Antibiotic 74 86	Fusidic acid
+T4	Antibiotic 320 332	fusidic acid
+T5	Antibiotic 919 931	fusidic acid
+T6	Antibiotic 669 681	fusidic acid
+T7	Antibiotic 1677 1689	fusidic acid
+T8	Antibiotic 1320 1332	fusidic acid
+T9	Bacteria 347 368	Staphylococcus aureus
+T10	Bacteria 577 586	S. aureus
+*	Equiv T10 T9
+T11	Bacteria 636 645	S. aureus
+T12	Bacteria 946 956	S.  aureus
+T13	Bacteria 1202 1225	S. aureus strain RN4220
+T14	Bacteria 1449 1458	S. aureus
+T15	Bacteria 1704 1713	S. aureus
+T16	Gene 422 426	fusA
+T17	Gene 468 472	fusA
+T18	Protein 513 523	amino acid
+T19	Protein 731 741	amino acid
+T20	Protein 796 806	amino acid
+T21	Protein 867 878	amino  acid
+T22	Gene 1142 1146	fusA
+T23	Antibiotic 1235 1247	fusidic acid
+T24	Antibiotic 1176 1190	fusidic  acid-
+T25	Antibiotic 612 624	fusidic acid
+T26	Antibiotic_target_alteration 388 397	mutations
+E1	Antibiotic_target_alteration:T26 Cause:T4 Theme:T9
+T27	Antibiotic_target_alteration 646 653	mutants
+E2	Antibiotic_target_alteration:T27 Theme:T11 Cause:T25
+T28	Gene 971 975	fusA
+T29	Antibiotic 1417 1429	fusidic acid
+T30	Protein 1621 1631	amino acid
+T31	Antibiotic_target_alteration 1485 1492	mutants
+E3	Antibiotic_target_alteration:T31 Theme:T14 Cause:T29

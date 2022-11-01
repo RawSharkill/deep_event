@@ -1,0 +1,10 @@
+T1	Bacteria 78 98	Borrelia burgdorferi
+T2	Bacteria 256 276	Borrelia burgdorferi
+T3	Antibiotic 313 323	fosfomycin
+T4	Antibiotic 991 1001	fosfomycin
+T5	Antibiotic 1480 1490	fosfomycin
+T6	Antibiotic 1582 1592	fosfomycin
+T7	Antibiotic 46 56	fosfomycin
+T8	Gene 67 71	MurA
+T9	Antibiotic 102 112	fosfomycin
+T10	Protein 984 990	enzyme

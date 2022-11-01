@@ -1,0 +1,6 @@
+T1	Bacteria 39 60	Staphylococcus aureus
+T2	Bacteria 64 85	Staphylococcus aureus
+T3	Antibiotic_target_alteration 282 291	mutations
+E1	Antibiotic_target_alteration:T3 Theme:T2
+T4	Antibiotic_target_alteration 1011 1020	mutations
+E2	Antibiotic_target_alteration:T4 Theme:T2

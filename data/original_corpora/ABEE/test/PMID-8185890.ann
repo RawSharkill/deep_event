@@ -1,0 +1,40 @@
+T1	Bacteria 238 260	Streptococcus pyogenes
+T2	Bacteria 262 286	Streptococcus pneumoniae
+T3	Bacteria 342 363	Staphylococcus aureus
+T4	Bacteria 288 311	Haemophilus  influenzae
+T5	Bacteria 313 336	Branhamella catarrhalis
+T6	Antibiotic 468 480	penicillin V
+T7	Antibiotic 482 493	amoxycillin
+T8	Antibiotic 495 503	cefaclor
+T9	Antibiotic 505 515	cefuroxime
+T10	Bacteria 719 735	Escherichia coli
+T11	Bacteria 737 752	Klebsiella spp.
+T12	Bacteria 754 774	Enterobacter cloacae
+T13	Bacteria 776 794	Proteus  mirabilis
+T14	Bacteria 799 827	Staphylococcus saprophyticus
+T15	Antibiotic 974 984	BAY Y 3118
+T16	Bacteria 1076 1090	B. catarrhalis
+T17	Bacteria 1062 1071	S. aureus
+T18	Bacteria 1034 1047	H. influenzae
+*	Equiv T18 T4
+*	Equiv T17 T3
+*	Equiv T16 T5
+T19	Antibiotic 903 913	cefadroxil
+T20	Antibiotic 959 968	ofloxacin
+T21	Antibiotic 944 957	ciprofloxacin
+T22	Antibiotic 928 941	roxithromycin
+T23	Antibiotic 915 926	cefpodoxime
+T24	Bacteria 1297 1310	S. preumoniae
+T25	Bacteria 1106 1120	H.  influenzae
+T26	Antibiotic 1314 1324	penicillin
+T27	Antibiotic 1409 1421	erythromycin
+T28	Bacteria 1602 1613	S. pyogenes
+T29	Antibiotic 1617 1628	doxycycline
+T30	Antibiotic 1633 1645	erythromycin
+T31	Antibiotic 1907 1918	 penicillin
+T32	Antibiotic 1345 1360	 co-trimoxazole
+T33	Antibiotic 1377 1388	doxycycline
+T34	Antibiotic 1728 1739	cefpodoxime
+T35	Antibiotic 517 528	doxycycline
+T36	Antibiotic 530 542	erythromycin
+T37	Antibiotic 549 562	cotrimoxazole

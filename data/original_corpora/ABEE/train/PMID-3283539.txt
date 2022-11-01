@@ -1,0 +1,3 @@
+Mutants of Aspergillus nidulans with increased resistance to the alkylating  agent, N-methyl-N'-nitro-N-nitrosoguanidine.
+
+The isolation and characterisation of mutants of Aspergillus nidulans showing  resistance to MNNG is described. Such isolates were stable through prolonged  subculture in the absence of the selective agent, and resistance segregated as an  allele of a single gene in meiotic and mitotic analysis. MNNG-resistant strains  showed an increase in resistance to EMS and UV irradiation but no  cross-resistance to MMS was detected. Possible mechanisms of resistance to  alkylating agents are discussed.

@@ -1,0 +1,12 @@
+T1	Bacteria 314 331	Bacillus subtilis
+T2	Bacteria 525 537	B.  subtilis
+*	Equiv T2 T1
+T3	Protein 0 4	YybT
+T4	Protein 546 550	YybT
+T5	Antibiotic_inactivation 681 691	hydrolyzes
+E1	Antibiotic_inactivation:T5 
+T6	Protein 847 851	YybT
+T7	Protein 942 946	YybT
+T8	Protein 1233 1237	YybT
+T9	Protein 1394 1398	YybT
+T10	Protein 1580 1584	YybT

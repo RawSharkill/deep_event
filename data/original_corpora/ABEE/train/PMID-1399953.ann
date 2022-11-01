@@ -1,0 +1,10 @@
+T1	Bacteria 77 90	staphylococci
+T2	Antibiotic 53 66	streptogramin
+T3	Antibiotic 211 224	streptogramin
+T4	Bacteria 376 389	staphylococci
+T5	Antibiotic 405 414	macrolide
+T6	Antibiotic 417 428	lincosamide
+T7	Antibiotic 433 458	streptogramin antibiotics
+T8	Antibiotic 657 669	erythromycin
+T9	Antibiotic 903 914	clindamycin
+T10	Bacteria 856 869	staphylococci

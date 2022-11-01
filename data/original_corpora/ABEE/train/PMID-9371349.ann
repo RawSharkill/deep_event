@@ -1,0 +1,14 @@
+T1	Antibiotic 29 37	rifampin
+T2	Bacteria 41 64	Mycobacterium smegmatis
+T3	Bacteria 141 164	Mycobacterium smegmatis
+T4	Antibiotic 177 185	rifampin
+T5	Bacteria 535 547	M. smegmatis
+*	Equiv T5 T2
+T6	Antibiotic 607 615	rifampin
+T7	Antibiotic_inactivation 13 25	inactivation
+E1	Antibiotic_inactivation:T7 Theme:T2 Cause:T1
+T8	Antibiotic_inactivation 165 176	inactivates
+E2	Antibiotic_inactivation:T8 Cause:T4 Theme:T3
+T9	Antibiotic_inactivation 689 701	inactivating
+E3	Antibiotic_inactivation:T9 Theme:T5 Cause:T6
+T10	Antibiotic 814 832	rifampin-resistant

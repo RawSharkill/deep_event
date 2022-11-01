@@ -1,0 +1,10 @@
+T1	Antibiotic 773 783	penicillin
+T2	Antibiotic 1132 1142	penicillin
+T3	Bacteria 373 386	Gram-positive
+T4	Bacteria 392 405	Gram-negative
+T5	Bacteria 24 31	L-phase
+T6	Bacteria 75 91	L-phase bacteria
+T7	Bacteria 687 694	L-phase
+T8	Bacteria 1045 1062	L-phase organisms
+T9	Bacteria 1064 1080	L-phase bacteria
+T10	Bacteria 1452 1468	L-phase bacteria

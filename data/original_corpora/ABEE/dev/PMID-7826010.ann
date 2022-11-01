@@ -1,0 +1,19 @@
+T1	Antibiotic 75 87	Tetracycline
+T2	Bacteria 174 196	gram-negative bacteria
+T3	Protein 1665 1669	TetR
+T4	Protein 728 732	TetR
+T5	Antibiotic_efflux 128 134	efflux
+E1	Antibiotic_efflux:T5 Cause:T1 Theme:T2
+T6	Antibiotic 49 61	tetracycline
+T7	Protein 569 573	TetA
+T8	Protein 1553 1556	Tet
+T9	Gene 323 327	tetA
+T10	Gene 332 336	tetR
+T11	Antibiotic 579 591	tetracycline
+T12	Antibiotic 1297 1309	tetracycline
+T13	Protein 1511 1515	TetR
+T14	Protein 1840 1844	TetR
+T15	Protein 1805 1809	TetR
+T16	Protein 683 687	TetR
+T17	Protein 478 488	amino acid
+T18	Gene 954 957	tet

@@ -1,0 +1,17 @@
+T1	Antibiotic 995 1006	amoxicillin
+T2	Bacteria 851 869	Salmonella strains
+T3	Antibiotic 682 696	aminoglycoside
+T4	Antibiotic_target_alteration 697 706	modifying
+E1	Antibiotic_target_alteration:T4 Cause:T3
+T5	Bacteria 612 626	S. typhimurium
+T6	Bacteria 36 54	Salmonella species
+T7	Bacteria 177 195	Salmonella strains
+T8	Antibiotic 319 330	amoxicillin
+T9	Antibiotic 333 344	amoxicillin
+T10	Antibiotic 345 355	clavulanic
+T11	Antibiotic 365 378	cotrimoxazole
+T12	Antibiotic 430 445	aminoglycosides
+T13	Bacteria 260 282	Salmonella enteritidis
+T14	Bacteria 231 253	Salmonella typhimurium
+T15	Bacteria 140 151	bacteraemia
+T16	Protein 707 721	enzyme ANT(2")

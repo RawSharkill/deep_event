@@ -1,0 +1,5 @@
+T1	Bacteria 38 54	Escherichia coli
+T2	Antibiotic_efflux 83 89	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 235 257	Escherichia coli W3110
+T4	Gene 769 773	tolC

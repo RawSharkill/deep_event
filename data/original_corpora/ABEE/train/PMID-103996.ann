@@ -1,0 +1,16 @@
+T1	Bacteria 40 54	coliphage P1CM
+T2	Bacteria 215 231	Escherichia coli
+T3	Bacteria 454 461	E. coli
+T4	Bacteria 628 644	Escherichia coli
+*	Equiv T3 T2
+T5	Bacteria 876 891	E. coli strains
+T6	Bacteria 1023 1039	Escherichia coli
+T7	Bacteria 16 36	Myxococcus virescens
+T8	Bacteria 106 116	Myxococcus
+T9	Antibiotic 125 140	Chloramphenicol
+T10	Bacteria 151 171	Myxococcus virescens
+T11	Bacteria 288 297	myxococci
+T12	Bacteria 200 209	myxococci
+T13	Antibiotic 428 443	Chloramphenicol
+T14	Bacteria 675 684	myxococci
+T15	Antibiotic 1119 1134	chloramphenicol

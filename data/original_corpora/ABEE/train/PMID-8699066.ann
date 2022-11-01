@@ -1,0 +1,8 @@
+T1	Bacteria 53 72	Mycobacterium avium
+T2	Bacteria 280 299	Mycobacterium avium
+T3	Antibiotic 364 378	clarithromycin
+T4	Bacteria 1151 1159	M. avium
+T5	Antibiotic 1122 1136	clarithromycin
+T6	Antibiotic 24 38	clarithromycin
+T7	Antibiotic_target_alteration 108 117	mutations
+E1	Antibiotic_target_alteration:T7 Cause:T6 Theme:T1

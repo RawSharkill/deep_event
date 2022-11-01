@@ -1,0 +1,31 @@
+T1	Bacteria 22 40	Enterobacteriaceae
+T2	Antibiotic 67 76	quinolone
+T3	Antibiotic 230 239	quinolone
+T4	Bacteria 491 509	Enterobacteriaceae
+T5	Bacteria 954 975	Klebsiella pneumoniae
+T6	Bacteria 994 1014	Citrobacter freundii
+T7	Bacteria 1031 1050	Citrobacter braakii
+T8	Bacteria 1071 1087	Escherichia coli
+T9	Bacteria 1500 1518	Enterobacteriaceae
+T10	Gene 612 616	PMQR
+T11	Gene 624 628	qnrA
+T12	Gene 630 634	qnrB
+T13	Gene 636 640	qnrS
+T14	Gene 642 655	aac(6')-Ib-cr
+T15	Gene 661 665	qepA
+T16	Gene 770 773	qnr
+T17	Gene 831 835	qnrA
+T18	Gene 839 843	qnrB
+T19	Gene 849 853	qnrS
+T20	Gene 926 930	qnrB
+T21	Gene 1324 1327	qnr
+T22	Gene 1213 1217	qepA
+T23	Gene 1123 1127	qnrB
+T24	Gene 1195 1208	aac(6')-Ib-cr
+T25	Gene 1271 1284	aac(6')-Ib-cr
+T26	Gene 1404 1408	qepA
+T27	Gene 1367 1370	qnr
+T28	Gene 1477 1481	PMQR
+T29	Gene 1590 1593	qnr
+T30	Gene 1598 1611	aac(6')-Ib-cr
+T31	Gene 252 256	PMQR

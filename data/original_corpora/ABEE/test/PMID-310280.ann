@@ -1,0 +1,22 @@
+T1	Antibiotic 44 67	beta-lactam antibiotics
+T2	Antibiotic 91 101	ampicillin
+T3	Antibiotic 301 311	ampicillin
+T4	Antibiotic 327 350	beta-lactam antibiotics
+T5	Antibiotic 422 445	beta-lactam antibiotics
+T6	Antibiotic 514 526	penicillin G
+T7	Antibiotic 528 539	cloxacillin
+T8	Antibiotic 546 555	cefazolin
+T9	Antibiotic 610 620	ampicillin
+T10	Antibiotic 664 674	ampicillin
+T11	Antibiotic 737 750	carbenicillin
+T12	Antibiotic 771 781	ampicillin
+T13	Antibiotic 787 798	cloxacillin
+T14	Antibiotic 828 838	ampicillin
+T15	Antibiotic 1042 1054	penicillin G
+T16	Antibiotic 1059 1069	ampicillin
+T17	Antibiotic 1101 1114	carbenicillin
+T18	Antibiotic 1119 1132	cephaloridine
+T19	Bacteria 1357 1365	Nocardia
+T20	Antibiotic 1369 1379	ampicillin
+T21	Antibiotic 1384 1397	carbenicillin
+T22	Bacteria 1220 1228	Nocardia

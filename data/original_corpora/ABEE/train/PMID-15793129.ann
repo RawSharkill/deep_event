@@ -1,0 +1,47 @@
+T2	Antibiotic_efflux 27 33	efflux
+E2	Antibiotic_efflux:T2 Theme:T3 Cause:T4
+T3	Bacteria 2 21	Helicobacter pylori
+T4	Antibiotic 61 74	metronidazole
+T5	Bacteria 81 100	Helicobacter pylori
+T6	Antibiotic_efflux 122 128	efflux
+E3	Antibiotic_efflux:T6 Theme:T5
+T7	Bacteria 439 448	H. pylori
+T8	Antibiotic 1449 1465	ethidium bromide
+T10	Antibiotic 1542 1552	novobiocin
+T11	Antibiotic 1557 1577	sodium  deoxycholate
+T13	Antibiotic 1654 1667	metronidazole
+T14	Antibiotic 1705 1715	novobiocin
+T15	Antibiotic 1722 1741	sodium deoxycholate
+T18	Bacteria 1819 1828	H. pylori
+T19	Antibiotic_efflux 1756 1762	efflux
+E10	Antibiotic_efflux:T19 Theme:T18
+T9	Antibiotic_efflux 589 595	efflux
+E4	Antibiotic_efflux:T9 Theme:T7
+T1	Protein 22 26	TolC
+T12	Protein 540 544	TolC
+*	Equiv T7 T5 T18
+T16	Protein 686 692	HP1184
+T17	Protein 869 873	TolC
+T20	Protein 889 895	HP0605
+T21	Protein 897 903	HP0971
+T22	Protein 905 911	HP1327
+T23	Protein 917 923	HP1489
+T24	Gene 987 991	TolC
+T25	Protein 1200 1206	HP1184
+T26	Protein 1263 1267	TolC
+T27	Protein 1329 1335	HP0605
+T28	Protein 1340 1346	HP0971
+T29	Protein 1369 1375	HP1184
+T30	Protein 1381 1387	HP1489
+T31	Protein 1477 1483	HP0605
+T32	Antibiotic_target_alteration 1397 1404	mutants
+E1	Antibiotic_target_alteration:T32 Cause:T8 Theme:T3
+T33	Antibiotic_target_alteration 1495 1501	mutant
+E5	Antibiotic_target_alteration:T33 Cause:T10 Theme:T3
+E6	Antibiotic_target_alteration:T33 Cause:T11 Theme:T3
+T34	Protein 1583 1589	HP0605
+T35	Protein 1594 1600	HP0971
+T36	Antibiotic_target_alteration 1617 1623	mutant
+E7	Antibiotic_target_alteration:T36 Cause:T13 Theme:T18
+E8	Antibiotic_target_alteration:T36 Cause:T14 Theme:T18
+E9	Antibiotic_target_alteration:T36 Cause:T15 Theme:T18

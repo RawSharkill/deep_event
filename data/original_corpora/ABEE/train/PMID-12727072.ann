@@ -1,0 +1,30 @@
+T1	Bacteria 63 86	Pseudomonas  aeruginosa
+T2	Antibiotic 225 240	fluoroquinolone
+T3	Bacteria 256 278	Pseudomonas aeruginosa
+T4	Antibiotic 305 318	ciprofloxacin
+T5	Antibiotic 679 694	fluoroquinolone
+T6	Bacteria 709 722	P. aeruginosa
+*	Equiv T6 T3
+T7	Protein 108 112	GyrA
+T8	Protein 117 121	ParC
+T9	Antibiotic_efflux 130 136	efflux
+E1	Antibiotic_efflux:T9 Cause:T2 Theme:T3
+T10	Gene 159 163	mexR
+T11	Gene 168 173	 nfxB
+T12	Protein 13 17	GyrA
+T13	Protein 19 23	ParC
+T14	Protein 25 29	MexR
+T15	Protein 34 38	NfxB
+T16	Protein 379 383	GyrA
+T17	Protein 502 506	GyrA
+T18	Protein 387 391	ParC
+T19	Antibiotic_target_alteration 508 517	Mutations
+E2	Antibiotic_target_alteration:T19 
+T20	Protein 621 625	GyrA
+T21	Protein 629 633	ParC
+T22	Protein 767 771	GyrA
+T23	Protein 795 799	ParC
+T24	Antibiotic_target_alteration 754 763	mutations
+E3	Antibiotic_target_alteration:T24 Theme:T6 Cause:T5
+T25	Antibiotic_efflux 810 816	efflux
+E4	Antibiotic_efflux:T25 Theme:T6 Cause:T5

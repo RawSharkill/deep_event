@@ -1,0 +1,41 @@
+T1	Bacteria 20 44	Streptococcus pneumoniae
+T2	Antibiotic 101 113	erythromycin
+T3	Bacteria 150 174	Streptococcus pneumoniae
+T4	Bacteria 925 939	S.  pneumoniae
+*	Equiv T4 T3
+T5	Antibiotic 0 9	Macrolide
+T6	Antibiotic 126 135	Macrolide
+T7	Antibiotic 901 910	macrolide
+T8	Antibiotic 1118 1130	erythromycin
+T9	Antibiotic 1268 1280	erythromycin
+T10	Antibiotic 1813 1825	erythromycin
+T11	Antibiotic 1912 1921	macrolide
+T12	Bacteria 1943 1956	S. pneumoniae
+T13	Antibiotic 2027 2037	macrolides
+T14	Antibiotic_efflux 10 16	efflux
+E1	Antibiotic_efflux:T14 Cause:T5 Theme:T1
+T15	Antibiotic_efflux 182 188	efflux
+E2	Antibiotic_efflux:T15 Cause:T6 Theme:T3
+T16	Bacteria 1968 1990	gram-positive bacteria
+T17	Antibiotic 1080 1100	 macrolide-resistant
+T18	Antibiotic 331 340	macrolide
+T19	Antibiotic_efflux 341 347	efflux
+E3	Antibiotic_efflux:T19 Cause:T18
+T20	Gene 451 454	mef
+T21	Gene 456 460	mefE
+T22	Gene 464 468	mefA
+T23	Gene 494 497	mel
+T24	Gene 881 884	Mef
+T25	Gene 970 973	Mel
+T26	Gene 1048 1052	mefE
+T27	Gene 1354 1358	mefE
+T28	Gene 1363 1366	mel
+T29	Gene 1486 1490	mefE
+T30	Gene 1491 1494	mel
+T31	Gene 1576 1580	mefE
+T32	Gene 1659 1663	mefE
+T33	Gene 1782 1786	mefE
+T34	Gene 1870 1873	Mef
+T35	Gene 1878 1881	Mel
+T36	Antibiotic_efflux 1896 1902	efflux
+E4	Antibiotic_efflux:T36 Cause:T11 Theme:T12

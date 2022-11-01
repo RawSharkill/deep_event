@@ -1,0 +1,22 @@
+T1	Antibiotic 207 215	imipenem
+T2	Bacteria 105 127	Pseudomonas aeruginosa
+T3	Antibiotic 658 669	carbapenems
+T4	Protein 706 710	OprD
+T5	Antibiotic 891 899	imipenem
+T6	Protein 849 853	OprD
+T7	Protein 1243 1247	OprD
+T8	Antibiotic 1301 1309	imipenem
+T9	Antibiotic 1217 1225	imipenem
+T10	Antibiotic 1346 1354	imipenem
+T11	Antibiotic 1358 1367	meropenem
+T12	Antibiotic 1466 1476	carbapenem
+T13	Antibiotic 1659 1667	imipenem
+T14	Antibiotic 1578 1589	carbapenems
+T15	Antibiotic 1735 1744	 imipenem
+T16	Antibiotic 1762 1770	imipenem
+T17	Bacteria 1991 2013	Pseudomonas aeruginosa
+T18	Antibiotic 1710 1719	meropenem
+T19	Antibiotic 1698 1706	imipenem
+T20	Antibiotic 1008 1016	imipenem
+T21	Antibiotic 60 71	carbapenems
+T22	Antibiotic 490 501	carbapenems

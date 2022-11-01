@@ -1,0 +1,17 @@
+T1	Antibiotic 6 18	tetracycline
+T4	Bacteria 72 99	human  colonic anaerobe K10
+T5	Bacteria 153 178	Butyrivibrio fibrisolvens
+T6	Antibiotic 190 202	tetracycline
+T7	Antibiotic 271 283	tetracycline
+T10	Bacteria 338 365	human  colonic anaerobe K10
+T11	Bacteria 452 485	Butyrivibrio fibrisolvens 2221(R)
+T2	Gene 36 43	tet(32)
+T3	Gene 231 238	tet(32)
+T8	Gene 394 401	tet(32)
+T9	Gene 518 525	tet(32)
+T12	Gene 601 608	tet(32)
+T13	Protein 534 544	amino acid
+T14	Gene 559 565	Tet(O)
+T15	Gene 386 392	tet(W)
+T16	Bacteria 52 63	Clostridium
+T17	Bacteria 318 329	Clostridium

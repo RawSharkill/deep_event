@@ -1,0 +1,46 @@
+T1	Antibiotic 30 42	trimethoprim
+T2	Bacteria 57 73	Escherichia coli
+T3	Bacteria 79 100	Klebsiella pneumoniae
+T4	Antibiotic 135 147	trimethoprim
+T5	Antibiotic 167 179	Trimethoprim
+T6	Bacteria 208 226	Enterobacteriaceae
+T7	Antibiotic 261 273	trimethoprim
+T8	Antibiotic 353 365	trimethoprim
+T9	Bacteria 472 488	Escherichia coli
+T10	Bacteria 493 514	Klebsiella pneumoniae
+T11	Bacteria 629 636	E. coli
+T12	Bacteria 652 665	K. pneumoniae
+*	Equiv T12 T10
+*	Equiv T11 T9
+T13	Antibiotic 713 725	trimethoprim
+T14	Antibiotic 1023 1035	trimethoprim
+T15	Bacteria 1050 1057	E. coli
+T16	Bacteria 1069 1082	K. pneumoniae
+T17	Bacteria 1162 1169	E. coli
+T18	Bacteria 1200 1213	K. pneumoniae
+T19	Bacteria 1270 1277	E. coli
+T20	Bacteria 1292 1305	K. pneumoniae
+T21	Antibiotic 1683 1695	trimethoprim
+T22	Gene 939 944	dfr2d
+T23	Gene 948 953	dfrA3
+T24	Gene 955 960	dfrA9
+T25	Gene 962 968	dfrA10
+T26	Gene 970 976	dfrA24
+T27	Gene 981 987	dfrA26
+T28	Gene 782 787	dfrA1
+T29	Gene 790 795	dfrA5
+T30	Gene 797 802	dfrA7
+T31	Gene 804 809	dfrA8
+T32	Gene 811 817	dfrA12
+T33	Gene 819 825	dfrA14
+T34	Gene 827 833	dfrA17
+T35	Gene 1108 1113	dfrA1
+T36	Gene 1152 1158	dfrA17
+T37	Gene 443 446	dfr
+T38	Protein 418 441	dihydrofolate reductase
+T39	Gene 897 900	dfr
+T40	Gene 1333 1336	dfr
+T41	Gene 1556 1559	dfr
+T42	Gene 1828 1832	 dfr
+T43	Gene 1725 1728	dfr
+T44	Gene 1498 1501	dfr

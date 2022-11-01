@@ -1,0 +1,7 @@
+T1	Antibiotic 541 551	vancomycin
+T2	Antibiotic 507 517	penicillin
+T3	Antibiotic 576 587	methicillin
+T4	Bacteria 652 676	 gram-negative organisms
+T5	Bacteria 562 573	enterococci
+T6	Bacteria 598 611	staphylococci
+T7	Bacteria 528 539	pneumococci

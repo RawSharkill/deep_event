@@ -1,0 +1,11 @@
+T1	Antibiotic 24 39	streptothricins
+T2	Antibiotic 56 70	streptothricin
+T3	Bacteria 182 212	mutant E. coli A19  Stcr 2/2/1
+T4	Antibiotic 256 271	aminoglycosides
+T5	Bacteria 352 368	E. coli  strains
+T6	Antibiotic 393 407	aminoglycoside
+T7	Antibiotic 445 459	streptothricin
+T8	Antibiotic 487 501	streptothricin
+T9	Antibiotic 543 557	streptothricin
+T10	Bacteria 568 588	Streptomyces noursei
+T12	Antibiotic 666 681	aminoglycosides

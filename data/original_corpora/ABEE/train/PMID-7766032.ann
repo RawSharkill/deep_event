@@ -1,0 +1,15 @@
+T2	Antibiotic 42 53	tunicamycin
+T3	Bacteria 57 74	Bacillus subtilis
+T4	Antibiotic 83 94	tunicamycin
+T5	Antibiotic 253 264	tunicamycin
+T6	Bacteria 268 285	Bacillus subtilis
+T8	Antibiotic 497 508	tunicamycin
+T9	Reduced_permeability_to_antibiotic 0 4	TmrB
+E3	Reduced_permeability_to_antibiotic:T9 Theme:T3 Cause:T2
+T10	Reduced_permeability_to_antibiotic 98 112	Overproduction
+E4	Reduced_permeability_to_antibiotic:T10 Theme:T6 Cause:T5
+T11	Antibiotic 342 353	tunicamycin
+T1	Protein 0 4	TmrB
+T7	Protein 116 120	TmrB
+T12	Protein 287 291	TmrB
+T13	Protein 447 451	TmrB

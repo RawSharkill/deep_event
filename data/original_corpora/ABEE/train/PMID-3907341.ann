@@ -1,0 +1,32 @@
+T1	Antibiotic 127 150	beta-lactam antibiotics
+T2	Bacteria 224 245	Staphylococcus aureus
+T3	Bacteria 257 278	Hemophilus influenzae
+T4	Bacteria 280 303	Branhamella catarrhalis
+T5	Bacteria 305 326	Neisseria gonorrhoeae
+T6	Bacteria 329 347	Enterobacteriaceae
+T7	Bacteria 353 372	Bacteroides species
+T8	Antibiotic 413 424	penicillins
+T9	Antibiotic 429 443	cephalosporins
+T10	Bacteria 562 572	Hemophilus
+T11	Bacteria 574 583	Neisseria
+T12	Bacteria 589 607	Enterobacteriaceae
+T13	Antibiotic 713 728	Clavulanic acid
+T14	Bacteria 797 806	S. aureus
+*	Equiv T14 T2
+T15	Bacteria 808 818	Hemophilus
+T16	Bacteria 820 829	Neisseria
+T17	Bacteria 831 842	Branhamella
+T18	Bacteria 844 859	Eschericia coli
+T19	Bacteria 861 871	Klebsiella
+T20	Bacteria 878 889	Bacteroides
+T21	Antibiotic 891 902	Clavulanate
+T22	Antibiotic 1022 1033	Clavulanate
+T23	Bacteria 1079 1097	Enterobacteriaceae
+T24	Antibiotic 1158 1169	Clavulanate
+T25	Bacteria 1255 1278	Pseudomonas  aeruginosa
+T26	Bacteria 1280 1292	Enterobacter
+T27	Bacteria 1298 1317	Citrobacter species
+T28	Antibiotic_inactivation 402 412	 hydrolyze
+E1	Antibiotic_inactivation:T28 Cause:T8 Theme:T7
+T29	Antibiotic_inactivation 403 412	hydrolyze
+E2	Antibiotic_inactivation:T29 Cause:T9 Theme:T7

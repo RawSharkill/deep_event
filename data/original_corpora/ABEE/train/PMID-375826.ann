@@ -1,0 +1,20 @@
+T1	Antibiotic 37 52	chloramphenicol
+T2	Antibiotic 64 79	chloramphenicol
+T3	Bacteria 104 111	Proteus
+T4	Bacteria 253 260	Proteus
+T5	Antibiotic 314 329	chloramphenicol
+T6	Bacteria 420 427	Proteus
+T7	Antibiotic 441 456	chloramphenicol
+T8	Bacteria 614 621	Proteus
+T9	Antibiotic 744 759	chloramphenicol
+T10	Bacteria 767 774	Proteus
+T11	Antibiotic_inactivation 839 867	chloramphenicol-inactivating
+E1	Antibiotic_inactivation:T11 Theme:T10 Cause:T9
+T12	Bacteria 905 912	Proteus
+T13	Antibiotic 933 948	chloramphenicol
+T14	Bacteria 1015 1022	Proteus
+T15	Antibiotic_inactivation 1095 1107	inactivation
+E2	Antibiotic_inactivation:T15 Theme:T14
+T16	Antibiotic 1235 1250	chloramphenicol
+T17	Antibiotic 1385 1400	chloramphenicol
+T18	Bacteria 1475 1482	Proteus

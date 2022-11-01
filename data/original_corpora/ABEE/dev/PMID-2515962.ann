@@ -1,0 +1,14 @@
+T1	Bacteria 31 44	staphylococci
+T2	Antibiotic 59 68	mupirocin
+T3	Bacteria 118 139	Staphylococcus aureus
+T4	Bacteria 158 184	Staphylococcus epidermidis
+T5	Antibiotic 208 217	mupirocin
+T6	Bacteria 254 275	Staphylococcus aureus
+T7	Bacteria 280 306	Staphylococcus epidermidis
+T8	Antibiotic 323 332	mupirocin
+T9	Antibiotic 11 20	mupirocin
+T10	Antibiotic_inactivation 48 58	inactivate
+E1	Antibiotic_inactivation:T10 Cause:T9 Theme:T1
+T11	Antibiotic_target_alteration 406 416	alteration
+E2	Antibiotic_target_alteration:T11 Cause:T8 Theme:T6
+E3	Antibiotic_target_alteration:T11 Cause:T8 Theme:T7

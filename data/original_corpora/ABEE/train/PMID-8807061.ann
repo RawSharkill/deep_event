@@ -1,0 +1,15 @@
+T1	Antibiotic 18 32	clarithromycin
+T2	Bacteria 62 85	Mycobacterium  chelonae
+T3	Bacteria 90 113	Mycobacterium abscessus
+T4	Antibiotic 130 144	clarithromycin
+T5	Bacteria 163 185	Mycobacterium chelonae
+T6	Bacteria 190 203	M.  abscessus
+*	Equiv T6 T3
+T7	Antibiotic 422 436	clarithromycin
+T8	Bacteria 848 859	M. chelonae
+*	Equiv T8 T5
+T9	Bacteria 864 876	M. abscessus
+T10	Antibiotic 1019 1033	clarithromycin
+T11	Bacteria 1082 1094	mycobacteria
+T12	Antibiotic_target_alteration 1114 1122	mutation
+E1	Antibiotic_target_alteration:T12 Theme:T11 Cause:T10

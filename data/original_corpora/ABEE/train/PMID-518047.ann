@@ -1,0 +1,17 @@
+T1	Antibiotic 35 50	oxytetracycline
+T2	Antibiotic 141 156	oxytetracycline
+T3	Antibiotic 158 161	OTC
+*	Equiv T3 T2
+T4	Bacteria 242 280	strain LST-118 of Actinomyces  rimosus
+T5	Bacteria 295 325	strain LST-118 of Act. rimosus
+T6	Bacteria 544 565	Act. rimosus, LST-118
+T7	Antibiotic 571 574	OTC
+T8	Bacteria 590 604	strain LST-118
+*	Equiv T8 T4 T6 T5
+T9	Antibiotic 766 769	OTC
+T10	Antibiotic 904 907	OTC
+T11	Bacteria 1007 1014	E. coli
+T12	Antibiotic 1045 1057	tetracycline
+T13	Bacteria 1088 1100	actinomycete
+T14	Antibiotic 1110 1113	OTC
+T15	Antibiotic 1278 1281	OTC

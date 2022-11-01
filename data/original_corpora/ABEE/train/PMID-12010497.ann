@@ -1,0 +1,20 @@
+T1	Bacteria 67 91	Yersinia  enterocolitica
+T2	Bacteria 215 237	Gram-negative bacteria
+T3	Bacteria 587 624	Yersinia enterocolitica serotype  O:8
+T4	Protein 357 364	lipid A
+T5	Gene 889 898	O-antigen
+T6	Gene 981 984	wb1
+T7	Gene 992 995	wb2
+T8	Protein 1139 1143	RosA
+T9	Protein 1144 1148	RosB
+T10	Protein 1194 1197	Wzz
+T11	Gene 1327 1330	wb2
+T12	Gene 1381 1384	ros
+T13	Gene 1424 1427	wb2
+T14	Gene 1595 1598	wb2
+T15	Gene 1741 1744	ros
+T16	Gene 1689 1692	wb1
+T17	Gene 1700 1703	wb2
+T18	Protein 1904 1909	CpxAR
+T19	Protein 1857 1860	Wzz
+T20	Protein 1656 1659	Wzz

@@ -1,0 +1,25 @@
+T1	Bacteria 40 61	Neisseria gonorrhoeae
+T2	Bacteria 147 168	Neisseria gonorrhoeae
+T3	Antibiotic 475 485	penicillin
+T4	Antibiotic 490 502	tetracycline
+T6	Reduced_permeability_to_antibiotic 134 143	mutations
+E3	Reduced_permeability_to_antibiotic:T6 Theme:T1
+T7	Reduced_permeability_to_antibiotic 312 321	mutations
+E4	Reduced_permeability_to_antibiotic:T7 Theme:T2
+T8	Antibiotic 1169 1193	beta-lactam  antibiotics
+T9	Bacteria 2009 2018	gonococci
+T5	Gene 129 133	penB
+T10	Protein 111 114	PIB
+T11	Protein 185 188	PIA
+T12	Protein 193 196	PIB
+T13	Gene 211 215	porA
+T14	Gene 220 224	porB
+T15	Protein 1021 1024	PIB
+T16	Protein 1219 1222	PIB
+T17	Gene 1475 1479	mtrR
+T18	Gene 1572 1576	mtrR
+T19	Gene 1581 1585	penB
+T20	Gene 1711 1715	mtrR
+T21	Protein 1842 1845	PIB
+T22	Antibiotic_efflux 1949 1960	efflux pump
+E1	Antibiotic_efflux:T22 Theme:T9

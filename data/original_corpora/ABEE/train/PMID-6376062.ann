@@ -1,0 +1,71 @@
+T1	Antibiotic 0 9	Sisomicin
+T2	Antibiotic 11 21	netilmicin
+T3	Antibiotic 26 35	dibekacin
+T4	Antibiotic 101 110	Sisomicin
+T5	Antibiotic 136 161	aminoglycoside antibiotic
+T6	Bacteria 175 199	Micromonospora inyoensis
+T7	Antibiotic 207 216	dibekacin
+T8	Antibiotic 221 231	netilmicin
+T9	Antibiotic 256 271	aminoglycosides
+T10	Antibiotic 273 282	Dibekacin
+T11	Antibiotic 286 310	3',4'-dideoxykanamycin B
+T12	Antibiotic 315 325	netilmicin
+T13	Antibiotic 330 349	1-N-ethyl sisomicin
+T14	Bacteria 644 651	E. coli
+T15	Bacteria 653 665	Enterobacter
+T16	Bacteria 667 677	Klebsiella
+T17	Bacteria 682 694	Proteus spp.
+T18	Bacteria 699 713	Ps. aeruginosa
+T19	Bacteria 733 746	staphylococci
+T20	Antibiotic 778 794	amino-glycosides
+T21	Bacteria 797 809	streptococci
+T22	Antibiotic 845 868	beta-lactam antibiotics
+T23	Antibiotic 939 948	Sisomicin
+T24	Antibiotic 985 999	gentamicin Cla
+T25	Antibiotic 1066 1076	gentamicin
+T26	Bacteria 1085 1099	Ps. aeruginosa
+T27	Antibiotic 1139 1149	tobramycin
+T28	Antibiotic 1196 1206	gentamicin
+T29	Bacteria 1215 1223	Serratia
+T30	Antibiotic 1263 1272	sisomicin
+T31	Antibiotic 1341 1351	gentamicin
+T32	Antibiotic 1357 1367	tobramycin
+T33	Bacteria 1463 1477	Ps. aeruginosa
+T34	Antibiotic 1598 1608	tobramycin
+T35	Antibiotic 1610 1619	Dibekacin
+T36	Antibiotic 1638 1648	tobramycin
+T37	Bacteria 1776 1790	Ps. aeruginosa
+T38	Antibiotic 1804 1814	gentamicin
+T39	Antibiotic 1817 1827	Netilmicin
+T40	Antibiotic 1880 1890	gentamicin
+T41	Antibiotic 1893 1903	tobramycin
+T42	Antibiotic 1905 1914	sisomicin
+T43	Antibiotic 1918 1927	debekacin
+T44	Antibiotic 2131 2139	amikacin
+T45	Antibiotic 2231 2239	amikacin
+T46	Bacteria 2308 2322	Ps. aeruginosa
+T47	Bacteria 2370 2388	Enterobacteriaceae
+T48	Bacteria 2393 2406	staphylococci
+T49	Bacteria 2491 2523	Klebsiella-Enterobacter  species
+T50	Antibiotic 2591 2614	beta-lactam antibiotics
+T51	Antibiotic 2666 2675	sisomicin
+T52	Antibiotic 2677 2687	netilmicin
+T53	Antibiotic 2692 2701	dibekacin
+T54	Antibiotic 2718 2728	gentamicin
+T55	Antibiotic 2420 2430	gentamicin
+T56	Bacteria 1234 1252	Gram-negative rods
+T57	Antibiotic 2149 2159	gentamicin
+T58	Antibiotic 1431 1441	gentamicin
+T59	Antibiotic_inactivation 1410 1417	against
+E1	Antibiotic_inactivation:T59 Cause:T58 Theme:T33
+T60	Bacteria 609 631	Gram-negative bacteria
+T61	Antibiotic_inactivation 585 592	against
+E2	Antibiotic_inactivation:T61 Theme:T14
+E3	Antibiotic_inactivation:T61 Theme:T15
+E4	Antibiotic_inactivation:T61 Theme:T18
+E5	Antibiotic_inactivation:T61 Theme:T17
+E6	Antibiotic_inactivation:T61 Theme:T16
+T62	Antibiotic_inactivation 725 732	against
+E7	Antibiotic_inactivation:T62 Theme:T19
+T63	Antibiotic_inactivation 1948 1960	inactivation
+E8	Antibiotic_inactivation:T63 Cause:T39

@@ -1,0 +1,36 @@
+T1	Antibiotic 26 36	daptomycin
+T2	Bacteria 51 62	enterococci
+T3	Antibiotic 78 88	Daptomycin
+T4	Bacteria 168 179	enterococci
+T5	Bacteria 262 273	enterococci
+T6	Antibiotic 316 326	daptomycin
+T7	Bacteria 502 523	Enterococcus faecalis
+T8	Antibiotic 715 725	daptomycin
+T9	Antibiotic 1626 1636	daptomycin
+T10	Antibiotic 1822 1832	daptomycin
+T11	Antibiotic 2219 2229	daptomycin
+T12	Bacteria 2276 2287	enterococci
+T13	Antibiotic 241 251	vancomycin
+T14	Antibiotic 481 491	vancomycin
+T15	Gene 1082 1086	GdpD
+T16	Protein 1037 1044	enzymes
+T17	Gene 1152 1155	Cls
+T18	Protein 1356 1360	LiaF
+T19	Protein 1247 1251	LiaF
+T20	Protein 1572 1576	liaF
+T21	Protein 1665 1670	 gdpD
+T22	Protein 1535 1539	liaF
+T23	Antibiotic_target_alteration 1516 1527	Replacement
+E1	Antibiotic_target_alteration:T23 Cause:T9
+T24	Antibiotic_target_replacement 1700 1711	Replacement
+E2	Antibiotic_target_replacement:T24 Cause:T10
+T25	Protein 1733 1737	gdpD
+T26	Protein 1724 1728	liaF
+T27	Protein 1772 1776	liaF
+T28	Protein 1781 1785	gdpD
+T29	Antibiotic 1930 1940	daptomycin
+T30	Protein 2119 2123	LiaF
+T31	Protein 2131 2135	GdpD
+T32	Antibiotic_target_alteration 2091 2100	Mutations
+E3	Antibiotic_target_alteration:T32 Cause:T11
+T33	Antibiotic 2254 2264	vancomycin

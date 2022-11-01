@@ -1,0 +1,17 @@
+T1	Bacteria 566 583	Bacillus subtilis
+T2	Bacteria 630 660	Gram-negative Escherichia coli
+T3	Protein 45 48	ABC
+T4	Gene 255 259	bcrA
+T5	Gene 261 265	bcrB
+T6	Gene 270 274	bcrC
+T7	Protein 295 299	BcrA
+T8	Protein 393 396	ABC
+T9	Gene 432 436	bcrB
+T10	Gene 441 445	bcrC
+T11	Protein 692 695	Bcr
+T12	Protein 834 838	BcrA
+T13	Protein 985 988	Bcr
+T14	Protein 1081 1084	Bcr
+T15	Antibiotic_efflux 49 60	transporter
+E1	Antibiotic_efflux:T15 Theme:T1
+E2	Antibiotic_efflux:T15 Theme:T2

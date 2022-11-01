@@ -1,0 +1,11 @@
+T1	Antibiotic 0 13	Spectinomycin
+T2	Bacteria 28 42	Neisseria spp.
+T4	Antibiotic 75 88	Spectinomycin
+T5	Bacteria 227 243	Escherichia coli
+T6	Antibiotic_target_alteration 197 206	mutations
+E2	Antibiotic_target_alteration:T6 Theme:T9 Cause:T4
+T8	Bacteria 124 146	Neisseria meningitidis
+T9	Bacteria 152 173	Neisseria gonorrhoeae
+E5	Antibiotic_target_alteration:T6 Theme:T8 Cause:T4
+T10	Antibiotic_target_alteration 50 59	mutations
+E6	Antibiotic_target_alteration:T10 Theme:T2 Cause:T1

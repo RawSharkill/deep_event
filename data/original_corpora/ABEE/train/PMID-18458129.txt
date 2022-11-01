@@ -1,0 +1,3 @@
+Molecular characterization of Enterococcus faecalis N06-0364 with low-level  vancomycin resistance harboring a novel D-Ala-D-Ser gene cluster, vanL. 
+
+Enterococcus faecalis N06-0364, exhibiting a vancomycin MIC of 8 microg/ml, was  found to harbor a novel D-Ala-D-Ser gene cluster, designated vanL. The vanL gene   cluster was similar in organization to the vanC operon, but the VanT serine  racemase was encoded by two separate genes, vanTm(L) (membrane binding) and  vanTr(L) (racemase).

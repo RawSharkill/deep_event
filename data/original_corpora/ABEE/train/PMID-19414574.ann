@@ -1,0 +1,17 @@
+T1	Antibiotic 13 23	vancomycin
+T2	Bacteria 48 80	Desulfitobacterium hafniense Y51
+T3	Antibiotic 101 111	vancomycin
+T4	Bacteria 486 518	Desulfitobacterium hafniense Y51
+T5	Bacteria 693 710	D. hafniense  Y51
+*	Equiv T5 T4
+T6	Bacteria 930 946	D. hafniense Y51
+T7	Antibiotic 971 981	vancomycin
+T8	Antibiotic 1071 1081	vancomycin
+T9	Gene 223 227	vanH
+T10	Gene 229 233	vanA
+T11	Gene 239 244	 vanX
+T12	Bacteria 157 180	gram-positive organisms
+T13	Bacteria 316 335	pathogenic bacteria
+T14	Gene 540 544	vanA
+T15	Antibiotic 624 634	vancomycin
+T16	Gene 896 900	VanA

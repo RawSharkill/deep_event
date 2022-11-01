@@ -1,0 +1,36 @@
+T1	Bacteria 37 60	Escherichia coli strain
+T2	Antibiotic 94 104	quinolones
+T3	Antibiotic 107 116	Quinolone
+T4	Bacteria 230 246	Escherichia coli
+T5	Antibiotic 317 328	norfloxacin
+T6	Bacteria 362 374	E. coli KL16
+T7	Antibiotic 376 387	norfloxacin
+T8	Antibiotic 518 529	norfloxacin
+T10	Antibiotic 688 699	norfloxacin
+T12	Antibiotic 772 783	norfloxacin
+T19	Bacteria 1045 1049	KL16
+T20	Bacteria 885 889	KL16
+T21	Bacteria 971 975	KL16
+T22	Bacteria 853 857	KL16
+T23	Bacteria 621 625	KL16
+*	Equiv T23 T6
+T24	Antibiotic 1095 1107	norfloxacin.
+T25	Antibiotic 1176 1185	ofloxacin
+T26	Antibiotic 1190 1203	ciprofloxacin
+T27	Antibiotic 1244 1254	novobiocin
+T28	Antibiotic 1259 1270	coumermycin
+T29	Antibiotic 1288 1313	aminoglycoside gentamicin
+T31	Antibiotic 1404 1425	beta-lactam cefoxitin
+T30	Antibiotic 1580 1589	quinolone
+T32	Antibiotic 1660 1670	quinolones
+T33	Antibiotic 1811 1821	quinolones
+T9	Bacteria 577 580	DS1
+T11	Bacteria 704 707	DS1
+T13	Bacteria 800 803	DS1
+T14	Bacteria 1037 1040	DS1
+T15	Bacteria 1353 1356	DS1
+T16	Bacteria 1427 1430	DS1
+T17	Bacteria 1108 1111	DS1
+T18	Bacteria 859 862	DS1
+T34	Protein 1142 1154	DNA gyrase A
+T35	Protein 1209 1222	DNA  gyrase B

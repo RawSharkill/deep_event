@@ -1,0 +1,36 @@
+T1	Antibiotic 21 30	quinolone
+T2	Bacteria 86 103	Proteus mirabilis
+T3	Antibiotic 256 265	quinolone
+T4	Bacteria 337 355	Proteus  mirabilis
+T5	Antibiotic 481 491	ampicillin
+T6	Antibiotic 493 509	sulfamethoxazole
+T7	Antibiotic 516 528	trimethoprim
+T8	Bacteria 606 626	Escherichia coli J53
+T9	Antibiotic 687 696	quinolone
+T10	Antibiotic 786 799	ciprofloxacin
+T11	Bacteria 1094 1107	E. coli TOP10
+T12	Bacteria 1512 1530	Enterobacteriaceae
+T13	Antibiotic 1538 1547	quinolone
+T14	Bacteria 1649 1661	P. mirabilis
+*	Equiv T14 T4
+T15	Gene 48 52	qnrC
+T16	Gene 170 174	qnrB
+T17	Gene 179 183	qnrS
+T18	Gene 159 162	qnr
+T19	Gene 130 134	qnrA
+T20	Antibiotic 590 595	azide
+T21	Gene 746 749	qnr
+T22	Gene 758 771	aac(6')-Ib-cr
+T23	Gene 776 780	qepA
+T24	Gene 1148 1154	666-bp
+T25	Protein 1257 1267	amino acid
+T26	Gene 1307 1311	QnrD
+T27	Gene 1296 1301	QnrS1
+T28	Gene 1289 1294	QnrB1
+T29	Gene 1282 1287	QnrA1
+T30	Gene 1340 1344	qnrC
+T31	Gene 1447 1451	qnrC
+T32	Gene 1567 1571	qnrC
+T33	Gene 1213 1217	QnrC
+T34	Protein 1193 1203	amino-acid
+T35	Gene 1173 1177	qnrC

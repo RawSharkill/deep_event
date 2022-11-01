@@ -1,0 +1,8 @@
+T1	Bacteria 39 62	Acinetobacter baumannii
+T2	Bacteria 105 128	Acinetobacter baumannii
+T3	Bacteria 278 290	A. baumannii
+*	Equiv T3 T2
+T4	Protein 21 25	OprD
+T5	Reduced_permeability_to_antibiotic 213 225	permeability
+E1	Reduced_permeability_to_antibiotic:T5 Theme:T2
+T6	Protein 497 501	OprD

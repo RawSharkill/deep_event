@@ -1,0 +1,9 @@
+T1	Bacteria 107 123	Escherichia coli
+T2	Antibiotic 57 67	netilmicin
+T3	Antibiotic 73 84	ceftriaxone
+T4	Antibiotic 171 181	netilmicin
+T5	Antibiotic 186 197	ceftriaxone
+T6	Bacteria 269 285	Escherichia coli
+T7	Bacteria 585 592	E. coli
+*	Equiv T7 T1
+T8	Bacteria 896 903	E. coli

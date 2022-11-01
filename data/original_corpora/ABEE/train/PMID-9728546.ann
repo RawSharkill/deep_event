@@ -1,0 +1,18 @@
+T1	Antibiotic 14 23	isoniazid
+T2	Bacteria 38 64	Mycobacterium tuberculosis
+T3	Bacteria 352 378	Mycobacterium tuberculosis
+T4	Bacteria 469 485	Escherichia coli
+T5	Antibiotic 1027 1036	isoniazid
+T6	Protein 392 396	InhA
+T7	Antibiotic 135 144	isoniazid
+T8	Antibiotic_target_alteration 113 120	mutants
+E1	Antibiotic_target_alteration:T8 Cause:T1 Theme:T2
+T9	Antibiotic_target_alteration 177 184	Mutants
+E2	Antibiotic_target_alteration:T9 Cause:T10 Theme:T3
+T10	Antibiotic 310 319	isoniazid
+T11	Antibiotic_target_replacement 438 450	replacements
+E3	Antibiotic_target_replacement:T11 Theme:T4
+T12	Protein 427 437	amino acid
+T13	Gene 984 988	KatG
+T14	Antibiotic_inactivation 1061 1071	inactivate
+E4	Antibiotic_inactivation:T14 Cause:T5

@@ -1,0 +1,17 @@
+T1	Bacteria 130 156	Mycobacterium tuberculosis
+T2	Antibiotic 171 187	fluoroquinolones
+T3	Antibiotic 250 260	quinolones
+T4	Bacteria 265 291	Mycobacterium tuberculosis
+T5	Antibiotic 491 506	Fluoroquinolone
+T6	Antibiotic 657 672	fluoroquinolone
+T7	Bacteria 687 702	M. tuberculosis
+*	Equiv T7 T4
+T8	Protein 27 33	gyrase
+T9	Protein 41 48	enzymes
+T10	Antibiotic_target_alteration 58 67	mutations
+E1	Antibiotic_target_alteration:T10 Theme:T1 Cause:T2
+T11	Protein 296 303	gyrases
+T12	Antibiotic_target_alteration 639 648	mutations
+E2	Antibiotic_target_alteration:T12 Cause:T6 Theme:T7
+T13	Antibiotic_target_alteration 349 357	mutation
+E3	Antibiotic_target_alteration:T13 Cause:T3 Theme:T4

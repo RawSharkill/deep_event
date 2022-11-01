@@ -1,0 +1,11 @@
+T1	Antibiotic 468 479	penicillins
+T2	Antibiotic 481 495	cephalosporins
+T3	Antibiotic 500 512	tetracycline
+T4	Bacteria 421 432	Bacteroides
+T5	Antibiotic 666 676	penicillin
+T6	Antibiotic 678 690	tetracycline
+T7	Antibiotic 695 706	clindamycin
+T8	Antibiotic 580 591	clindamycin
+T9	Antibiotic 593 602	cefoxitin
+T10	Antibiotic 625 638	metronidazole
+T11	Antibiotic 604 619	chloramphenicol

@@ -1,0 +1,15 @@
+T1	Bacteria 53 75	Haemophilus influenzae
+T2	Bacteria 81 105	Streptococcus pneumoniae
+T3	Bacteria 391 413	Haemophilus influenzae
+T4	Bacteria 418 442	Streptococcus pneumoniae
+T5	Bacteria 535 548	H. influenzae
+*	Equiv T5 T3
+T6	Bacteria 579 590	Haemophilus
+T7	Bacteria 651 664	S. pneumoniae
+*	Equiv T7 T4
+T8	Antibiotic 1289 1299	Ampicillin
+T9	Bacteria 1335 1348	H. influenzae
+T10	Antibiotic 1544 1554	penicillin
+T11	Bacteria 1564 1575	pneumococci
+T12	Bacteria 1871 1884	H. influenzae
+T13	Bacteria 1921 1934	S. pneumoniae

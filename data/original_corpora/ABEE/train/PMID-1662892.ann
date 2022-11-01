@@ -1,0 +1,17 @@
+T1	Antibiotic 42 54	temafloxacin
+T2	Antibiotic 86 98	temafloxacin
+T3	Antibiotic 109 125	fluoroquinolones
+T4	Antibiotic 332 348	fluoroquinolones
+T5	Antibiotic 482 494	temafloxacin
+T6	Antibiotic 684 696	temafloxacin
+T7	Antibiotic 816 828	Temafloxacin
+T8	Antibiotic 883 894	methicillin
+T9	Antibiotic 910 921	methicillin
+T10	Bacteria 932 953	Staphylococcus aureus
+T11	Antibiotic 968 981	ciprofloxacin
+T12	Antibiotic 987 996	ofloxacin
+T13	Antibiotic 1026 1042	fluoroquinolones
+T14	Antibiotic_target_alteration 376 385	mutations
+E1	Antibiotic_target_alteration:T14 Cause:T4
+T15	Antibiotic_target_alteration 653 661	mutation
+E2	Antibiotic_target_alteration:T15 Cause:T6

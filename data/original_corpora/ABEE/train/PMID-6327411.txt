@@ -1,0 +1,3 @@
+The structure and expression of the mercury-resistance transposon Tn501.
+
+The nucleotide sequence of the mercury-resistance transposon Tn501 has been  determined and the functional regions have been identified by a variety of  techniques. The transposition gene products are structurally and functionally  homologous to those of other transposons in the Tn3 family and of other  recombination systems. The expression of the transposition genes may be regulated  coordinately with that of the mercury-resistance genes. Comparison of related  transposons suggests mechanisms for their evolution.

@@ -1,0 +1,10 @@
+T1	Antibiotic 27 35	ethidium
+T2	Antibiotic_efflux 36 42	efflux
+E1	Antibiotic_efflux:T2 Cause:T1 Theme:T3
+T3	Bacteria 53 69	Escherichia coli
+T4	Antibiotic 124 132	ethidium
+T5	Antibiotic_efflux 133 139	efflux
+E2	Antibiotic_efflux:T5 Cause:T4 Theme:T6
+T6	Bacteria 151 167	Escherichia coli
+T7	Bacteria 333 347	staphylococcal
+T9	Antibiotic 382 390	ethidium

@@ -1,0 +1,24 @@
+T1	Antibiotic 32 44	tetracycline
+T2	Bacteria 72 96	Streptococcus mutans DL5
+T4	Bacteria 100 124	Streptococcus mutans DL5
+T5	Antibiotic 201 213	streptomycin
+T6	Antibiotic 230 242	erythromycin
+T7	Antibiotic 263 275	tetracycline
+T8	Bacteria 570 591	Streptococcus sanguis
+T9	Bacteria 719 722	DL5
+*	Equiv T9 T4
+T10	Bacteria 877 886	S. mutans
+T11	Bacteria 1106 1115	S. mutans
+T12	Bacteria 1175 1185	S. sanguis
+*	Equiv T12 T8
+T13	Bacteria 1406 1424	Campylobacter coli
+T14	Bacteria 1690 1697	C. coli
+*	Equiv T14 T13
+T15	Bacteria 1702 1722	Campylobacter jejuni
+T3	Gene 61 65	tetO
+T16	Antibiotic_inactivation 916 925	hybridize
+E1	Antibiotic_inactivation:T16 
+T17	Gene 1199 1202	Tcr
+T18	Gene 1140 1144	Tcr,
+T19	Gene 1379 1383	tetO
+T20	Gene 1673 1676	Tcr

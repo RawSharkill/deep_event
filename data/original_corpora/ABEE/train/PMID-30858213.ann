@@ -1,0 +1,15 @@
+T1	Bacteria 77 103	Mycobacterium tuberculosis
+T2	Antibiotic 150 162	Pyrazinamide
+T3	Antibiotic 166 178	Pyrazinamide
+T4	Antibiotic 180 183	PZA
+*	Equiv T4 T3
+T5	Antibiotic 448 451	PZA
+T6	Antibiotic 490 493	PZA
+T7	Antibiotic 428 431	PZA
+T8	Bacteria 616 642	Mycobacterium tuberculosis
+T9	Antibiotic 727 730	PZA
+T10	Gene 683 687	RspA
+T11	Antibiotic 323 327	 PZA
+T12	Gene 410 414	RpsA
+T13	Antibiotic_target_alteration 598 606	mutation
+E1	Antibiotic_target_alteration:T13 Theme:T8

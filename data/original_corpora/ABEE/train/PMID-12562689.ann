@@ -1,0 +1,21 @@
+T2	Bacteria 271 293	Pseudomonas aeruginosa
+T1	Bacteria 417 433	Escherichia coli
+T3	Antibiotic 1034 1045	penicillins
+T4	Antibiotic 1047 1061	cephalosporins
+T5	Antibiotic 1067 1078	carbapenems
+T6	Protein 1419 1429	amino acid
+T7	Protein 1284 1294	amino acid
+T8	Protein 830 835	VIM-1
+T10	Protein 1094 1099	VIM-1
+T11	Protein 1101 1106	VIM-2
+T12	Protein 86 113	VIM metallo-beta-lactamases
+T13	Protein 46 78	VIM-type metallo-beta-lactamases
+T14	Protein 921 926	VIM-2
+T15	Protein 763 768	VIM-2
+T16	Protein 399 404	VIM-2
+T17	Bacteria 304 327	Gram-negative pathogens
+T18	Protein 847 862	VIM-type enzyme
+T19	Protein 521 527	enzyme
+T20	Protein 1395 1402	enzymes
+T9	Antibiotic_target_alteration 377 391	overproduction
+E1	Antibiotic_target_alteration:T9 Theme:T1

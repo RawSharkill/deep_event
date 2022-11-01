@@ -1,0 +1,7 @@
+T1	Bacteria 15 37	gram-negative bacteria
+T2	Antibiotic 55 70	aminoglycosides
+T3	Antibiotic 76 86	quinolones
+T4	Antibiotic 1164 1174	quinolones
+T5	Antibiotic 1144 1159	aminoglycosides
+T6	Antibiotic 1130 1142	beta-lactams
+T7	Bacteria 1010 1024	enterobacteria

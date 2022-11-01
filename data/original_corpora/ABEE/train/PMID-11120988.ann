@@ -1,0 +1,11 @@
+T2	Bacteria 97 121	Streptococcus pneumoniae
+T3	Antibiotic 51 73	16-membered macrolides
+T4	Antibiotic 79 93	streptogramins
+T5	Antibiotic_target_alteration 0 20	Mutation in 23S rRNA
+E3	Antibiotic_target_alteration:T5 Theme:T2
+T6	Bacteria 125 173	Streptococcus pneumoniae clinical isolate BM4455
+T8	Antibiotic 191 214	16-membered  macrolides
+T9	Antibiotic 222 236	streptogramins
+T10	Bacteria 297 313	Escherichia coli
+T12	Antibiotic_target_alteration 325 333	mutation
+E7	Antibiotic_target_alteration:T12 Theme:T6

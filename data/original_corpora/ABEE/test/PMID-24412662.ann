@@ -1,0 +1,64 @@
+T1	Antibiotic 57 65	colistin
+T3	Bacteria 81 103	Pseudomonas aeruginosa
+T4	Antibiotic_target_alteration 0 9	Mutations
+E2	Antibiotic_target_alteration:T4 Theme:T3 Cause:T1
+T5	Antibiotic 157 165	colistin
+T7	Antibiotic 283 291	colistin
+T9	Bacteria 342 365	Pseudomonas  aeruginosa
+T16	Bacteria 640 653	P. aeruginosa
+T17	Bacteria 655 659	CNPA
+T20	Bacteria 828 842	P.  aeruginosa
+T23	Bacteria 1178 1181	P5R
+T24	Bacteria 1186 1191	P155R
+T25	Antibiotic_target_alteration 1169 1176	mutants
+E10	Antibiotic_target_alteration:T25 Theme:T24 Cause:T56
+E11	Antibiotic_target_alteration:T25 Theme:T23 Cause:T56
+T26	Bacteria 1276 1278	P5
+T27	Bacteria 1283 1287	P155
+T30	Bacteria 1335 1342	P5R-rev
+T31	Bacteria 1347 1356	P155R-rev
+T33	Antibiotic 1568 1576	colistin
+T34	Bacteria 1580 1593	P. aeruginosa
+T35	Antibiotic 1714 1722	colistin
+T37	Antibiotic 1778 1786	colistin
+T39	Antibiotic 1871 1879	colistin
+*	Equiv T20 T3
+T2	Protein 28 33	PmrAB
+T6	Protein 38 43	PhoPQ
+T8	Protein 262 267	PmrAB
+T10	Protein 272 277	PhoPQ
+T11	Gene 506 510	pmrA
+T12	Gene 512 516	phoP
+T13	Gene 519 523	parR
+T14	Gene 525 529	cprR
+T15	Gene 535 539	pmrH
+T18	Protein 694 698	PmrB
+T19	Protein 713 717	PmrA
+T21	Protein 722 726	PhoQ
+T22	Antibiotic_target_replacement 589 602	substitutions
+E1	Antibiotic_target_replacement:T22 Theme:T16 Cause:T28
+T28	Antibiotic 616 624	colistin
+T29	Gene 929 933	pmrA
+T32	Gene 938 942	phoP
+T36	Protein 1076 1081	PmrAB
+T38	Protein 1086 1091	PhoPQ
+T40	Gene 982 986	pmrA
+T41	Gene 995 999	phoP
+T42	Gene 1228 1232	pmrA
+T43	Gene 1234 1238	phoP
+T44	Gene 1387 1391	parR
+T45	Gene 1396 1400	cprR
+T46	Protein 1483 1488	PmrAB
+T47	Protein 1492 1497	PhoPQ
+T48	Gene 1638 1643	pmrAB
+T49	Gene 1651 1656	phoPQ
+T50	Gene 1689 1693	pmrH
+T51	Gene 1749 1754	pmrAB
+T52	Gene 1758 1763	phoPQ
+T53	Gene 1244 1248	pmrH
+T54	Antibiotic 309 317	colistin
+T55	Antibiotic 448 456	colistin
+T56	Antibiotic 1150 1158	colistin
+T57	Antibiotic 1294 1302	colistin
+T58	Antibiotic 409 417	colistin
+T59	Antibiotic 807 815	colistin

@@ -1,0 +1,10 @@
+T1	Antibiotic_efflux 86 92	efflux
+E1	Antibiotic_efflux:T1 Cause:T3 Theme:T2
+T2	Bacteria 135 151	Escherichia coli
+T3	Antibiotic 200 210	bile salts
+T4	Protein 63 67	AcrB
+T5	Protein 100 104	AcrA
+T6	Protein 105 109	AcrB
+T7	Protein 110 114	TolC
+T8	Protein 257 261	AcrB
+T9	Protein 411 415	AcrB

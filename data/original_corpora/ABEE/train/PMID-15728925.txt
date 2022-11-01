@@ -1,0 +1,3 @@
+Integrons and transposons on the Salmonella enterica serovar typhimurium  virulence plasmid. 
+
+A virulence plasmid was identified in a multidrug-resistant Salmonella enterica  serotype Typhimurium strain carrying the spvC, rck, and pefA virulence genes and   two class 1 integrons linked to the Tn21 and Tn1696 transposons. A novel  trimethoprim resistance gene, designated dfrA23, was also identified within the  integron region. The association of multidrug resistance and virulence  determinants represents an interesting example of virulence plasmid evolution.

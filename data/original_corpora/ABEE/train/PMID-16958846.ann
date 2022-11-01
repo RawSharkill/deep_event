@@ -1,0 +1,20 @@
+T1	Bacteria 56 83	Lactococcus lactis  strains
+T2	Bacteria 258 289	Lactococcus lactis  ssp. lactis
+T3	Bacteria 307 339	Lactococcus lactis ssp. cremoris
+T4	Bacteria 357 378	Lactococcus plantarum
+T5	Bacteria 399 424	Lactococcus raffinolactis
+T6	Bacteria 474 483	L. lactis
+*	Equiv T6 T2
+T7	Bacteria 583 599	L. raffinolactis
+*	Equiv T7 T5
+T8	Bacteria 605 617	L. plantarum
+*	Equiv T8 T4
+T9	Bacteria 817 826	L. lactis
+T10	Gene 194 199	 lmrA
+T11	Gene 201 205	lmrP
+T12	Gene 217 221	lmrD
+T13	Gene 207 211	lmrC
+T14	Gene 835 839	lmrA
+T15	Gene 846 850	lmrP
+T16	Gene 926 931	 lmrD
+T17	Protein 728 738	amino acid

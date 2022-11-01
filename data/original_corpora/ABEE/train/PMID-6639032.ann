@@ -1,0 +1,9 @@
+T1	Antibiotic 0 19	Hexavalent chromium
+T2	Antibiotic 71 90	Hexavalent chromium
+T3	Antibiotic 92 98	Cr(VI)
+*	Equiv T3 T2
+T4	Antibiotic 232 238	Cr(VI)
+T5	Bacteria 1865 1887	heterotrophic bacteria
+T6	Bacteria 1856 1863	aerobic
+T7	Antibiotic 1559 1561	Cr
+T8	Antibiotic 1401 1403	Cr

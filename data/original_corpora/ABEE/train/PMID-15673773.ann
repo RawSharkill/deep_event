@@ -1,0 +1,9 @@
+T1	Antibiotic 28 37	quinolone
+T2	Bacteria 81 101	Shigella flexneri 2b
+T4	Antibiotic 122 131	quinolone
+T5	Bacteria 216 236	Shigella flexneri 2b
+T6	Antibiotic 260 276	fluoroquinolones
+T9	Antibiotic 324 334	quinolones
+T10	Bacteria 339 361	Escherichia coli HB101
+T3	Protein 406 416	amino acid
+T7	Protein 432 435	Qnr

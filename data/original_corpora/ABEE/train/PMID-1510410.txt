@@ -1,0 +1,3 @@
+Biochemical characterization of the metallo-beta-lactamase CcrA from Bacteroides   fragilis TAL3636. 
+
+The CcrA beta-lactamase from Bacteroides fragilis TAL3636 was cloned into  Escherichia coli and purified from inclusion bodies. This group 3 metalloenzyme  hydrolyzed most beta-lactam antibiotics, including cephamycins and carbapenems.  Following inhibition by chelators, enzyme activity was recovered with the cations  Zn2+ and Co2+. Clavulanate and sulbactam were activators; tazobactam at 10 microM  inactivated the enzyme.

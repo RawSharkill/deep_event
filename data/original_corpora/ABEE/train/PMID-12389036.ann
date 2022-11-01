@@ -1,0 +1,32 @@
+T3	Bacteria 85 106	Staphylococcus aureus
+T4	Antibiotic 25 36	beta lactam
+T6	Antibiotic_target_replacement 37 47	resistance
+E3	Antibiotic_target_replacement:T6 Theme:T3 Cause:T25
+T9	Bacteria 182 203	Staphylococcus aureus
+T10	Bacteria 205 209	MRSA
+T11	Antibiotic 301 312	beta-lactam
+T13	Bacteria 327 331	MRSA
+T14	Antibiotic_target_replacement 359 366	binding
+E6	Antibiotic_target_replacement:T14 Theme:T13 Cause:T11
+T15	Antibiotic 420 432	beta-lactams
+T16	Antibiotic 506 517	beta-lactam
+T17	Bacteria 599 608	S. aureus
+T18	Antibiotic_target_replacement 538 545	inhibit
+E7	Antibiotic_target_replacement:T18 Theme:T17
+T19	Antibiotic 1115 1127	beta-lactams
+T8	Protein 379 384	PBP2a
+*	Equiv T10 T9
+T1	Protein 434 439	PBP2a
+T5	Protein 840 845	PBP2a
+T12	Protein 51 56	PBP2a
+T20	Protein 990 996	 PBP2a
+T21	Protein 572 576	PBPs
+T22	Protein 661 666	PBP2a
+T23	Protein 966 969	PBP
+T24	Protein 780 783	PBP
+T2	Antibiotic 148 159	methicillin
+T25	Antibiotic 63 74	methicillin
+T26	Antibiotic 863 875	penicillin G
+T27	Antibiotic 851 861	nitrocefin
+T28	Antibiotic 880 891	methicillin
+T7	Antibiotic 348 358	penicillin

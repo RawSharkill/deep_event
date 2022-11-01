@@ -1,0 +1,30 @@
+T1	Antibiotic 24 33	meropenem
+T2	Bacteria 42 64	Pseudomonas aeruginosa
+T3	Antibiotic 164 176	beta-lactams
+T4	Bacteria 180 202	Pseudomonas aeruginosa
+T5	Antibiotic 284 296	beta-lactams
+T6	Antibiotic 304 312	imipenem
+T7	Antibiotic 391 399	imipenem
+T8	Antibiotic 463 490	antipseudomonal penicillins
+T9	Antibiotic 492 504	cefoperazone
+T10	Antibiotic 510 520	cefsulodin
+T11	Antibiotic 593 605	beta-lactams
+T12	Antibiotic 613 626	carbenicillin
+T13	Antibiotic 631 639	imipenem
+T14	Bacteria 680 693	P. aeruginosa
+*	Equiv T14 T2
+T15	Antibiotic 641 650	Meropenem
+T16	Antibiotic 756 765	Meropenem
+T17	Antibiotic 1008 1016	imipenem
+T18	Antibiotic 1328 1337	meropenem
+T19	Bacteria 1399 1412	P. aeruginosa
+T20	Antibiotic 1552 1562	carbapenem
+T21	Reduced_permeability_to_antibiotic 219 233	impermeability
+E1	Reduced_permeability_to_antibiotic:T21 Cause:T5
+T22	Bacteria 1141 1159	P. aeruginosa PU21
+T23	Protein 1052 1055	TEM
+T24	Protein 1058 1061	OXA
+T25	Protein 1065 1068	PSE
+T26	Protein 1258 1263	NPS-1
+T27	Protein 1265 1270	PSE-2
+T28	Protein 1275 1280	OXA-3

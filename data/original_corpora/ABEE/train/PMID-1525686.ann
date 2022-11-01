@@ -1,0 +1,22 @@
+T1	Antibiotic 29 39	dactimicin
+T2	Antibiotic 44 54	isepamicin
+T3	Antibiotic 233 243	astromicin
+T4	Antibiotic 245 255	Dactimicin
+T5	Antibiotic 337 351	aminoglycoside
+T6	Antibiotic 438 450	gentamicin B
+T7	Antibiotic 375 385	Isepamicin
+T8	Antibiotic 484 498	aminoglycoside
+T9	Bacteria 534 557	gram-negative bacterial
+T10	Antibiotic 654 664	dactimicin
+T11	Antibiotic 669 679	isepamicin
+T12	Antibiotic 689 697	amikacin
+T13	Antibiotic 703 713	gentamicin
+T14	Protein 753 760	AAC/6'/
+T15	Protein 782 789	AAC/6'/
+T16	Protein 792 799	ANT/2"/
+T17	Antibiotic 809 819	Dactimicin
+T18	Protein 876 884	AAC/3/-I
+T19	Protein 1001 1008	AAC/6'/
+T20	Protein 1013 1019	AAC/3/
+T21	Bacteria 79 97	gram-negative rods
+T22	Antibiotic 128 138	Dactamicin

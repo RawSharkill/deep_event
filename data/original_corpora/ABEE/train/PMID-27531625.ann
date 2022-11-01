@@ -1,0 +1,39 @@
+T1	Bacteria 25 50	Capnocytophaga gingivalis
+T2	Bacteria 184 204	Capnocytophaga genus
+T3	Antibiotic 274 309	macrolide-lincosamide-streptogramin
+T4	Antibiotic 311 314	MLS
+*	Equiv T4 T3
+T5	Antibiotic 423 438	fluoroquinolone
+T6	Antibiotic 440 442	FQ
+*	Equiv T6 T5
+T7	Bacteria 735 760	Capnocytophaga gingivalis
+T8	Bacteria 812 824	C.gingivalis
+*	Equiv T8 T7
+T9	Antibiotic 898 901	MLS
+T10	Antibiotic 865 879	cephalosporins
+T11	Antibiotic 921 937	fluoroquinolones
+T12	Antibiotic 987 1002	fluoroquinolone
+T13	Bacteria 1122 1142	Capnocytophaga genus
+T14	Bacteria 1201 1220	Capnocytophaga spp.
+T15	Bacteria 1449 1461	C.gingivalis
+T16	Antibiotic 1541 1544	MLS
+T17	Antibiotic 253 264	beta-lactam
+T18	Antibiotic 266 268	BL
+*	Equiv T18 T17
+T19	Antibiotic 1537 1539	BL
+T20	Antibiotic 1549 1551	FQ
+T21	Bacteria 1567 1581	Capnocytophaga
+T22	Bacteria 1650 1663	C. gingivalis
+T23	Antibiotic 1671 1673	FQ
+T24	Bacteria 1703 1715	C. sputigena
+T25	Bacteria 1755 1768	C. gingivalis
+T26	Gene 1052 1056	GyrA
+T27	Antibiotic 1317 1319	BL
+T28	Antibiotic 1354 1357	MLS
+T29	Antibiotic 1395 1397	FQ
+T30	Gene 371 379	blaCSP-1
+T31	Gene 384 391	blaCfxA
+T32	Gene 398 404	erm(F)
+T33	Gene 410 416	erm(C)
+T34	Gene 881 889	blaCfxA3
+T35	Gene 903 909	erm(F)

@@ -1,0 +1,17 @@
+T1	Bacteria 619 641	Pseudomonas aeruginosa
+T2	Antibiotic_efflux 889 895	efflux
+E1	Antibiotic_efflux:T2 Theme:T3
+T3	Bacteria 905 920	P.   aeruginosa
+T4	Bacteria 1567 1580	P. aeruginosa
+T5	Antibiotic_efflux 1600 1611	transporter
+E2	Antibiotic_efflux:T5 Theme:T4
+*	Equiv T3 T1
+T6	Protein 87 91	MexB
+T7	Protein 1002 1005	RND
+T8	Protein 1035 1038	OMF
+T9	Protein 1076 1079	MFP
+T10	Protein 1086 1089	RND
+T11	Protein 1094 1097	OMF
+T12	Protein 1550 1553	RND
+T13	Protein 1581 1585	MexB
+T14	Protein 146 149	MDR

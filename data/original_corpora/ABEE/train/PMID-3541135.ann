@@ -1,0 +1,38 @@
+T1	Antibiotic 14 25	beta-lactam
+T3	Antibiotic 85 96	beta-lactam
+T5	Antibiotic 249 261	beta-lactams
+T6	Antibiotic 321 332	beta-lactam
+T7	Bacteria 409 420	Bacteroides
+T8	Bacteria 422 435	Fusobacterium
+T9	Bacteria 441 460	Clostridium species
+T10	Antibiotic 483 494	beta-Lactam
+T11	Bacteria 509 529	Bacteroides fragilis
+T12	Antibiotic 612 633	cephalosporinase type
+T13	Bacteria 664 675	B. fragilis
+*	Equiv T13 T11
+T14	Antibiotic 722 734	piperacillin
+T15	Antibiotic 739 752	carbenicillin
+T16	Antibiotic 779 788	cefoxitin
+T17	Antibiotic 793 801	imipenem
+T18	Bacteria 826 837	B. fragilis
+T19	Bacteria 844 875	nonfragilis Bacteroides species
+T20	Bacteria 965 988	Fusobacterium nucleatum
+T21	Bacteria 1024 1034	clostridia
+T22	Bacteria 1036 1057	Clostridium butyricum
+T23	Bacteria 1059 1087	clostridium  clostridiiforme
+T24	Bacteria 1092 1111	Clostridium ramosum
+T2	Bacteria 111 129	anaerobic bacteria
+T4	Bacteria 40 58	anaerobic bacteria
+T25	Antibiotic 184 202	penicillin-binding
+T26	Antibiotic_target_alteration 170 180	alteration
+E1	Antibiotic_target_alteration:T26 Cause:T25 Theme:T2
+T27	Antibiotic_inactivation 710 721	inactivates
+E2	Antibiotic_inactivation:T27 Cause:T14 Theme:T13
+E3	Antibiotic_inactivation:T27 Cause:T15 Theme:T13
+T28	Antibiotic_inactivation 768 778	inactivate
+E4	Antibiotic_inactivation:T28 Cause:T16 Theme:T18
+T29	Antibiotic_inactivation 769 778	nactivate
+E5	Antibiotic_inactivation:T29 Cause:T17 Theme:T18
+T30	Protein 946 959	penicillinase
+T31	Protein 915 928	penicillinase
+T32	Protein 365 379	beta-lactamase

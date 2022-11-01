@@ -1,0 +1,21 @@
+T1	Bacteria 135 157	Gram-negative bacteria
+T2	Antibiotic_efflux 116 127	transporter
+E1	Antibiotic_efflux:T2 Theme:T1 Cause:T3
+T3	Antibiotic 204 225	macrolide antibiotics
+T5	Bacteria 283 299	Escherichia coli
+T6	Bacteria 663 699	Actinobacillus actinomycetemcomitans
+T4	Protein 47 51	MacB
+T7	Protein 66 71	ABC  
+T8	Protein 107 110	ABC
+T9	Protein 86 90	MacB
+T10	Protein 301 305	MacB
+T11	Protein 344 348	MacA
+T12	Protein 396 400	TolC
+T13	Protein 466 470	MacB
+T14	Protein 486 490	MacB
+T15	Protein 561 567	MacB  
+T16	Protein 582 586	MacA
+T17	Protein 591 595	TolC
+T18	Protein 755 759	MacB
+T19	Protein 844 848	AcrB
+T20	Protein 959 963	MacB

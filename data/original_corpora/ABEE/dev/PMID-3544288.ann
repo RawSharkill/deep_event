@@ -1,0 +1,6 @@
+T1	Antibiotic 26 36	olaquindox
+T2	Antibiotic 68 98	antibacterial agent olaquindox
+T3	Antibiotic 101 165	2-[N-(2-Hydroxy-ethyl)carbamoyl]-3-methyl-quinoxalin-1,4-dioxide
+*	Equiv T2 T3
+T4	Antibiotic 396 406	olaquindox
+T5	Antibiotic 474 484	olaquindox

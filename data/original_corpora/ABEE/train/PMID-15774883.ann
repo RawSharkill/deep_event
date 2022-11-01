@@ -1,0 +1,72 @@
+T1	Antibiotic_efflux 40 46	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 56 77	Staphylococcus aureus
+T3	Antibiotic 354 376	hydrophilic quinolones
+T4	Antibiotic 378 394	ethidium bromide
+T5	Antibiotic 401 410	cetrimide
+T6	Antibiotic 423 435	sparfloxacin
+T7	Antibiotic 437 449	moxifloxacin
+T8	Antibiotic 455 467	tetracycline
+T11	Bacteria 629 647	Bacillus  subtilis
+T12	Antibiotic_efflux 613 625	transporters
+E9	Antibiotic_efflux:T12 Theme:T11
+T13	Antibiotic_efflux 803 809	efflux
+E10	Antibiotic_efflux:T13 Theme:T14
+T14	Bacteria 825 834	S. aureus
+T16	Antibiotic 943 955	tetracycline
+T17	Antibiotic 968 979	minocycline
+T20	Antibiotic 1330 1340	quinolones
+T21	Antibiotic 1420 1432	tetracycline
+T23	Antibiotic 1563 1584	hydrophobic quinolone
+T24	Antibiotic 1605 1617	tetracycline
+*	Equiv T14 T2
+T9	Protein 0 4	MgrA
+T10	Gene 131 135	mgrA
+T15	Protein 216 220	NorB
+T18	Protein 225 230	Tet38
+T19	Protein 232 236	norB
+T22	Protein 311 315	NorB
+T25	Gene 501 505	mgrA
+T26	Antibiotic_target_alteration 506 512	mutant
+E2	Antibiotic_target_alteration:T26 Cause:T3 Theme:T2
+E3	Antibiotic_target_alteration:T26 Cause:T4 Theme:T2
+E4	Antibiotic_target_alteration:T26 Cause:T5 Theme:T2
+E5	Antibiotic_target_alteration:T26 Cause:T6 Theme:T2
+E6	Antibiotic_target_alteration:T26 Cause:T7 Theme:T2
+E7	Antibiotic_target_alteration:T26 Cause:T8 Theme:T2
+T27	Protein 514 518	NorA
+T28	Protein 523 527	NorB
+T29	Protein 555 559	NorB
+T30	Protein 601 604	Bmr
+T31	Protein 609 612	Blt
+T32	Protein 740 745	Tet38
+T33	Protein 797 801	TetK
+T34	Gene 836 841	tet38
+T35	Gene 914 919	tet38
+T36	Gene 997 1001	norB
+T37	Gene 1006 1011	tet38
+T38	Protein 1055 1059	MgrA
+T39	Protein 1080 1084	MgrA
+T40	Gene 1112 1116	norB
+T41	Gene 1122 1127	tet38
+T42	Protein 1182 1186	MgrA
+T43	Gene 1218 1222	norB
+T44	Gene 1227 1232	tet38
+T45	Gene 1249 1253	mgrA
+T46	Gene 1254 1258	norB
+T47	Gene 1350 1354	mgrA
+T48	Antibiotic_target_alteration 1266 1272	mutant
+E8	Antibiotic_target_alteration:T48 Cause:T20
+T49	Gene 1368 1372	mgrA
+T50	Gene 1373 1378	tet38
+T51	Antibiotic_target_alteration 1386 1392	mutant
+E11	Antibiotic_target_alteration:T51 Cause:T21
+T52	Protein 1514 1518	NorB
+T53	Protein 1524 1529	Tet38
+T54	Gene 1636 1640	mgrA
+T55	Protein 1657 1661	MgrA
+T56	Gene 1687 1691	norB
+T57	Gene 1696 1701	tet38
+T58	Gene 1743 1747	norA
+T59	Antibiotic_efflux 674 680	efflux
+E12	Antibiotic_efflux:T59 Theme:T14 Cause:T16

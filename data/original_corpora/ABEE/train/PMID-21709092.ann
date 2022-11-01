@@ -1,0 +1,25 @@
+T1	Antibiotic 60 70	daptomycin
+T2	Bacteria 86 103	Bacillus subtilis
+T3	Antibiotic 107 117	Daptomycin
+T4	Antibiotic 119 122	DAP
+*	Equiv T4 T3
+T5	Bacteria 397 418	Bacillus subtilis 168
+T6	Antibiotic 477 480	DAP
+T7	Antibiotic 582 592	vancomycin
+T8	Antibiotic 594 604	moenomycin
+T9	Antibiotic 610 620	bacitracin
+T10	Antibiotic 962 965	DAP
+T11	Antibiotic 1266 1269	DAP
+T12	Antibiotic 1332 1335	DAP
+T13	Antibiotic 1449 1452	DAP
+T14	Gene 1162 1166	pgsA
+T15	Bacteria 213 235	Gram-positive bacteria
+T16	Antibiotic 340 353	DAP-resistant
+T17	Gene 1078 1082	mreB
+T18	Gene 1112 1116	relA
+T19	Gene 1219 1229	pgsA(A64V)
+T20	Gene 1318 1322	pgsA
+T21	Antibiotic_target_replacement 1290 1302	 replacement
+E1	Antibiotic_target_replacement:T21 Cause:T12
+T22	Antibiotic_target_alteration 1391 1400	mutations
+E2	Antibiotic_target_alteration:T22 Cause:T13

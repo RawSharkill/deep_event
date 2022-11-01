@@ -1,0 +1,23 @@
+T1	Antibiotic 81 93	beta-lactams
+T2	Bacteria 97 119	Haemophilus influenzae
+T3	Antibiotic 155 166	carbapenems
+T4	Antibiotic 234 246	beta-lactams
+T5	Bacteria 263 285	Haemophilus influenzae
+T6	Antibiotic 308 318	ampicillin
+T7	Antibiotic 476 486	Ampicillin
+T8	Antibiotic 545 556	penicillins
+T9	Antibiotic 558 572	cephalosporins
+T10	Antibiotic 578 587	aztreonam
+T11	Antibiotic 615 624	meropenem
+T12	Antibiotic 665 673	imipenem
+T13	Antibiotic 704 718	cephalosporins
+T14	Antibiotic 724 733	aztreonam
+T15	Antibiotic 759 769	ampicillin
+T16	Antibiotic 985 993	imipenem
+T17	Antibiotic 1092 1101	Meropenem
+T18	Antibiotic 1398 1409	penicillins
+T19	Antibiotic 1411 1425	cephalosporins
+T20	Antibiotic 1431 1440	aztreonam
+T21	Bacteria 1444 1457	H. influenzae
+T22	Antibiotic 1505 1516	carbapenems
+*	Equiv T21 T5

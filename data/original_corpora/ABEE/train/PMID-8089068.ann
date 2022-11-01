@@ -1,0 +1,47 @@
+T1	Bacteria 78 100	Pseudomonas aeruginosa
+T2	Bacteria 245 267	Pseudomonas aeruginosa
+T3	Antibiotic 207 217	carbapenem
+T4	Antibiotic 21 29	biapenem
+T5	Antibiotic 172 180	biapenem
+T6	Antibiotic 45 53	imipenem
+T7	Antibiotic 58 67	meropenem
+T8	Antibiotic_target_alteration 113 120	mutants
+E1	Antibiotic_target_alteration:T8 Cause:T6 Theme:T1
+E2	Antibiotic_target_alteration:T8 Cause:T4 Theme:T1
+T9	Bacteria 1200 1213	P. aeruginosa
+T10	Antibiotic 1262 1271	 biapenem
+T11	Antibiotic 1281 1292	carbapenems
+T12	Bacteria 1637 1650	P. aeruginosa
+T13	Antibiotic 1466 1474	imipenem
+T14	Antibiotic 1453 1461	Biapenem
+T15	Antibiotic 1429 1437	imipenem
+T16	Antibiotic 1442 1451	meropenem
+T17	Antibiotic 1404 1412	biapenem
+T18	Reduced_permeability_to_antibiotic 1302 1314	permeability
+E3	Reduced_permeability_to_antibiotic:T18 
+T19	Antibiotic 1347 1357	carbapenem
+T20	Antibiotic_target_alteration 1521 1528	mutants
+E4	Antibiotic_target_alteration:T20 Cause:T14
+T21	Antibiotic 1626 1635	meropenem
+T22	Antibiotic 1739 1751	 penicillins
+T23	Antibiotic 1753 1767	cephalosporins
+T24	Antibiotic 1819 1827	biapenem
+T25	Antibiotic 1832 1840	imipenem
+T26	Antibiotic 1893 1902	meropenem
+T27	Antibiotic 1941 1949	biapenem
+T28	Antibiotic 909 918	meropenem
+T29	Antibiotic_inactivation 980 990	deactivate
+E5	Antibiotic_inactivation:T29 Cause:T28
+T30	Antibiotic 469 479	 meropenem
+T31	Antibiotic 590 598	biapenem
+T32	Antibiotic 603 611	imipenem
+T33	Antibiotic 408 416	imipenem
+T34	Antibiotic 1003 1011	Biapenem
+T35	Antibiotic_inactivation 1049 1059	deactivate
+E6	Antibiotic_inactivation:T35 Cause:T34
+T36	Antibiotic 1969 1980	carbapenems
+T37	Antibiotic_target_alteration 1666 1673	mutants
+E7	Antibiotic_target_alteration:T37 Cause:T23
+E8	Antibiotic_target_alteration:T37 Cause:T22
+E9	Antibiotic_target_alteration:T8 Theme:T1 Cause:T7
+E10	Antibiotic_target_alteration:T20 Cause:T13

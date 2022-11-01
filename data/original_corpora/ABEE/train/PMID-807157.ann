@@ -1,0 +1,24 @@
+T1	Antibiotic 0 10	Penicillin
+T2	Bacteria 35 57	Pseudomonas aeruginosa
+T3	Antibiotic 70 80	penicillin
+T4	Bacteria 86 115	Pseudomonas aeruginosa KM 338
+T5	Antibiotic 161 173	penicillin G
+T6	Bacteria 229 258	Pseudomonas aeruginosa KM 338
+T7	Antibiotic 312 322	penicillin
+T8	Antibiotic 492 504	penicillin G
+T9	Antibiotic 606 619	carbenicillin
+T10	Antibiotic 696 708	penicillin G
+T11	Antibiotic 723 736	carbenicillin
+T12	Antibiotic 891 903	penicillin G
+T13	Antibiotic 909 922	carbenicillin
+T14	Antibiotic 962 974	penicillin G
+T15	Antibiotic 1006 1019	carbenicillin
+T16	Antibiotic 1070 1082	penicillin G
+T17	Antibiotic 1177 1189	penicillin G
+T18	Bacteria 1237 1257	P. aeruginosa KM 338
+*	Equiv T18 T4
+T19	Bacteria 1374 1394	P. aeruginosa KM 338
+T20	Antibiotic 1455 1465	penicillin
+T21	Bacteria 1480 1500	P. aeruginosa KM 338
+T22	Reduced_permeability_to_antibiotic 1547 1559	permeability
+E1	Reduced_permeability_to_antibiotic:T22 Theme:T21 Cause:T20

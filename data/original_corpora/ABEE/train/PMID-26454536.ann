@@ -1,0 +1,22 @@
+T1	Antibiotic 13 23	daptomycin
+T2	Bacteria 79 99	Enterococcus faecium
+T4	Bacteria 190 193	VRE
+T5	Antibiotic 256 266	daptomycin
+T6	Bacteria 327 330	VRE
+T7	Antibiotic 367 377	daptomycin
+T8	Antibiotic 418 428	daptomycin
+T9	Antibiotic 510 520	daptomycin
+T10	Bacteria 618 621	VRE
+T11	Bacteria 659 679	Enterococcus faecium
+T12	Antibiotic 783 793	daptomycin
+T13	Bacteria 840 850	E. faecium
+*	Equiv T13 T11
+T14	Antibiotic 921 931	daptomycin
+T15	Antibiotic 999 1009	daptomycin
+T16	Antibiotic 1118 1128	daptomycin
+T17	Bacteria 1572 1575	VRE
+T18	Antibiotic 1757 1767	daptomycin
+T19	Antibiotic 638 648	vancomycin
+T20	Antibiotic 57 67	vancomycin
+T3	Antibiotic 156 166	vancomycin
+T21	Antibiotic 560 570	daptomycin

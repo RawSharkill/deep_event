@@ -1,0 +1,42 @@
+T1	Bacteria 88 110	Pseudomonas aeruginosa
+T2	Bacteria 122 149	Pseudomonas aeruginosa PAO1
+T3	Antibiotic 218 227	ofloxacin
+T4	Antibiotic 394 403	ofloxacin
+T5	Antibiotic 405 417	erythromycin
+T6	Antibiotic 423 448	new  zwitterionic cephems
+T7	Antibiotic 456 465	cefpirome
+T8	Antibiotic 467 476	cefclidin
+T9	Antibiotic 478 488	cefozopran
+T10	Antibiotic 494 503	cefoselis
+T11	Bacteria 534 538	PAO1
+*	Equiv T11 T2
+T12	Antibiotic 592 604	tetracycline
+T13	Antibiotic 609 624	chloramphenicol
+T14	Antibiotic 637 646	ofloxacin
+T15	Antibiotic 648 660	erythromycin
+T16	Antibiotic 670 695	new  zwitterionic cephems
+T17	Bacteria 706 710	PAO1
+T18	Antibiotic 767 780	carbenicillin
+T19	Antibiotic 782 795	sulbenicillin
+T20	Antibiotic 797 805	imipenem
+T21	Antibiotic 807 816	panipenem
+T22	Antibiotic 818 826	biapenem
+T23	Antibiotic 829 840	moxalactam,
+T24	Antibiotic 841 850	aztreonam
+T25	Antibiotic 852 862	gentamicin
+T26	Antibiotic 868 877	kanamycin
+T27	Bacteria 887 891	PAO1
+T28	Bacteria 1075 1079	PAO1
+T29	Bacteria 1378 1382	PAO1
+T30	Protein 52 56	OprJ
+T31	Protein 71 75	NfxB
+T32	Protein 150 154	NfxB
+T33	Antibiotic 204 213	cefpirome
+T34	Gene 1149 1153	nfxB
+T35	Protein 1189 1193	NfxB
+T36	Protein 1254 1258	OprJ
+T37	Protein 1340 1344	OprJ
+T38	Protein 1489 1493	NfxB
+T39	Protein 1714 1718	OprJ
+T40	Gene 1645 1649	nfxB
+T41	Protein 1771 1775	NfxB

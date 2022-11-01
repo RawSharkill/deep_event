@@ -1,0 +1,22 @@
+T1	Antibiotic 292 304	glycopeptide
+T2	Antibiotic 317 327	vancomycin
+T3	Bacteria 335 346	enterococci
+T4	Antibiotic 496 506	vancomycin
+T5	Bacteria 872 883	enterococci
+T6	Antibiotic 1108 1118	vancomycin
+T7	Bacteria 1128 1141	Amycolatopsis
+T8	Bacteria 1178 1202	Streptomyces toyocaensis
+T9	Bacteria 1357 1371	S. toyocaensis
+*	Equiv T9 T8
+T10	Bacteria 1438 1449	S. lividans
+T11	Antibiotic 1069 1081	glycopeptide
+T12	Antibiotic 112 122	vancomycin
+T13	Protein 142 146	VanA
+T14	Protein 151 155	VanB
+T15	Antibiotic 851 861	vancomycin
+T16	Protein 885 889	VanA
+T17	Protein 894 898	VanB
+T18	Protein 1264 1268	VanA
+T19	Protein 1273 1277	VanB
+T20	Protein 1240 1250	amino acid
+T21	Gene 1471 1474	ddl

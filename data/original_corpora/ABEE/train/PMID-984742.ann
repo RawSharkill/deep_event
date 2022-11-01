@@ -1,0 +1,10 @@
+T1	Antibiotic 128 151	beta-lactam antibiotics
+T2	Bacteria 244 264	Bacteroides fragilis
+T3	Bacteria 355 375	Clostridium  ramosum
+T4	Bacteria 469 488	B. clostridiiformis
+*	Equiv T4 T2
+T6	Antibiotic 589 599	penicillin
+T5	Reduced_permeability_to_antibiotic 574 581	barrier
+E1	Reduced_permeability_to_antibiotic:T5 Cause:T6 Theme:T4
+T7	Bacteria 640 650	C. ramosum
+*	Equiv T7 T3

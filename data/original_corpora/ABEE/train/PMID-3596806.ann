@@ -1,0 +1,11 @@
+T1	Bacteria 59 80	Clostridium difficile
+T2	Bacteria 105 126	Clostridium difficile
+T3	Bacteria 338 350	C. difficile
+*	Equiv T3 T1
+T5	Bacteria 845 857	C. difficile
+T6	Bacteria 928 940	C. difficile
+T7	Bacteria 1017 1029	C. difficile
+T8	Bacteria 1082 1094	C. difficile
+T9	Bacteria 1099 1111	C. butyricum
+T10	Bacteria 1312 1324	C. difficile
+T11	Bacteria 1430 1442	C. difficile

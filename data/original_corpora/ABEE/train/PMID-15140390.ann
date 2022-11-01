@@ -1,0 +1,20 @@
+T1	Bacteria 83 99	Escherichia coli
+T2	Bacteria 163 170	E. coli
+*	Equiv T2 T1
+T4	Antibiotic 462 474	trimethoprim
+T5	Antibiotic 708 720	streptomycin
+T6	Antibiotic 725 738	spectinomycin
+T8	Antibiotic 906 918	trimethoprim
+T7	Gene 419 424	dfrA5
+T9	Bacteria 123 127	EIEC
+T10	Bacteria 155 161	EaggEC
+T11	Bacteria 330 336	EaggEC
+T12	Bacteria 318 322	EIEC
+T13	Bacteria 503 507	EIEC
+T14	Bacteria 524 530	EaggEC
+T15	Gene 584 589	dfrA7
+T16	Gene 676 682	aadA1a
+T17	Gene 783 789	dfrA13
+T18	Gene 794 798	oxa5
+T19	Antibiotic 818 829	beta-lactam
+T20	Bacteria 1012 1025	diarrheagenic

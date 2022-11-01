@@ -1,0 +1,28 @@
+T1	Antibiotic 4 16	Tetracycline
+T2	Antibiotic 119 131	tetracycline
+T3	Antibiotic 347 359	tetracycline
+T4	Antibiotic 467 479	tetracycline
+T5	Antibiotic 657 669	tetracycline
+T6	Antibiotic 992 1004	tetracycline
+T7	Antibiotic_inactivation 1005 1016	inactivatio
+E1	Antibiotic_inactivation:T7 Cause:T6
+T8	Protein 1061 1068	enzymes
+T9	Antibiotic_inactivation 815 827	inactivation
+E2	Antibiotic_inactivation:T9 Cause:T10
+T10	Antibiotic 802 814	Tetracycline
+T11	Protein 677 684	enzymes
+T12	Antibiotic_inactivation 505 517	inactivation
+E3	Antibiotic_inactivation:T12 Cause:T4
+T13	Antibiotic_inactivation 645 656	inactivates
+E4	Antibiotic_inactivation:T13 Cause:T5
+T14	Antibiotic_inactivation 183 193	inactivate
+E5	Antibiotic_inactivation:T14 
+T15	Protein 169 177	 enzymes
+T16	Protein 87 94	Enzymes
+T17	Antibiotic_inactivation 106 118	inactivating
+E6	Antibiotic_inactivation:T17 Cause:T2
+T18	Antibiotic_inactivation 62 74	Inactivating
+E7	Antibiotic_inactivation:T18 Cause:T20
+T19	Protein 76 83	Enzymes
+T20	Antibiotic 49 61	Tetracycline
+T21	Protein 552 558	enzyme

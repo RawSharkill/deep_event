@@ -1,0 +1,28 @@
+T1	Bacteria 349 370	Staphylococcus aureus
+T2	Bacteria 372 409	entero-haemorrhagic  Escherichia coli
+T3	Bacteria 411 433	Salmonella typhimurium
+T4	Bacteria 435 450	Yersinia pestis
+T5	Bacteria 452 471	Francisella species
+T6	Bacteria 474 498	Photorhabdus asymbiotica
+T7	Bacteria 504 516	mycobacteria
+T8	Protein 4 8	KdpD
+T9	Protein 9 13	KdpE
+T10	Protein 113 117	KdpD
+T11	Protein 118 122	KdpE
+T12	Protein 561 565	KdpD
+T13	Protein 566 570	KdpE
+T14	Protein 594 598	PhoP
+T15	Protein 599 603	PhoQ
+T16	Protein 918 922	KdpD
+T17	Protein 923 927	KdpE
+T18	Protein 1081 1085	KdpD
+T19	Protein 1086 1090	KdpE
+T20	Protein 1147 1151	KdpD
+T21	Protein 1152 1156	KdpE
+T22	Protein 1226 1230	KdpE
+T23	Protein 1311 1315	KdpD
+T24	Protein 1316 1320	KdpE
+T25	Protein 1561 1565	KdpD
+T26	Protein 1566 1570	KdpE
+T27	Protein 1708 1712	KdpD
+T28	Protein 1713 1717	KdpE

@@ -1,0 +1,17 @@
+T1	Bacteria 28 39	enterococci
+T2	Antibiotic 43 66	beta-lactam antibiotics
+T3	Bacteria 118 129	enterococci
+T4	Antibiotic 133 157	beta-lactam  antibiotics
+T5	Antibiotic_target_alteration 159 170	alterations
+E1	Antibiotic_target_alteration:T5 Cause:T4 Theme:T3
+T6	Protein 174 201	penicillin-binding proteins
+T7	Protein 223 237	beta-lactamase
+T8	Bacteria 296 317	Enterococcus faecalis
+T9	Protein 461 487	penicillin-binding protein
+T10	Antibiotic 517 527	penicillin
+T11	Antibiotic 586 597	penicillins
+T12	Antibiotic 616 630	cephalosporins
+T13	Antibiotic 700 701	l
+T14	Protein 713 739	penicillin-binding protein
+T15	Antibiotic 906 916	penicillin
+T16	Bacteria 937 958	Enterococcus faecalis

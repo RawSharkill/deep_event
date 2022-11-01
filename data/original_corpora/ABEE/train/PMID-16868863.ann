@@ -1,0 +1,12 @@
+T1	Antibiotic 34 47	aminocoumarin
+T2	Antibiotic 691 704	aminocoumarin
+T3	Antibiotic 718 728	novobiocin
+T4	Antibiotic 730 741	clorobiocin
+T5	Antibiotic 746 763	coumermycin A (1)
+T6	Antibiotic 1270 1280	novobiocin
+T7	Antibiotic 1286 1297	clorobiocin
+T8	Protein 801 807	gyrase
+T9	Protein 1332 1338	gyrase
+T10	Protein 1498 1505	enzymes
+T11	Antibiotic_inactivation 1137 1149	inactivation
+E1	Antibiotic_inactivation:T11 

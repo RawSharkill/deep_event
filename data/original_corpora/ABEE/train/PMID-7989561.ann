@@ -1,0 +1,14 @@
+T1	Antibiotic 57 66	elfamycin
+T2	Antibiotic 86 96	elfamycins
+T3	Bacteria 198 218	Enterococcus faecium
+T4	Bacteria 249 268	Enterococcus durans
+T5	Bacteria 273 291	Enterococcus hirae
+T6	Bacteria 350 371	Enterococcus faecalis
+T7	Bacteria 432 443	enterococci
+T8	Antibiotic 479 489	elfamycins
+T9	Antibiotic 576 585	Elfamycin
+T10	Bacteria 653 664	E. faecalis
+*	Equiv T10 T6
+T11	Bacteria 669 679	E. faecium
+*	Equiv T11 T3
+T12	Bacteria 790 801	enterococci

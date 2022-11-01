@@ -1,0 +1,17 @@
+T1	Bacteria 289 305	Escherichia coli
+T2	Antibiotic_efflux 326 332	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 799 806	E. coli
+T5	Antibiotic 869 892	beta-lactam antibiotics
+*	Equiv T3 T1
+T4	Protein 21 25	AcrB
+T6	Protein 311 315	AcrB
+T7	Protein 316 320	AcrA
+T8	Protein 321 325	TolC
+T9	Protein 508 512	AcrB
+T10	Protein 595 599	YajC
+T11	Protein 658 662	AcrB
+T12	Protein 745 749	TolC
+T13	Gene 786 790	yajc
+T15	Protein 985 989	YajC
+T16	Protein 994 998	AcrB

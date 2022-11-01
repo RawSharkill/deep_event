@@ -1,0 +1,27 @@
+T1	Antibiotic 10 24	aminoglycoside
+T3	Antibiotic 124 139	aminoglycosides
+T4	Antibiotic 141 151	gentamicin
+T5	Antibiotic 153 163	tobramycin
+T6	Antibiotic 165 175	netilmicin
+T7	Antibiotic 177 185	amikacin
+T8	Antibiotic 188 208	2'-N-ethylnetilmicin
+T9	Antibiotic 214 234	6'-N-ethylnetilmicin
+T10	Bacteria 450 462	Proteus spp.
+T11	Bacteria 464 479	Klebsiella spp.
+T12	Bacteria 481 497	Escherichia coli
+T13	Bacteria 503 525	Pseudomonas aeruginosa
+T14	Antibiotic 596 611	aminoglycosides
+T15	Bacteria 742 749	Proteus
+T16	Bacteria 754 774	Providencia isolates
+T17	Bacteria 858 879	P. aeruginosa strains
+*	Equiv T17 T13
+T18	Bacteria 979 1000	P. aeruginosa strains
+T2	Bacteria 84 115	gram-negative clinical isolates
+T19	Protein 665 674	AAC(3)-II
+T20	Protein 679 687	AAC(3)-I
+T21	Protein 583 591	ANT(2'')
+T22	Protein 711 718	AAC(2')
+T23	Reduced_permeability_to_antibiotic 798 810	permeability
+E1	Reduced_permeability_to_antibiotic:T23 Theme:T17
+T24	Protein 1111 1119	ANT(2'')
+T25	Bacteria 1120 1127	Proteus

@@ -1,0 +1,13 @@
+T1	Bacteria 46 62	Escherichia coli
+T2	Resistance_by_absence 24 32	deletion
+E1	Resistance_by_absence:T2 Theme:T1
+T3	Gene 169 172	tet
+T4	Antibiotic 341 353	tetracycline
+T5	Resistance_by_absence 279 290	deletions  
+E2	Resistance_by_absence:T5 Cause:T4 Theme:T1
+T6	Bacteria 506 522	Escherichia coli
+T7	Antibiotic 626 638	tetracycline
+T8	Gene 1025 1029	recA
+T9	Gene 1031 1035	recF
+T10	Gene 1037 1041	recJ
+T11	Gene 1046 1050	recO

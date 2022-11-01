@@ -1,0 +1,45 @@
+T1	Antibiotic_efflux 43 51	exporter
+E1	Antibiotic_efflux:T1 Cause:T3 Theme:T2
+T2	Bacteria 61 77	Escherichia coli
+T3	Antibiotic 0 6	Indole
+T5	Antibiotic_efflux 176 184	exporter
+E3	Antibiotic_efflux:T5 Theme:T6
+T6	Bacteria 212 228	Escherichia coli
+T7	Bacteria 559 566	E. coli
+T9	Antibiotic 581 593	rhodamine 6G
+T10	Antibiotic 598 601	SDS
+*	Equiv T7 T2
+T4	Gene 493 497	acrD
+T11	Gene 499 503	acrE
+T12	Gene 505 509	cusB
+T13	Gene 511 515	emrK
+T14	Gene 517 521	mdtA
+T15	Gene 523 527	mdtE
+T16	Gene 532 536	yceL
+T8	Gene 639 644	mdtEF
+T17	Gene 649 653	acrD
+T18	Antibiotic_efflux 626 635	induction
+E2	Antibiotic_efflux:T18 Theme:T7 Cause:T9
+E4	Antibiotic_efflux:T18 Cause:T10 Theme:T7
+T19	Antibiotic_efflux 659 669	expression
+E5	Antibiotic_efflux:T19 Theme:T7 Cause:T9
+E6	Antibiotic_efflux:T19 Theme:T7 Cause:T10
+T20	Gene 701 705	mdtE
+T21	Protein 739 744	EvgSA
+T22	Gene 806 810	mdtE
+T23	Protein 833 837	GadX
+T24	Gene 876 880	acrD
+T25	Gene 885 889	mdtA
+T26	Protein 906 911	BaeSR
+T27	Protein 916 921	CpxAR
+T28	Protein 962 967	CpxAR
+T29	Gene 1013 1018	baeSR
+T30	Protein 1036 1041	BaeSR
+T31	Gene 1081 1086	cpxAR
+T32	Protein 1110 1114	BaeR
+T33	Protein 1119 1123	CpxR
+T34	Gene 1169 1173	acrD
+T35	Gene 1178 1182	mdtA
+T36	Protein 1236 1240	BaeR
+T37	Protein 1270 1274	CpxR
+T38	Protein 1298 1302	BaeR

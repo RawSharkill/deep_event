@@ -1,0 +1,17 @@
+T1	Antibiotic 64 75	florfenicol
+T2	Antibiotic 81 96	chloramphenicol
+T3	Bacteria 14 35	Staphylococcus lentus
+T5	Bacteria 104 125	Staphylococcus lentus
+T7	Antibiotic 158 169	florfenicol
+T9	Antibiotic 378 393	chloramphenicol
+T10	Antibiotic 399 410	florfenicol
+T12	Antibiotic 444 459	chloramphenicol
+T13	Antibiotic 464 475	florfenicol
+T8	Antibiotic_efflux 368 374	efflux
+E4	Antibiotic_efflux:T8 Cause:T9 Theme:T5
+E7	Antibiotic_efflux:T8 Cause:T10 Theme:T5
+T4	Gene 0 4	fexA
+T6	Gene 214 218	fexA
+T11	Protein 295 299	FexA
+T14	Gene 425 429	fexA
+T15	Antibiotic 170 185	chloramphenicol

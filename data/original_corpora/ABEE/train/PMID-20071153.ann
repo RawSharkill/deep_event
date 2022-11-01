@@ -1,0 +1,30 @@
+T1	Antibiotic 24 34	fosfomycin
+T2	Bacteria 70 87	Escherichia  coli
+T3	Antibiotic 130 140	fosfomycin
+T4	Bacteria 177 193	Escherichia coli
+T5	Antibiotic 840 850	fosfomycin
+T6	Bacteria 1034 1050	Escherichia coli
+T7	Antibiotic 1146 1156	fosfomycin
+T8	Antibiotic 1332 1342	fosfomycin
+T9	Bacteria 1379 1386	E. coli
+*	Equiv T9 T6
+T10	Protein 1073 1083	amino-acid
+T11	Gene 232 236	cyaA
+T12	Gene 223 227	ptsI
+T13	Antibiotic 268 278	fosfomycin
+T14	Gene 199 203	murA
+T15	Gene 205 209	glpT
+T16	Gene 211 215	uhpT
+T17	Gene 217 221	uhpA
+T18	Gene 352 356	murA
+T19	Protein 379 389	amino acid
+T20	Gene 514 518	glpT
+T21	Gene 623 627	GlpT
+T22	Gene 776 780	GlpT
+T23	Gene 1022 1026	uhpT
+T24	Gene 996 1000	GlpT
+T25	Gene 807 811	uhpT
+T26	Protein 1096 1100	MurA
+T27	Protein 1198 1202	MurA
+T28	Protein 1253 1257	MurA
+T29	Protein 1225 1235	amino acid

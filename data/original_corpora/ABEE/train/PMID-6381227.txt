@@ -1,0 +1,3 @@
+[Yeast resistance to polyene antibiotics. II. An analysis of the sterol  composition of Saccharomyces cerevisiae yeasts resistant to nystatin].
+
+The recessive yeast mutations nys providing resistance to polyene antibiotics in   Saccharomyces cerevisiae are described. The analysis of UV-absorbtion spectra of   sterols from cells of different mutants allows to assume that NYS genes control  synthesis of ergosterol. The lack of alterations in the sterol composition of the  same strains carrying dominant nystatin resistance mutations points to the  existence of another mechanisms of resistance to polyene antibiotics, in addition  to the sterol mechanism.

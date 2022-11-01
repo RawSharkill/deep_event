@@ -1,0 +1,27 @@
+T1	Antibiotic 115 130	streptogramin A
+T2	Bacteria 160 181	Staphylococcus aureus
+T3	Antibiotic 228 241	streptogramin
+T4	Antibiotic 243 246	SgA
+*	Equiv T4 T3
+T5	Antibiotic 277 292	virginiamycin M
+T6	Antibiotic 294 305	mikamycin A
+T7	Antibiotic 323 335	Dalfopristin
+T8	Antibiotic 308 321	synergistin A
+T9	Bacteria 1112 1125	staphylococci
+T10	Bacteria 1158 1171	staphylococci
+T11	Antibiotic 1289 1292	SgA
+T12	Protein 990 994	VgaB
+T13	Protein 931 941	amino-acid
+T14	Gene 1235 1239	vatB
+T15	Antibiotic_inactivation 1276 1288	inactivating
+E1	Antibiotic_inactivation:T15 Cause:T11
+T16	Gene 1320 1324	vatB
+T17	Gene 1311 1315	vgaB
+T18	Gene 1048 1052	vgaB
+T19	Protein 412 416	VgaB
+T20	Protein 1173 1178	 vgaB
+T21	Gene 47 51	vgaB
+T22	Gene 196 200	vgaB
+T23	Protein 524 528	VgaB
+T24	Antibiotic 1084 1090	SgA(R)
+T25	Protein 808 815	enzymes

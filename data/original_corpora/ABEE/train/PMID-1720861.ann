@@ -1,0 +1,15 @@
+T1	Bacteria 66 83	Escherichia  coli
+T2	Bacteria 222 251	Escherichia coli strain  PM61
+R1	Member-of Arg1:T2 Arg2:T1	
+T3	Bacteria 835 846	strain PM61
+T4	Bacteria 904 920	Escherichia coli
+*	Equiv T3 T2
+T5	Gene 50 55	envCD
+T6	Gene 209 213	envC
+T7	Protein 373 377	EnvC
+T8	Protein 399 405	EnvD  
+T9	Gene 428 432	envC
+T10	Gene 669 674	envCD
+T11	Protein 866 870	EnvC
+T12	Gene 926 930	envD
+T13	Gene 1013 1016	tac

@@ -1,0 +1,2 @@
+Detection of VIM-34, a novel VIM-1 variant identified in the intercontinental  ST15 Klebsiella pneumoniae clone. 
+

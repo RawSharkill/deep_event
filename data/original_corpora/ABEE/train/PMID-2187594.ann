@@ -1,0 +1,21 @@
+T1	Bacteria 0 12	Pneumococcal
+T2	Bacteria 72 83	pneumococci
+T3	Antibiotic 129 139	penicillin
+T4	Antibiotic 141 153	erythromycin
+T5	Antibiotic 155 167	trimethoprim
+T6	Antibiotic 168 184	sulfamethoxazole
+T7	Antibiotic 191 203	tetracycline
+T8	Antibiotic 268 283	chloramphenicol
+T9	Antibiotic 288 296	rifampin
+T10	Bacteria 317 328	pneumococci
+T11	Bacteria 460 471	pneumococci
+T12	Bacteria 724 738	pneumococcal  
+T13	Antibiotic 753 763	cefotaxime
+T14	Antibiotic 765 776	ceftriaxone
+T15	Antibiotic 778 788	vancomycin
+T16	Antibiotic 794 802	rifampin
+T17	Antibiotic 838 853	chloramphenicol
+T18	Bacteria 966 978	pneumococcal
+T19	Antibiotic 1210 1220	penicillin
+T20	Protein 1278 1305	penicillin-binding proteins
+T21	Antibiotic 1478 1488	penicillin

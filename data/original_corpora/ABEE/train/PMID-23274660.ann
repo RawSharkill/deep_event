@@ -1,0 +1,9 @@
+T1	Bacteria 2 24	Staphylococcus xylosus
+T2	Bacteria 144 165	Staphylococcus aureus
+T3	Bacteria 237 259	Staphylococcus xylosus
+T4	Gene 110 114	mecA
+T5	Gene 90 94	mecA
+T6	Gene 304 308	mecC
+T7	Gene 104 108	mecC
+T8	Gene 360 365	mecC1
+T9	Gene 44 48	mecC

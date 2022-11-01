@@ -1,0 +1,44 @@
+T1	Antibiotic 145 156	Tigecycline
+T2	Antibiotic 185 209	glycylcycline antibiotic
+T3	Antibiotic 245 257	tetracycline
+T5	Bacteria 291 313	Staphylococcus  aureus
+T6	Antibiotic_efflux 20 26	efflux
+E2	Antibiotic_efflux:T6 Theme:T7
+T7	Bacteria 97 126	Staphylococcus aureus mutants
+T8	Antibiotic 130 141	tigecycline
+T11	Bacteria 437 454	S. aureus strains
+T12	Antibiotic 506 517	tigecycline
+T13	Antibiotic 381 392	tigecycline
+T14	Antibiotic 564 575	tigecycline
+T15	Antibiotic 635 646	tigecycline
+T17	Bacteria 674 678	N315
+T18	Bacteria 683 686	Mu3
+T19	Antibiotic 1404 1415	tigecycline
+T20	Antibiotic 1276 1287	tigecycline
+T21	Antibiotic 1537 1548	tigecycline
+T22	Antibiotic 1924 1935	tigecycline
+T23	Antibiotic 2055 2066	tigecycline
+T24	Bacteria 2070 2079	S. aureus
+*	Equiv T11 T5
+T4	Gene 905 909	mepR
+T9	Gene 946 950	mepA
+T10	Gene 1001 1005	mepB
+T16	Protein 821 827	mepRAB
+T25	Protein 920 924	MATE
+T26	Protein 1111 1115	MepR
+T27	Protein 1146 1150	MepR
+T28	Gene 1181 1185	mepA
+T29	Gene 1027 1031	mepR
+T30	Gene 1205 1209	mepA
+T31	Protein 1313 1317	MATE
+T32	Gene 1441 1445	mepR
+T33	Gene 1483 1487	mepR
+T34	Gene 1502 1506	mepA
+T35	Gene 1587 1593	tet(M)
+T36	Gene 1817 1823	tet(M)
+T37	Gene 1987 1991	mepA
+T38	Gene 2000 2006	tet(M)
+T39	Protein 1632 1635	Mu3
+T40	Antibiotic 415 426	methicillin
+T41	Antibiotic_target_alteration 341 348	mutants
+E1	Antibiotic_target_alteration:T41 Cause:T13 Theme:T11

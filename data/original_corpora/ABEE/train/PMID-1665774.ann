@@ -1,0 +1,14 @@
+T1	Antibiotic 46 56	quinolones
+T2	Antibiotic 152 175	fluorinated-4-quinolone
+T3	Antibiotic 240 258	fluoroquinolones  
+T4	Antibiotic 259 272	ciprofloxacin
+T5	Antibiotic 274 282	enoxacin
+T6	Antibiotic 284 294	fleroxacin
+T7	Antibiotic 296 307	norfloxacin
+T8	Antibiotic 313 322	ofloxacin
+T9	Bacteria 603 621	Enterobacteriaceae
+T10	Antibiotic 672 685	ciprofloxacin
+T11	Bacteria 764 786	Pseudomonas aeruginosa
+T12	Bacteria 831 851	Bacteroides fragilis
+T13	Antibiotic 1089 1102	ciprofloxacin
+T14	Bacteria 1111 1135	Gram-positive  organisms

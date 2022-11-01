@@ -1,0 +1,49 @@
+T1	Bacteria 33 59	Corynebacterium glutamicum
+T2	Antibiotic 73 87	aminoglycoside
+T3	Antibiotic 145 157	tetracycline
+T5	Antibiotic_efflux 158 164	efflux
+E2	Antibiotic_efflux:T5 Cause:T3 Theme:T1
+T7	Bacteria 336 367	Corynebacterium glutamicum LP-6
+T9	Antibiotic 382 394	streptomycin
+T10	Antibiotic 396 409	spectinomycin
+T11	Antibiotic 416 428	tetracycline
+T12	Antibiotic 588 602	aminoglycoside
+T13	Antibiotic_efflux 603 620	adenyltransferase
+E8	Antibiotic_efflux:T13 Cause:T12
+T14	Bacteria 740 762	Pseudomonas aeruginosa
+T15	Antibiotic 822 834	tetracycline
+T17	Antibiotic 921 933	tetracycline
+T18	Antibiotic_efflux 934 940	efflux
+E10	Antibiotic_efflux:T18 Cause:T17
+T19	Antibiotic 1004 1016	tetracycline
+T20	Antibiotic_efflux 1017 1023	efflux
+E11	Antibiotic_efflux:T20 Cause:T19 Theme:T21
+T21	Bacteria 1051 1064	C. glutamicum
+T22	Bacteria 1271 1295	Mycobacterium  fortuitum
+T23	Bacteria 1406 1419	C. glutamicum
+*	Equiv T21 T1 T23
+T4	Gene 120 125	aadA9
+T6	Protein 242 248	IS6100
+T8	Protein 306 329	27.8-kb R-plasmid pTET3
+T24	Protein 4 27	27.8-kb R-plasmid pTET3
+T25	Gene 502 507	intI1
+T26	Protein 566 572	IS6100
+T27	Gene 635 640	aadA9
+T28	Protein 482 487	pTET3
+T29	Protein 655 660	AADA9
+T30	Protein 711 716	AADA6
+T31	Antibiotic_efflux 777 782	pTET3
+E5	Antibiotic_efflux:T31 
+T32	Protein 1032 1039	TetA(Z)
+T33	Gene 1073 1077	pAG1
+T34	Protein 1164 1169	pTET3
+T35	Protein 1240 1246	IS6100
+T36	Protein 1340 1346	IS6100
+T37	Protein 1459 1465	IS6100
+T38	Protein 1497 1502	pTET3
+T39	Antibiotic_efflux 1378 1395	transpositionally
+E6	Antibiotic_efflux:T39 Theme:T23
+T16	Antibiotic_efflux 374 381	encodes
+E1	Antibiotic_efflux:T16 Theme:T7 Cause:T9
+E3	Antibiotic_efflux:T16 Theme:T7 Cause:T10
+E4	Antibiotic_efflux:T16 Theme:T7 Cause:T11

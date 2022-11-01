@@ -1,0 +1,24 @@
+T1	Bacteria 79 100	Klebsiella pneumoniae
+T2	Bacteria 336 358	Klebsiella  pneumoniae
+T3	Bacteria 424 438	K.  pneumoniae
+*	Equiv T3 T1
+T4	Antibiotic 562 570	imipenem
+T5	Antibiotic 575 584	meropenem
+T6	Bacteria 1420 1433	K. pneumoniae
+T7	Bacteria 1539 1562	K.  pneumoniae isolates
+T8	Protein 138 172	New Delhi metallo-beta-lactamase-1
+T9	Protein 174 179	NDM-1
+T10	Protein 320 325	NDM-1
+T11	Antibiotic 403 413	carbapenem
+T12	Protein 655 660	NDM-1
+T13	Protein 957 965	blaNDM-1
+T14	Protein 1235 1240	NDM-1
+T15	Protein 809 816	blaNDM-
+T16	Protein 788 793	NDM-1
+T17	Protein 845 853	blaNDM-1
+T18	Gene 1490 1498	blaNDM-1
+T19	Gene 1519 1522	bla
+T20	Protein 33 67	New Delhi Metallo-beta-Lactamase-1
+T21	Protein 1389 1394	NDM-1
+T22	Gene 1048 1051	bla
+T23	Protein 1362 1376	carbapenemases

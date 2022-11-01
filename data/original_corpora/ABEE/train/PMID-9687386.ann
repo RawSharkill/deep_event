@@ -1,0 +1,21 @@
+T1	Antibiotic 53 65	tetracycline
+T2	Bacteria 104 127	Mycobacterium smegmatis
+T3	Antibiotic 184 196	tetracycline
+T4	Bacteria 219 242	Mycobacterium smegmatis
+T5	Antibiotic 600 612	tetracycline
+T6	Antibiotic 666 678	tetracycline
+T7	Bacteria 683 695	M. smegmatis
+T8	Antibiotic 885 897	tetracycline
+T9	Antibiotic 1061 1073	tetracycline
+T10	Bacteria 1147 1159	M. smegmatis
+T11	Bacteria 1164 1176	M. fortuitum
+*	Equiv T7 T2
+T12	Gene 91 97	tet(V)
+T13	Gene 358 364	tet(V)
+T15	Gene 729 735	tet(V)
+T16	Gene 959 965	tet(V)
+T17	Antibiotic_efflux 1050 1056	efflux
+E2	Antibiotic_efflux:T17 Cause:T9 Theme:T10
+T18	Antibiotic_efflux 557 563	efflux
+E3	Antibiotic_efflux:T18 Cause:T6 Theme:T7
+E4	Antibiotic_efflux:T17 Cause:T9 Theme:T11

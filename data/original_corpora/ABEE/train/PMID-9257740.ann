@@ -1,0 +1,35 @@
+T1	Antibiotic 0 10	Ethambutol
+T2	Bacteria 25 51	Mycobacterium tuberculosis
+T3	Antibiotic 89 99	Ethambutol
+T4	Antibiotic 144 147	EMB
+*	Equiv T4 T3
+T5	Antibiotic 244 247	EMB
+T6	Bacteria 867 882	M. tuberculosis
+*	Equiv T6 T2
+T7	Antibiotic 1069 1072	EMB
+T8	Antibiotic 1733 1736	EMB
+T9	Gene 70 74	embB
+T10	Antibiotic_target_alteration 76 85	mutations
+E1	Antibiotic_target_alteration:T10 Theme:T2 Cause:T1
+T11	Gene 288 294	embCAB
+T12	Antibiotic 307 310	EMB
+T13	Antibiotic 328 331	EMB
+T14	Antibiotic 597 600	EMB
+T15	Antibiotic_target_alteration 625 634	mutations
+E2	Antibiotic_target_alteration:T15 Cause:T14
+T16	Gene 660 664	embB
+T17	Antibiotic 830 833	EMB
+T18	Antibiotic 851 854	EMB
+T19	Gene 804 808	embB
+T20	Protein 1059 1063	EmbB
+T21	Protein 1032 1042	amino acid
+T22	Gene 1095 1099	embB
+T23	Protein 1144 1154	amino acid
+T24	Antibiotic 1264 1267	EMB
+T25	Protein 1295 1306	amino  acid
+T26	Protein 1395 1405	amino acid
+T27	Protein 1421 1424	Emb
+T28	Antibiotic_target_replacement 1369 1381	replacements
+E3	Antibiotic_target_replacement:T28 Cause:T24
+T29	Protein 1646 1656	amino acid
+T30	Protein 1674 1678	EmbB

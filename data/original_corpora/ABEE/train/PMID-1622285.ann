@@ -1,0 +1,11 @@
+T1	Bacteria 65 90	Dictyostelium  discoideum
+T2	Bacteria 175 199	Dictyostelium discoideum
+T3	Antibiotic_target_alteration 123 128	alter
+E1	Antibiotic_target_alteration:T3 Theme:T1
+T4	Gene 474 478	nysC
+T5	Antibiotic 652 660	nystatin
+T6	Antibiotic 689 697	nystatin
+T7	Antibiotic 766 774	nystatin
+T8	Antibiotic 1117 1125	nystatin
+T9	Antibiotic_target_alteration 1072 1083	alterations
+E2	Antibiotic_target_alteration:T9 Cause:T8

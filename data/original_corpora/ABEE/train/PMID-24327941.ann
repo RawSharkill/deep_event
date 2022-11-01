@@ -1,0 +1,31 @@
+T1	Antibiotic_efflux 22 28	efflux
+E1	Antibiotic_efflux:T1 Theme:T4 Cause:T2
+T2	Antibiotic 37 50	ciprofloxacin
+T4	Bacteria 65 87	Klebsiella  pneumoniae
+T6	Antibiotic 133 149	fluoroquinolones
+T7	Bacteria 250 263	K. pneumoniae
+T8	Antibiotic_efflux 337 343	efflux
+E4	Antibiotic_efflux:T8 Theme:T10 Cause:T11
+T10	Bacteria 417 430	K. pneumoniae
+T11	Antibiotic 481 494	ciprofloxacin
+T12	Antibiotic 505 521	fluoroquinolones
+T13	Bacteria 534 547	K. pneumoniae
+T16	Antibiotic 885 898	ciprofloxacin
+T17	Bacteria 1002 1015	K. pneumoniae
+T19	Antibiotic 1091 1104	ciprofloxacin
+T22	Antibiotic 1631 1644	ciprofloxacin
+T24	Bacteria 1662 1675	K. pneumoniae
+T25	Antibiotic_efflux 1567 1573	efflux
+E11	Antibiotic_efflux:T25 Theme:T24 Cause:T22
+*	Equiv T7 T4
+T5	Protein 331 336	AcrAB
+E3	Antibiotic_efflux:T8 Theme:T10 Cause:T12
+T9	Gene 800 804	AcrA
+T14	Protein 16 21	AcrAB
+T3	Antibiotic 830 843	ciprofloxacin
+T15	Gene 1163 1167	acrA
+T18	Antibiotic 1195 1208	ciprofloxacin
+T20	Gene 1239 1243	acrA
+T21	Protein 1284 1288	AcrA
+T23	Protein 1307 1312	AcrAB
+T26	Antibiotic 1737 1750	ciprofloxacin

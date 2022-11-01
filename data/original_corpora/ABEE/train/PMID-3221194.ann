@@ -1,0 +1,14 @@
+T1	Bacteria 49 93	methicillin-resistant  Staphylococcus aureus
+T2	Antibiotic 137 148	methicillin
+T3	Bacteria 199 243	methicillin-resistant  Staphylococcus aureus
+T4	Bacteria 245 249	MRSA
+*	Equiv T4 T3
+T5	Antibiotic 283 294	methicillin
+T6	Antibiotic 496 507	methicillin
+T7	Bacteria 522 535	MRSA  strains
+T8	Antibiotic 663 674	methicillin
+T9	Antibiotic 924 935	methicillin
+T10	Antibiotic 1004 1015	methicillin
+T11	Bacteria 1114 1123	S. aureus
+T12	Antibiotic 1136 1147	methicillin
+T13	Bacteria 1279 1290	MRSA strain

@@ -1,0 +1,22 @@
+T1	Bacteria 1389 1407	Acinetobacter spp.
+T2	Bacteria 45 66	gram-negative bacilli
+T3	Antibiotic 235 243	amikacin
+T4	Bacteria 279 297	Enterobacteriaceae
+T5	Antibiotic 303 316	Acinetobacter
+T6	Antibiotic 188 196	amikacin
+T7	Antibiotic 33 41	amikacin
+T8	Bacteria 679 697	Acinetobacter spp.
+T9	Bacteria 848 864	Escherichia coli
+T10	Bacteria 1455 1468	Acinetobacter
+T11	Bacteria 1550 1573	gram-negative organisms
+T12	Gene 460 470	aac(6')-Ic
+T13	Gene 574 584	aac(6')-Ia
+T14	Gene 586 596	aac(6')-Ib
+T15	Gene 601 611	aac(6')-Ic
+T16	Gene 626 635	AAC(6')-I
+T17	Bacteria 521 540	Serratia marcescens
+T18	Bacteria 717 735	Enterobacteriaceae
+T19	Gene 968 978	aac(6')-Ib
+T20	Gene 750 760	aac(6')-Ib
+T21	Gene 1025 1035	aac(6')-Ib
+T22	Gene 1346 1357	aph(3')-VIa

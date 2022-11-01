@@ -1,0 +1,31 @@
+T1	Bacteria 94 116	Pseudomonas aeruginosa
+T2	Bacteria 294 316	Pseudomonas aeruginosa
+T3	Bacteria 345 358	P. aeruginosa
+*	Equiv T3 T1 T5
+T4	Antibiotic 1075 1086	carbapenems
+T5	Bacteria 1774 1787	P. aeruginosa
+T6	Protein 222 244	metallo-beta-lactamase
+T7	Protein 247 250	MBL
+T8	Protein 41 72	IMP-type metallo-beta-lactamase
+T9	Protein 74 80	IMP-35
+T10	Gene 1126 1135	blaIMP-35
+T11	Gene 1393 1397	sul1
+T12	Gene 1360 1369	blaOXA-35
+T13	Gene 1371 1376	aacA6
+T14	Gene 1378 1388	qacEDelta1
+T15	Gene 1880 1889	blaIMP-35
+T16	Gene 1270 1279	blaIMP-35
+T17	Gene 1108 1119	blaIMP-type
+T18	Protein 1035 1038	MBL
+T19	Protein 1552 1557	IMP-8
+T20	Protein 1562 1568	IMP-12
+T21	Protein 1501 1511	amino acid
+T22	Protein 1824 1847	IMP-type carbapenemases
+T23	Protein 1538 1541	IMP
+T24	Protein 1665 1668	IMP
+T25	Gene 816 822	blaIMP
+T26	Protein 626 629	MBL
+T27	Protein 602 605	MBL
+T28	Gene 765 768	bla
+T29	Protein 964 970	blaIMP
+T30	Protein 1746 1749	IMP

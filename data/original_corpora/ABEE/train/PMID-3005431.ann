@@ -1,0 +1,13 @@
+T1	Bacteria 51 72	Staphylococcus aureus
+T2	Bacteria 81 114	nonadherent staphylococcal strain
+T3	Bacteria 172 193	Staphylococcus aureus
+T4	Bacteria 312 321	S. aureus
+*	Equiv T4 T1
+T5	Antibiotic 427 437	ampicillin
+T6	Bacteria 581 590	S. aureus
+T7	Bacteria 989 998	S. aureus
+T8	Bacteria 1160 1170	S.  aureus
+T9	Antibiotic 531 541	ampicillin
+T10	Antibiotic 611 621	ampicillin
+T11	Protein 778 783	EcoRI
+T12	Protein 850 855	EcoRI

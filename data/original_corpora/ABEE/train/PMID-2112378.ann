@@ -1,0 +1,10 @@
+T1	Bacteria 493 522	alpha-hemolytic Streptococcus
+T2	Bacteria 525 549	Streptococcus pneumoniae
+T3	Bacteria 551 573	Pseudomonas aeruginosa
+T4	Bacteria 579 598	Morganella morganii
+T5	Bacteria 672 684	P aeruginosa
+T6	Bacteria 715 736	Staphylococcus aureus
+T7	Bacteria 1272 1282	M morganii
+*	Equiv T7 T4
+T8	Bacteria 1290 1320	alpha-hemolytic  Streptococcus
+T9	Bacteria 1332 1344	P aeruginosa

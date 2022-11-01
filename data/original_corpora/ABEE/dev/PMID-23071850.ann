@@ -1,0 +1,56 @@
+T1	Bacteria 65 86	Mycobacterium  leprae
+T2	Antibiotic 90 105	fluoroquinolone
+T3	Antibiotic 132 141	Ofloxacin
+T4	Antibiotic 147 162	fluoroquinolone
+T5	Antibiotic 164 166	FQ
+*	Equiv T5 T4
+T6	Antibiotic 204 207	FQs
+T7	Antibiotic 343 345	FQ
+T8	Bacteria 452 461	M. leprae
+*	Equiv T8 T1
+T9	Antibiotic 502 504	FQ
+T10	Bacteria 574 590	M.  tuberculosis
+T11	Bacteria 633 642	M. leprae
+T12	Antibiotic 739 741	FQ
+T13	Bacteria 756 765	M. leprae
+T14	Antibiotic 806 809	FQs
+T15	Bacteria 947 962	M. tuberculosis
+T16	Antibiotic 1024 1026	FQ
+T17	Antibiotic 1303 1315	sitafloxacin
+T18	Antibiotic 1319 1321	FQ
+T19	Antibiotic 1399 1401	FQ
+T20	Bacteria 1495 1504	M. leprae
+T21	Antibiotic 1586 1588	FQ
+T22	Antibiotic 1642 1654	sitafloxacin
+T23	Antibiotic 1709 1711	FQ
+T24	Bacteria 1722 1731	M. leprae
+T25	Protein 10 20	amino acid
+T26	Protein 55 61	gyrase
+T27	Protein 264 270	gyrase
+T28	Protein 314 320	enzyme
+T29	Antibiotic_target_alteration 322 331	Mutations
+E1	Antibiotic_target_alteration:T29 Cause:T7
+T30	Protein 434 440	enzyme
+T31	Gene 443 447	gyrA
+T32	Gene 540 544	gyrB
+T33	Antibiotic_target_alteration 528 536	mutation
+E2	Antibiotic_target_alteration:T33 Cause:T9 Theme:T10
+T34	Gene 731 735	gyrB
+T35	Protein 835 842	gyrases
+T36	Antibiotic 1032 1044	FQ-inhibited
+T37	Protein 1138 1148	amino acid
+T38	Antibiotic 1069 1079	FQ-induced
+T39	Antibiotic 1189 1191	FQ
+T40	Antibiotic_target_alteration 1326 1332	mutant
+E3	Antibiotic_target_alteration:T40 Cause:T18
+E4	Antibiotic_target_alteration:T40 Cause:T17
+T41	Protein 1337 1344	gyrases
+T42	Antibiotic 1482 1494	FQ-resistant
+T43	Antibiotic_target_alteration 1510 1518	mutation
+E5	Antibiotic_target_alteration:T43 Cause:T42 Theme:T20
+T44	Gene 1565 1569	gyrA
+T45	Gene 1574 1578	gyrB
+T46	Gene 1523 1527	gyrB
+T47	Protein 1218 1228	amino acid
+T48	Antibiotic_target_alteration 716 725	mutations
+E6	Antibiotic_target_alteration:T48 Cause:T12 Theme:T13

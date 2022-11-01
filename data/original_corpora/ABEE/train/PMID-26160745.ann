@@ -1,0 +1,15 @@
+T1	Bacteria 47 68	Staphylococcus aureus
+T2	Bacteria 125 146	Staphylococcus aureus
+T3	Bacteria 240 249	S. aureus
+*	Equiv T3 T1
+T4	Bacteria 450 459	S. aureus
+T5	Bacteria 1136 1145	S. aureus
+T6	Protein 33 37	AbcA
+T7	Protein 406 409	ABC
+T8	Protein 423 427	AbcA
+T9	Gene 667 671	abcA
+T10	Gene 736 740	abcA
+T11	Gene 813 817	abcA
+T12	Protein 833 837	AbcA
+T13	Gene 939 943	abcA
+T14	Protein 1097 1101	AbcA

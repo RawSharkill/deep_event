@@ -1,0 +1,37 @@
+T1	Antibiotic 71 81	bacitracin
+T2	Bacteria 86 107	Enterococcus faecalis
+T3	Antibiotic 197 207	bacitracin
+T4	Antibiotic 329 339	bacitracin
+T5	Bacteria 355 376	Enterococcus faecalis
+T6	Bacteria 485 496	E. faecalis
+*	Equiv T6 T5
+T7	Bacteria 763 774	E. faecalis
+T8	Bacteria 812 828	Escherichia coli
+T9	Bacteria 1040 1051	E. faecalis
+T10	Antibiotic 1210 1220	bacitracin
+T11	Antibiotic 1356 1366	bacitracin
+T12	Antibiotic 1410 1419	cefoxitin
+T13	Antibiotic 1421 1432	teicoplanin
+T14	Antibiotic 1434 1444	vancomycin
+T15	Antibiotic 1446 1456	gentamicin
+T16	Antibiotic 1458 1470	enrofloxacin
+T17	Antibiotic 1734 1744	bacitracin
+T18	Bacteria 1759 1770	E. faecalis
+T19	Gene 391 395	uppP
+T20	Gene 576 580	uppP
+T21	Antibiotic_target_alteration 607 618	inactivated
+E1	Antibiotic_target_alteration:T21 
+T22	Protein 744 748	UppP
+T23	Protein 841 845	UppP
+T24	Protein 1052 1056	uppP
+T25	Protein 1159 1163	uppP
+T26	Protein 1297 1301	uppP
+T27	Protein 1512 1516	uppP
+T28	Protein 1799 1803	UppP
+T29	Gene 1788 1792	BacA
+T30	Antibiotic_target_alteration 1164 1171	mutants
+E2	Antibiotic_target_alteration:T30 Cause:T10
+T31	Protein 300 305	UppPs
+T32	Protein 555 559	uppP
+T33	Protein 945 949	uppP
+T34	Protein 164 169	UppPs

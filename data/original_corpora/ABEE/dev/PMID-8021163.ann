@@ -1,0 +1,6 @@
+T1	Bacteria 109 131	gram-negative bacteria
+T2	Bacteria 227 249	gram-negative bacteria
+T3	Bacteria 666 690	gram-negative  bacterial
+T4	Bacteria 1225 1249	gram-negative  bacterial
+T5	Antibiotic_efflux 49 58	transport
+E1	Antibiotic_efflux:T5 Theme:T1

@@ -1,0 +1,13 @@
+T1	Antibiotic 39 51	streptomycin
+T2	Bacteria 88 114	Mycobacterium tuberculosis
+T3	Antibiotic 176 188	streptomycin
+T4	Antibiotic 354 366	streptomycin
+T5	Antibiotic 368 371	STR
+*	Equiv T5 T4
+T6	Antibiotic 499 502	STR
+T7	Gene 437 441	gidB
+T8	Gene 274 278	gidB
+T9	Antibiotic_efflux 143 149	efflux
+E1	Antibiotic_efflux:T9 Cause:T1 Theme:T2
+T10	Antibiotic_target_alteration 410 419	mutations
+E2	Antibiotic_target_alteration:T10 Cause:T4

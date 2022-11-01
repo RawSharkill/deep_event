@@ -1,0 +1,21 @@
+T2	Bacteria 219 235	Escherichia coli
+T3	Bacteria 155 196	Chryseobacterium meningosepticum CCUG4310
+T4	Antibiotic 679 689	carbapenem
+T5	Antibiotic 668 673	penam
+T6	Antibiotic 778 786	biapenem
+T7	Antibiotic 760 770	temocillin
+T8	Antibiotic 833 847	cephalosporins
+T9	Antibiotic_inactivation 818 828	Hydrolysis
+E1	Antibiotic_inactivation:T9 Cause:T8
+T10	Antibiotic_inactivation 1019 1028	hydrolyze
+E2	Antibiotic_inactivation:T10 Cause:T11
+T11	Antibiotic 1098 1107	sulbactam
+T12	Antibiotic 1141 1151	tazobactam
+E3	Antibiotic_inactivation:T10 Cause:T12
+T1	Protein 124 151	BlaB metallo-beta-lactamase
+T13	Protein 89 116	BlaB metallo-beta-lactamase
+T14	Protein 381 385	BlaB
+T15	Protein 959 963	BlaB
+T16	Protein 997 1001	BlaB
+T17	Protein 454 460	enzyme
+T18	Protein 964 970	enzyme

@@ -1,0 +1,10 @@
+T1	Bacteria 81 104	Mycobacterium smegmatis
+T2	Bacteria 149 183	Mycobacterium smegmatis ATCC 14468
+T3	Antibiotic 363 375	streptomycin
+T4	Antibiotic 349 358	kanamycin
+T5	Gene 442 446	vicC
+T6	Gene 448 451	str
+T7	Gene 457 460	kan
+T8	Bacteria 186 190	AC16
+*	Equiv T8 T2
+T9	Bacteria 528 532	AC16

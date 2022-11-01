@@ -1,0 +1,11 @@
+T1	Bacteria 36 52	Escherichia coli
+T2	Bacteria 154 169	E. coli strains
+*	Equiv T2 T1
+T3	Bacteria 824 835	Citrobacter
+T4	Bacteria 840 862	Klebsiella  pneumoniae
+T5	Antibiotic 80 91	sulfonamide
+T6	Antibiotic 190 202	sulfonamides
+T7	Antibiotic 243 254	sulfonamide
+T8	Antibiotic 628 639	sulfonamide
+T9	Antibiotic 689 700	sulfonamide
+T10	Antibiotic 903 914	sulfonamide

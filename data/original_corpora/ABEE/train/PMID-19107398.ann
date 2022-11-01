@@ -1,0 +1,8 @@
+T1	Bacteria 13 35	Pseudomonas aeruginosa
+T2	Bacteria 269 291	Pseudomonas aeruginosa
+T3	Bacteria 380 393	P. aeruginosa
+T5	Antibiotic 762 777	chloramphenicol
+*	Equiv T3 T1
+T4	Gene 657 662	cmlA8
+T6	Gene 685 690	cmlA5
+T7	Gene 615 645	aac(6')-II-aadA13-cmlA8-oxa-10

@@ -1,0 +1,25 @@
+T1	Bacteria 132 149	Ureaplasma parvum
+T2	Bacteria 155 177	Ureaplasma urealyticum
+T3	Bacteria 232 247	Ureaplasma spp.
+T4	Bacteria 488 498	Ureaplasma
+T5	Bacteria 548 558	Ureaplasma
+T6	Bacteria 675 697	Ureaplasma urealyticum
+T7	Bacteria 703 720	Ureaplasma parvum
+T8	Antibiotic 787 796	quinolone
+T9	Bacteria 889 899	Ureaplasma
+T10	Antibiotic 942 952	quinolones
+T11	Bacteria 1615 1630	Ureaplasma spp.
+T12	Antibiotic 527 536	quinolone
+T13	Antibiotic 26 36	quinolones
+T14	Antibiotic 57 66	quinolone
+T15	Gene 102 106	gyrA
+T16	Gene 108 112	gyrB
+T17	Gene 114 118	parC
+T18	Gene 124 128	parE
+T19	Antibiotic 661 671	quinolones
+T20	Gene 857 861	parE
+T21	Gene 847 851	parC
+T22	Gene 841 845	gyrB
+T23	Gene 835 839	gyrA
+T24	Gene 972 976	parC
+T25	Antibiotic 1346 1355	quinolone

@@ -1,0 +1,5 @@
+T1	Bacteria 73 95	Salmonella typhimurium
+T2	Bacteria 154 168	S. typhimurium
+*	Equiv T2 T1
+T3	Bacteria 1190 1204	S. typhimurium
+T5	Bacteria 1902 1916	S. typhimurium

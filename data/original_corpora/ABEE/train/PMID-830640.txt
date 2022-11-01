@@ -1,0 +1,3 @@
+Colcemid sensitivity of fission yeast: permeability and detoxification properties  of resistant mutants.
+
+Mutants of Schizosaccharomyces pombe, which were resistant to concentrations of  colcemid inhibitory to the wild-type parent, were not diminished in their  permeability to colcemid or colchicine. They also did not modify colcemid to a  detectable derivative or to a product that was incapable of binding to brain  tubulin. The resistance of these mutants was therefore via mechanisms different  from those of permeability and detoxification known for animal cells.

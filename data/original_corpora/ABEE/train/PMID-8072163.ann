@@ -1,0 +1,25 @@
+T1	Antibiotic 97 108	methicillin
+T2	Bacteria 119 140	Staphylococcus aureus
+T3	Antibiotic_target_alteration 80 93	modifications
+E1	Antibiotic_target_alteration:T3 Cause:T1 Theme:T2
+T4	Bacteria 542 546	MRSA
+T5	Antibiotic 496 507	methicillin
+T6	Bacteria 518 540	Staphylococcus  aureus
+T7	Bacteria 568 580	MRSA strains
+T8	Antibiotic 605 608	ABK
+T9	Antibiotic 764 767	ABK
+T10	Antibiotic 1066 1069	ABK
+T11	Bacteria 1128 1132	MRSA
+T12	Antibiotic 876 879	ABK
+T13	Antibiotic 963 966	ABK
+T14	Antibiotic 672 675	ABK
+T15	Bacteria 1517 1539	Gram-negative bacteria
+T16	Bacteria 1508 1512	MRSA
+T17	Antibiotic 1435 1438	ABK
+T18	Antibiotic_inactivation 1500 1507	against
+E2	Antibiotic_inactivation:T18 Cause:T17 Theme:T16
+T19	Bacteria 1658 1662	MRSA
+T20	Antibiotic 380 383	ABK
+T21	Antibiotic 278 281	ABK
+T22	Antibiotic 314 328	aminoglycoside
+T23	Antibiotic 216 230	aminoglycoside

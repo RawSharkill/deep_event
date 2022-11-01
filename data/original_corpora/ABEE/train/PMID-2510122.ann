@@ -1,0 +1,13 @@
+T1	Antibiotic 17 28	beta-lactam
+T2	Bacteria 57 77	Enterobacter cloacae
+T3	Bacteria 83 105	Pseudomonas aeruginosa
+T5	Antibiotic 499 510	beta-lactam
+T7	Antibiotic 597 615	beta-lactam agents
+T8	Antibiotic 967 978	beta-lactam
+T9	Antibiotic 1374 1392	beta-lactam agents
+T10	Antibiotic 1398 1413	aminoglycosides
+T4	Bacteria 533 555	Gram-negative bacteria
+T6	Antibiotic_target_alteration 331 342	alterations
+E1	Antibiotic_target_alteration:T6 Cause:T5 Theme:T4
+T11	Reduced_permeability_to_antibiotic 429 441	permeability
+E2	Reduced_permeability_to_antibiotic:T11 Cause:T5 Theme:T4

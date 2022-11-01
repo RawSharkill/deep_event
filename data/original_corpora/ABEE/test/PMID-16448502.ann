@@ -1,0 +1,39 @@
+T1	Antibiotic_target_alteration 5 13	mutation
+E1	Antibiotic_target_alteration:T1 Theme:T2
+T2	Bacteria 45 67	Pseudomonas aeruginosa
+T3	Antibiotic_efflux 79 85	efflux
+E2	Antibiotic_efflux:T3 Theme:T2
+T4	Bacteria 107 129	Pseudomonas aeruginosa
+T5	Antibiotic_efflux 156 162	efflux
+E3	Antibiotic_efflux:T5 Theme:T4
+T6	Bacteria 294 307	P. aeruginosa
+T8	Antibiotic 443 454	norfloxacin
+T7	Antibiotic 423 438	chloramphenicol
+T9	Antibiotic 477 485	imipenem
+*	Equiv T6 T2
+T11	Bacteria 407 418	PAO1 strain
+T12	Protein 93 98	mexEF
+T13	Protein 99 103	oprN
+T14	Protein 183 188	mexEF
+T15	Protein 189 193	oprN
+T16	Gene 254 258	mvaT
+T17	Gene 348 352	mvaT
+T18	Antibiotic_target_alteration 353 359	mutant
+E5	Antibiotic_target_alteration:T18 Theme:T11 Cause:T7
+E6	Antibiotic_target_alteration:T18 Theme:T11 Cause:T8
+T19	Antibiotic 521 536	chloramphenicol
+T20	Antibiotic 538 549	norfloxacin
+T21	Antibiotic 555 563	imipenem
+T22	Gene 649 653	nfxC
+T23	Gene 670 674	mexT
+T24	Gene 680 685	mexEF
+T25	Gene 686 690	oprN
+T26	Gene 723 728	mexEF
+T27	Gene 729 733	oprN
+T28	Gene 809 813	oprD
+T29	Gene 851 855	mvaT
+T30	Gene 1070 1075	mexEF
+T31	Gene 1076 1080	oprN
+T32	Gene 1100 1104	mexT
+T33	Gene 1108 1112	mexS
+T10	Gene 1039 1043	mvaT

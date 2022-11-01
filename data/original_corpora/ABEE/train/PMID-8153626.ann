@@ -1,0 +1,9 @@
+T1	Antibiotic 941 951	penicillin
+T2	Protein 359 369	amino acid
+T3	Antibiotic 612 622	penicillin
+T4	Antibiotic 741 751	penicillin
+T5	Antibiotic_inactivation 865 877	inactivating
+E1	Antibiotic_inactivation:T5 Cause:T1
+T6	Antibiotic 330 340	rifampicin
+T7	Antibiotic_target_replacement 370 383	substitutions
+E2	Antibiotic_target_replacement:T7 Cause:T6

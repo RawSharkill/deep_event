@@ -1,0 +1,17 @@
+T1	Bacteria 218 240	Gram-negative bacteria
+T2	Antibiotic_efflux 291 296	pumps
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Antibiotic_efflux 445 449	pump
+E2	Antibiotic_efflux:T3 Theme:T4 Cause:T5
+T4	Bacteria 488 504	Escherichia coli
+T5	Antibiotic 457 465	acridine
+T7	Bacteria 938 959	Gram-negative species
+T8	Bacteria 1498 1505	E. coli
+T9	Antibiotic_efflux 1435 1446	efflux pump
+E4	Antibiotic_efflux:T9 Theme:T8
+*	Equiv T8 T4
+T6	Protein 17 27	AcrAB-TolC
+T11	Protein 563 567	TolC
+T12	Protein 596 600	AcrB
+T13	Protein 652 656	AcrA
+T14	Protein 715 725	AcrAB-TolC

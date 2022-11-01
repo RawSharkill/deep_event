@@ -1,0 +1,85 @@
+T1	Bacteria 14 36	Pseudomonas aeruginosa
+T2	Bacteria 120 143	Escherichia coli strain
+T3	Bacteria 246 268	Pseudomonas aeruginosa
+T4	Bacteria 447 463	Escherichia coli
+T5	Bacteria 517 530	P. aeruginosa
+T6	Bacteria 558 573	E. coli strains
+*	Equiv T6 T2
+T7	Bacteria 770 783	P. aeruginosa
+T8	Bacteria 799 813	E. coli KZM120
+T9	Bacteria 1081 1094	P. aeruginosa
+T14	Antibiotic 1012 1024	beta-lactams
+*	Equiv T5 T3
+T16	Bacteria 2460 2467	E. coli
+T10	Antibiotic 868 878	quinolones
+T11	Antibiotic 880 895	chloramphenicol
+T12	Antibiotic 897 909	erythromycin
+T13	Antibiotic 911 923	azithromycin
+T15	Antibiotic 972 982	novobiocin
+T17	Antibiotic_efflux 814 824	expressing
+E1	Antibiotic_efflux:T17 Theme:T8 Cause:T10
+T19	Antibiotic_efflux 1073 1077	pump
+E7	Antibiotic_efflux:T19 Theme:T9 Cause:T14
+T21	Antibiotic_efflux 1216 1222	efflux
+E9	Antibiotic_efflux:T21 Theme:T8 Cause:T22
+T22	Antibiotic 1185 1196	beta-lactam
+T23	Antibiotic 1398 1410	beta-lactams
+T25	Antibiotic 1578 1588	quinolones
+T26	Antibiotic 1591 1606	chloramphenicol
+T27	Antibiotic 1608 1618	macrolides
+T28	Antibiotic 1665 1677	beta-lactams
+T29	Antibiotic 1681 1691	novobiocin
+T30	Bacteria 1794 1807	P. aeruginosa
+T31	Bacteria 1504 1519	E.  coli KZM120
+T32	Antibiotic_efflux 1520 1530	expressing
+E11	Antibiotic_efflux:T32 Theme:T31 Cause:T25
+T33	Bacteria 1824 1838	E. coli KZM120
+*	Equiv T33 T31
+T34	Bacteria 2363 2376	P. aeruginosa
+*	Equiv T16 T4
+T35	Protein 60 64	MexA
+T36	Protein 65 69	MexB
+T37	Protein 70 74	OprM
+T38	Protein 80 84	MexC
+T39	Protein 85 89	MexD
+T40	Protein 90 94	OprJ
+T41	Gene 151 156	mexCD
+T42	Gene 157 161	oprJ
+T43	Gene 166 171	mexAB
+T44	Gene 172 176	oprM
+T45	Antibiotic_efflux 47 53	efflux
+E14	Antibiotic_efflux:T45 Theme:T1
+E15	Antibiotic_efflux:T45 Theme:T2
+T46	Antibiotic_efflux 230 236	efflux
+E16	Antibiotic_efflux:T46 Theme:T3
+T18	Protein 643 648	AcrAB
+T20	Gene 675 680	acrAB
+T24	Protein 825 835	MexAB-OprM
+E2	Antibiotic_efflux:T17 Theme:T8 Cause:T11
+E3	Antibiotic_efflux:T17 Theme:T8 Cause:T12
+E4	Antibiotic_efflux:T17 Theme:T8 Cause:T13
+E5	Antibiotic_efflux:T17 Theme:T8 Cause:T15
+E6	Antibiotic_efflux:T17 Theme:T8 Cause:T14
+T47	Protein 1138 1148	MexAB-OprM
+T48	Protein 1323 1328	MexAB
+T49	Protein 1332 1336	OprM
+T50	Protein 1438 1442	OprM
+T51	Protein 1531 1541	MexCD-OprJ
+E8	Antibiotic_efflux:T32 Theme:T31 Cause:T26
+E10	Antibiotic_efflux:T32 Theme:T31 Cause:T27
+E12	Antibiotic_efflux:T32 Theme:T31 Cause:T28
+E13	Antibiotic_efflux:T32 Theme:T31 Cause:T29
+T52	Antibiotic_efflux 1761 1782	MexCD-OprJ-expressing
+E17	Antibiotic_efflux:T52 Theme:T30
+T53	Protein 1761 1766	MexCD
+T54	Protein 1767 1771	OprJ
+T55	Protein 1850 1855	MexCD
+T56	Protein 1927 1931	OprJ
+T57	Protein 2012 2017	MexCD
+T58	Gene 2065 2069	tolC
+T59	Protein 2104 2109	MexCD
+T60	Protein 2151 2155	TolC
+T61	Protein 2217 2222	AcrAB
+T62	Protein 2223 2227	TolC
+T63	Antibiotic_efflux 2389 2395	efflux
+E18	Antibiotic_efflux:T63 Theme:T34

@@ -1,0 +1,24 @@
+T1	Antibiotic 14 23	linezolid
+T2	Bacteria 27 64	Staphylococcus spp. clinical isolates
+T3	Antibiotic 162 171	Linezolid
+T4	Antibiotic 206 220	oxazolidinones
+T5	Bacteria 520 539	Staphylococcus spp.
+T6	Bacteria 586 605	Staphylococcus spp.
+T7	Antibiotic 856 865	linezolid
+T8	Bacteria 926 935	S. aureus
+T9	Bacteria 1025 1049	S. epidermidis  isolates
+T10	Antibiotic 1069 1078	linezolid
+T11	Antibiotic 1278 1287	linezolid
+T12	Bacteria 1391 1410	Staphylococcus spp.
+T13	Antibiotic 1417 1426	linezolid
+T14	Antibiotic_target_alteration 127 135	mutation
+E1	Antibiotic_target_alteration:T14 Cause:T1 Theme:T2
+T15	Antibiotic 500 509	linezolid
+T16	Gene 718 722	mecA
+T17	Antibiotic_target_alteration 904 912	mutation
+E2	Antibiotic_target_alteration:T17 Cause:T7 Theme:T8
+T18	Antibiotic_target_alteration 1111 1122	alterations
+E3	Antibiotic_target_alteration:T18 Cause:T10 Theme:T9
+T19	Gene 1218 1221	cfr
+T20	Antibiotic_target_alteration 1478 1487	mutations
+E4	Antibiotic_target_alteration:T20 Theme:T12 Cause:T13

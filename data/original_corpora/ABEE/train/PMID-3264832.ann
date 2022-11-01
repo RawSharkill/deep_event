@@ -1,0 +1,18 @@
+T2	Bacteria 121 141	Bacteroides fragilis
+T3	Bacteria 180 191	B. fragilis
+*	Equiv T3 T2
+T4	Antibiotic 212 223	penicillins
+T5	Antibiotic 405 413	imipenem
+T6	Bacteria 450 461	B. fragilis
+T7	Bacteria 551 567	Bacteroides spp.
+T8	Antibiotic 608 632	clindamycin-erythromycin
+T9	Bacteria 868 884	Escherichia coli
+T10	Bacteria 888 899	B. fragilis
+T11	Bacteria 910 922	B.  fragilis
+T12	Bacteria 944 955	B. fragilis
+T13	Bacteria 964 971	E. coli
+*	Equiv T13 T9
+T14	Bacteria 1061 1072	B. fragilis
+T15	Antibiotic 1135 1147	piperacillin
+T16	Antibiotic 1153 1162	cefoxitin
+T17	Antibiotic 1201 1219	beta-lactam agents

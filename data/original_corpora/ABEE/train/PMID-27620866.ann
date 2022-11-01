@@ -1,0 +1,42 @@
+T1	Antibiotic 19 28	quinolone
+T2	Bacteria 93 110	Shigella flexneri
+T3	Antibiotic 245 260	fluoroquinolone
+T4	Antibiotic 300 315	fluoroquinolone
+T5	Bacteria 330 348	Shigella  flexneri
+T6	Bacteria 374 385	S. flexneri
+*	Equiv T6 T5
+T7	Antibiotic 479 494	fluoroquinolone
+T8	Antibiotic 516 525	quinolone
+T9	Bacteria 638 649	S. flexneri
+T10	Antibiotic 675 689	nalidixic acid
+T11	Antibiotic 700 711	norfloxacin
+T12	Bacteria 890 902	S.  flexneri
+T13	Bacteria 1000 1011	S. flexneri
+T14	Bacteria 1082 1093	S. flexneri
+T15	Antibiotic 1118 1132	nalidixic acid
+T16	Bacteria 1253 1264	S. flexneri
+T17	Antibiotic 1288 1303	fluoroquinolone
+T18	Antibiotic 1512 1527	fluoroquinolone
+T19	Bacteria 1612 1623	S. flexneri
+T20	Bacteria 1751 1762	S. flexneri
+T21	Gene 1035 1039	gyrA
+T22	Gene 1044 1048	parC
+T23	Gene 63 67	gyrA
+T24	Gene 69 73	gyrB
+T25	Gene 75 79	parC
+T26	Gene 85 89	parE
+T27	Gene 559 563	gyrA
+T28	Gene 565 569	gyrB
+T29	Gene 571 575	parC
+T30	Gene 581 585	parE
+T31	Gene 851 855	gyrA
+T32	Gene 857 861	gyrB
+T33	Gene 863 867	parC
+T34	Gene 872 876	parE
+T35	Antibiotic 1205 1216	norfloxacin
+T36	Antibiotic_target_alteration 1167 1176	mutations
+E1	Antibiotic_target_alteration:T36 Cause:T35 Theme:T16
+T39	Gene 1451 1455	gyrA
+T40	Gene 1497 1501	parC
+T37	Gene 1587 1591	gyrA
+T38	Gene 1596 1600	parC

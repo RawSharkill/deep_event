@@ -1,0 +1,6 @@
+T1	Antibiotic 16 28	tetracycline
+T3	Antibiotic 123 135	tetracycline
+T2	Protein 0 6	Tet 42
+T4	Protein 107 113	Tet 42
+T5	Protein 257 264	TetA(Z)
+T6	Protein 406 412	TetR  

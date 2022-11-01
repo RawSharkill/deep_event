@@ -1,0 +1,3 @@
+The tet(K) gene of plasmid pT181 of Staphylococcus aureus encodes an efflux  protein that contains 14 transmembrane helices. 
+
+The corrected DNA sequence of the tet(K) structural gene, encoding the  tetracycline efflux protein from Staphylococcus aureus, is reported. The Tet(K)  protein is homologous to related tetracycline efflux proteins throughout the  protein, including at the C-terminal end. Hydropathy plotting now clearly  indicates that the Tet(K) protein contains 14 transmembrane alpha-helices.

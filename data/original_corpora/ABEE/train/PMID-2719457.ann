@@ -1,0 +1,16 @@
+T1	Antibiotic 0 15	Chloramphenicol
+T2	Bacteria 30 49	Pseudomonas cepacia
+T3	Antibiotic 104 119	chloramphenicol
+T4	Bacteria 182 201	Pseudomonas cepacia
+T5	Antibiotic 314 329	chloramphenicol
+T6	Antibiotic 456 471	chloramphenicol
+T7	Bacteria 609 620	P.  cepacia
+*	Equiv T7 T2
+T8	Antibiotic 736 751	chloramphenicol
+T9	Antibiotic 818 833	chloramphenicol
+T10	Bacteria 878 888	P. cepacia
+T11	Bacteria 900 916	Escherichia coli
+T12	Antibiotic 935 950	chloramphenicol
+T13	Antibiotic 1290 1305	chloramphenicol
+T14	Reduced_permeability_to_antibiotic 1347 1359	permeability
+E1	Reduced_permeability_to_antibiotic:T14 Cause:T13 Theme:T4

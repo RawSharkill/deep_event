@@ -1,0 +1,7 @@
+T1	Antibiotic 48 60	tetracycline
+T2	Antibiotic 183 195	tetracycline
+T4	Bacteria 226 248	Staphylococcus  aureus
+T5	Bacteria 270 286	Escherichia coli
+T3	Bacteria 631 645	Staph.  aureus
+T6	Bacteria 745 752	E. coli
+T7	Antibiotic 974 987	tetracyclines

@@ -1,0 +1,29 @@
+T1	Bacteria 106 128	Pseudomonas aeruginosa
+T2	Bacteria 243 265	Pseudomonas aeruginosa
+T3	Bacteria 305 330	P.   aeruginosa NRZ-03096
+T4	Antibiotic 444 455	carbapenems
+T6	Bacteria 778 803	P.   aeruginosa NRZ-03096
+T5	Bacteria 632 648	Escherichia coli
+T7	Bacteria 1237 1244	E. coli
+*	Equiv T7 T5
+T8	Antibiotic 1444 1458	cephalosporins
+T9	Antibiotic 1481 1489	imipenem
+T10	Bacteria 1663 1676	P. aeruginosa
+T13	Protein 221 224	MBL
+T14	Gene 605 608	bla
+T15	Protein 1029 1033	 MBL
+T16	Protein 1044 1049	HMB-1
+T17	Protein 1224 1233	bla HMB-1
+T12	Protein 185 219	subclass B1 metallo-beta-lactamase
+T11	Protein 59 94	subclass B1  metallo-beta-lactamase
+T18	Gene 555 558	bla
+T19	Protein 1063 1066	MBL
+T20	Protein 1342 1347	HMB-1
+T21	Protein 1528 1533	HMB-1
+T22	Protein 44 49	HMB-1
+T23	Protein 859 862	MBL
+T24	Protein 1596 1610	carbapenemases
+T25	Gene 1106 1116	bla  HMB-1
+T26	Protein 457 460	MBL
+T27	Protein 663 669	enzyme
+T28	Protein 937 956	subclass  B1 enzyme

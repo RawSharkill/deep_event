@@ -1,0 +1,22 @@
+T1	Antibiotic 14 23	quinolone
+T2	Bacteria 920 942	gram-negative bacteria
+T3	Antibiotic 195 205	 quinolone
+T4	Antibiotic 140 149	quinolone
+T5	Antibiotic_target_alteration 101 111	alteration
+E1	Antibiotic_target_alteration:T5 Cause:T4
+T6	Antibiotic 69 85	fluoroquinolones
+T7	Antibiotic 385 395	quinolones
+T8	Bacteria 586 608	gram-negative bacteria
+T9	Bacteria 651 667	Escherichia coli
+T10	Antibiotic_efflux 786 792	efflux
+E2	Antibiotic_efflux:T10 Theme:T12
+T11	Bacteria 1052 1070	Enterobacteriaceae
+T12	Bacteria 845 857	staphylococc
+T13	Bacteria 1245 1266	Staphylococcus aureus
+T14	Bacteria 1217 1239	Pseudomonas aeruginosa
+T15	Bacteria 1194 1215	 Campylobacter jejuni
+T16	Antibiotic 953 969	 fluoroquinolone
+T17	Antibiotic_target_alteration 1114 1124	 mutations
+E3	Antibiotic_target_alteration:T17 Theme:T11 Cause:T16
+T18	Protein 837 841	NorA
+T19	Protein 261 269	gyrase A

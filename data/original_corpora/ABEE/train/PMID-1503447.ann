@@ -1,0 +1,6 @@
+T1	Bacteria 303 326	Escherichia   coli X580
+T2	Bacteria 1018 1030	E. coli X580
+*	Equiv T2 T1
+T3	Gene 1661 1665	tonB
+T4	Antibiotic_efflux 5 23	transport-mediated
+E1	Antibiotic_efflux:T4 Theme:T1

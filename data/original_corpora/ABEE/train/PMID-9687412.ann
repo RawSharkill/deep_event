@@ -1,0 +1,35 @@
+T1	Bacteria 89 105	Escherichia coli
+T2	Antibiotic 148 163	fluoroquinolone
+T3	Bacteria 202 218	Escherichia coli
+T4	Antibiotic 292 307	fluoroquinolone
+T5	Bacteria 877 884	E. coli
+*	Equiv T5 T3
+T6	Bacteria 985 997	E. coli K-12
+T7	Antibiotic 1446 1461	fluoroquinolone
+T8	Antibiotic 1596 1611	fluoroquinolone
+T9	Antibiotic 853 864	cyclohexane
+T10	Antibiotic 825 841	 fluoroquinolone
+T11	Gene 958 961	Mar
+T12	Gene 930 935	marOR
+T13	Gene 1405 1409	gyrA
+T14	Gene 1414 1418	parC
+T15	Gene 1531 1535	marA
+T16	Gene 1539 1543	soxS
+T17	Antibiotic_target_alteration 1419 1428	mutations
+E1	Antibiotic_target_alteration:T17 Cause:T7
+T18	Antibiotic 544 555	cyclohexane
+T19	Protein 750 753	Mar
+T20	Protein 769 772	Sox
+T21	Gene 248 252	gyrA
+T22	Gene 257 261	parC
+T23	Gene 22 26	marA
+T24	Gene 30 34	soxS
+T25	Gene 334 338	marA
+T26	Gene 343 347	soxS
+T27	Gene 514 518	marA
+T28	Gene 520 524	soxS
+T29	Gene 530 533	rob
+T30	Protein 792 795	Mar
+T31	Protein 1221 1225	MarR
+T32	Gene 1324 1329	marOR
+T33	Gene 1374 1379	marOR

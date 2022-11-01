@@ -1,0 +1,15 @@
+T1	Bacteria 57 79	Pseudomonas aeruginosa
+T2	Bacteria 192 205	P. aeruginosa
+*	Equiv T2 T1
+T3	Antibiotic 1505 1520	fluoroquinolone
+T5	Antibiotic 1703 1713	gentamicin
+T6	Antibiotic 1718 1728	tobramycin
+T8	Bacteria 2035 2048	P. aeruginosa
+T4	Antibiotic 1232 1247	beta-lactamases
+T7	Protein 1420 1424	AmpC
+T9	Protein 1443 1447	OprD
+T10	Protein 1589 1593	MexZ
+T11	Gene 1692 1696	aadB
+T12	Reduced_permeability_to_antibiotic 1472 1481	mutations
+E1	Reduced_permeability_to_antibiotic:T12 Cause:T3
+T13	Protein 1801 1805	AmpC

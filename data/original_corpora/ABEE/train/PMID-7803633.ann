@@ -1,0 +1,23 @@
+T1	Bacteria 1128 1139	C. albicans
+T2	Antibiotic 71 83	 fluconazole
+T3	Antibiotic 0 5	Azole
+T4	Bacteria 16 32	Candida albicans
+*	Equiv T4 T1
+T5	Antibiotic 204 215	fluconazole
+T6	Bacteria 148 164	Candida albicans
+T7	Bacteria 320 331	C. albicans
+T8	Bacteria 478 489	C. albicans
+T9	Bacteria 739 750	C. albicans
+T10	Antibiotic 806 817	fluconazole
+T11	Bacteria 922 933	C. albicans
+T12	Antibiotic 874 884	miconazole
+T13	Antibiotic 890 902	ketoconazole
+T14	Bacteria 1345 1356	C. albicans
+T15	Bacteria 1426 1437	C. albicans
+T16	Antibiotic 1182 1194	ketoconazole
+T17	Antibiotic 1196 1209	 clotrimazole
+T18	Antibiotic 1215 1227	itraconazole
+T19	Antibiotic 1481 1486	azole
+T20	Antibiotic 522 527	azole
+T21	Antibiotic 387 392	azole
+T22	Antibiotic 711 722	fluconazole

@@ -1,0 +1,27 @@
+T2	Bacteria 25 41	Escherichia coli
+T1	Bacteria 107 123	Escherichia coli
+T3	Antibiotic_efflux 204 216	transporters
+E1	Antibiotic_efflux:T3 Theme:T1
+T4	Bacteria 1388 1395	E. coli
+T5	Bacteria 1490 1497	E. coli
+T6	Antibiotic_efflux 1505 1516	transporter
+E2	Antibiotic_efflux:T6 Theme:T5
+*	Equiv T4 T2
+T7	Antibiotic_efflux 69 75	efflux
+E3	Antibiotic_efflux:T7 Theme:T2
+T8	Protein 89 94	AcrEF
+T9	Protein 95 99	TolC
+T10	Protein 288 293	AcrAB
+T11	Protein 294 298	TolC
+T12	Protein 573 577	AcrA
+T13	Protein 686 691	AcrEF
+T14	Protein 693 698	AcrEF
+T15	Protein 745 749	AcrA
+T16	Protein 910 914	TolC
+T17	Protein 932 937	AcrEF
+T18	Protein 1000 1005	AcrEF
+T19	Protein 1043 1047	AcrA
+T20	Protein 1107 1111	AcrA
+T21	Protein 1223 1228	AcrEF
+T22	Protein 1372 1377	AcrEF
+T23	Protein 1499 1503	crEF

@@ -1,0 +1,44 @@
+T1	Antibiotic 25 37	tetracycline
+T2	Bacteria 64 86	Enterococcus  faecalis
+T3	Bacteria 16 24	Listeria
+T4	Bacteria 177 189	Enterococcus
+T5	Bacteria 194 212	Streptococcus spp.
+T6	Bacteria 337 359	Listeria monocytogenes
+T7	Bacteria 479 500	Enterococcus faecalis
+T8	Bacteria 648 666	Streptococcus spp.
+T9	Bacteria 697 714	Enterococcus spp.
+T10	Bacteria 740 751	enterococci
+T11	Bacteria 795 806	E. faecalis
+T12	Bacteria 812 833	Streptococcus milleri
+*	Equiv T11 T7
+T13	Bacteria 947 958	E. faecalis
+T14	Bacteria 965 977	E.  faecalis
+T15	Bacteria 982 998	L. monocytogenes
+T16	Bacteria 1029 1040	E. faecalis
+*	Equiv T15 T6
+T17	Bacteria 1289 1301	E.  faecalis
+T18	Bacteria 1328 1344	L. monocytogenes
+T19	Bacteria 1465 1477	Enterococcus
+T20	Bacteria 1482 1495	Listeria spp.
+T21	Gene 54 60	tet(S)
+T22	Gene 578 584	tet(L)
+T23	Gene 432 438	tet(S)
+T24	Gene 518 524	tet(M)
+T25	Gene 369 375	tet(K)
+T26	Gene 377 383	tet(L)
+T27	Gene 385 391	tet(M)
+T28	Gene 393 399	tet(O)
+T29	Gene 402 408	tet(P)
+T30	Gene 414 420	tet(Q)
+T31	Gene 310 316	tet(S)
+T32	Antibiotic 115 127	tetracycline
+T33	Antibiotic 133 144	minocycline
+T34	Gene 608 614	tet(M)
+T35	Gene 716 722	tet(L)
+T36	Gene 756 762	tet(O)
+T37	Gene 861 867	tet(K)
+T38	Gene 869 875	tet(P)
+T39	Gene 881 887	tet(Q)
+T40	Gene 1189 1195	tet(S)
+T41	Gene 1279 1285	tet(S)
+T42	Gene 922 928	tet(S)

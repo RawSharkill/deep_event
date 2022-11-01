@@ -1,0 +1,13 @@
+T1	Bacteria 68 85	Escherichia  coli
+T2	Antibiotic_efflux 51 59	exporter
+E1	Antibiotic_efflux:T2 Cause:T3 Theme:T1
+T3	Antibiotic 21 50	ABC-type macrolide antibiotic
+T4	Antibiotic_efflux 131 138	exports
+E2	Antibiotic_efflux:T4 Cause:T5 Theme:T1
+T5	Antibiotic 144 204	macrolide compounds  containing 14- and 15-membered lactones
+T6	Protein 60 64	MacB
+T7	Protein 89 93	MacB
+T8	Protein 251 255	MacA
+T9	Protein 303 307	TolC
+T10	Protein 350 354	MacB
+T11	Protein 478 482	MacB

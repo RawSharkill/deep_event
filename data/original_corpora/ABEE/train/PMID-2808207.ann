@@ -1,0 +1,35 @@
+T1	Antibiotic 0 9	Meropenem
+T3	Antibiotic 118 127	meropenem
+T4	Antibiotic 135 145	carbapenem
+T6	Antibiotic 275 298	beta-lactam antibiotics
+T7	Antibiotic 459 468	meropenem
+T8	Antibiotic 472 480	imipenem
+T9	Bacteria 503 523	Aeromonas hydrophila
+T10	Antibiotic 634 645	carbapenems
+T11	Antibiotic 723 732	meropenem
+T12	Antibiotic 739 747	imipenem
+T13	Bacteria 770 783	P. aeruginosa
+T14	Antibiotic 818 826	imipenem
+T15	Antibiotic 898 907	meropenem
+T16	Antibiotic 1053 1064	carbapenems
+T17	Antibiotic 1066 1075	Meropenem
+T18	Antibiotic 1136 1144	imipenem
+T19	Antibiotic 1181 1192	ceftazidime
+T20	Antibiotic 1196 1208	piperacillin
+T21	Antibiotic 1220 1229	meropenem
+T22	Antibiotic 1343 1352	meropenem
+T23	Antibiotic 1357 1365	imipenem
+T2	Bacteria 174 196	Gram-negative bacteria
+T5	Bacteria 38 60	gram-negative bacteria
+T24	Antibiotic_inactivation 20 27	against
+E1	Antibiotic_inactivation:T24 Cause:T1 Theme:T5
+T25	Bacteria 528 565	Pseudomonas (Xanthomonas) maltophilia
+T26	Protein 1105 1128	Class I beta-lactamases
+T27	Antibiotic_inactivation 1256 1263	against
+E2	Antibiotic_inactivation:T27 Cause:T21
+T28	Antibiotic_target_alteration 954 965	Alterations
+E3	Antibiotic_target_alteration:T28 Cause:T16
+T29	Antibiotic_inactivation 618 629	hydrolyzing
+E4	Antibiotic_inactivation:T29 Cause:T10
+E5	Antibiotic_inactivation:T29 Cause:T11
+E6	Antibiotic_inactivation:T29 Cause:T12

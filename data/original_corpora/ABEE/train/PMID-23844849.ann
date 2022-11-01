@@ -1,0 +1,43 @@
+T1	Antibiotic 35 44	quinolone
+T2	Antibiotic 240 249	quinolone
+T3	Bacteria 674 689	Klebsiella spp.
+T4	Bacteria 691 707	Escherichia coli
+T5	Bacteria 709 726	Enterobacter spp.
+T6	Bacteria 728 740	Proteus spp.
+T7	Bacteria 743 756	Shigella spp.
+T8	Bacteria 762 778	Citrobacter spp.
+T9	Bacteria 961 974	Shigella spp.
+T10	Bacteria 1810 1828	E. coli J53 Azi(R)
+T11	Bacteria 1832 1848	E. coli DH5alpha
+T12	Gene 56 59	qnr
+T13	Bacteria 90 112	Gram-negative bacteria
+T14	Gene 269 272	qnr
+T15	Gene 552 557	qnrA1
+T16	Gene 559 564	qnrB2
+T17	Gene 566 571	qnrB4
+T18	Gene 573 578	qnrB6
+T19	Gene 582 587	qnrB9
+T20	Gene 589 594	qnrS1
+T21	Gene 608 612	qnrB
+T22	Gene 621 627	qnrB26
+T23	Gene 812 815	qnr
+T24	Gene 830 834	PMQR
+T25	Gene 842 855	aac(6')-Ib-cr
+T26	Gene 860 864	qepA
+T27	Gene 943 947	qepA
+T28	Gene 1103 1106	qnr
+T29	Gene 1177 1183	blaTEM
+T30	Gene 1185 1191	blaCTX
+T31	Gene 1199 1205	blaDHA
+T32	Gene 1211 1217	blaSHV
+T33	Gene 1193 1197	ampR
+T34	Gene 1455 1460	qnrA1
+T35	Gene 1462 1467	qnrB2
+T36	Gene 1474 1479	qnrB6
+T37	Bacteria 1764 1784	qnr-positive strains
+T38	Gene 1955 1958	qnr
+T39	Gene 1687 1690	qnr
+T40	Gene 1637 1641	PMQR
+T41	Gene 1540 1550	qnrA1-ampR
+T43	Gene 1553 1568	sapA-like-qnrB2
+T45	Gene 1574 1583	sdr-qnrB6

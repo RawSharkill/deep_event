@@ -1,0 +1,13 @@
+T1	Antibiotic 18 26	rifampin
+T3	Bacteria 41 63	Pseudomonas aeruginosa
+T4	Antibiotic 73 81	rifampin
+T6	Bacteria 124 146	Pseudomonas aeruginosa
+T7	Bacteria 274 297	Mycobacterium smegmatis
+T8	Antibiotic 205 213	rifampin
+T5	Gene 99 104	arr-2
+T9	Protein 155 159	RR-2
+T10	Protein 178 188	amino acid
+T11	Protein 304 309	arr-2
+T2	Gene 260 263	arr
+T12	Antibiotic_inactivation 233 244	transferase
+E1	Antibiotic_inactivation:T12 Cause:T8 Theme:T7

@@ -1,0 +1,14 @@
+T1	Bacteria 4 19	Vibrio cholerae
+T2	Bacteria 186 197	V. cholerae
+*	Equiv T2 T1
+T3	Antibiotic 736 747	penicillins
+T4	Antibiotic 749 763	cephalosporins
+T5	Antibiotic 768 779	carbapenems
+T6	Antibiotic 819 828	meropenem
+T7	Bacteria 865 881	Escherichia coli
+T8	Antibiotic 1004 1014	spiramycin
+T9	Bacteria 1706 1717	V. cholerae
+T10	Protein 42 64	metallo-beta-lactamase
+T11	Protein 441 463	metallo-beta-lactamase
+T12	Gene 1184 1188	VarR
+T13	Gene 1326 1330	VarR

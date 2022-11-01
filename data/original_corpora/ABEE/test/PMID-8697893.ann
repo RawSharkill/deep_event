@@ -1,0 +1,18 @@
+T1	Bacteria 18 40	Haemophilus influenzae
+T2	Bacteria 234 256	Haemophilus influenzae
+T3	Antibiotic 182 193	 cefuroxime
+T4	Antibiotic 167 177	cefotaxime
+T5	Antibiotic 157 165	cefixime
+T6	Antibiotic 146 155	cefetamet
+T7	Antibiotic 136 144	cefaclor
+T8	Antibiotic 278 288	ampicillin
+T9	Antibiotic 352 362	ampicillin
+T10	Antibiotic 455 465	ampicillin
+T11	Antibiotic 497 511	cephalosporins
+T12	Antibiotic 580 594	cephalosporins
+T13	Antibiotic 677 687	ampicillin
+T14	Antibiotic 777 791	cephalosporins
+T15	Antibiotic 1002 1012	ampicillin
+T16	Antibiotic 912 926	cephalosporins
+T17	Antibiotic 707 717	ampicillin
+T18	Antibiotic 92 106	cephalosporins

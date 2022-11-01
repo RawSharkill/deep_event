@@ -1,0 +1,10 @@
+T1	Antibiotic 424 436	beta-lactams
+T2	Antibiotic_target_alteration 522 531	mutations
+E1	Antibiotic_target_alteration:T2 Cause:T1
+T3	Antibiotic 654 668	aminoglycoside
+T4	Bacteria 772 783	enterococci
+T5	Antibiotic 891 902	methicillin
+T6	Bacteria 913 934	Staphylococcus aureus
+T7	Bacteria 1195 1204	S. aureus
+*	Equiv T7 T6
+T8	Bacteria 1210 1232	Pseudomonas aeruginosa

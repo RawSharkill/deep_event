@@ -1,0 +1,20 @@
+T1	Antibiotic 25 34	isoniazid
+T2	Antibiotic 39 50	ethionamide
+T3	Bacteria 75 101	Mycobacterium tuberculosis
+T4	Antibiotic 237 246	isoniazid
+T5	Antibiotic 252 263	ethionamide
+T6	Bacteria 361 387	Mycobacterium tuberculosis
+T7	Antibiotic 599 608	isoniazid
+T8	Antibiotic 613 624	ethionamide
+T9	Antibiotic 901 910	isoniazid
+T10	Antibiotic 925 936	ethionamide
+T11	Antibiotic 1663 1672	isoniazid
+T12	Antibiotic 1709 1720	ethionamide
+T13	Gene 648 652	katG
+T14	Gene 654 658	inhA
+T15	Gene 660 664	ethA
+T16	Gene 669 672	ndh
+T17	Gene 1115 1119	inhA
+T18	Gene 1274 1278	inhA
+T19	Gene 1545 1550	 inhA
+T20	Gene 142 146	inhA

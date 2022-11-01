@@ -1,0 +1,20 @@
+T1	Antibiotic 106 117	methicillin
+T2	Bacteria 128 149	Staphylococcus aureus
+T3	Bacteria 255 276	Staphylococcus aureus
+T4	Antibiotic 233 244	methicillin
+T5	Bacteria 278 282	MRSA
+T6	Antibiotic 310 321	methicillin
+T7	Antibiotic 529 540	methicillin
+T8	Bacteria 334 343	S. aureus
+*	Equiv T8 T3
+T9	Bacteria 345 349	MSSA
+T10	Gene 360 364	mecA
+T11	Bacteria 617 621	MSSA
+T12	Gene 632 636	mecA
+T13	Antibiotic 454 458	CZON
+T14	Antibiotic 475 478	CEZ
+T15	Antibiotic 443 452	cefuzonam
+T16	Antibiotic 464 473	cefazolin
+T17	Antibiotic 726 730	CZON
+T18	Antibiotic 735 738	CEZ
+T19	Antibiotic 560 571	methicillin

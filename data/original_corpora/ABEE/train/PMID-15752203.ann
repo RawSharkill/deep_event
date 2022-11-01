@@ -1,0 +1,44 @@
+T1	Bacteria 4 30	Mycobacterium tuberculosis
+T2	Antibiotic 122 131	isoniazid
+T3	Antibiotic 136 146	ethambutol
+T4	Bacteria 245 271	Mycobacterium tuberculosis
+T5	Antibiotic 314 323	isoniazid
+T6	Antibiotic 325 328	INH
+T7	Antibiotic 334 344	ethambutol
+T8	Antibiotic 346 349	EMB
+T9	Bacteria 447 462	M. tuberculosis
+*	Equiv T9 T4
+T10	Bacteria 527 542	M. tuberculosis
+T11	Antibiotic 617 620	INH
+T12	Antibiotic 625 628	EMB
+T13	Bacteria 725 748	Mycobacterium bovis BCG
+T14	Bacteria 752 767	M. tuberculosis
+T15	Antibiotic 773 776	INH
+T16	Antibiotic 780 783	EMB
+T17	Bacteria 785 788	BCG
+*	Equiv T17 T13
+T18	Bacteria 813 828	M. tuberculosis
+T19	Antibiotic 934 937	INH
+T20	Antibiotic 941 944	EMB
+T21	Bacteria 949 965	M.  tuberculosis
+T22	Antibiotic 1037 1040	INH
+T23	Bacteria 1091 1106	M. tuberculosis
+T24	Bacteria 1117 1120	BCG
+T25	Bacteria 1191 1207	M.  tuberculosis
+T26	Antibiotic 1335 1338	INH
+T27	Bacteria 1378 1381	BCG
+T28	Antibiotic 1516 1519	INH
+T29	Bacteria 1823 1835	mycobacteria
+T30	Gene 31 35	iniA
+T31	Gene 543 547	iniA
+T32	Gene 829 833	iniA
+T33	Gene 1183 1187	iniA
+T34	Gene 1107 1111	iniA
+T35	Gene 1410 1414	iniA
+T36	Gene 1472 1476	IniA
+T37	Protein 1579 1583	IniA
+T38	Gene 1867 1871	iniA
+T39	Protein 1732 1736	iniA
+T40	Gene 987 991	iniA
+T41	Gene 672 676	iniB
+T42	Gene 681 685	iniC

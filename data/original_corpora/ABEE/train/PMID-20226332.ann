@@ -1,0 +1,45 @@
+T1	Antibiotic 30 42	moxifloxacin
+T2	Bacteria 68 90	Clostridium  difficile
+T3	Antibiotic 112 127	Fluoroquinolone
+T4	Bacteria 142 163	Clostridium difficile
+T5	Bacteria 208 220	C. difficile
+*	Equiv T5 T2
+T6	Antibiotic 329 341	moxifloxacin
+T7	Bacteria 350 362	C. difficile
+T8	Bacteria 394 406	C. difficile
+T9	Antibiotic 722 731	quinolone
+T10	Antibiotic 1103 1116	ciprofloxacin
+T11	Antibiotic 1338 1350	moxifloxacin
+T12	Antibiotic 1447 1459	moxifloxacin
+T13	Antibiotic 1611 1623	moxifloxacin
+T14	Antibiotic 1947 1959	moxifloxacin
+T15	Antibiotic 2034 2046	moxifloxacin
+T16	Gene 771 775	gyrA
+T17	Gene 780 784	gyrB
+T18	Antibiotic 1125 1137	moxifloxacin
+T19	Protein 1187 1197	amino acid
+T20	Gene 1237 1241	GyrA
+T21	Gene 1245 1249	GyrB
+T22	Protein 1266 1276	amino acid
+T23	Protein 1542 1552	amino acid
+T24	Gene 1569 1573	GyrA
+T25	Gene 1710 1714	GyrA
+T26	Gene 1843 1847	GyrB
+T27	Gene 2017 2021	GyrA
+T28	Gene 2084 2088	GyrA
+T29	Gene 2140 2144	GyrA
+T30	Gene 2148 2152	GyrB
+T31	Antibiotic_target_replacement 2124 2136	substitution
+E1	Antibiotic_target_replacement:T31 Cause:T15
+T32	Antibiotic_target_replacement 2001 2013	substitution
+E2	Antibiotic_target_replacement:T32 Cause:T14
+T33	Protein 1751 1761	amino acid
+T35	Gene 1786 1790	GyrA
+T36	Antibiotic_target_replacement 1694 1706	substitution
+E4	Antibiotic_target_replacement:T36 Cause:T13
+T34	Antibiotic_target_replacement 1553 1565	substitution
+E3	Antibiotic_target_replacement:T34 Cause:T12
+T37	Antibiotic_target_replacement 1278 1291	substitutions
+E5	Antibiotic_target_replacement:T37 Cause:T11
+T38	Antibiotic_target_replacement 1199 1212	substitutions
+E6	Antibiotic_target_replacement:T38 Cause:T18

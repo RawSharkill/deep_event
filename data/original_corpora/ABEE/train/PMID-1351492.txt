@@ -1,0 +1,3 @@
+Antibiotic-resistant enterococci.
+
+Enterococci have emerged as an important cause of nosocomial infection.  Successful antibiotic treatment of serious enterococcal infection usually depends  on the synergistic bactericidal effect achieved by the combination of a cell  wall-active agent, such as ampicillin or a glycopeptide, and an aminoglycoside.  However, the prevalence of enterococci resistant to one or more of these  antibiotics is increasing, and has resulted in serious therapeutic difficulties.   The mechanisms of antibiotic resistance, and the epidemiology, laboratory  diagnosis and management of infection with antibiotic-resistant enterococci are  discussed.

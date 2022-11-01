@@ -1,0 +1,22 @@
+T1	Bacteria 72 98	Streptomyces lividans 1326
+T4	Antibiotic 166 181	chloramphenicol
+T6	Bacteria 203 230	Streptomyces lividans  1326
+T7	Antibiotic 384 399	chloramphenicol
+T9	Antibiotic 521 536	chloramphenicol
+T11	Antibiotic 762 774	tetracycline
+T15	Bacteria 958 971	Gram-negative
+T16	Bacteria 976 998	Gram-positive bacteria
+T17	Antibiotic 1024 1031	citrate
+T18	Bacteria 1035 1056	Klebsiella pneumonaie
+T19	Antibiotic 1065 1076	ferrichrome
+T20	Bacteria 1081 1097	Escherichia coli
+E7	Antibiotic_efflux:T8 Cause:T19 Theme:T20
+E8	Antibiotic_efflux:T8 Cause:T17 Theme:T18
+T2	Antibiotic_efflux 752 758	efflux
+E3	Antibiotic_efflux:T2 Cause:T11
+T8	Antibiotic_efflux 1007 1019	transporters
+T3	Antibiotic 29 44	chloramphenicol
+T5	Antibiotic_efflux 132 139	protein
+E1	Antibiotic_efflux:T5 Theme:T1 Cause:T3
+T10	Antibiotic 853 868	chloramphenicol
+T12	Antibiotic 921 933	tetracycline

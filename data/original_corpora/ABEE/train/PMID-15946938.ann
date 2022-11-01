@@ -1,0 +1,17 @@
+T1	Bacteria 10 27	Bacillus subtilis
+T2	Antibiotic 83 93	bacitracin
+T3	Bacteria 173 189	Escherichia coli
+T4	Bacteria 197 214	Bacillus subtilis
+T5	Antibiotic 272 282	bacitracin
+T6	Antibiotic 404 414	bacitracin
+T7	Antibiotic 554 564	bacitracin
+T8	Bacteria 646 653	E. coli
+*	Equiv T8 T3
+T9	Antibiotic 700 710	bacitracin
+T10	Bacteria 1083 1090	E. coli
+T11	Protein 306 314	BcrC(Bs)
+T12	Protein 130 138	BcrC(Bs)
+T13	Protein 0 4	BcrC
+T14	Protein 621 634	His6-BcrC(Bs)
+T15	Protein 906 914	BcrC(Bs)
+T16	Protein 1169 1177	BcrC(Bs)

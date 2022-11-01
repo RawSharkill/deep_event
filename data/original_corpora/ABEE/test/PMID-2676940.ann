@@ -1,0 +1,12 @@
+T1	Bacteria 48 66	Enterobacteriaceae
+T2	Bacteria 72 90	Enterobacteriaceae
+T3	Antibiotic 130 154	beta-lactam  antibiotics
+T4	Bacteria 270 288	Enterobacteriaceae
+T5	Antibiotic 217 226	aztreonam
+T6	Antibiotic 231 240	carumonam
+T7	Antibiotic 0 9	Tigemonam
+T8	Antibiotic 157 166	Tigemonam
+T9	Antibiotic 312 321	Tigemonam
+T10	Bacteria 632 650	Enterobacteriaceae
+T11	Reduced_permeability_to_antibiotic 737 749	permeability
+E1	Reduced_permeability_to_antibiotic:T11 Theme:T10

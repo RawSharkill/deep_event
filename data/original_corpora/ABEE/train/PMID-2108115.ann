@@ -1,0 +1,11 @@
+T1	Bacteria 67 90	Pseudomonas  aeruginosa
+T2	Antibiotic_target_alteration 48 55	altered
+E1	Antibiotic_target_alteration:T2 Theme:T1
+T3	Bacteria 112 134	Pseudomonas aeruginosa
+T4	Antibiotic 460 466	pyocin
+T5	Protein 649 650	F
+T6	Antibiotic 848 856	Imipenem
+T7	Protein 1009 1010	F
+T8	Antibiotic 1026 1034	Imipenem
+T9	Antibiotic 1049 1059	penicillin
+T10	Antibiotic 1325 1333	imipenem

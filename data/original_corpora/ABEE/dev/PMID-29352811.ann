@@ -1,0 +1,22 @@
+T1	Bacteria 128 150	Haemophilus influenzae
+T2	Bacteria 219 241	Haemophilus influenzae
+T3	Bacteria 577 590	H. influenzae
+*	Equiv T3 T2
+T4	Antibiotic 699 709	ampicillin
+T5	Antibiotic 721 735	cephalosporins
+T6	Bacteria 805 818	H. influenzae
+T7	Bacteria 915 928	H. influenzae
+T8	Antibiotic 1094 1104	ampicillin
+T9	Antibiotic 1236 1259	beta-lactam antibiotics
+T10	Antibiotic 1164 1174	penicillin
+T11	Antibiotic 894 904	ampicillin
+T12	Antibiotic 963 973	ampicillin
+T13	Antibiotic 198 208	ampicillin
+T14	Antibiotic 50 60	penicillin
+T15	Antibiotic 107 117	ampicillin
+T16	Gene 385 389	ftsI
+T17	Antibiotic 414 424	penicillin
+T18	Antibiotic 545 555	penicillin
+T19	Antibiotic_target_alteration 1044 1053	mutations
+E1	Antibiotic_target_alteration:T19 Cause:T8
+T20	Gene 777 781	ftsI

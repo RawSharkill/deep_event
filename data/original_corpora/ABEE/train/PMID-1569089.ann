@@ -1,0 +1,20 @@
+T1	Antibiotic 67 79	erythromycin
+T2	Bacteria 318 334	Escherichia coli
+T3	Antibiotic 879 891	erythromycin
+T4	Antibiotic 1444 1480	macrolide-lincosamide-synergimycin B
+T5	Antibiotic 1437 1441	MLSb
+*	Equiv T5 T4
+T6	Antibiotic 1693 1697	MLSb
+T7	Antibiotic_target_alteration 32 38	change
+E1	Antibiotic_target_alteration:T7 Cause:T1
+T8	Antibiotic 142 154	erythromycin
+T9	Antibiotic_target_alteration 119 127	mutation
+E2	Antibiotic_target_alteration:T9 Cause:T8
+T10	Antibiotic 445 457	erythromycin
+T11	Antibiotic_target_alteration 297 311	Mutagenization
+E3	Antibiotic_target_alteration:T11 Theme:T2 Cause:T10
+T12	Antibiotic 1221 1233	erythromycin
+T13	Gene 1336 1339	rrn
+T14	Gene 403 407	rrnH
+T15	Antibiotic_inactivation 1398 1409	dissociated
+E4	Antibiotic_inactivation:T15 Cause:T5

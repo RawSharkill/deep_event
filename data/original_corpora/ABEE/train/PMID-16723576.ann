@@ -1,0 +1,18 @@
+T1	Antibiotic 62 72	daptomycin
+T2	Bacteria 77 98	Staphylococcus aureus
+T3	Antibiotic 102 112	Daptomycin
+T4	Bacteria 245 266	Staphylococcus aureus
+T5	Antibiotic 301 311	daptomycin
+T6	Antibiotic 415 425	daptomycin
+T7	Antibiotic 488 498	daptomycin
+T8	Antibiotic 970 980	daptomycin
+T9	Antibiotic 1123 1133	daptomycin
+T10	Bacteria 170 193	gram-positive  bacteria
+T11	Antibiotic_inactivation 153 169	activity against
+E1	Antibiotic_inactivation:T11 Theme:T10 Cause:T3
+T12	Antibiotic_target_alteration 532 541	mutations
+E2	Antibiotic_target_alteration:T12 Cause:T7
+T13	Protein 710 714	MprF
+T14	Protein 757 761	YycG
+T15	Protein 719 755	ysylphosphatidylglycerol  synthetase
+T16	Protein 1016 1020	mprF

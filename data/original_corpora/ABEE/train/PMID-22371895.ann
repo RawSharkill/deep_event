@@ -1,0 +1,44 @@
+T1	Bacteria 70 93	Acinetobacter baumannii
+T2	Antibiotic_efflux 54 58	pump
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 257 280	Acinetobacter baumannii
+T4	Antibiotic_efflux 172 178	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Bacteria 350 356	BM4587
+T6	Antibiotic_target_alteration 474 480	mutant
+E3	Antibiotic_target_alteration:T6 Theme:T7
+T7	Bacteria 481 487	BM4666
+T8	Bacteria 715 721	BM4587
+T9	Bacteria 890 896	BM4587
+T10	Bacteria 1209 1215	BM4587
+T11	Bacteria 1429 1435	BM4667
+T12	Bacteria 1440 1446	BM4651
+T13	Antibiotic_target_alteration 1388 1395	mutants
+E4	Antibiotic_target_alteration:T13 Theme:T12
+E5	Antibiotic_target_alteration:T13 Theme:T11
+T14	Bacteria 1677 1697	A. baumannii strains
+T15	Bacteria 1712 1739	Acinetobacter calcoaceticus
+T16	Bacteria 1743 1769	Acinetobacter nosocomialis
+T17	Bacteria 1775 1795	Acinetobacter pittii
+*	Equiv T14 T1
+T18	Protein 110 114	AdeN
+T19	Protein 59 65	AdeIJK
+T20	Protein 118 122	TetR
+T21	Protein 186 192	AdeIJK
+T22	Gene 361 365	adeN
+T23	Gene 404 410	adeIJK
+T24	Protein 428 432	TetR
+T25	Gene 503 509	adeIJK
+T26	Gene 759 763	adeN
+T27	Gene 840 844	adeJ
+T28	Gene 882 886	adeN
+T29	Protein 973 979	AdeIJK
+T30	Gene 1008 1012	adeJ
+T31	Resistance_by_absence 866 878	inactivation
+E6	Resistance_by_absence:T31 Theme:T9
+T32	Protein 1070 1074	AdeN
+T33	Protein 1085 1091	AdeIJK
+T34	Protein 1172 1176	AdeN
+T35	Gene 1366 1372	adeIJK
+T36	Protein 1615 1619	TetR
+T37	Gene 1636 1640	adeN

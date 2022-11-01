@@ -1,0 +1,3 @@
+KHM-1, a novel plasmid-mediated metallo-beta-lactamase from a Citrobacter  freundii clinical isolate. 
+
+A novel gene, bla(KHM-1), encoding a metallo-beta-lactamase, KHM-1, was cloned  from a clinical isolate of Citrobacter freundii resistant to most beta-lactam  antibiotics. Escherichia coli expressing bla(KHM-1) was resistant to all  broad-spectrum beta-lactams except for monobactams and showed reduced  susceptibility to carbapenems. Recombinant KHM-1 exhibited EDTA-inhibitable  hydrolytic activity against most beta-lactams, with an overall preference for  cephalosporins.

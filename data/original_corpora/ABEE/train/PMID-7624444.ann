@@ -1,0 +1,7 @@
+T1	Bacteria 80 106	Brevibacterium divaricatum
+T2	Gene 408 412	thrB
+T3	Gene 1785 1789	thrB
+T4	Bacteria 489 503	B. divaricatum
+T5	Bacteria 314 340	Brevibacterium divaricatum
+T6	Bacteria 787 801	B. divaricatum
+*	Equiv T4 T1

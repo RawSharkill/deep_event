@@ -1,0 +1,16 @@
+T1	Bacteria 186 208	Gram-positive bacteria
+T2	Bacteria 277 299	Gram-negative bacteria
+T3	Bacteria 360 376	Escherichia coli
+T4	Bacteria 535 542	E. coli
+*	Equiv T4 T3
+T5	Bacteria 544 561	Bacillus subtilis
+T6	Bacteria 580 591	B. subtilis
+*	Equiv T6 T5
+T7	Bacteria 841 852	B. subtilis
+T8	Bacteria 857 864	E. coli
+T9	Bacteria 918 925	E. coli
+T10	Bacteria 982 993	B. subtilis
+T11	Bacteria 1051 1069	B.  subtilis G1674
+T12	Bacteria 1112 1119	E. coli
+T13	Bacteria 1161 1172	B. subtilis
+T14	Bacteria 1250 1267	B. subtilis G1674

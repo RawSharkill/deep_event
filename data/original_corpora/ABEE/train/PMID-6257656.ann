@@ -1,0 +1,23 @@
+T1	Antibiotic 53 64	kasugamycin
+T2	Bacteria 92 113	Escherichia coli K-12
+T3	Bacteria 135 151	Escherichia coli
+T4	Antibiotic 222 233	kasugamycin
+T5	Antibiotic 712 723	kasugamycin
+T6	Antibiotic 796 807	kasugamycin
+T7	Gene 26 30	ksgB
+T8	Gene 83 87	ksgD
+T9	Gene 152 156	ksgB
+T10	Gene 210 214	aroD
+T11	Gene 246 250	Ksgr
+T12	Gene 258 262	ksgD
+T13	Gene 346 350	sbcA
+T14	Gene 416 420	ksgD
+T15	Gene 422 425	Tn5
+T16	Gene 488 492	ksgD
+T17	Gene 508 514	sbcA  
+T18	Gene 576 580	ksgB
+T19	Gene 581 585	ksgD
+T20	Gene 660 664	ksgB
+T21	Gene 668 672	ksgD
+T22	Gene 742 746	ksgB
+T23	Gene 747 753	ksgD  

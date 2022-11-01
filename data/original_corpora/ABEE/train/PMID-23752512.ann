@@ -1,0 +1,7 @@
+T1	Bacteria 37 55	Klebsiella oxytoca
+T2	Bacteria 140 159	Klebsiella  oxytoca
+T3	Gene 280 286	blaKPC
+T4	Gene 408 431	a 5'-truncated dhfrIIIc
+T5	Protein 170 197	class A carbapenemase KPC-2
+T6	Protein 21 26	KPC-2
+T7	Protein 389 394	arr-8

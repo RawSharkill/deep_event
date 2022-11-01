@@ -1,0 +1,33 @@
+T1	Bacteria 22 33	Bacteroides
+T2	Antibiotic 92 102	lincomycin
+T4	Bacteria 1352 1368	Escherichia coli
+T5	Bacteria 1423 1442	B. thetaiotaomicron
+T6	Bacteria 1235 1256	B.   thetaiotaomicron
+T7	Bacteria 1644 1666	gram-positive bacteria
+T9	Bacteria 1787 1808	Staphylococcus aureus
+T10	Bacteria 1709 1729	B.  thetaiotaomicron
+T11	Antibiotic 1754 1764	lincomycin
+T12	Bacteria 232 256	Bacteroides fragilis ERL
+T13	Bacteria 261 285	B. thetaiotaomicron  DOT
+T14	Bacteria 138 149	Bacteroides
+T15	Bacteria 341 365	mobilizable  Bacteroides
+T3	Protein 58 62	NBU2
+T8	Protein 158 162	NBU2
+T16	Protein 465 469	NBU2
+T17	Protein 802 806	NBU2
+T18	Protein 375 379	NBU1
+T19	Protein 687 691	NBU2
+T20	Gene 693 698	intN2
+T21	Protein 825 831	NBU2  
+T22	Protein 1015 1019	NBU1
+T23	Protein 1024 1028	NBU2
+T24	Protein 1142 1146	NBU2
+T25	Protein 1472 1476	NBU2
+T26	Protein 1328 1332	NBU2
+T27	Protein 1858 1862	NBU1
+T28	Protein 1868 1872	NBU2
+T29	Protein 1981 1985	NBU2
+T30	Protein 1990 1994	NBU1
+T31	Protein 2131 2135	NBU2
+T32	Protein 2153 2157	NBU2
+T33	Bacteria 2214 2233	Bacteroides strains

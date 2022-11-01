@@ -1,0 +1,39 @@
+T1	Bacteria 69 87	Escherichia   coli
+T2	Antibiotic 120 130	Carbapenem
+T3	Bacteria 306 322	Escherichia coli
+T4	Bacteria 414 421	E. coli
+*	Equiv T4 T1
+T5	Bacteria 631 638	E. coli
+T6	Bacteria 691 698	E. coli
+T7	Bacteria 1461 1474	E. coli TOP10
+T8	Antibiotic 1552 1563	carbapenems
+T9	Bacteria 1296 1303	E. coli
+T10	Bacteria 1673 1680	E. coli
+T11	Antibiotic 670 680	carbapenem
+T12	Gene 1441 1451	 blaNDM-11
+T13	Gene 1428 1436	blaNDM-1
+T14	Gene 1737 1746	blaNDM-11
+T15	Gene 1803 1811	blaNDM-1
+T16	Gene 979 987	blaTEM-1
+T17	Gene 989 1000	blaCTX-M-15
+T18	Gene 1002 1008	blaVIM
+T19	Protein 154 188	New Delhi metallo-beta-lactamase 1
+T20	Protein 192 197	NDM-1
+T21	Protein 14 20	NDM-11
+T22	Protein 31 36	NDM-1
+T23	Protein 362 368	NDM-11
+T24	Gene 450 456	blaNDM
+T25	Gene 380 386	blaNDM
+T26	Gene 750 756	blaNDM
+T27	Protein 1724 1727	NDM
+T28	Gene 593 601	blaNDM-1
+T29	Gene 531 540	blaNDM-11
+T30	Protein 877 880	NDM
+T31	Protein 851 856	NDM-1
+T32	Protein 936 941	NDM-5
+T33	Protein 921 927	NDM-11
+T34	Protein 1111 1114	NDM
+T35	Gene 1156 1162	blaNDM
+T36	Protein 1615 1618	NDM
+T37	Protein 903 909	 NDM-4
+T38	Protein 911 916	NDM-8

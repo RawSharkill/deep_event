@@ -1,0 +1,22 @@
+T1	Antibiotic 64 74	rifampicin
+T3	Bacteria 90 113	Streptomyces coelicolor
+T4	Bacteria 291 314	Streptomyces coelicolor
+T5	Antibiotic 456 466	rifampicin
+T6	Antibiotic_target_protection 35 39	RbpA
+E2	Antibiotic_target_protection:T6 Theme:T3
+T7	Bacteria 573 586	S. coelicolor
+*	Equiv T7 T4
+T8	Antibiotic 591 601	rifampicin
+T9	Antibiotic 825 835	rifampicin
+T10	Antibiotic 988 998	rifampicin
+T11	Antibiotic 1062 1072	rifampicin
+T13	Bacteria 1130 1144	S.  coelicolor
+*	Equiv T13 T3
+T14	Antibiotic_target_protection 1032 1036	RbpA
+E4	Antibiotic_target_protection:T14 Theme:T13
+T15	Protein 35 39	RbpA
+T2	Gene 341 345	rbpA
+T16	Gene 529 533	rbpA
+T17	Gene 868 872	rbpA
+T18	Gene 899 903	RbpA
+T19	Gene 919 923	RbpA

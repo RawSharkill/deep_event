@@ -1,0 +1,3 @@
+Introducing RpsA Point Mutations Delta438A and D123A into the Chromosome of  Mycobacterium tuberculosis Confirms Their Role in Causing Resistance to  Pyrazinamide. 
+
+Pyrazinamide (PZA) is a unique frontline drug for shortening tuberculosis (TB)  treatment, but its mechanisms of action are elusive. We previously found one  PZA resistant strain that harbors an alanine deletion at position 438 (Delta438A)  in RpsA, a target of PZA associated with PZA resistance, but its role in causing   PZA resistance has been inconclusive. Here, we introduced the RpsA Delta438A  mutation along with the D123A mutation into the Mycobacterium tuberculosis  chromosome and demonstrated that these RspA mutations are indeed responsible for   PZA resistance.

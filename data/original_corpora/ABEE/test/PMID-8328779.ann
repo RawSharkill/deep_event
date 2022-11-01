@@ -1,0 +1,14 @@
+T1	Antibiotic 16 24	rifampin
+T2	Bacteria 28 49	Nocardia brasiliensis
+T3	Antibiotic 53 61	Rifampin
+T4	Bacteria 106 114	Nocardia
+T5	Bacteria 122 144	Nocardia  brasiliensis
+T6	Antibiotic 321 330	rifamycin
+T7	Antibiotic 369 377	rifampin
+T8	Antibiotic_inactivation 0 12	Inactivation
+E1	Antibiotic_inactivation:T8 Theme:T2 Cause:T1
+T9	Bacteria 453 475	gram-positive bacteria
+T10	Antibiotic_inactivation 439 446	against
+E2	Antibiotic_inactivation:T10 Theme:T11
+T11	Bacteria 492 500	Nocardia
+E3	Antibiotic_inactivation:T10 Theme:T9

@@ -1,0 +1,22 @@
+T1	Antibiotic 32 43	methicillin
+T2	Antibiotic 78 89	methicillin
+T3	Bacteria 100 121	Staphylococcus aureus
+T4	Bacteria 175 196	Staphylococcus aureus
+T5	Antibiotic 220 229	oxacillin
+T6	Antibiotic 250 261	methicillin
+T7	Antibiotic 332 341	oxacillin
+T8	Antibiotic 377 388	methicillin
+T9	Antibiotic 566 577	methicillin
+T10	Antibiotic 689 700	methicillin
+T11	Antibiotic 756 765	oxacillin
+T12	Antibiotic 767 776	nafcillin
+T13	Antibiotic 778 789	methicillin
+T14	Antibiotic 942 951	Oxacillin
+T15	Antibiotic 996 1007	methicillin
+T16	Antibiotic 1047 1056	nafcillin
+T17	Antibiotic 1061 1072	methicillin
+T18	Protein 1158 1184	penicillin binding protein
+T19	Protein 1186 1192	PBP-2'
+T20	Antibiotic 1288 1299	methicillin
+T21	Antibiotic_target_alteration 1201 1208	altered
+E1	Antibiotic_target_alteration:T21 Theme:T3 Cause:T2

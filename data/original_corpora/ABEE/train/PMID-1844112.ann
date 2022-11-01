@@ -1,0 +1,5 @@
+T1	Bacteria 28 47	Serratia marcescens
+T2	Bacteria 257 276	Serratia marcescens
+T3	Bacteria 588 601	S. marcescens
+*	Equiv T3 T2
+T4	Bacteria 1107 1121	S.  marcescens

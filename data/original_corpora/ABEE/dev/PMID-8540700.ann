@@ -1,0 +1,23 @@
+T1	Bacteria 70 93	Pseudomonas  aeruginosa
+T2	Antibiotic 118 127	quinolone
+T3	Bacteria 202 224	Pseudomonas aeruginosa
+T4	Bacteria 864 880	Escherichia coli
+T5	Antibiotic 952 962	quinolones
+T6	Bacteria 967 980	P. aeruginosa
+*	Equiv T6 T3
+T7	Bacteria 992 999	E. coli
+*	Equiv T7 T4
+T8	Gene 165 169	gyrA
+T9	Antibiotic_target_alteration 101 110	mutations
+E1	Antibiotic_target_alteration:T9 Cause:T2 Theme:T3
+T10	Antibiotic 29 38	quinolone
+T11	Gene 11 15	gyrA
+T12	Protein 4 10	gyrase
+T13	Antibiotic_target_alteration 16 25	mutations
+E2	Antibiotic_target_alteration:T13 Cause:T10 Theme:T1
+T14	Antibiotic_target_alteration 771 780	mutations
+E3	Antibiotic_target_alteration:T14 Theme:T4
+T15	Protein 893 899	gyrase
+T16	Antibiotic_target_alteration 910 919	mutations
+E4	Antibiotic_target_alteration:T16 Cause:T5 Theme:T7
+E5	Antibiotic_target_alteration:T16 Theme:T6 Cause:T5

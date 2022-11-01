@@ -1,0 +1,10 @@
+T1	Bacteria 49 66	Bacillus subtilis
+T2	Bacteria 101 118	Bacillus subtilis
+T3	Protein 90 93	Bmr
+T4	Antibiotic_efflux 78 89	transporter
+E1	Antibiotic_efflux:T4 Theme:T1
+T5	Protein 141 144	Bmr
+T6	Protein 343 346	Bmr
+T7	Protein 478 481	Bmr
+T8	Protein 771 774	Bmr
+T9	Protein 813 816	Bmr

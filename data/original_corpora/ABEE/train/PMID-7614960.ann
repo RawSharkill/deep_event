@@ -1,0 +1,12 @@
+T1	Antibiotic 13 24	methicillin
+T2	Bacteria 35 56	Staphylococcus aureus
+T3	Bacteria 189 210	Staphylococcus aureus
+T4	Gene 1098 1102	mecA
+T5	Gene 1775 1779	mecA
+T6	Antibiotic 1294 1305	methicillin
+T7	Antibiotic 1316 1338	Staphylococcus  aureus
+T8	Gene 1045 1049	mecA
+T9	Gene 736 740	mecA
+T10	Gene 844 848	mecA
+T11	Gene 993 997	mecA
+T12	Antibiotic 382 391	oxacillin

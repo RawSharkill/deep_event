@@ -1,0 +1,28 @@
+T1	Antibiotic 73 87	thiolactomycin
+T2	Bacteria 102 123	Escherichia coli K-12
+T3	Bacteria 403 419	Escherichia coli
+T4	Bacteria 518 531	E.  coli K-12
+*	Equiv T4 T2
+T5	Antibiotic_efflux 0 14	Overproduction
+E1	Antibiotic_efflux:T5 Cause:T1 Theme:T2
+T6	Gene 658 662	fabB
+T7	Gene 844 848	fabB
+T8	Antibiotic 126 140	Thiolactomycin
+T9	Antibiotic 212 215	TLM
+*	Equiv T9 T8
+T10	Antibiotic 892 895	TLM
+T11	Gene 926 930	fabB
+T12	Antibiotic 1002 1005	TLM
+T13	Antibiotic 1108 1111	TLM
+T14	Antibiotic 1235 1238	TLM
+T15	Protein 1273 1277	FabB
+T16	Antibiotic 1299 1302	TLM
+T17	Antibiotic 1450 1453	TLM
+T18	Antibiotic 1543 1546	TLM
+T19	Antibiotic 1585 1588	TLM
+T20	Antibiotic 1648 1651	TLM
+T21	Antibiotic 474 477	TLM
+T22	Antibiotic 494 497	TLM
+T23	Gene 766 772	fabB15
+T24	Antibiotic_efflux 935 943	mutation
+E2	Antibiotic_efflux:T24 Cause:T10

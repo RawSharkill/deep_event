@@ -1,0 +1,25 @@
+T1	Antibiotic 8 18	kirromycin
+T2	Antibiotic 63 75	kirrothricin
+T3	Bacteria 86 110	Streptomyces cinnamoneus
+T4	Antibiotic 129 139	kirromycin
+T5	Antibiotic 141 143	Kr
+*	Equiv T5 T4
+T6	Bacteria 227 251	Streptomyces cinnamoneus
+T7	Bacteria 256 277	Nocardia lactamdurans
+T8	Antibiotic 366 368	Kr
+T9	Antibiotic 312 314	Kr
+T10	Bacteria 467 481	S. cinnamoneus
+*	Equiv T10 T6
+T11	Antibiotic 558 560	Kr
+T12	Bacteria 577 591	S. cinnamoneus
+T13	Bacteria 619 635	Escherichia coli
+T14	Bacteria 1003 1017	S. cinnamoneus
+T15	Antibiotic 1060 1062	Kr
+T16	Antibiotic 1147 1149	Kr
+T17	Antibiotic 1294 1296	Kr
+T18	Antibiotic 1391 1393	Kr
+T19	Bacteria 1412 1426	S. cinnamoneus
+T20	Antibiotic 1620 1622	Kr
+T21	Gene 592 595	tuf
+T22	Gene 418 421	tuf
+T23	Protein 1229 1235	 EF-Tu

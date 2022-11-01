@@ -1,0 +1,41 @@
+T1	Antibiotic 302 312	penicillin
+T2	Bacteria 316 336	Bacteroides fragilis
+T3	Antibiotic 483 500	ureidopenicillins
+T4	Antibiotic 506 515	cefoxitin
+T5	Bacteria 539 550	B. fragilis
+*	Equiv T5 T2
+T6	Antibiotic 583 592	cefoxitin
+T7	Antibiotic 736 745	cefoxitin
+T8	Antibiotic 780 790	Penicillin
+T9	Bacteria 812 823	Bacteroides
+T10	Antibiotic 856 871	Chloramphenicol
+T11	Antibiotic 901 916	chloramphenicol
+T12	Antibiotic 1017 1032	aminoglycosides
+T13	Antibiotic 1132 1145	Metronidazole
+T14	Antibiotic 1271 1295	Clindamycin-erythromycin
+T15	Bacteria 1310 1321	B. fragilis
+T16	Antibiotic 1346 1381	macrolide-lincosamide-streptogramin
+T17	Antibiotic 1586 1597	Tetracyline
+T18	Bacteria 1612 1623	B. fragilis
+T19	Antibiotic 1683 1695	tetracycline
+T20	Antibiotic_inactivation 468 478	inactivate
+E1	Antibiotic_inactivation:T20 Cause:T4 Theme:T5
+E2	Antibiotic_inactivation:T20 Cause:T3 Theme:T5
+T21	Bacteria 52 70	anaerobic bacteria
+T22	Bacteria 135 153	anaerobic bacteria
+T23	Bacteria 960 979	 anaerobic bacteria
+T24	Bacteria 981 999	Anaerobic bacteria
+T25	Antibiotic 1483 1494	clindamycin
+T26	Protein 428 445	cephalosporinases
+T27	Protein 402 417	beta-lactamases
+T28	Reduced_permeability_to_antibiotic 626 637	penetration
+E3	Reduced_permeability_to_antibiotic:T28 Cause:T6
+T29	Protein 714 727	penicillinase
+T30	Protein 841 854	penicillinase
+T31	Antibiotic_inactivation 841 854	penicillinase
+E4	Antibiotic_inactivation:T31 Theme:T9 Cause:T8
+T32	Antibiotic_inactivation 917 934	acetyltransferase
+E5	Antibiotic_inactivation:T32 Cause:T10 Theme:T23
+T33	Antibiotic_efflux 1077 1086	transport
+E6	Antibiotic_efflux:T33 Cause:T12 Theme:T24
+T34	Bacteria 1396 1412	aerobic bacteria

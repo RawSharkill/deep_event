@@ -1,0 +1,22 @@
+T1	Antibiotic 14 26	trimethoprim
+T2	Bacteria 41 55	enterobacteria
+T3	Antibiotic 140 152	trimethoprim
+T4	Antibiotic 155 158	TMP
+*	Equiv T4 T3
+T5	Bacteria 170 184	Enterobacteria
+T6	Protein 78 102	Dihydrofolate reductases
+T7	Protein 104 108	DHFR
+T8	Antibiotic 1092 1095	TMP
+T9	Bacteria 1111 1125	Enterobacteria
+T10	Antibiotic 919 922	TMP
+T11	Antibiotic 736 739	TMP
+T12	Antibiotic 375 378	TMP
+T13	Antibiotic 277 280	TMP
+T14	Antibiotic 637 640	TMP
+T15	Antibiotic 880 892	sulfadiazine
+T16	Bacteria 464 490	Proteus  mirabilis strains
+T17	Protein 517 539	chromosomal reductases
+T18	Antibiotic 553 557	 TMP
+T19	Antibiotic_target_alteration 728 735	altered
+E1	Antibiotic_target_alteration:T19 Cause:T11
+T20	Protein 752 756	DHFR

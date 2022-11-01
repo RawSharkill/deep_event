@@ -1,0 +1,14 @@
+T1	Antibiotic 51 60	Quinolone
+T2	Bacteria 114 134	Enterobacter Species
+T3	Bacteria 165 186	Klebsiella pneumoniae
+T4	Bacteria 562 579	Enterobacter spp.
+T5	Bacteria 595 608	K. pneumoniae
+*	Equiv T5 T3
+T6	Gene 335 339	qnrB
+T7	Gene 259 264	qnrE1
+T8	Gene 138 143	qnrE1
+T9	Gene 0 5	qnrE1
+T10	Gene 245 248	qnr
+T11	Gene 390 393	qnr
+T12	Gene 433 438	qnrE1
+T13	Gene 492 495	qnr

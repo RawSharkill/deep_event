@@ -1,0 +1,17 @@
+T1	Bacteria 252 280	Acinetobacter lwoffii JN49-1
+T2	Antibiotic 516 527	carbapenems
+T3	Antibiotic 626 634	imipenem
+T4	Antibiotic 639 648	meropenem
+T5	Protein 160 192	New Delhi metallo-beta-lactamase
+T6	Protein 8 40	New Delhi metallo-beta-lactamase
+T7	Protein 50 56	NDM-14
+T8	Protein 208 214	NDM-14
+T9	Protein 558 563	NDM-1
+T10	Protein 592 598	NDM-14
+T11	Protein 194 197	NDM
+T12	Protein 369 375	NDM-14
+T13	Protein 426 436	amino acid
+T14	Protein 412 419	enzymes
+T15	Antibiotic 137 148	carbapenems
+T16	Antibiotic_inactivation 120 136	activity against
+E1	Antibiotic_inactivation:T16 Cause:T15

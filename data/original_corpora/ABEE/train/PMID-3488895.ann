@@ -1,0 +1,15 @@
+T1	Bacteria 0 20	Bacteroides fragilis
+T2	Bacteria 126 146	Bacteroides fragilis
+T4	Bacteria 608 619	B. fragilis
+*	Equiv T4 T1
+T5	Antibiotic 735 759	beta-lactam  antibiotics
+T6	Antibiotic 761 773	piperacillin
+T7	Antibiotic 850 861	clindamycin
+T8	Antibiotic 863 878	chloramphenicol
+T9	Antibiotic 884 897	metronidazole
+T10	Antibiotic 907 921	aminoglycoside
+T11	Antibiotic 923 935	Piperacillin
+T12	Antibiotic 937 946	cefoxitin
+T13	Antibiotic 952 962	moxalactam
+T14	Antibiotic 984 998	aminoglycoside
+T15	Antibiotic 1201 1229	non-beta-lactam  antibiotics

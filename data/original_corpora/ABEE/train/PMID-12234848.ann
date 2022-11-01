@@ -1,0 +1,32 @@
+T1	Bacteria 54 73	Empedobacter brevis
+T2	Bacteria 77 96	Empedobacter brevis
+T3	Bacteria 282 298	Escherichia coli
+T4	Bacteria 304 313	E. brevis
+T7	Antibiotic 412 423	carbapenems
+T8	Antibiotic_inactivation 455 465	hydrolyzed
+E3	Antibiotic_inactivation:T8 Cause:T9 Theme:T4
+T9	Antibiotic 467 478	penicillins
+T10	Antibiotic 480 493	cephalosporin
+T11	Antibiotic 500 511	carbapenems
+T12	Antibiotic 532 541	aztreonam
+T13	Bacteria 667 684	Flavobacteriaceae
+T14	Antibiotic 706 715	meropenem
+T15	Antibiotic_inactivation 732 742	hydrolyzed
+E4	Antibiotic_inactivation:T15 Cause:T14
+E5	Antibiotic_inactivation:T8 Theme:T4 Cause:T10
+E6	Antibiotic_inactivation:T8 Theme:T4 Cause:T11
+T16	Bacteria 1108 1136	Chryseobacterium indologenes
+T17	Bacteria 1149 1171	Chryseobacterium gleum
+T18	Bacteria 1188 1220	Chryseobacterium meningosepticum
+T19	Bacteria 118 138	Flavobacterium breve
+*	Equiv T4 T1
+T6	Antibiotic 393 407	cephalosporins
+T20	Protein 0 5	EBR-1
+T21	Protein 621 626	 BlaB
+T22	Gene 243 253	bla(EBR-1)
+T23	Protein 213 235	class B beta-lactamase
+T24	Protein 15 48	Ambler subclass B1 beta-lactamase
+T25	Protein 908 931	class B beta-lactamases
+T5	Bacteria 145 166	gram-negative  aerobe
+T26	Gene 1178 1182	BlaB
+T27	Antibiotic 434 448	beta-lactamase

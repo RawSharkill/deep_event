@@ -1,0 +1,3 @@
+AcrAB and related multidrug efflux pumps of Escherichia coli. 
+
+The AcrAB system of Escherichia coli is a multidrug efflux system composed of an   RND-type transporter AcrB and a periplasmic accessory protein AcrA, and pumps out  a wide variety of lipophilic and amphiphilic inhibitors directly into the medium,  presumably through the TolC outer membrane channel. AcrA, a highly elongated  protein, is thought to bring the outer and inner membranes closer. It forms a  trimer that interacts with a monomeric AcrB, which was shown by in vitro  reconstitution to be a proton antiporter. Details of interaction between the

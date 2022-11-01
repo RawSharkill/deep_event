@@ -1,0 +1,30 @@
+T1	Antibiotic 212 220	cefixime
+T2	Antibiotic 222 226	CFIX
+T3	Antibiotic 233 241	cefdinir
+T4	Antibiotic 243 247	CFDN
+*	Equiv T4 T3
+*	Equiv T2 T1
+T5	Bacteria 1766 1775	S. aureus
+T6	Bacteria 1780 1802	gram-negative bacteria
+T7	Antibiotic 2047 2051	CFDN
+T8	Antibiotic 2303 2307	CFDN
+T9	Antibiotic 2294 2298	CFIX
+T10	Antibiotic 2230 2235	 CFDN
+T11	Antibiotic 2221 2225	CFIX
+T12	Antibiotic 2126 2130	CFDN
+T13	Bacteria 2000 2022	gram-negative bacteria
+T14	Antibiotic 1904 1908	CFDN
+T15	Antibiotic 1627 1631	CFIX
+T16	Bacteria 1735 1758	gram-positive  bacteria
+T17	Antibiotic 1576 1580	CFDN
+T18	Antibiotic 1116 1120	CFIX
+T19	Antibiotic 1099 1103	CFIX
+T20	Antibiotic 1529 1533	CFIX
+T21	Bacteria 1327 1349	gram-positive bacteria
+T22	Bacteria 1211 1220	S. aureus
+T23	Bacteria 1179 1202	gram-positive  bacteria
+T24	Antibiotic 668 679	ceftizoxime
+T25	Antibiotic 681 684	CZX
+T26	Antibiotic 886 889	CZX
+T27	Antibiotic 1568 1574	cephem
+T28	Antibiotic 1091 1097	cephem

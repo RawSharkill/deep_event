@@ -1,0 +1,53 @@
+T1	Bacteria 108 131	Acinetobacter baumannii
+T2	Antibiotic_efflux 100 104	pump
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Antibiotic_efflux 168 174	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 183 206	Acinetobacter baumannii
+T5	Bacteria 383 395	A. baumannii
+T6	Antibiotic_efflux 353 357	pump
+E3	Antibiotic_efflux:T6 Theme:T5
+T7	Antibiotic_efflux 554 560	efflux
+E4	Antibiotic_efflux:T7 Theme:T8
+T8	Bacteria 576 588	A. baumannii
+T9	Bacteria 723 745	Pseudomonas aeruginosa
+T10	Antibiotic_efflux 788 794	efflux
+E5	Antibiotic_efflux:T10 Theme:T9
+T11	Bacteria 1029 1041	A. baumannii
+T12	Antibiotic_efflux 886 890	pump
+E6	Antibiotic_efflux:T12 Theme:T11 Cause:T13
+T13	Antibiotic 1097 1109	trimethoprim
+T14	Antibiotic 1111 1126	chloramphenicol
+T15	Antibiotic 1131 1142	clindamycin
+T16	Bacteria 1325 1338	P. aeruginosa
+T17	Bacteria 1365 1377	A. baumannii
+T18	Antibiotic_efflux 1272 1278	efflux
+E7	Antibiotic_efflux:T18 Theme:T16 Cause:T20
+E8	Antibiotic_efflux:T18 Theme:T16 Cause:T21
+T19	Bacteria 1399 1411	A. baumannii
+T20	Antibiotic 1458 1469	clindamycin
+T21	Antibiotic 1479 1491	trimethoprim
+T22	Antibiotic 1497 1511	chloramphenico
+T23	Bacteria 1717 1730	P. aeruginosa
+T24	Bacteria 1772 1784	A. baumannii
+T25	Antibiotic_efflux 1590 1596	efflux
+E9	Antibiotic_efflux:T25 Theme:T24
+E10	Antibiotic_efflux:T25 Theme:T23
+*	Equiv T5 T1
+*	Equiv T16 T9
+T26	Protein 93 99	AdeFGH
+T27	Protein 135 141	AdeFGH
+T28	Protein 262 265	RND
+T29	Protein 349 352	RND
+T30	Protein 566 572	AdeFGH
+T31	Gene 607 613	adeFGH
+T32	Gene 658 661	tac
+T33	Gene 938 944	adeFGH
+E11	Antibiotic_efflux:T12 Cause:T14 Theme:T11
+E12	Antibiotic_efflux:T12 Cause:T15 Theme:T11
+T34	Protein 1257 1263	AdeFGH
+E13	Antibiotic_efflux:T18 Theme:T16 Cause:T22
+E14	Antibiotic_efflux:T18 Theme:T17 Cause:T20
+E15	Antibiotic_efflux:T18 Theme:T17 Cause:T21
+E16	Antibiotic_efflux:T18 Theme:T17 Cause:T22
+T35	Protein 1650 1656	AdeFGH

@@ -1,0 +1,10 @@
+T1	Bacteria 301 346	Salmonella enterica serovar Infantis  strains
+T2	Antibiotic 442 454	trimethoprim
+T3	Gene 161 166	dfrB6
+T4	Protein 83 106	dihydrofolate reductase
+T5	Protein 393 416	dihydrofolate reductase
+T6	Gene 387 392	DfrB6
+T7	Antibiotic 145 149	dfrB
+T8	Antibiotic 49 61	trimethoprim
+T9	Gene 72 76	DfrB
+T10	Gene 184 195	dfrB6-aadA1

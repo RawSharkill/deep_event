@@ -1,0 +1,14 @@
+T1	Bacteria 425 443	Lactococcus lactis
+T2	Bacteria 24 44	lactic acid bacteria
+T3	Antibiotic_efflux 405 416	transporter
+E1	Antibiotic_efflux:T3 Theme:T1
+T4	Protein 349 353	LmrP
+T5	Protein 417 421	LmrA
+T6	Protein 609 613	LmrP
+T7	Protein 618 622	LmrA
+T8	Protein 846 850	LmrP
+T9	Protein 855 859	LmrA
+T10	Protein 1270 1274	LmrP
+T11	Protein 1279 1283	LmrA
+T12	Antibiotic_efflux 337 348	transporter
+E2	Antibiotic_efflux:T12 Theme:T1

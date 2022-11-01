@@ -1,0 +1,17 @@
+T1	Bacteria 31 52	Staphylococcus aureus
+T2	Bacteria 193 214	Staphylococcus aureus
+T3	Antibiotic 238 249	methicillin
+T4	Bacteria 412 421	S. aureus
+*	Equiv T4 T2
+T5	Antibiotic 88 99	methicillin
+T6	Bacteria 110 119	S. aureus
+*	Equiv T6 T1
+T7	Bacteria 474 483	S. aureus
+T8	Gene 372 376	mecA
+T9	Antibiotic 390 401	methicillin
+T10	Antibiotic 452 463	methicillin
+T11	Gene 60 64	mecA
+T12	Antibiotic_target_alteration 224 233	converted
+E1	Antibiotic_target_alteration:T12 Theme:T4 Cause:T3
+T13	Antibiotic 493 503	penicillin
+T14	Antibiotic 129 139	penicillin

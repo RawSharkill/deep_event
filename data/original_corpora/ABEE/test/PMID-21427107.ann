@@ -1,0 +1,16 @@
+T1	Bacteria 23 46	Acinetobacter baumannii
+T2	Antibiotic 115 125	carbapenem
+T3	Bacteria 145 168	Acinetobacter baumannii
+T4	Bacteria 1026 1038	A. baumannii
+*	Equiv T4 T1
+T5	Gene 507 517	bla(NDM-1)
+T6	Gene 840 850	bla(NDM-2)
+T7	Protein 0 19	NDM-2 carbapenemase
+T8	Protein 1003 1021	NDM carbapenemases
+T9	Protein 1142 1147	NDM-1
+T10	Protein 541 546	NDM-1
+T11	Protein 609 619	amino acid
+T12	Protein 723 756	extended-spectrum beta-lactamases
+T13	Protein 760 777	16S RNA methylase
+T14	Protein 325 342	16S RNA methylase
+T15	Protein 701 706	NDM-2

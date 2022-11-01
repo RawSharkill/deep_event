@@ -1,0 +1,14 @@
+T1	Bacteria 67 90	Pseudomonas  aeruginosa
+T2	Bacteria 251 273	Pseudomonas aeruginosa
+T3	Protein 180 202	metallo-beta-lactamase
+T4	Protein 204 207	MBL
+T6	Protein 234 245	MBL (VIM)-2
+T7	Protein 1194 1199	VIM-1
+T8	Protein 1163 1168	VIM-2
+T9	Protein 1266 1271	VIM-2
+T10	Protein 1006 1011	VIM-2
+T11	Protein 434 438	MBLs
+T12	Antibiotic_inactivation 374 385	hydrolysing
+E1	Antibiotic_inactivation:T12 
+T13	Antibiotic 363 373	carbapenem
+T14	Protein 386 392	enzyme

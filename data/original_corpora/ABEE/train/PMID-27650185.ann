@@ -1,0 +1,54 @@
+T1	Antibiotic 0 10	Fosfomycin
+T2	Bacteria 25 48	Acinetobacter baumannii
+T3	Bacteria 201 225	Acinetobacter  baumannii
+T4	Bacteria 300 312	A. baumannii
+*	Equiv T4 T2
+T5	Bacteria 408 454	efflux-deficient strain-Escherichia coli KAM32
+T6	Bacteria 809 854	fosfomycin-resistant mutants of A.  baumannii
+T7	Bacteria 770 804	fosfomycin-challenged A. baumannii
+T8	Bacteria 898 910	A. baumannii
+T9	Bacteria 970 983	E. coli KAM32
+*	Equiv T9 T5
+T10	Antibiotic 1021 1031	fosfomycin
+T11	Bacteria 1165 1178	A.  baumannii
+T12	Bacteria 584 596	A. baumannii
+T13	Antibiotic 1201 1211	fosfomycin
+T14	Bacteria 1316 1329	A.  baumannii
+T15	Antibiotic 1347 1357	fosfomycin
+T16	Antibiotic 1410 1420	fosfomycin
+T17	Bacteria 1457 1469	A. baumannii
+T18	Antibiotic 1609 1619	fosfomycin
+T19	Antibiotic 1657 1667	fosfomycin
+T20	Bacteria 1682 1694	A. baumannii
+T21	Bacteria 1766 1778	A. baumannii
+T22	Protein 119 135	transporter-AbaF
+T23	Protein 195 199	AbaF
+T24	Antibiotic 226 236	Fosfomycin
+T25	Gene 276 282	AbsR25
+T26	Gene 323 327	abaF
+T27	Antibiotic 523 527	EtBr
+T28	Gene 562 566	abaF
+T29	Gene 728 732	abaF
+T30	Gene 870 874	abaF
+T31	Gene 962 966	abaF
+T32	Antibiotic 1073 1077	EtBr
+T33	Protein 1119 1123	AbaF
+T34	Gene 1157 1161	abaF
+T35	Antibiotic 505 521	ethidium bromide
+*	Equiv T27 T35
+T36	Antibiotic_efflux 495 501	efflux
+E1	Antibiotic_efflux:T36 Cause:T35 Theme:T5
+T37	Antibiotic_efflux 996 1005	increased
+E2	Antibiotic_efflux:T37 Theme:T9 Cause:T10
+T38	Antibiotic_efflux 1063 1069	efflux
+E3	Antibiotic_efflux:T38 Cause:T32 Theme:T9
+T39	Gene 1297 1301	abaF
+T40	Antibiotic_efflux 1297 1301	abaF
+E4	Antibiotic_efflux:T40 Theme:T14 Cause:T16
+T41	Antibiotic_efflux 64 70	efflux
+E5	Antibiotic_efflux:T41 Theme:T2 Cause:T1
+T42	Gene 1514 1518	abaF
+T43	Protein 1637 1641	AbaF
+T44	Antibiotic_efflux 1573 1579	efflux
+E6	Antibiotic_efflux:T44 Cause:T18 Theme:T20
+T45	Protein 1696 1700	AbaF

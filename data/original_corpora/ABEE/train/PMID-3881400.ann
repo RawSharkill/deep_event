@@ -1,0 +1,16 @@
+T1	Bacteria 41 63	Legionella pneumophila
+T2	Bacteria 141 163	Legionella pneumophila
+T3	Bacteria 224 238	L. pneumophila
+*	Equiv T3 T1
+T4	Bacteria 362 377	Legionella spp.
+T5	Bacteria 379 403	Escherichia coli strains
+T6	Bacteria 570 596	L. pneumophila Knoxville 1
+T7	Antibiotic 649 658	kanamycin
+T8	Antibiotic 687 700	carbenicillin
+T9	Bacteria 1058 1073	E. coli W1485-1
+T10	Bacteria 598 603	LPK-1
+*	Equiv T10 T6
+T11	Bacteria 1115 1120	LPK-1
+T12	Bacteria 1122 1141	Legionella micdadei
+T13	Bacteria 1147 1169	Legionella longbeachii
+T14	Bacteria 1268 1282	L. pneumophila

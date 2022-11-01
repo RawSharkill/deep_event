@@ -1,0 +1,15 @@
+T1	Bacteria 212 255	methicillin-resistant Staphylococcus aureus
+T2	Bacteria 257 261	MRSA
+*	Equiv T2 T1
+T3	Bacteria 87 130	methicillin-resistant Staphylococcus aureus
+T4	Bacteria 132 136	MRSA
+*	Equiv T4 T3
+T5	Antibiotic 141 164	beta-Lactam antibiotics
+T6	Bacteria 313 317	MRSA
+T7	Antibiotic 36 58	beta-lactam antibiotic
+T8	Antibiotic_target_replacement 399 409	repressors
+E1	Antibiotic_target_replacement:T8 Theme:T6
+T9	Protein 384 388	MecI
+T10	Protein 376 380	BlaI
+T11	Protein 628 632	BlaI
+T12	Protein 637 641	MecI

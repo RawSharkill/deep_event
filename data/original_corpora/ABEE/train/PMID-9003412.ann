@@ -1,0 +1,12 @@
+T1	Antibiotic 25 37	oleandomycin
+T2	Antibiotic 88 113	Streptomyces antibioticus
+T3	Antibiotic 126 138	oleandomycin
+T4	Bacteria 172 197	Streptomyces antibioticus
+T5	Antibiotic 199 211	oleandomycin
+T6	Antibiotic 213 215	OM
+*	Equiv T6 T5
+T7	Antibiotic 338 340	OM
+T8	Antibiotic 1663 1665	OM
+T9	Protein 156 160	OleB
+T10	Protein 477 481	OleB
+T11	Protein 595 599	OleB

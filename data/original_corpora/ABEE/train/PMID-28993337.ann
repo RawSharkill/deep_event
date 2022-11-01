@@ -1,0 +1,16 @@
+T1	Bacteria 72 98	Mycobacterium tuberculosis
+T2	Antibiotic 170 181	Ethionamide
+T3	Bacteria 662 688	Mycobacterium tuberculosis
+T4	Antibiotic 1079 1090	ethionamide
+T5	Antibiotic 1392 1403	ethionamide
+T6	Bacteria 1492 1507	M. tuberculosis
+*	Equiv T6 T3
+T7	Antibiotic 1563 1574	ethionamide
+T8	Antibiotic 1655 1666	ethionamide
+T9	Gene 1004 1008	ethA
+T10	Antibiotic_target_alteration 930 938	mutation
+E1	Antibiotic_target_alteration:T10 Cause:T4
+T11	Gene 146 150	ethA
+T12	Protein 1148 1158	amino acid
+T13	Gene 1277 1281	ethA
+T14	Gene 1411 1415	ethA

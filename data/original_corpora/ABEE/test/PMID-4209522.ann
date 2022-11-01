@@ -1,0 +1,23 @@
+T1	Antibiotic 12 17	BB-K8
+T2	Antibiotic 19 27	amikacin
+T3	Antibiotic 81 107	aminoglycoside antibiotics
+T4	Antibiotic 177 188	kanamycin A
+T5	Antibiotic 191 201	gentamicin
+T6	Antibiotic 206 216	tobramycin
+T7	Bacteria 379 400	Staphylococcus aureus
+T8	Bacteria 405 427	Pseudomonas aeruginosa
+T9	Bacteria 449 467	Enterobacteriaceae
+T10	Antibiotic 500 505	BB-K8
+T11	Antibiotic 508 516	amikacin
+T12	Antibiotic 568 579	kanamycin A
+T13	Antibiotic 764 774	tobramycin
+T14	Antibiotic 801 811	gentamicin
+T15	Antibiotic 840 851	kanamycin A
+T16	Antibiotic 887 895	amikacin
+T17	Antibiotic 1011 1026	aminoglycosides
+T18	Antibiotic 1050 1058	amikacin
+T19	Antibiotic 1187 1202	aminoglycosides
+T20	Antibiotic 1373 1388	aminoglycosides
+T21	Antibiotic_inactivation 1170 1180	inactivate
+E1	Antibiotic_inactivation:T21 Cause:T19
+T22	Antibiotic 938 946	amikacin

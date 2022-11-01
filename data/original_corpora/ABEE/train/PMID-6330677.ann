@@ -1,0 +1,19 @@
+T1	Bacteria 70 87	Escherichia  coli
+T2	Antibiotic 156 169	spectinomycin
+T3	Antibiotic 242 284	macrolide-lincosamide-streptogramin type B
+T4	Antibiotic 405 418	spectinomycin
+T5	Antibiotic 518 527	macrolide
+T6	Antibiotic 529 540	lincosamide
+T7	Antibiotic 545 565	streptogramin type B
+T8	Antibiotic_target_alteration 22 31	mutations
+E1	Antibiotic_target_alteration:T8 Theme:T1
+T9	Antibiotic_target_alteration 182 190	mutation
+E2	Antibiotic_target_alteration:T9 Cause:T2 Theme:T1
+T10	Antibiotic_target_alteration 296 304	mutation
+E3	Antibiotic_target_alteration:T10 Cause:T3 Theme:T1
+T11	Antibiotic_target_alteration 456 466	transition
+E4	Antibiotic_target_alteration:T11 Cause:T4 Theme:T1
+T12	Antibiotic_target_alteration 606 618	transversion
+E5	Antibiotic_target_alteration:T12 Cause:T5 Theme:T1
+E6	Antibiotic_target_alteration:T12 Cause:T6 Theme:T1
+E7	Antibiotic_target_alteration:T12 Cause:T7 Theme:T1

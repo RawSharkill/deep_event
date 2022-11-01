@@ -1,0 +1,22 @@
+T1	Bacteria 101 117	Escherichia coli
+T2	Bacteria 440 457	Escherichia  coli
+T3	Antibiotic 792 802	novobiocin
+T4	Antibiotic 806 817	coumermycin
+T5	Antibiotic 870 881	coumermycin
+T6	Gene 0 4	gyrB
+T7	Gene 301 305	gyrB
+T8	Protein 122 128	gyrase
+T9	Antibiotic_target_alteration 5 14	mutations
+E1	Antibiotic_target_alteration:T9 
+T10	Protein 570 574	GyrB
+T11	Gene 277 281	GyrB
+T12	Protein 623 629	enzyme
+T13	Antibiotic 886 890	GyrB
+T14	Protein 736 740	GyrB
+T15	Protein 269 275	gyrase
+T16	Protein 228 234	gyrase
+T17	Antibiotic_target_alteration 396 405	mutations
+E2	Antibiotic_target_alteration:T17 Theme:T2
+T18	Antibiotic_target_alteration 729 735	mutant
+E3	Antibiotic_target_alteration:T18 
+T19	Antibiotic 774 787	 chlorobiocin

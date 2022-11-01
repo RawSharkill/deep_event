@@ -1,0 +1,33 @@
+T1	Bacteria 137 158	Staphylococcus aureus
+T2	Antibiotic 226 239	pleuromutilin
+T3	Antibiotic 530 543	pleuromutilin
+T4	Antibiotic 1150 1163	pleuromutilin
+T5	Antibiotic 469 477	tiamulin
+T6	Antibiotic 479 489	valnemulin
+T7	Antibiotic 495 506	retapamulin
+T8	Bacteria 1458 1467	S. aureus
+*	Equiv T8 T1
+T9	Bacteria 1479 1500	Enterococcus faecalis
+T10	Bacteria 1960 1971	E. faecalis
+*	Equiv T10 T9
+T11	Antibiotic 263 274	methicillin
+T12	Antibiotic 46 59	pleuromutilin
+T13	Antibiotic 60 71	lincosamide
+T14	Gene 104 110	lsa(E)
+T15	Antibiotic 115 126	methicillin
+T16	Gene 748 754	lsa(E)
+T17	Gene 865 871	lsa(E)
+T18	Gene 977 983	lsa(E)
+T19	Gene 1101 1107	lsa(E)
+T20	Gene 1190 1197	 lsa(E)
+T21	Gene 1310 1316	lsa(E)
+T22	Gene 1632 1638	lsa(E)
+T23	Gene 1788 1794	lsa(E)
+T24	Gene 1865 1871	lsa(E)
+T25	Gene 1990 1996	lsa(E)
+T26	Antibiotic 1730 1743	pleuromutilin
+T27	Antibiotic 1744 1755	lincosamide
+T28	Antibiotic 1756 1769	streptogramin
+T29	Antibiotic 1434 1445	methicillin
+T30	Antibiotic 72 84	streptogrami
+T31	Bacteria 791 800	S. aureus

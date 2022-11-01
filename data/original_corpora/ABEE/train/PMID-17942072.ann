@@ -1,0 +1,15 @@
+T1	Bacteria 1190 1206	Escherichia coli
+T2	Antibiotic_efflux 49 60	transporter
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Protein 127 130	SMR
+T4	Protein 222 225	SMR
+T5	Protein 577 580	SMR
+T6	Protein 688 691	SMR
+T7	Protein 746 749	SMR
+T8	Protein 958 961	SMP
+T9	Gene 984 989	groEL
+T10	Protein 1009 1012	SUG
+T11	Protein 1084 1088	PSMR
+T12	Protein 1116 1119	SMR
+T13	Protein 1207 1211	EmrE
+T14	Protein 1217 1221	SugE

@@ -1,0 +1,25 @@
+T1	Antibiotic 17 26	quinolone
+T3	Bacteria 64 84	Salmonella  enterica
+T4	Bacteria 124 134	Salmonella
+T5	Antibiotic 167 183	fluoroquinolones
+T6	Bacteria 247 265	Enterobacteriaceae
+T7	Antibiotic 284 293	quinolone
+T9	Bacteria 421 440	Salmonella enterica
+T10	Bacteria 601 621	non-Typhi Salmonella
+T11	Antibiotic 763 776	ciprofloxacin
+T12	Antibiotic 1069 1078	quinolone
+T14	Bacteria 1296 1315	Salmonella enterica
+T15	Bacteria 1346 1366	Salmonella  enterica
+T16	Bacteria 1540 1559	Salmonella enterica
+T17	Bacteria 1580 1600	Salmonella  enterica
+T18	Antibiotic 1658 1667	quinolone
+T20	Bacteria 1746 1766	non-Typhi Salmonella
+T21	Bacteria 467 488	non-Typhi  Salmonella
+T22	Antibiotic 1829 1838	quinolone
+T24	Bacteria 2018 2038	non-Typhi Salmonella
+T23	Protein 1431 1464	extended-spectrum beta -lactamase
+T2	Gene 319 322	qnr
+T8	Protein 187 217	extended-spectrum beta-lactams
+T13	Bacteria 570 586	Enteric Bacteria
+T19	Gene 1262 1266	qnrB
+T25	Gene 1478 1482	qnrS

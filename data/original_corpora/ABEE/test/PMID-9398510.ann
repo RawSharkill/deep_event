@@ -1,0 +1,26 @@
+T1	Antibiotic 0 10	Pactamycin
+T2	Bacteria 91 113	Halobacterium halobium
+T3	Antibiotic 169 179	pactamycin
+T4	Antibiotic 196 206	Pactamycin
+T5	Bacteria 286 297	H. halobium
+*	Equiv T5 T2
+T6	Antibiotic 358 368	pactamycin
+T7	Bacteria 411 427	Escherichia coli
+T8	Antibiotic 568 578	Pactamycin
+T9	Bacteria 710 717	E. coli
+T10	Bacteria 722 733	H. halobium
+T11	Antibiotic 816 826	pactamycin
+T12	Antibiotic 1227 1237	pactamycin
+T13	Antibiotic 1274 1284	pactamycin
+T14	Antibiotic_target_alteration 22 31	mutations
+E1	Antibiotic_target_alteration:T14 Cause:T1
+T15	Antibiotic_target_alteration 68 75	Mutants
+E2	Antibiotic_target_alteration:T15 Theme:T2 Cause:T3
+T16	Gene 268 277	16 S rRNA
+T17	Antibiotic_target_alteration 251 260	mutations
+E3	Antibiotic_target_alteration:T17 Theme:T5 Cause:T4
+T18	Antibiotic_target_alteration 334 343	mutations
+E4	Antibiotic_target_alteration:T18 Cause:T6 Theme:T7
+T19	Antibiotic_target_alteration 590 599	mutations
+E5	Antibiotic_target_alteration:T19 Cause:T8 Theme:T9
+E6	Antibiotic_target_alteration:T19 Theme:T10 Cause:T8

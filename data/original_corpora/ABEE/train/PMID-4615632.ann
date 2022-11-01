@@ -1,0 +1,38 @@
+T1	Antibiotic 78 101	beta-lactam antibiotics
+T2	Bacteria 126 142	Escherichia coli
+T3	Bacteria 214 232	Escherichia   coli
+T4	Antibiotic 272 294	beta-lactam-antibiotic
+T5	Antibiotic 356 366	ampicillin
+T6	Antibiotic 368 379	cephalothin
+T7	Antibiotic 386 399	carbenicillin
+T8	Bacteria 401 408	E. coli
+*	Equiv T8 T2
+T9	Antibiotic 429 439	ampicillin
+T10	Antibiotic 444 457	carbenicillin
+T11	Antibiotic 470 481	cephalothin
+T12	Antibiotic 652 663	penicillins
+T13	Antibiotic 675 689	cephalosporins
+T14	Antibiotic 817 828	penicillins
+T15	Bacteria 830 837	E. coli
+T16	Antibiotic 859 869	ampicillin
+T17	Antibiotic 874 885	cephalothin
+T18	Antibiotic 894 907	carbenicillin
+T19	Bacteria 1066 1073	E. coli
+T20	Antibiotic 1329 1353	beta-lactam  antibiotics
+T21	Antibiotic 1406 1416	ampicillin
+T22	Antibiotic 1419 1430	cephalothin
+T23	Antibiotic 1436 1449	carbenicillin
+T24	Bacteria 1491 1498	E. coli
+T25	Bacteria 1583 1590	E. coli
+T26	Bacteria 1679 1694	class I E. coli
+T27	Bacteria 1749 1765	class II E. coli
+T28	Antibiotic 1816 1827	cephalothin
+T29	Antibiotic 1833 1843	ampicillin
+T30	Reduced_permeability_to_antibiotic 628 640	permeability
+E1	Reduced_permeability_to_antibiotic:T30 Cause:T12 Theme:T8
+T31	Reduced_permeability_to_antibiotic 697 709	permeability
+E2	Reduced_permeability_to_antibiotic:T31 Cause:T14
+T32	Antibiotic_inactivation 941 955	beta-lactamase
+E3	Antibiotic_inactivation:T32 Theme:T15 Cause:T16
+E4	Antibiotic_inactivation:T32 Cause:T17 Theme:T15
+E5	Antibiotic_inactivation:T32 Cause:T18 Theme:T15

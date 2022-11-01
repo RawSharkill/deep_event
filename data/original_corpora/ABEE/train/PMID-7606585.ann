@@ -1,0 +1,20 @@
+T1	Protein 1401 1422	SHV-1 beta-lactamases
+T3	Bacteria 440 458	Enterobacteriaceae
+T4	Bacteria 411 433	Staphylococcus species
+T5	Bacteria 460 482	Pseudomonas aeruginosa
+T6	Bacteria 484 505	Acinetobacter species
+T7	Bacteria 517 526	anaerobes
+T8	Bacteria 1513 1526	P. aeruginosa
+*	Equiv T8 T5
+T9	Bacteria 1537 1555	Enterobacteriaceae
+T10	Bacteria 1147 1166	Bacteroides species
+T11	Antibiotic 1090 1103	penicillinase
+T12	Antibiotic 1006 1015	sulbactam
+T13	Antibiotic 1017 1028	clavulanate
+T14	Antibiotic 1034 1044	tazobactam
+T15	Bacteria 1168 1184	Proteus vulgaris
+T16	Bacteria 1186 1208	Haemophilus influenzae
+T17	Bacteria 1210 1232	Neisseria  gonorrhoeae
+T18	Bacteria 1257 1275	Klebsiella species
+T19	Antibiotic 1424 1435	Clavulanate
+T20	Antibiotic 1440 1450	tazobactam

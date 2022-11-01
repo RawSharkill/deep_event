@@ -1,0 +1,25 @@
+T1	Antibiotic 97 115	lipopolysaccharide
+T2	Antibiotic 117 120	LPS
+*	Equiv T2 T1
+T3	Antibiotic 225 228	LPS
+T4	Antibiotic 849 852	LPS
+T5	Antibiotic 829 847	lipopolysaccharide
+T6	Antibiotic 1049 1052	LPS
+T7	Antibiotic 1156 1159	LPS
+T8	Antibiotic 1543 1546	LPS
+T9	Bacteria 1185 1202	L.  monocytogenes
+T10	Bacteria 660 676	L. monocytogenes
+T11	Bacteria 427 443	L. monocytogenes
+T12	Bacteria 1420 1437	L.  monocytogenes
+T13	Bacteria 2304 2320	L. monocytogenes
+T14	Antibiotic 1351 1360	IFN-gamma
+T15	Antibiotic 1276 1279	LPS
+T16	Antibiotic 1326 1329	LPS
+T17	Antibiotic 1474 1477	LPS
+T18	Antibiotic 1551 1560	IFN-gamma
+T19	Bacteria 1875 1891	L. monocytogenes
+T20	Antibiotic 1786 1789	LPS
+T21	Bacteria 2192 2208	L. monocytogenes
+T22	Bacteria 241 263	Listeria monocytogenes
+*	Equiv T11 T22
+T23	Antibiotic 858 867	IFN-gamma

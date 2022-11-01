@@ -1,0 +1,22 @@
+T1	Bacteria 51 65	Vibrio harveyi
+T2	Antibiotic 24 36	tetracycline
+T4	Bacteria 81 95	Vibrio harveyi
+T6	Antibiotic 213 228	oxytetracycline
+T7	Bacteria 340 363	V. harveyi strain M3.4L
+T8	Antibiotic 298 310	tetracycline
+T10	Bacteria 511 528	Shigella flexneri
+T11	Bacteria 1010 1026	Escherichia coli
+T12	Antibiotic 968 980	tetracycline
+T15	Antibiotic 1151 1163	tetracycline
+T16	Bacteria 1082 1089	E. coli
+T18	Antibiotic 1034 1046	Tetracycline
+*	Equiv T16 T11
+T3	Antibiotic_efflux 1164 1170	efflux
+E1	Antibiotic_efflux:T3 Theme:T16 Cause:T15
+T5	Gene 449 453	tetA
+T9	Protein 1204 1208	TetA
+T13	Protein 642 647	tet35
+T14	Protein 652 655	txr
+T17	Protein 657 662	tet35
+T19	Protein 935 940	tet35
+T20	Protein 945 948	txr

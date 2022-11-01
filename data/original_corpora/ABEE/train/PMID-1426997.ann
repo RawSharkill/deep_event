@@ -1,0 +1,11 @@
+T1	Antibiotic 45 57	erythromycin
+T3	Bacteria 88 110	Staphylococcus xylosus
+T4	Bacteria 214 236	Staphylococcus xylosus
+T5	Antibiotic 273 300	14-membered ring macrolides
+T6	Bacteria 304 321	Bacillus subtilis
+T7	Bacteria 326 347	Staphylococcus aureus
+T9	Bacteria 585 611	Staphylococcus epidermidis
+T10	Antibiotic 534 543	macrolide
+T11	Antibiotic 544 559	streptogramin-B
+T12	Antibiotic 711 723	erythromycin
+T2	Gene 576 580	msrA

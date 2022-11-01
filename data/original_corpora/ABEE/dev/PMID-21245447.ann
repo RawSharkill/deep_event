@@ -1,0 +1,35 @@
+T1	Antibiotic 20 32	lincosamides
+T2	Antibiotic 34 50	streptogramins A
+T3	Antibiotic 56 70	pleuromutilins
+T4	Bacteria 98 128	Streptococcus agalactiae UCN70
+T5	Bacteria 132 162	Streptococcus agalactiae UCN70
+T6	Antibiotic 235 247	lincosamides
+T7	Antibiotic 252 268	streptogramins A
+T8	Antibiotic 301 309	tiamulin
+T9	Antibiotic 313 326	pleuromutilin
+T10	Bacteria 576 597	Enterococcus faecalis
+T11	Bacteria 648 667	S. agalactiae BM132
+T12	Antibiotic 713 723	lincomycin
+T13	Antibiotic 744 755	clindamycin
+T14	Antibiotic 780 781	f
+T15	Antibiotic 813 821	tiamulin
+T16	Antibiotic 873 885	erythromycin
+T17	Antibiotic 901 913	azithromycin
+T18	Antibiotic 930 940	spiramycin
+T19	Antibiotic 956 969	telithromycin
+T20	Antibiotic 989 1001	quinupristin
+T21	Antibiotic 1113 1125	lincosamides
+T22	Antibiotic 1127 1143	streptogramins A
+T23	Antibiotic 1149 1163	pleuromutilins
+T24	Bacteria 1671 1684	S. agalactiae
+T25	Bacteria 1241 1255	S.  agalactiae
+T26	Bacteria 1367 1380	S. agalactiae
+T27	Antibiotic 556 561	LS(A)
+T28	Gene 83 89	lsa(C)
+T29	Antibiotic 270 275	LS(A)
+T30	Protein 516 522	Lsa(A)
+T31	Gene 637 643	lsa(C)
+T32	Antibiotic 1640 1646	LS(A)P
+T33	Gene 1792 1798	lsa(C)
+T34	Gene 1602 1608	lsa(C)
+T35	Antibiotic 1311 1317	LS(A)P

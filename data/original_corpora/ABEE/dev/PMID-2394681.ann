@@ -1,0 +1,10 @@
+T1	Bacteria 18 38	Rochalimaea quintana
+T2	Bacteria 80 100	Rochalimaea quintana
+T3	Bacteria 63 77	Rickettsiaceae
+T4	Bacteria 134 148	Rickettsiaceae
+T5	Bacteria 280 291	R. quintana
+*	Equiv T5 T2
+T6	Bacteria 531 542	R. quintana
+T7	Antibiotic 810 819	kanamycin
+T8	Antibiotic 790 805	chloramphenicol
+T9	Antibiotic 904 919	chloramphenicol

@@ -1,0 +1,29 @@
+T1	Antibiotic 33 45	tetracycline
+T2	Bacteria 214 226	streptococci
+T3	Bacteria 535 551	Bacteroides spp.
+T4	Bacteria 559 574	Prevotella spp.
+T5	Bacteria 599 622	Mitsuokella multiacidus
+T6	Bacteria 883 905	Peptostreptococcus sp.
+T7	Bacteria 993 1009	Prevotella bivia
+T8	Bacteria 1011 1029	Bacteroides ovatus
+T9	Bacteria 1031 1053	Bacteroides   fragilis
+T10	Bacteria 1055 1075	Bacteroides vulgatus
+T11	Bacteria 1080 1102	Bacteroides distasonis
+T12	Bacteria 1111 1133	Enterococcus  faecalis
+T13	Bacteria 1250 1271	Prevotella intermedia
+T14	Bacteria 1291 1315	Porphyromonas gingivalis
+T15	Bacteria 1332 1351	Mobiluncus curtisii
+T16	Bacteria 1372 1394	Peptostreptococcus sp.
+T17	Gene 514 518	tetQ
+T18	Gene 69 73	tetQ
+T19	Gene 286 290	tetQ
+T20	Bacteria 663 685	Gram-negative isolates
+T21	Gene 698 702	tetQ
+T22	Gene 914 918	tetQ
+T23	Gene 1205 1209	tetQ
+T24	Bacteria 1414 1435	Gram-positive species
+T25	Gene 827 831	tetQ
+T26	Gene 782 786	tetQ
+T27	Bacteria 747 769	Gram-positive isolates
+T28	Bacteria 835 856	Gram-positive species
+T29	Gene 955 959	tetQ

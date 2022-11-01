@@ -1,0 +1,27 @@
+T1	Antibiotic 42 52	vancomycin
+T2	Bacteria 67 91	Streptomyces  coelicolor
+T3	Bacteria 155 179	Streptomyces  coelicolor
+T4	Antibiotic 277 287	vancomycin
+T5	Antibiotic 351 361	vancomycin
+T6	Antibiotic 409 419	vancomycin
+T7	Bacteria 434 447	S. coelicolor
+*	Equiv T7 T3
+T8	Antibiotic 600 610	vancomycin
+T9	Antibiotic 848 858	vancomycin
+T10	Antibiotic 990 1000	vancomycin
+T11	Antibiotic 1313 1323	vancomycin
+T12	Antibiotic 1446 1456	vancomycin
+T13	Antibiotic 1641 1651	vancomycin
+T14	Gene 34 38	VanK
+T15	Gene 293 297	vanK
+T16	Gene 387 391	vanK
+T17	Gene 449 453	VanK
+T18	Protein 484 491	enzymes
+T19	Protein 514 524	amino acid
+T20	Gene 616 621	VanRS
+T21	Protein 699 713	VanHAX enzymes
+T22	Protein 1055 1061	enzyme
+T23	Gene 1170 1174	VanK
+T24	Gene 1351 1355	vanK
+T25	Gene 1495 1499	VanK
+T26	Gene 969 973	VanK

@@ -1,0 +1,41 @@
+T1	Bacteria 126 150	Acinetobacter  baumannii
+T2	Antibiotic 298 309	carbapenems
+T3	Bacteria 524 547	Acinetobacter baumannii
+T4	Bacteria 549 551	AB
+*	Equiv T3 T4
+T5	Bacteria 555 567	AB strain 56
+T6	Antibiotic 669 677	imipenem
+T7	Antibiotic 1294 1302	imipenem
+T8	Bacteria 1434 1446	A. baumannii
+T9	Bacteria 1487 1503	Escherichia coli
+T10	Bacteria 1540 1562	Pseudomonas aeruginosa
+T11	Antibiotic 2032 2040	imipenem
+T12	Protein 1386 1392	IMP-55
+T13	Protein 1755 1765	amino acid
+T14	Protein 1841 1851	amino acid
+T15	Gene 783 789	blaIMP
+T16	Antibiotic_inactivation 239 249	inactivate
+E1	Antibiotic_inactivation:T16 Cause:T2
+T17	Antibiotic 264 287	beta-lactam antibiotics
+T18	Protein 154 177	Metallo-beta-lactamases
+T19	Protein 481 487	IMP-55
+T20	Protein 179 183	MBLs
+T21	Protein 68 90	metallo-beta-lactamase
+T22	Protein 689 692	MBL
+T23	Protein 59 65	IMP-55
+T24	Protein 879 882	IMP
+T25	Protein 1148 1154	IMP-55
+T26	Protein 1074 1077	IMP
+T27	Protein 1447 1450	IMP
+T28	Protein 1505 1511	IMP-30
+T29	Protein 1827 1831	IMPs
+T30	Protein 1563 1568	IMP-1
+T31	Protein 1125 1128	IMP
+T32	Protein 467 470	IMP
+T33	Protein 193 197	IMPs
+T34	Protein 202 232	broad-spectrum beta-lactamases
+T35	Protein 38 41	IMP
+T36	Protein 731 734	MBL
+T37	Protein 2078 2081	IMP
+T38	Protein 1322 1328	enzyme
+T39	Protein 1701 1707	enzyme

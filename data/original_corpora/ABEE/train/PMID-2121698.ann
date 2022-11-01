@@ -1,0 +1,23 @@
+T1	Bacteria 40 75	serotype 012 Pseudomonas aeruginosa
+T2	Bacteria 98 133	Serotype 012 Pseudomonas aeruginosa
+T3	Antibiotic 189 202	carbenicillin
+T4	Antibiotic 147 157	gentamicin
+T5	Bacteria 492 519	serotype 012  P. aeruginosa
+*	Equiv T5 T2
+T6	Antibiotic 746 759	carbenicillin
+T7	Antibiotic 761 771	azlocillin
+T8	Antibiotic 776 786	cefsulodin
+T9	Protein 876 884	AAC(6')I
+T10	Protein 889 896	ANT(3')
+T11	Protein 913 921	AAC(6')I
+T12	Protein 964 973	AAC(6')II
+T13	Protein 1157 1165	AAC(6')I
+T14	Antibiotic 1022 1032	netilmicin
+T15	Antibiotic 1034 1044	gentamicin
+T16	Antibiotic 1046 1055	sisomicin
+T17	Antibiotic 1061 1071	tobramycin
+T18	Antibiotic 1088 1096	amikacin
+T19	Antibiotic 1347 1362	aminoglycosides
+T20	Antibiotic 1330 1342	beta-lactams
+T21	Antibiotic 1666 1674	amikacin
+T22	Antibiotic 1680 1690	isepamicin

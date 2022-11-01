@@ -1,0 +1,33 @@
+T1	Antibiotic 25 40	chloramphenicol
+T2	Bacteria 0 24	Corynebacterium striatum
+T3	Bacteria 114 140	Corynebacterium glutamicum
+T4	Bacteria 165 194	Corynebacterium striatum M82B
+T5	Bacteria 205 234	Corynebacterium  xerosis M82B
+T6	Antibiotic 300 327	antibiotics chloramphenicol
+T7	Antibiotic 329 341	erythromycin
+T8	Antibiotic 343 352	kanamycin
+T9	Antibiotic 358 370	tetracycline
+T10	Antibiotic 402 417	chloramphenicol
+T11	Antibiotic 646 661	chloramphenicol
+T12	Antibiotic 711 726	chloramphenicol
+T13	Bacteria 834 862	Arthrobacter  nicotinovorans
+T14	Bacteria 867 887	Bordetella pertussis
+T15	Bacteria 1110 1136	Corynebacterium glutamicum
+T16	Bacteria 1154 1170	Escherichia coli
+T17	Bacteria 1253 1266	C. glutamicum
+*	Equiv T17 T3
+T18	Bacteria 1449 1462	C. glutamicum
+T19	Gene 678 681	cmx
+T20	Gene 934 940	IS1513
+T21	Gene 980 984	IS30
+T22	Gene 1050 1053	cmx
+T23	Gene 1186 1189	RP4
+T24	Gene 1505 1509	ftsZ
+T25	Antibiotic_efflux 727 733	efflux
+E1	Antibiotic_efflux:T25 Cause:T12 Theme:T3
+*	Equiv T5 T4
+T26	Antibiotic_efflux 270 280	conferring
+E2	Antibiotic_efflux:T26 Theme:T4 Cause:T6
+E3	Antibiotic_efflux:T26 Theme:T4 Cause:T7
+E4	Antibiotic_efflux:T26 Cause:T8 Theme:T4
+E5	Antibiotic_efflux:T26 Cause:T9 Theme:T4

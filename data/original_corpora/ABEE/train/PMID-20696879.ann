@@ -1,0 +1,54 @@
+T1	Antibiotic_efflux 54 58	pump
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 99 122	Acinetobacter baumannii
+T5	Bacteria 126 149	Acinetobacter baumannii
+T9	Antibiotic_efflux 341 347	efflux
+E8	Antibiotic_efflux:T9 Theme:T5
+T10	Antibiotic 503 518	chloramphenicol
+T11	Antibiotic 524 535	norfloxacin
+T12	Antibiotic_target_alteration 435 442	mutants
+T13	Bacteria 445 451	BM4663
+T14	Bacteria 456 462	BM4664
+T15	Bacteria 600 620	A.  baumannii BM4652
+T17	Antibiotic 660 676	fluoroquinolones
+T18	Antibiotic 679 703	tetracycline-tigecycline
+T19	Antibiotic 705 720	chloramphenicol
+T20	Antibiotic 722 733	clindamycin
+T21	Antibiotic 735 747	trimethoprim
+T22	Antibiotic 750 766	sulfamethoxazole
+T23	Antibiotic 768 790	sodium dodecyl sulfate
+T24	Bacteria 1093 1099	BM4664
+T25	Bacteria 1168 1174	BM4652
+T26	Bacteria 1214 1220	BM4652
+T27	Bacteria 1392 1422	A. baumannii clinical isolates
+T28	Antibiotic_efflux 1478 1482	pump
+E18	Antibiotic_efflux:T28 Theme:T27
+T29	Bacteria 1513 1519	BM4684
+T30	Bacteria 1563 1586	clinical isolate BM4587
+T31	Resistance_by_absence 1067 1079	Inactivation
+E19	Resistance_by_absence:T31 Theme:T24
+*	Equiv T25 T15
+*	Equiv T27 T2
+T3	Protein 59 65	AdeFGH
+T4	Protein 354 360	AdeABC
+T6	Protein 366 372	AdeIJK
+T7	Protein 560 566	AdeABC
+T8	Protein 572 578	AdeIJK
+E3	Antibiotic_target_alteration:T12 Theme:T14 Cause:T10
+E2	Antibiotic_target_alteration:T12 Theme:T14 Cause:T11
+E4	Antibiotic_target_alteration:T12 Theme:T13 Cause:T10
+E5	Antibiotic_target_alteration:T12 Theme:T13 Cause:T11
+T16	Protein 1058 1064	AdeFGH
+T32	Protein 1083 1089	AdeFGH
+T33	Protein 1192 1198	AdeFGH
+T34	Gene 1351 1357	adeFGH
+T35	Gene 1537 1543	adeFGH
+T36	Gene 1604 1610	adeFGH
+T37	Gene 1656 1662	adeABC
+T38	Gene 1663 1669	adeIJK
+T39	Protein 1705 1709	LysR
+T40	Gene 1748 1752	adeL
+T41	Gene 1786 1792	adeFGH
+T42	Gene 1856 1860	adeL
+T43	Gene 1886 1892	adeFGH
+T44	Protein 1978 1984	AdeFGH

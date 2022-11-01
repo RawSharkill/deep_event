@@ -1,0 +1,15 @@
+T1	Bacteria 0 26	Mycobacterium tuberculosis
+T2	Bacteria 251 263	Mycobacteria
+T3	Antibiotic 306 316	rifampicin
+T4	Bacteria 373 401	Mycobacterium   tuberculosis
+T5	Antibiotic 488 498	rifampicin
+T6	Antibiotic 843 853	rifampicin
+T7	Bacteria 1291 1303	Mycobacteria
+T8	Antibiotic 1321 1331	rifampicin
+T9	Protein 27 31	RbpA
+T10	Protein 152 156	RbpA
+T11	Protein 1221 1225	RbpA
+T12	Protein 1075 1079	RbpA
+T13	Protein 662 666	RbpA
+T14	Protein 688 692	RbpA
+T15	Protein 891 895	RbpA

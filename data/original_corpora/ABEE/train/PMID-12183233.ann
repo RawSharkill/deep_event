@@ -1,0 +1,33 @@
+T1	Bacteria 142 164	Neisseria  gonorrhoeae
+T2	Antibiotic 111 121	penicillin
+T3	Antibiotic 126 138	tetracycline
+T5	Reduced_permeability_to_antibiotic 42 51	mutations
+E3	Reduced_permeability_to_antibiotic:T5 Theme:T1 Cause:T2
+T6	Bacteria 304 325	Neisseria gonorrhoeae
+T7	Antibiotic 527 537	penicillin
+T8	Antibiotic 542 554	tetracycline
+T10	Antibiotic 991 1001	penicillin
+T11	Antibiotic 1006 1018	tetracycline
+T13	Antibiotic 1294 1304	penicillin
+T14	Antibiotic 1309 1321	tetracycline
+T17	Antibiotic 1692 1702	penicillin
+T18	Antibiotic 1707 1719	tetracycline
+T19	Bacteria 1723 1737	N. gonorrhoeae
+T21	Reduced_permeability_to_antibiotic 336 347	Alterations
+E13	Reduced_permeability_to_antibiotic:T21 Theme:T6 Cause:T7
+T4	Protein 61 63	IB
+T9	Protein 351 358	por(IB)
+E1	Reduced_permeability_to_antibiotic:T5 Theme:T1 Cause:T3
+T12	Protein 168 172	PenB
+T16	Gene 569 573	penB
+E2	Reduced_permeability_to_antibiotic:T21 Cause:T8 Theme:T6
+T20	Protein 795 802	por(IB)
+T22	Gene 842 847	penB2
+T23	Reduced_permeability_to_antibiotic 1266 1275	mutations
+E4	Reduced_permeability_to_antibiotic:T23 Cause:T13
+T24	Reduced_permeability_to_antibiotic 1266 1275	mutations
+E5	Reduced_permeability_to_antibiotic:T24 Cause:T14
+T25	Protein 1380 1387	por(IB)
+T26	Reduced_permeability_to_antibiotic 1666 1676	conferring
+E6	Reduced_permeability_to_antibiotic:T26 Cause:T17 Theme:T19
+E7	Reduced_permeability_to_antibiotic:T26 Cause:T18 Theme:T19

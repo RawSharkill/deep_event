@@ -1,0 +1,14 @@
+T1	Bacteria 36 57	Staphylococcus aureus
+T2	Antibiotic 199 211	tetracycline
+T3	Bacteria 232 253	Staphylococcus aureus
+T4	Antibiotic 313 325	tetracycline
+T5	Gene 4 10	tet(K)
+T6	Antibiotic_efflux 69 75	efflux
+E1	Antibiotic_efflux:T6 Theme:T1
+T7	Gene 161 167	tet(K)
+T8	Antibiotic_efflux 212 218	efflux
+E2	Antibiotic_efflux:T8 Cause:T2 Theme:T3
+T9	Protein 272 278	Tet(K)
+T10	Antibiotic_efflux 326 332	efflux
+E3	Antibiotic_efflux:T10 Cause:T4
+T11	Protein 452 458	Tet(K)

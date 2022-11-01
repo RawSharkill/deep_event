@@ -1,0 +1,46 @@
+T1	Bacteria 78 103	Chlamydomonas reinhardtii
+T2	Antibiotic 196 208	streptomycin
+T3	Antibiotic 210 223	spectinomycin
+T4	Antibiotic 248 260	erythromycin
+T5	Bacteria 381 406	Chlamydomonas reinhardtii
+T6	Antibiotic 574 586	Streptomycin
+T7	Antibiotic 897 909	streptomycin
+T8	Antibiotic 986 998	streptomycin
+T9	Bacteria 1359 1367	E.  coli
+T10	Antibiotic 1410 1423	spectinomycin
+T11	Antibiotic 1457 1464	neamine
+T12	Antibiotic 1469 1478	kanamycin
+T13	Bacteria 1542 1549	E. coli
+T14	Antibiotic 1609 1621	erythromycin
+T15	Bacteria 1661 1675	C. reinhardtii
+T16	Antibiotic 1861 1873	erythromycin
+T17	Antibiotic 1921 1931	lincomycin
+T18	Antibiotic 1936 1947	clindamycin
+*	Equiv T15 T5
+T19	Antibiotic 225 232	neamine
+T20	Antibiotic 233 242	kanamycin
+T21	Antibiotic_target_alteration 175 182	Mutants
+E1	Antibiotic_target_alteration:T21 Cause:T2 Theme:T5
+E2	Antibiotic_target_alteration:T21 Cause:T3 Theme:T5
+E3	Antibiotic_target_alteration:T21 Cause:T19 Theme:T5
+E4	Antibiotic_target_alteration:T21 Cause:T20 Theme:T5
+E5	Antibiotic_target_alteration:T21 Cause:T4 Theme:T5
+T22	Bacteria 651 667	Escherichia coli
+T23	Gene 732 737	rps12
+T24	Antibiotic_target_alteration 614 621	changes
+E6	Antibiotic_target_alteration:T24 Cause:T6 Theme:T22
+T25	Antibiotic_target_alteration 833 842	mutations
+E7	Antibiotic_target_alteration:T25 Cause:T7
+T26	Antibiotic_target_alteration 1294 1301	changes
+E8	Antibiotic_target_alteration:T26 Theme:T9 Cause:T10
+*	Equiv T9 T22
+T27	Antibiotic_target_alteration 1492 1501	mutations
+E9	Antibiotic_target_alteration:T27 Cause:T11 Theme:T13
+E10	Antibiotic_target_alteration:T27 Cause:T12 Theme:T13
+T28	Antibiotic_target_alteration 1570 1579	mutations
+E11	Antibiotic_target_alteration:T28 Cause:T14 Theme:T15
+T29	Bacteria 1705 1712	E. coli
+T30	Antibiotic_target_alteration 1828 1835	mutants
+E12	Antibiotic_target_alteration:T30 Cause:T16
+E13	Antibiotic_target_alteration:T30 Cause:T17
+E14	Antibiotic_target_alteration:T30 Cause:T18

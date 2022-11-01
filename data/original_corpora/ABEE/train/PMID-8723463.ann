@@ -1,0 +1,19 @@
+T1	Bacteria 61 88	Mycobacterium  tuberculosis
+T2	Antibiotic 20 32	streptomycin
+T3	Bacteria 168 194	Mycobacterium tuberculosis
+T4	Antibiotic 309 321	streptomycin
+T5	Antibiotic 323 325	SM
+*	Equiv T5 T4
+T6	Antibiotic 386 388	SM
+T7	Antibiotic_target_alteration 408 417	mutations
+E1	Antibiotic_target_alteration:T7 Cause:T6 Theme:T3
+T8	Gene 464 468	rpsL
+T9	Antibiotic 983 985	SM
+T10	Gene 1063 1066	rrs
+T11	Antibiotic 1187 1189	SM
+T12	Antibiotic 917 919	SM
+T13	Gene 749 753	rpsL
+T14	Antibiotic 677 679	SM
+T15	Gene 506 509	rrs
+T16	Antibiotic 896 898	SM
+T17	Gene 1110 1113	rrs

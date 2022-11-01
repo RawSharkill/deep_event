@@ -1,0 +1,63 @@
+T1	Bacteria 134 156	Staphylococcus  aureus
+T3	Bacteria 196 217	Staphylococcus aureus
+T4	Antibiotic_efflux 244 250	efflux
+E2	Antibiotic_efflux:T4 Theme:T3 Cause:T23
+T5	Bacteria 417 426	S. aureus
+T8	Bacteria 545 549	MRSA
+T9	Bacteria 563 596	methicillin-susceptible S. aureus
+T10	Bacteria 598 602	MSSA
+*	Equiv T10 T9
+T11	Bacteria 727 731	MRSA
+T12	Bacteria 743 747	MSSA
+T13	Bacteria 780 790	S.  aureus
+T14	Bacteria 846 850	MRSA
+T15	Bacteria 898 902	MRSA
+T17	Antibiotic 1458 1474	ethidium bromide
+T18	Antibiotic 1476 1478	EB
+*	Equiv T18 T17 T37
+T19	Bacteria 1514 1523	S. aureus
+T20	Bacteria 2036 2040	MRSA
+T21	Antibiotic 2162 2172	antiseptic
+T23	Antibiotic 171 181	antiseptic
+T24	Antibiotic 350 360	antiseptic
+*	Equiv T5 T1
+T25	Bacteria 533 543	S.  aureus
+T2	Gene 90 94	qacA
+T6	Gene 99 103	qacB
+T7	Gene 268 272	qacA
+T16	Gene 277 281	qacB
+T22	Gene 474 480	qacA/B
+T26	Antibiotic 511 532	methicillin-resistant
+T27	Antibiotic_efflux 490 498	detected
+E1	Antibiotic_efflux:T27 Cause:T26 Theme:T25
+T28	Gene 644 647	smr
+T29	Gene 836 842	qacA/B
+T30	Gene 919 925	qacA/B
+T31	Gene 1037 1041	qacB
+T32	Gene 1069 1073	qacA
+T33	Gene 1103 1109	qacA/B
+T34	Gene 1207 1211	qacA
+T35	Gene 1245 1249	qacB
+T36	Gene 1280 1284	qacA
+T37	Antibiotic 1584 1586	EB
+T38	Gene 1688 1694	qacA/B
+T39	Gene 1778 1783	IS256
+T40	Gene 1787 1792	IS257
+T41	Gene 1819 1823	qacB
+T42	Gene 1385 1392	qacA-V1
+T43	Gene 1394 1401	qacA-V2
+T44	Gene 1403 1410	qacB-V3
+T45	Gene 1418 1425	qacB-V4
+T46	Gene 1542 1549	qacB-V1
+T47	Gene 1554 1561	qacB-V2
+T48	Antibiotic_efflux 1533 1541	carrying
+E3	Antibiotic_efflux:T48 Cause:T37 Theme:T19
+T50	Gene 1850 1857	qacA-V1
+T51	Gene 1964 1968	qacA
+T52	Gene 1974 1978	qacB
+T53	Antibiotic_efflux 2108 2119	responsible
+E5	Antibiotic_efflux:T53 Theme:T20 Cause:T21
+T49	Antibiotic_efflux 1533 1541	carrying
+E4	Antibiotic_efflux:T49 Cause:T37 Theme:T19
+T54	Antibiotic_efflux 2108 2119	responsible
+E6	Antibiotic_efflux:T54 Theme:T20 Cause:T21

@@ -1,0 +1,31 @@
+T1	Bacteria 59 80	Klebsiella pneumoniae
+T2	Bacteria 132 153	Klebsiella pneumoniae
+T3	Bacteria 601 617	Escherichia coli
+T4	Bacteria 941 954	K. pneumoniae
+T5	Bacteria 1066 1079	K. pneumoniae
+T6	Reduced_permeability_to_antibiotic 226 236	deficiency
+E1	Reduced_permeability_to_antibiotic:T6 Theme:T2 Cause:T11
+T9	Reduced_permeability_to_antibiotic 734 749	porin-deficient
+E3	Reduced_permeability_to_antibiotic:T9 Theme:T3 Cause:T16
+T7	Antibiotic 95 117	beta-lactam antibiotic
+T12	Reduced_permeability_to_antibiotic 1088 1098	expressing
+E6	Reduced_permeability_to_antibiotic:T12 Theme:T5 Cause:T14
+T14	Antibiotic 1171 1194	beta-lactam antibiotics
+T8	Protein 383 389	OmpK36
+T10	Protein 394 400	OmpK35
+T11	Antibiotic 254 265	beta-lactam
+T13	Gene 471 477	ompK37
+T15	Protein 539 545	OmpK37
+T16	Antibiotic 750 761	beta-lactam
+T17	Protein 661 667	OmpK37
+*	Equiv T4 T1
+T18	Protein 918 924	OmpK37
+T19	Protein 962 968	OmpK36
+T20	Protein 973 979	OmpK35
+T21	Antibiotic 1033 1056	beta-lactam antibiotics
+*	Equiv T11 T7
+T22	Protein 1105 1111	OmpK37
+T23	Protein 1127 1133	OmpK36
+T24	Protein 1137 1143	OmpK35
+T25	Protein 1240 1246	OmpK36
+T26	Protein 1251 1257	OmpK35

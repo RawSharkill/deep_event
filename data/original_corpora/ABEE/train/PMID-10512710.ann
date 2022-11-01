@@ -1,0 +1,21 @@
+T1	Antibiotic 13 24	kasugamycin
+T2	Bacteria 73 89	Escherichia coli
+T3	Antibiotic_target_alteration 35 42	mutants
+E1	Antibiotic_target_alteration:T3 Theme:T2 Cause:T1
+T4	Antibiotic 163 174	kasugamycin
+T5	Bacteria 208 224	Escherichia coli
+T6	Antibiotic_target_alteration 113 122	mutations
+E2	Antibiotic_target_alteration:T6 Cause:T4 Theme:T5
+T7	Antibiotic 506 517	kasugamycin
+T8	Antibiotic_target_alteration 464 473	mutations
+E3	Antibiotic_target_alteration:T8 Cause:T7 Theme:T5
+T9	Bacteria 697 713	Escherichia coli
+T10	Antibiotic 762 773	kasugamycin
+T11	Antibiotic_target_alteration 616 623	absence
+E4	Antibiotic_target_alteration:T11 Theme:T9 Cause:T10
+T12	Antibiotic 826 837	kasugamycin
+T13	Antibiotic_target_alteration 796 805	Mutations
+E5	Antibiotic_target_alteration:T13 Cause:T12 Theme:T9
+T14	Antibiotic 1312 1323	kasugamycin
+T15	Antibiotic_target_protection 1271 1280	protected
+E6	Antibiotic_target_protection:T15 Cause:T14

@@ -1,0 +1,12 @@
+T1	Antibiotic 0 12	Fosmidomycin
+T2	Bacteria 73 89	Escherichia coli
+T3	Bacteria 138 150	E. coli K-12
+T4	Antibiotic 182 194	fosmidomycin
+T5	Antibiotic 262 272	fosfomycin
+T6	Bacteria 274 281	E. coli
+T7	Antibiotic 313 323	fosfomycin
+T8	Antibiotic 337 349	fosmidomycin
+T9	Antibiotic 372 384	fosmidomycin
+*	Equiv T6 T2
+T10	Antibiotic_target_alteration 61 68	mutants
+E1	Antibiotic_target_alteration:T10 Theme:T2 Cause:T1

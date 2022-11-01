@@ -1,0 +1,19 @@
+T1	Antibiotic 9 21	penicillin G
+T2	Bacteria 36 58	Neisseria meningitidis
+T3	Bacteria 148 170	Neisseria meningitidis
+T4	Antibiotic 196 208	penicillin G
+T5	Antibiotic 549 561	penicillin G
+T6	Antibiotic 583 593	penicillin
+T7	Antibiotic 689 701	penicillin G
+T8	Antibiotic 875 887	penicillin G
+T9	Bacteria 1059 1070	meningococc
+T10	Antibiotic 1096 1108	penicillin G
+T11	Protein 84 112	penicillin-binding protein 3
+T12	Antibiotic_target_alteration 71 79	affinity
+E1	Antibiotic_target_alteration:T12 Theme:T2 Cause:T1
+T13	Protein 595 629	Penicillin-binding protein (PBP) 3
+T14	Protein 728 731	PBP
+T15	Protein 806 811	PBP 3
+T16	Protein 1135 1141	PBP  3
+T17	Antibiotic_target_alteration 1123 1131	affinity
+E2	Antibiotic_target_alteration:T17 Cause:T10 Theme:T9

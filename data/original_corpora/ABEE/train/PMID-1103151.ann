@@ -1,0 +1,15 @@
+T1	Bacteria 18 36	Pseudomonas putida
+T2	Bacteria 41 57	Escherichia coli
+T3	Bacteria 153 171	Pseudomonas putida
+T4	Bacteria 176 183	E. coli
+*	Equiv T4 T2
+T5	Antibiotic 258 271	carbenicillin
+T6	Antibiotic 274 286	tetracycline
+T7	Antibiotic 288 297	kanamycin
+T8	Antibiotic 303 311	neomycin
+T9	Bacteria 779 788	P. putida
+*	Equiv T9 T1
+T10	Antibiotic 935 943	neomycin
+T11	Antibiotic 961 970	kanamycin
+T12	Antibiotic 991 999	neomycin
+T13	Antibiotic 1014 1023	kanamycin

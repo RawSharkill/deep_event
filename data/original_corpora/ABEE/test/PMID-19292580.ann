@@ -1,0 +1,34 @@
+T1	Bacteria 61 71	Salmonella
+T2	Bacteria 95 154	Salmonella enterica serovar Typhimurium DT104 human isolate
+T3	Bacteria 249 259	Salmonella
+T4	Bacteria 320 359	Salmonella enterica serovar Typhimurium
+T5	Bacteria 373 378	DT104
+T6	Bacteria 380 384	DT12
+T7	Bacteria 386 391	DT120
+T8	Bacteria 398 402	U302
+T9	Bacteria 452 457	Agona
+T10	Bacteria 459 470	Paratyphi B
+T11	Bacteria 472 478	Albany
+T12	Bacteria 481 492	Meleagridis
+T13	Bacteria 494 501	Newport
+T14	Bacteria 503 508	Cerro
+T15	Bacteria 510 515	Derby
+T16	Bacteria 517 527	Dusseldorf
+T17	Bacteria 529 537	Infantis
+T18	Bacteria 539 545	Kiambu
+T19	Bacteria 551 555	Emek
+T20	Bacteria 573 601	Salmonella Typhimurium DT104
+T21	Bacteria 991 1028	Salmonella Typhimurium DT104 isolates
+T22	Antibiotic 878 888	ampicillin
+T23	Antibiotic 893 908	chloramphenicol
+*	Equiv T5 T2
+T24	Gene 278 282	SGI1
+T25	Bacteria 421 431	Salmonella
+T26	Gene 762 766	SGI1
+T27	Gene 1116 1126	bla(PSE-1)
+T28	Gene 1128 1132	sul1
+T29	Gene 1133 1138	Delta
+T30	Gene 1140 1144	floR
+T31	Gene 1150 1154	tetR
+T32	Gene 1258 1262	SGI1
+T33	Gene 1412 1416	SGI1

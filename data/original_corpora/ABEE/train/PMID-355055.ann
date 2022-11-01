@@ -1,0 +1,11 @@
+T1	Antibiotic 33 47	amphotericin B
+T2	Bacteria 59 84	Saccharomyces  cerevisiae
+T3	Antibiotic 106 114	nystatin
+T4	Antibiotic 143 151	nystatin
+T5	Bacteria 219 243	Saccharomyces cerevisiae
+T6	Antibiotic_target_alteration 85 92	mutants
+E1	Antibiotic_target_alteration:T6 Theme:T2 Cause:T3
+T7	Antibiotic_target_alteration 122 129	mutants
+E2	Antibiotic_target_alteration:T7 Cause:T4 Theme:T5
+T8	Antibiotic 468 482	amphotericin B
+T9	Antibiotic 800 814	amphotericin B

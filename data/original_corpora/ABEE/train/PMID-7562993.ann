@@ -1,0 +1,10 @@
+T1	Antibiotic 1185 1198	carbenicillin
+T2	Antibiotic 1258 1271	ciprofloxacin
+T3	Antibiotic 1309 1318	 imipenem
+T4	Antibiotic 1372 1382	azlocillin
+T5	Antibiotic 1446 1454	imipenem
+T6	Antibiotic 1385 1396	ceftazidime
+T7	Antibiotic 1421 1430	meropenem
+T8	Bacteria 60 83	Pseudomonas  aeruginosa
+T9	Antibiotic 1645 1656	penicillins
+T10	Antibiotic 1661 1675	cephalosporins

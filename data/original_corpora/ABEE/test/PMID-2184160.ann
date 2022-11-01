@@ -1,0 +1,20 @@
+T1	Antibiotic 32 44	trimethoprim
+T2	Bacteria 59 75	Escherichia coli
+T3	Antibiotic 116 128	Trimethoprim
+T4	Antibiotic 130 133	TMP
+*	Equiv T4 T3
+T5	Antibiotic 172 185	sulphonamides
+T6	Antibiotic 256 259	TMP
+T7	Antibiotic 304 307	TMP
+T8	Bacteria 368 384	Escherichia coli
+T9	Antibiotic 589 592	TMP
+T10	Antibiotic 636 639	TMP
+T11	Antibiotic 706 709	TMP
+T12	Antibiotic 1225 1228	TMP
+T13	Gene 767 787	type I dihydrofolate
+T14	Gene 805 817	type II DHFR
+T15	Gene 927 940	type III DHFR
+T16	Gene 1008 1019	type V DHFR
+T17	Gene 1270 1282	type I  DHFR
+T18	Antibiotic 1341 1344	TMP
+T19	Bacteria 1367 1374	E. coli

@@ -1,0 +1,30 @@
+T1	Antibiotic 53 76	beta-lactam antibiotics
+T2	Bacteria 150 171	Streptococcus faecium
+T3	Antibiotic 199 209	penicillin
+T4	Bacteria 250 271	Streptococcus faecium
+T5	Antibiotic 320 330	penicillin
+T6	Bacteria 594 604	S. faecium
+*	Equiv T6 T2
+T7	Antibiotic 642 652	penicillin
+T8	Bacteria 692 706	S. faecium R40
+T9	Antibiotic 720 730	novobiocin
+T10	Bacteria 795 808	S. faecium PS
+T11	Bacteria 854 857	R40
+*	Equiv T11 T8
+T12	Antibiotic 1065 1077	beta-lactams
+T13	Bacteria 1109 1112	R40
+T14	Bacteria 1117 1119	PS
+*	Equiv T14 T10
+T15	Antibiotic 1214 1226	beta-lactams
+T16	Antibiotic 1485 1497	beta-lactams
+T17	Bacteria 1501 1511	S. faecium
+T18	Protein 117 143	penicillin-binding protein
+T19	Antibiotic_target_alteration 104 116	low-affinity
+E1	Antibiotic_target_alteration:T19 Theme:T2 Cause:T3
+T20	Protein 212 238	Penicillin-binding protein
+T21	Protein 240 243	PBP
+T22	Antibiotic_target_alteration 307 315	affinity
+E2	Antibiotic_target_alteration:T22 Theme:T4 Cause:T5
+T23	Protein 920 925	PBP 5
+T24	Protein 1200 1204	PBPs
+T25	Protein 1347 1352	PBP 5

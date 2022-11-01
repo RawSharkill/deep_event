@@ -1,0 +1,16 @@
+T1	Antibiotic 28 40	tetracycline
+T3	Bacteria 78 99	Gallibacterium anatis
+T4	Antibiotic 178 190	tetracycline
+T6	Bacteria 220 241	Gallibacterium anatis
+T7	Antibiotic 410 422	tetracycline
+T9	Bacteria 473 482	G. anatis
+T10	Antibiotic 546 558	tetracycline
+T12	Bacteria 673 682	G. anatis
+T13	Bacteria 919 940	Aeromonas salmonicida
+*	Equiv T9 T3
+T2	Gene 20 27	tet(31)
+T5	Gene 318 321	tet
+T8	Gene 378 384	tet(B)
+T11	Gene 637 644	tet(31)
+T14	Gene 778 785	tet(31)
+T15	Gene 873 880	tet(31)

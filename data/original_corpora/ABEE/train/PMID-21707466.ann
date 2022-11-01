@@ -1,0 +1,12 @@
+T1	Bacteria 36 57	Gram-negative bacilli
+T2	Bacteria 232 253	Gram-negative bacilli
+T3	Gene 656 659	bla
+T4	Gene 546 550	aacA
+T5	Gene 552 556	catB
+T6	Gene 300 308	bla(IMP)
+T7	Gene 764 772	bla(IMP)
+T8	Gene 476 484	bla(IMP)
+T9	Gene 562 570	bla(OXA)
+T10	Protein 131 155	IMP-type beta-lactamases
+T11	Protein 0 32	IMP-type metallo-beta-lactamases
+T12	Protein 157 161	IMPs

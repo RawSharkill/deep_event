@@ -1,0 +1,16 @@
+T1	Antibiotic 23 35	pyrithiamine
+T2	Bacteria 57 77	Escherichia coli K12
+T3	Bacteria 143 164	Escherichia coli  K12
+T4	Antibiotic 199 211	pyrithiamine
+T5	Antibiotic 236 244	thiamine
+T6	Antibiotic 440 450	pyrimidine
+T7	Antibiotic 638 650	pyrithiamine
+T8	Antibiotic 734 742	thiamine
+T9	Gene 1337 1340	muM
+T10	Antibiotic 1342 1350	thiamine
+T11	Antibiotic 1557 1565	thiamine
+T12	Antibiotic_target_alteration 1514 1521	altered
+E1	Antibiotic_target_alteration:T12 Cause:T11
+T13	Antibiotic 1757 1765	thiamine
+T14	Antibiotic_target_alteration 1587 1594	altered
+E2	Antibiotic_target_alteration:T14 Cause:T13

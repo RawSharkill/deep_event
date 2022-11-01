@@ -1,0 +1,6 @@
+T3	Antibiotic 627 639	beta-lactams
+T4	Antibiotic 644 659	aminoglycosides
+T5	Antibiotic 810 821	beta-lactam
+T1	Bacteria 200 223	gram-negative bacillary
+T2	Bacteria 571 594	gram-negative bacillary
+T6	Bacteria 911 934	gram-negative bacillary

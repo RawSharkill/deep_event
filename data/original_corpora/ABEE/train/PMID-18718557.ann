@@ -1,0 +1,40 @@
+T1	Bacteria 17 38	Staphylococcus aureus
+T2	Bacteria 168 189	Staphylococcus aureus
+T3	Bacteria 214 223	S. aureus
+*	Equiv T3 T2
+T4	Bacteria 288 319	methicillin-resistant S. aureus
+T5	Bacteria 321 325	MRSA
+*	Equiv T5 T4
+T6	Antibiotic 356 367	methicillin
+T7	Antibiotic 382 405	beta-lactam antibiotics
+T8	Bacteria 674 684	S.  aureus
+T9	Bacteria 766 775	S. aureus
+T10	Bacteria 827 831	MRSA
+T11	Bacteria 897 901	MRSA
+T12	Bacteria 1017 1021	MRSA
+T13	Bacteria 1231 1240	S. aureus
+T14	Bacteria 1523 1527	MRSA
+T15	Bacteria 1808 1817	S. aureus
+T16	Gene 413 417	mecA
+T18	Protein 518 524	SCCmec
+T19	Protein 551 557	SCCmec
+T20	Protein 803 809	SCCmec
+T22	Protein 1573 1579	SCCmec
+T23	Protein 1175 1181	SCCmec
+T24	Bacteria 1605 1636	methicillin-sensitive S. aureus
+T25	Bacteria 1639 1643	MSSA
+*	Equiv T25 T24
+T26	Protein 1725 1731	SCCmec
+T27	Bacteria 1159 1166	CA-MRSA
+T28	Bacteria 1123 1130	CA-MRSA
+T29	Bacteria 1096 1121	community-associated MRSA
+*	Equiv T28 T29
+T32	Bacteria 1055 1062	HA-MRSA
+T33	Bacteria 1262 1269	HA-MRSA
+T34	Bacteria 1275 1282	CA-MRSA
+T35	Protein 1336 1363	Panton-Valentine leukocidin
+T36	Protein 1365 1368	PVL
+T37	Bacteria 1478 1485	CA-MRSA
+T38	Bacteria 1438 1445	CA-MRSA
+T39	Bacteria 1426 1433	HA-MRSA
+T40	Protein 476 514	staphylococcal cassette chromosome mec

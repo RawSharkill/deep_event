@@ -1,0 +1,18 @@
+T1	Protein 665 670	ton A
+T2	Protein 866 871	ton A
+T3	Protein 786 789	87K
+T4	Bacteria 28 44	Escherichia coli
+T5	Bacteria 143 159	Escherichia coli
+T6	Bacteria 361 368	E. coli
+*	Equiv T6 T5
+T7	Antibiotic 419 424	phage
+T8	Antibiotic 468 475	No. 216
+T9	Antibiotic 702 709	No. 216
+T10	Antibiotic 509 516	No. 216
+T11	Gene 561 566	ton A
+T12	Protein 581 586	Ton A
+T13	Antibiotic 291 299	No.  216
+T14	Antibiotic 245 252	No. 216
+T15	Antibiotic 75 83	no.  216
+T16	Antibiotic_target_alteration 269 277	mutation
+E1	Antibiotic_target_alteration:T16 Cause:T14 Theme:T5

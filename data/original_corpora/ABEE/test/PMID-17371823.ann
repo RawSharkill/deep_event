@@ -1,0 +1,8 @@
+T1	Antibiotic 75 88	spectinomycin
+T2	Bacteria 103 124	Pasteurella multocida
+T3	Bacteria 128 149	Pasteurella multocida
+T4	Antibiotic 175 188	spectinomycin
+T5	Antibiotic_target_alteration 0 9	Mutations
+E1	Antibiotic_target_alteration:T5 Cause:T1 Theme:T2
+T6	Gene 406 410	rpsE
+T7	Protein 453 455	S5

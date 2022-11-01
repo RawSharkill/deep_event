@@ -1,0 +1,22 @@
+T1	Bacteria 147 169	Staphylococcus  aureus
+T2	Bacteria 215 258	methicillin-resistant Staphylococcus aureus
+T3	Bacteria 260 264	MRSA
+T4	Antibiotic 293 316	beta-lactam antibiotics
+T5	Antibiotic 450 473	beta-lactam antibiotics
+T6	Antibiotic 645 668	beta-lactam antibiotics
+T7	Bacteria 670 674	MRSA
+T8	Antibiotic 757 766	oxacillin
+T9	Antibiotic 1062 1071	oxacillin
+T10	Antibiotic 1133 1142	oxacillin
+T11	Antibiotic 1214 1223	oxacillin
+T12	Antibiotic 1426 1435	oxacillin
+T13	Antibiotic 1536 1558	beta-lactam antibiotic
+T14	Bacteria 1583 1587	MRSA
+T15	Bacteria 547 556	S. aureus
+*	Equiv T15 T1
+*	Equiv T3 T2
+T16	Antibiotic 125 136	Methicillin
+T17	Gene 518 522	mecC
+T18	Gene 1611 1615	mecC
+T19	Gene 692 696	mecC
+T20	Gene 902 906	mecC

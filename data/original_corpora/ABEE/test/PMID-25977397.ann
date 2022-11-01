@@ -1,0 +1,37 @@
+T1	Antibiotic 61 75	oxazolidinones
+T2	Bacteria 111 132	Enterococcus faecalis
+T3	Bacteria 137 157	Enterococcus faecium
+T4	Bacteria 229 255	Enterococcus faecalis E349
+T5	Antibiotic 381 394	oxazolidinone
+T6	Bacteria 494 505	E. faecalis
+*	Equiv T6 T2
+T7	Bacteria 511 531	Enterococcus faecium
+T8	Bacteria 837 848	E. faecalis
+T9	Bacteria 853 863	E. faecium
+T10	Bacteria 1050 1067	E.  faecalis E349
+T11	Antibiotic 1165 1179	oxazolidinones
+T12	Antibiotic 1181 1190	linezolid
+T13	Antibiotic 1195 1204	tedizolid
+T14	Bacteria 1479 1500	Staphylococcus aureus
+T15	Bacteria 1451 1462	E. faecalis
+T16	Bacteria 1464 1474	E. faecium
+T17	Bacteria 1538 1549	E. faecalis
+T18	Bacteria 1554 1564	E. faecium
+T19	Bacteria 1688 1699	Enterococci
+T20	Antibiotic 1722 1731	linezolid
+T21	Antibiotic 1736 1745	tedizolid
+T22	Gene 1855 1860	optrA
+T23	Gene 1810 1813	cfr
+T24	Gene 1409 1414	optrA
+T25	Gene 1399 1403	fexA
+T26	Gene 1311 1316	optrA
+T27	Gene 1039 1044	optrA
+T28	Gene 810 815	optrA
+T29	Gene 977 983	 optrA
+T30	Gene 602 607	optrA
+T31	Gene 412 417	optrA
+T32	Antibiotic 205 218	oxazolidinone
+T33	Gene 302 305	cfr
+T34	Gene 14 19	optrA
+T35	Antibiotic 81 90	phenicols
+T36	Gene 822 827	optrA

@@ -1,0 +1,3 @@
+Cloning and characterization of a novel trimethoprim resistant dihydrofolate  reductase from a nosocomial isolate of Staphylococcus aureus CM.S2 (IMCJ1454). 
+
+A novel gene, dfrG, encoding a trimethoprim (TMP) resistant dihydrofolate  reductase (DHFR, designated S3DHFR) was cloned from a clinical isolate of  methicillin resistant Staphylococcus aureus. Escherichia coli expressing dfrG was  highly resistant to TMP. Recombinant S3DHFR exhibited DHFR activity that was not   inhibited by TMP.

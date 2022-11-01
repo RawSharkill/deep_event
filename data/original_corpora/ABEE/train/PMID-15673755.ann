@@ -1,0 +1,25 @@
+T1	Antibiotic 49 58	isoniazid
+T2	Antibiotic 63 74	ethionamide
+T3	Bacteria 79 91	mycobacteria
+T4	Antibiotic 132 141	isoniazid
+T5	Antibiotic 143 146	INH
+*	Equiv T5 T4
+T6	Antibiotic 170 181	ethionamide
+T7	Antibiotic 183 186	ETH
+*	Equiv T7 T6
+T8	Antibiotic 313 316	INH
+T9	Antibiotic 321 324	ETH
+T10	Bacteria 609 632	Mycobacterium smegmatis
+T11	Bacteria 638 661	Mycobacterium bovis BCG
+T12	Bacteria 667 679	M. smegmatis
+*	Equiv T12 T10
+T13	Antibiotic 718 721	INH
+T14	Antibiotic 726 729	ETH
+T15	Bacteria 741 753	M. bovis BCG
+*	Equiv T15 T11
+T16	Antibiotic 790 793	INH
+T17	Antibiotic 799 802	ETH
+T18	Antibiotic 1013 1016	INH
+T19	Gene 384 388	inhA
+T20	Gene 1223 1227	InhA
+T21	Gene 955 959	InhA

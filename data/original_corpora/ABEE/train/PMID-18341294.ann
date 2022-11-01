@@ -1,0 +1,29 @@
+T1	Antibiotic 111 124	streptogramin
+T2	Antibiotic 136 161	quinupristin/dalfopristin
+T4	Antibiotic 243 255	dalfopristin
+T3	Antibiotic 286 298	quinupristin
+T5	Antibiotic 336 361	Quinupristin/dalfopristin
+T6	Antibiotic 520 532	quinupristin
+T7	Bacteria 733 742	S. aureus
+T8	Bacteria 940 949	S. cohnii
+T9	Bacteria 1040 1049	S. cohnii
+T10	Bacteria 1054 1064	S.  aureus
+T11	Antibiotic 1148 1160	quinupristin
+T12	Bacteria 1392 1401	S. cohnii
+T13	Bacteria 1434 1443	S. cohnii
+T14	Bacteria 1480 1489	S. aureus
+T15	Protein 85 88	Vgb
+T16	Protein 1402 1405	Vgb
+T17	Protein 61 83	virginiamycin B  lyase
+T18	Protein 744 747	Vgb
+T19	Protein 1065 1068	Vgb
+T20	Protein 1444 1447	Vgb
+T21	Protein 475 496	Virginiamycin B lyase
+T22	Protein 499 502	Vgb
+T23	Antibiotic_inactivation 504 515	inactivates
+E1	Antibiotic_inactivation:T23 Cause:T6
+T24	Protein 597 603	enzyme
+T25	Protein 950 953	Vgb
+T26	Protein 1130 1137	enzymes
+T27	Protein 1490 1493	Vgb
+T28	Bacteria 39 60	Staphylococcus cohnii

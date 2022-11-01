@@ -1,0 +1,3 @@
+bla(IMP-9) and its association with large plasmids carried by Pseudomonas  aeruginosa isolates from the People's Republic of China. 
+
+A novel plasmid-mediated metallo-beta-lactamase (IMP-9) is described in seven  isolates of Pseudomonas aeruginosa from Guangzhou, China, isolated in 2000. The  gene was carried on a large (approximately 450-kb) IncP-2 conjugative plasmid.  This is the first report of carriage of bla(IMP) genes on such large plasmids.

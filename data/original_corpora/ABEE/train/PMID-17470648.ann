@@ -1,0 +1,19 @@
+T1	Bacteria 105 133	Chryseobacterium indologenes
+T2	Bacteria 240 268	Chryseobacterium indologenes
+T3	Antibiotic 421 432	penicillins
+T4	Antibiotic 470 484	cephalosporins
+T5	Antibiotic 490 501	carbapenems
+T6	Antibiotic 510 521	monobactams
+T7	Protein 69 74	IND-5
+T8	Protein 192 197	IND-5
+T9	Protein 300 310	amino acid
+T10	Protein 270 275	IND-5
+T11	Protein 325 330	IND-1
+T12	Protein 335 340	IND-3
+T13	Protein 160 182	metallo-beta-lactamase
+T14	Protein 45 67	metallo-beta-lactamase
+T15	Antibiotic_inactivation 411 420	hydrolyze
+E1	Antibiotic_inactivation:T15 Cause:T3
+T16	Protein 365 371	enzyme
+E2	Antibiotic_inactivation:T15 Cause:T5
+E3	Antibiotic_inactivation:T15 Cause:T4

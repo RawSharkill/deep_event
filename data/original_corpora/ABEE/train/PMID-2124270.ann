@@ -1,0 +1,17 @@
+T1	Antibiotic 79 89	zidovudine
+T2	Bacteria 115 137	Escherichia coli  KL16
+T3	Bacteria 142 164	Salmonella typhimurium
+T4	Antibiotic 234 243	thymidine
+T5	Antibiotic 353 363	zidovudine
+T6	Reduced_permeability_to_antibiotic 390 402	permeability
+E1	Reduced_permeability_to_antibiotic:T6 Cause:T5
+T7	Antibiotic 517 527	zidovudine
+T8	Bacteria 529 551	Pseudomonas aeruginosa
+T9	Antibiotic 576 586	zidovudine
+T10	Antibiotic 648 657	thymidine
+T11	Bacteria 677 691	Staphylococcus
+T12	Bacteria 714 731	Staph. aureus E3T
+T13	Antibiotic 763 773	zidovudine
+T14	Antibiotic 795 804	thymidine
+T15	Antibiotic 883 893	zidovudine
+T16	Antibiotic 914 924	Zidovudine

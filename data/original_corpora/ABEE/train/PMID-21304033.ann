@@ -1,0 +1,26 @@
+T1	Bacteria 50 73	Acinetobacter baumannii
+T2	Bacteria 182 205	Acinetobacter baumannii
+T3	Bacteria 423 435	A. baumannii
+*	Equiv T3 T2
+T4	Bacteria 554 566	A. baumannii
+T5	Antibiotic 957 969	beta-lactams
+T6	Antibiotic 1263 1279	fluoroquinolones
+T7	Antibiotic 1297 1312	aminoglycosides
+T8	Antibiotic 1355 1367	beta-lactams
+T9	Antibiotic 1432 1444	beta-lactams
+T10	Antibiotic 1446 1459	tetracyclines
+T11	Antibiotic 1461 1477	fluoroquinolones
+T12	Antibiotic 1484 1499	aminoglycosides
+T13	Antibiotic 1629 1638	polymyxin
+T14	Antibiotic 1572 1583	beta-lactam
+T15	Bacteria 1758 1770	A. baumannii
+T16	Bacteria 1785 1797	A. baumannii
+T17	Bacteria 1907 1919	A. baumannii
+T18	Bacteria 570 593	gram-negative bacterium
+T19	Protein 1042 1075	extended spectrum beta-lactamases
+T20	Protein 1111 1134	metallo-beta-lactamases
+T21	Gene 1197 1203	blaOXA
+T22	Gene 1136 1141	blaMP
+T23	Gene 1143 1149	blaVIM
+T24	Gene 1151 1154	bla
+T25	Gene 1156 1159	SIM

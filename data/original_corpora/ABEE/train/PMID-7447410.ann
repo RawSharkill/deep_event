@@ -1,0 +1,39 @@
+T1	Antibiotic 416 431	aminoglycosides
+T2	Bacteria 1107 1120	Acinetobacter
+T3	Bacteria 1243 1267	Streptococcus   faecalis
+T4	Bacteria 1217 1238	Staphylococcus aureus
+T5	Bacteria 1197 1215	Enterobacteriaceae
+T6	Bacteria 1175 1195	 Pseudomonas species
+T7	Antibiotic 1284 1292	amikacin
+T8	Antibiotic 1271 1280	Sch 21420
+T9	Bacteria 1061 1083	Pseudomonas aeruginosa
+T10	Antibiotic 1091 1100	Sch 21420
+T11	Protein 917 927	AAC (6')-I
+T12	Reduced_permeability_to_antibiotic 884 896	permeability
+E1	Reduced_permeability_to_antibiotic:T12 Cause:T13
+T13	Antibiotic 862 871	 emikacin
+T14	Antibiotic 848 857	Sch 21420
+E2	Reduced_permeability_to_antibiotic:T12 Cause:T14
+T15	Antibiotic 1016 1026	Sch  21420
+T16	Antibiotic 1031 1039	amikacin
+T17	Antibiotic 88 96	amikacin
+T18	Antibiotic 98 108	gentamicin
+T19	Antibiotic 110 120	netilmicin
+T20	Antibiotic 122 131	sisomicin
+T21	Antibiotic 137 147	tobramycin
+T22	Antibiotic 48 60	gentamicin B
+T23	Antibiotic 201 213	gentamicin B
+T24	Antibiotic 242 251	Sch 21420
+T25	Antibiotic 253 261	amikacin
+T26	Antibiotic 263 273	gentamicin
+T27	Antibiotic 275 285	netilmicin
+T28	Antibiotic 287 296	sisomicin
+T29	Antibiotic 302 312	tobramycin
+T30	Antibiotic 447 455	amikacin
+T31	Antibiotic 433 442	Sch 21420
+T32	Antibiotic 569 577	amikacin
+T33	Antibiotic 724 739	aminoglycosides
+T34	Antibiotic 677 685	amikacin
+T35	Antibiotic 663 672	Sch 21420
+T36	Antibiotic 169 183	aminoglycoside
+T37	Antibiotic 150 159	Sch 21420

@@ -1,0 +1,42 @@
+T1	Bacteria 95 117	Pseudomonas aeruginosa
+T2	Bacteria 266 288	Pseudomonas aeruginosa
+T3	Antibiotic 668 677	aztreonam
+T4	Antibiotic 680 690	gentamicin
+T5	Antibiotic 693 703	tobramycin
+T6	Antibiotic 709 722	ciprofloxacin
+T7	Bacteria 933 949	Escherichia coli
+T8	Bacteria 957 970	P. aeruginosa
+*	Equiv T8 T1
+T9	Antibiotic 1061 1073	piperacillin
+T10	Antibiotic 1109 1120	ceftazidime
+T11	Antibiotic 1125 1133	cefepime
+T12	Antibiotic 1626 1636	gentamicin
+T13	Antibiotic 1642 1652	tobramycin
+T14	Protein 28 57	metallo-beta-lactamase VIM-13
+T15	Gene 1822 1833	bla(VIM-13)
+T16	Protein 226 254	metallo-beta-lactamase [MBL]
+T17	Protein 1456 1462	VIM-13
+T18	Protein 1667 1673	VIM-13
+T19	Protein 1379 1385	VIM-13
+T20	Protein 790 795	VIM-1
+T21	Protein 800 805	VIM-2
+T22	Gene 821 832	bla(VIM-13)
+T23	Gene 862 872	bla(VIM-1)
+T24	Protein 724 730	VIM-13
+T25	Gene 591 602	bla(VIM-13)
+T26	Protein 753 763	amino acid
+T27	Protein 1449 1454	VIM-1
+T28	Gene 535 545	bla(VIM-1)
+T29	Gene 482 493	bla(VIM-13)
+T30	Gene 461 469	bla(VIM)
+T31	Protein 379 382	MBL
+T32	Bacteria 423 436	strain PA-SL2
+T33	Gene 996 1001	VIM-1
+T34	Gene 1003 1009	VIM-13
+T35	Gene 1135 1141	VIM-13
+T36	Gene 1146 1151	VIM-1
+T37	Gene 1591 1596	aacA4
+T38	Antibiotic 210 223	carbapenemase
+T39	Antibiotic 1544 1558	aminoglycoside
+T40	Antibiotic_target_alteration 1559 1568	modifying
+E1	Antibiotic_target_alteration:T40 Cause:T39

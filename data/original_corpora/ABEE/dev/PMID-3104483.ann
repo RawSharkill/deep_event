@@ -1,0 +1,29 @@
+T1	Antibiotic 40 51	beta-lactam
+T2	Bacteria 103 123	Enterobacter cloacae
+T3	Bacteria 128 151	Pseudomonas  aeruginosa
+T4	Bacteria 228 248	Enterobacter cloacae
+T5	Bacteria 253 275	Pseudomonas aeruginosa
+T6	Antibiotic 288 306	beta-lactam agents
+T7	Bacteria 313 323	E. cloacae
+*	Equiv T7 T2
+T8	Antibiotic 345 356	ceftriaxone
+T9	Antibiotic 358 367	cefoxitin
+T10	Antibiotic 369 380	cefamandole
+T11	Antibiotic 383 395	cefoperazone
+T12	Antibiotic 400 408	imipenem
+T13	Antibiotic 495 505	moxalactam
+T14	Antibiotic 507 518	clavulanate
+T15	Antibiotic 520 531	ceftazidime
+T16	Antibiotic 536 545	aztreonam
+T17	Bacteria 553 566	P. aeruginosa
+*	Equiv T17 T3
+T18	Antibiotic 568 576	imipenem
+T19	Antibiotic 607 618	ceftriaxone
+T20	Antibiotic 621 633	piperacillin
+T21	Antibiotic 635 647	cefoperazone
+T22	Antibiotic 649 660	cefamandole
+T23	Antibiotic 662 673	clavulanate
+T24	Antibiotic 679 688	aztreonam
+T25	Bacteria 764 778	E. cloacae p99
+T26	Bacteria 784 808	P. aeruginosa ATCC 27853
+T27	Antibiotic 1196 1207	beta-lactam

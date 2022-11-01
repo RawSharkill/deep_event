@@ -1,0 +1,37 @@
+T1	Bacteria 58 78	Enterococcus faecium
+T2	Antibiotic 506 516	vancomycin
+T3	Antibiotic 540 551	teicoplanin
+T4	Bacteria 620 639	E. faecium BM4105RF
+T5	Antibiotic 1431 1441	vancomycin
+T6	Antibiotic 1446 1457	teicoplanin
+T7	Gene 0 4	vanM
+T8	Bacteria 1390 1406	VanM-type strain
+T9	Protein 958 968	amino acid
+T10	Gene 840 844	vanM
+T11	Protein 899 909	amino-acid
+T12	Gene 984 988	VanA
+T13	Gene 990 994	VanB
+T14	Gene 996 1000	VanD
+T15	Gene 1006 1010	VanF
+T16	Gene 1073 1077	vanA
+T17	Gene 1103 1107	vanM
+T18	Gene 1039 1043	vanM
+T19	Gene 1151 1155	vanD
+T20	Gene 1175 1179	vanM
+T21	Gene 1561 1565	VanM
+T22	Gene 1572 1576	VanA
+T23	Antibiotic 1587 1599	glycopeptide
+T24	Gene 226 230	vanA
+T25	Gene 232 236	vanB
+T26	Gene 246 250	vanD
+T27	Gene 238 242	vanC
+T28	Gene 252 256	vanE
+T29	Gene 258 262	vanG
+T30	Gene 268 272	vanL
+T31	Gene 202 205	van
+T32	Antibiotic 88 100	glycopeptide
+T33	Antibiotic 12 24	glycopeptide
+T34	Bacteria 333 353	Enterococcus faecium
+T35	Gene 727 730	van
+T36	Gene 799 802	van
+T37	Gene 830 834	vanM

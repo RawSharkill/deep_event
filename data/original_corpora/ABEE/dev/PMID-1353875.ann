@@ -1,0 +1,19 @@
+T1	Bacteria 276 295	Entero-bacteriaceae
+T2	Bacteria 584 595	E. coli K12
+T3	Antibiotic 832 842	gentamicin
+T4	Antibiotic 875 883	amikacin
+T5	Antibiotic 1107 1116	apramycin
+T6	Antibiotic 1161 1170	apramycin
+T7	Antibiotic 61 71	gentamicin
+T8	Antibiotic 204 214	gentamicin
+T9	Antibiotic_target_alteration 180 189	modifying
+E1	Antibiotic_target_alteration:T9 Cause:T8 Theme:T1
+T10	Antibiotic 492 502	gentamicin
+T11	Antibiotic 1426 1441	aminoglycosides
+T12	Antibiotic 1449 1459	gentamicin
+T13	Protein 1260 1279	acetyl-transferases
+T14	Protein 1281 1289	AAC/3/-I
+T15	Protein 1291 1299	AAC/3/-V
+T16	Protein 1301 1310	AAC/3/-IV
+T17	Protein 1317 1326	AAC/6'/-I
+T18	Protein 1356 1363	AAD/2"/

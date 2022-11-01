@@ -1,0 +1,21 @@
+T1	Antibiotic 44 56	erythromycin
+T2	Bacteria 72 88	Escherichia coli
+T3	Bacteria 91 114	Escherichia coli BM2570
+T4	Antibiotic 147 159	erythromycin
+T5	Antibiotic 229 241	erythromycin
+T6	Bacteria 246 252	BM2570
+*	Equiv T6 T3
+T7	Bacteria 351 358	E. coli
+*	Equiv T7 T2
+T8	Antibiotic 472 481	macrolide
+T9	Antibiotic 484 495	lincosamide
+T10	Antibiotic 503 533	reptogramin B-type antibiotics
+T11	Bacteria 659 673	enterobacteria
+T12	Antibiotic 798 810	erythromycin
+T13	Antibiotic 816 828	oleandomycin
+T14	Antibiotic 968 980	erythromycin
+T15	Bacteria 1013 1027	E. coli BM2570
+T16	Gene 428 432	erxA
+T17	Gene 736 740	ereB
+T18	Gene 872 876	erxA
+T19	Gene 881 887	ereB  

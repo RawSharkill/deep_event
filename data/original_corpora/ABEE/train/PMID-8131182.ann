@@ -1,0 +1,15 @@
+T1	Antibiotic 48 57	macrolide
+T2	Antibiotic 15 25	Spiramycin
+T3	Antibiotic 1 11	Spiramycin
+T4	Bacteria 115 139	Streptomyces ambofaciens
+T5	Antibiotic 402 412	spiramycin
+T6	Bacteria 768 782	Enterobacteria
+T7	Bacteria 784 796	pseudomonads
+T8	Bacteria 747 766	Cryptosporidium sp.
+T9	Bacteria 724 742	Toxoplasma  gondii
+T10	Antibiotic 950 962	erythromycin
+T11	Bacteria 629 648	Gram-negative cocci
+T12	Bacteria 599 618	Gram-positive cocci
+T13	Bacteria 685 695	chlamydiae
+T14	Bacteria 672 683	mycoplasmas
+T15	Bacteria 659 670	Legionellae

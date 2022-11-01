@@ -1,0 +1,30 @@
+T1	Bacteria 63 92	Chryseobacterium  indologenes
+T2	Bacteria 142 158	Chryseobacterium
+T3	Bacteria 189 218	the family  Flavobacteriaceae
+T4	Bacteria 347 364	Flavobacteriaceae
+T5	Bacteria 376 404	Chryseobacterium indologenes
+T6	Antibiotic 469 480	carbapenems
+T7	Bacteria 553 567	C. indologenes
+*	Equiv T7 T1
+T8	Bacteria 933 947	C. indologenes
+T9	Antibiotic 1492 1503	ceftazidime
+T10	Antibiotic 1508 1516	cefepime
+T11	Gene 0 5	IND-6
+T12	Protein 520 542	metallo-beta-lactamase
+T13	Protein 1478 1483	IND-5
+T14	Protein 1468 1473	IND-2
+T15	Protein 1434 1439	IND-5
+T16	Protein 1091 1123	IND-type metallo-beta-lactamases
+T17	Protein 26 57	IND-type metallo-beta-lactamase
+T18	Gene 1155 1160	IND-4
+T19	Gene 1165 1170	IND-5
+T20	Gene 1354 1359	IND-6
+T21	Antibiotic 434 457	beta-lactam antibiotics
+T22	Antibiotic 789 804	aminoglycosides
+T23	Antibiotic 811 821	quinolones
+T24	Protein 909 912	IND
+T25	Antibiotic 996 1008	beta-lactams
+T26	Antibiotic 1013 1028	aminoglycosides
+T27	Antibiotic_target_alteration 918 925	variant
+E1	Antibiotic_target_alteration:T27 Theme:T8 Cause:T26
+E2	Antibiotic_target_alteration:T27 Theme:T8 Cause:T25

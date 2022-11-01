@@ -1,0 +1,35 @@
+T1	Antibiotic 83 99	fluoroquinolones
+T2	Bacteria 103 124	Staphylococcus aureus
+T3	Antibiotic 176 188	besifloxacin
+T4	Antibiotic 351 363	besifloxacin
+T5	Bacteria 393 414	Staphylococcus aureus
+T6	Antibiotic 440 456	fluoroquinolones
+T7	Antibiotic 597 609	besifloxacin
+T8	Antibiotic 611 623	moxifloxacin
+T9	Antibiotic 625 637	gatifloxacin
+T10	Antibiotic 639 652	ciprofloxacin
+T11	Antibiotic 659 671	levofloxacin
+T12	Antibiotic 836 852	fluoroquinolones
+T13	Antibiotic 1004 1016	besifloxacin
+T14	Antibiotic 1037 1050	ciprofloxacin
+T15	Antibiotic 1056 1068	levofloxacin
+T16	Antibiotic 1262 1278	fluoroquinolones
+T17	Antibiotic 1303 1315	besifloxacin
+T18	Gene 692 696	GyrA
+T19	Gene 698 702	GyrB
+T20	Gene 704 708	ParC
+T21	Gene 714 718	ParE
+T22	Antibiotic 917 926	quinolone
+T23	Protein 1451 1457	gyrase
+T24	Antibiotic_target_alteration 14 23	mutations
+E1	Antibiotic_target_alteration:T24 Cause:T1 Theme:T2
+T25	Antibiotic_target_alteration 900 909	mutations
+E2	Antibiotic_target_alteration:T25 Cause:T22
+T26	Gene 1120 1124	ParC
+T27	Gene 1129 1133	GyrA
+T28	Antibiotic 499 512	ciprofloxacin
+T29	Protein 235 241	gyrase
+T30	Antibiotic_target_alteration 218 227	mutations
+E3	Antibiotic_target_alteration:T30 Cause:T6 Theme:T5
+E4	Antibiotic_target_alteration:T30 Cause:T4 Theme:T5
+E5	Antibiotic_target_alteration:T30 Cause:T28 Theme:T5

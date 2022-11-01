@@ -1,0 +1,17 @@
+T1	Bacteria 49 65	Escherichia coli
+T2	Antibiotic 22 29	solvent
+T3	Bacteria 449 465	Escherichia coli
+T4	Antibiotic 621 629	tetralin
+T5	Antibiotic 649 660	cyclohexane
+T6	Antibiotic 662 675	propylbenzene
+T7	Antibiotic 686 704	dihydronaphthalene
+T8	Antibiotic 306 327	tetrahydronaphthalene
+T9	Antibiotic 329 337	tetralin
+T10	Gene 1121 1125	ahpC
+T11	Gene 1407 1411	ahpC
+T12	Gene 1531 1535	ahpC
+T13	Gene 1759 1763	ahpC
+T14	Antibiotic 1726 1735	 tetralin
+T15	Antibiotic 1715 1721	xylene
+T16	Antibiotic 1330 1338	tetralin
+T17	Gene 930 935	ahpCF

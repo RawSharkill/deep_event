@@ -1,0 +1,29 @@
+T1	Antibiotic 0 12	Tetracycline
+T3	Antibiotic 40 52	tetracycline
+T6	Antibiotic 380 392	tetracycline
+T7	Antibiotic 394 397	TET
+*	Equiv T7 T6
+T8	Antibiotic 420 433	tetracyclines
+T9	Antibiotic 484 487	TET
+T11	Antibiotic 550 553	TET
+T14	Antibiotic 719 722	TET
+T18	Antibiotic 961 964	TET
+T20	Bacteria 112 124	mycobacteria
+T21	Bacteria 1182 1195	mycobacterial
+T22	Antibiotic_efflux 1197 1203	efflux
+E10	Antibiotic_efflux:T22 Theme:T21
+T23	Bacteria 1396 1409	mycobacterial
+T24	Antibiotic 1645 1648	TET
+T2	Gene 78 84	tet(V)
+T4	Antibiotic 575 578	TET
+T5	Antibiotic 755 758	TET
+T10	Gene 1022 1028	otr(A)
+T12	Gene 1030 1036	otr(B)
+T13	Gene 1038 1045	 tet(K)
+T15	Gene 1047 1053	tet(L)
+T16	Gene 1057 1063	tet(M)
+T17	Gene 1152 1158	tet(V)
+T19	Gene 1299 1305	tet(V)
+T25	Gene 1475 1481	tet(V)
+T26	Gene 1489 1492	tap
+T27	Antibiotic 1508 1511	TET

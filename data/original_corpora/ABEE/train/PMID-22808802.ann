@@ -1,0 +1,28 @@
+T1	Antibiotic 9 19	rifampicin
+T2	Antibiotic 24 33	isoniazid
+T3	Bacteria 63 78	M. tuberculosis
+T4	Antibiotic 116 126	rifampicin
+T5	Antibiotic 128 131	RIF
+*	Equiv T5 T4
+T6	Antibiotic 137 146	isoniazid
+T7	Antibiotic 148 151	INH
+*	Equiv T7 T6
+T8	Bacteria 173 199	Mycobacterium tuberculosis
+*	Equiv T3 T8
+T9	Antibiotic 457 460	RIF
+T10	Antibiotic 491 494	INH
+T11	Antibiotic 617 620	RIF
+T12	Antibiotic 648 651	INH
+T13	Antibiotic 707 710	RIF
+T14	Antibiotic 985 988	INH
+T15	Antibiotic 1626 1629	RIF
+T16	Antibiotic 1634 1637	INH
+T17	Antibiotic_target_alteration 45 53	mutation
+E1	Antibiotic_target_alteration:T17 Theme:T3 Cause:T1
+E2	Antibiotic_target_alteration:T17 Theme:T3 Cause:T2
+T18	Gene 774 778	rpoB
+T19	Gene 1033 1037	katG
+T20	Gene 1071 1080	inhA MUT1
+T21	Gene 1307 1311	rpoB
+T22	Gene 1413 1417	inhA
+T23	Gene 1404 1408	katG

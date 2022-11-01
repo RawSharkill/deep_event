@@ -1,0 +1,18 @@
+T2	Bacteria 86 108	Pseudomonas aeruginosa
+T1	Antibiotic_efflux 59 65	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T4	Bacteria 172 195	Pseudomonas  aeruginosa
+T5	Antibiotic 112 133	Macrolide antibiotics
+T6	Antibiotic 221 242	macrolide antibiotics
+T8	Antibiotic 520 529	aztreonam
+T9	Antibiotic 531 543	tetracycline
+T10	Antibiotic 545 558	carbenicillin
+T11	Antibiotic 561 576	chloramphenicol
+T12	Antibiotic 582 592	novobiocin
+T3	Protein 48 53	MexAB
+T7	Protein 54 58	OprM
+T13	Protein 292 297	MexAB
+T14	Protein 298 302	OprM
+T15	Antibiotic 356 368	azithromycin
+T16	Protein 398 403	MexAB
+T17	Protein 404 408	OprM

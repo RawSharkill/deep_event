@@ -1,0 +1,3 @@
+Transposition of the IS21-related element IS1415 in Rhodococcus erythropolis. 
+
+Three copies of the IS21-related transposable element IS1415 were identified in  Rhodococcus erythropolis NI86/21. Adjacent to one of the IS1415 copies, a 47-bp  sequence nearly identical to the conserved 5' end of integrons was found.  Accurate transposition of IS1415 carrying a chloramphenicol resistance gene  (Tn5561) was demonstrated following delivery from a suicide vector to R.  erythropolis SQ1.

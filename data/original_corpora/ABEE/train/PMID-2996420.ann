@@ -1,0 +1,11 @@
+T1	Bacteria 59 90	Pseudomonas aeruginosa  strains
+T2	Antibiotic 94 104	gentamycin
+T3	Bacteria 239 252	P. aeruginosa
+*	Equiv T3 T1 T6
+T4	Antibiotic 266 276	gentamicin
+T5	Antibiotic 954 968	aminoglycoside
+T6	Bacteria 1110 1123	P. aeruginosa
+T7	Antibiotic_inactivation 969 981	inactivating
+E1	Antibiotic_inactivation:T7 Cause:T5 Theme:T6
+T8	Protein 991 999	APH (3')
+T9	Protein 1004 1011	AAC (3)

@@ -1,0 +1,17 @@
+T1	Bacteria 246 285	Klebsiella pneumoniae  clinical isolate
+T2	Bacteria 1183 1196	gram-negative
+T3	Bacteria 1201 1224	gram-positive bacterial
+T4	Gene 80 85	CTX-M
+T6	Gene 19 26	ISEcp1B
+T7	Gene 226 234	CTX-M-19
+T9	Gene 423 431	CTX-M-19
+T10	Protein 387 393	Tn1721
+T11	Gene 647 654	ISEcp1B
+T12	Gene 509 515	IS903D
+T14	Gene 496 504	ISE cp1B
+T15	Gene 866 874	ISE cp1B
+T17	Gene 1068 1076	CTX-M-19
+T18	Gene 1437 1442	CTX-M
+T20	Gene 1304 1310	ISEcp1
+T21	Gene 965 972	ISEcp1B
+T5	Gene 1142 1148	ISEcp1

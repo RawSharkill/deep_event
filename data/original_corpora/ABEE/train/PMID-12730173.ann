@@ -1,0 +1,38 @@
+T1	Bacteria 86 107	Staphylococcus aureus
+T2	Bacteria 130 151	Staphylococcus aureus
+T3	Bacteria 423 447	S. aureus  strain ISP794
+T6	Antibiotic 493 503	quinolones
+R1	Member-of Arg1:T3 Arg2:T2	
+T8	Bacteria 927 933	ISP794
+T11	Antibiotic 958 968	quinolones
+*	Equiv T8 T3
+T4	Protein 20 24	NorR
+T5	Gene 65 69	norA
+T7	Gene 152 156	norA
+T9	Protein 184 188	NorR
+T10	Gene 236 240	norA
+T12	Gene 255 259	norR
+T13	Gene 333 337	norA
+T14	Gene 405 409	norR
+T15	Gene 558 562	norA
+T16	Protein 593 597	NorR
+T17	Gene 630 634	norA
+T18	Antibiotic 509 525	ethidium bromide
+T19	Antibiotic_efflux 387 401	Overexpression
+E1	Antibiotic_efflux:T19 Theme:T3 Cause:T6
+E2	Antibiotic_efflux:T19 Theme:T3 Cause:T18
+T20	Gene 665 669	norR
+T21	Antibiotic 709 718	quinolone
+T22	Gene 744 748	norA
+T23	Protein 851 855	NorR
+T24	Gene 884 888	norA
+T25	Gene 674 678	sarA
+T26	Gene 683 686	agr
+T27	Gene 919 923	norR
+T28	Gene 1009 1013	norA
+T29	Protein 1045 1049	NorR
+T30	Antibiotic_efflux 1096 1102	efflux
+E3	Antibiotic_efflux:T30 Theme:T8 Cause:T11
+T31	Gene 1250 1254	norR
+T32	Protein 1303 1307	NorR
+T33	Protein 1405 1409	NorA

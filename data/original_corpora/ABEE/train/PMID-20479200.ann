@@ -1,0 +1,16 @@
+T1	Antibiotic 162 174	tetracycline
+T2	Antibiotic 179 191	streptomycin
+T3	Bacteria 122 154	Campylobacter fetus subsp. fetus
+T4	Bacteria 253 285	Campylobacter fetus subsp. fetus
+T5	Bacteria 358 396	Campylobacter fetus subsp.  venerealis
+T6	Antibiotic 417 429	tetracycline
+T7	Antibiotic 521 533	tetracycline
+T8	Antibiotic 539 550	minocycline
+T9	Gene 210 217	tet(44)
+T10	Gene 222 231	ant(6)-Ib
+T11	Gene 39 46	tet(44)
+T12	Gene 51 60	ant(6)-Ib
+T13	Protein 406 416	amino-acid
+T14	Gene 454 461	Tet 44,
+T15	Protein 584 594	amino-acid
+T16	Protein 633 642	ANT(6)-Ib

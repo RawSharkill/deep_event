@@ -1,0 +1,26 @@
+T1	Antibiotic 1239 1248	quinolone
+T2	Gene 1008 1012	gyrA
+T3	Gene 1282 1286	gyrA
+T4	Bacteria 1259 1274	N.  gonorrhoeae
+T5	Bacteria 993 1007	N. gonorrhoeae
+T6	Bacteria 34 55	Neisseria gonorrhoeae
+T7	Antibiotic 1 10	Quinolone
+T8	Bacteria 77 98	Neisseria gonorrhoeae
+T9	Antibiotic 143 153	quinolones
+T10	Antibiotic 380 390	quinolones
+T11	Antibiotic 432 441	quinolone
+T12	Gene 591 595	gyrA
+T13	Bacteria 583 590	E. coli
+T14	Bacteria 647 661	N. gonorrhoeae
+T15	Gene 662 666	gyrA
+T16	Antibiotic 836 847	norfloxacin
+T17	Gene 941 945	gyrA
+T18	Bacteria 1343 1359	Escherichia coli
+*	Equiv T14 T8
+*	Equiv T18 T13
+T19	Antibiotic 1474 1484	quinolones
+T20	Bacteria 1546 1560	N. gonorrhoeae
+T21	Antibiotic 410 413	PCG
+T22	Bacteria 538 553	N.  gonorrhoeae
+T23	Antibiotic_target_alteration 21 30	mutations
+E1	Antibiotic_target_alteration:T23 Cause:T7 Theme:T6

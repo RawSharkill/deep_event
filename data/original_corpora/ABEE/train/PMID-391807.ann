@@ -1,0 +1,23 @@
+T1	Bacteria 0 16	Escherichia coli
+T2	Bacteria 37 60	beta-lactam antibiotics
+T3	Bacteria 76 92	Escherichia coli
+T4	Antibiotic 113 136	beta-lactam antibiotics
+T5	Bacteria 160 175	E. coli chi2452
+T6	Antibiotic 219 242	beta-lactam antibiotics
+T7	Bacteria 345 360	E. coli chi1776
+T8	Antibiotic 387 397	ampicillin
+T9	Antibiotic 399 412	cephaloridine
+T10	Antibiotic 765 788	Beta-lactam antibiotics
+T11	Protein 817 844	penicillin-binding proteins
+T12	Antibiotic 854 864	mecillinam
+T13	Antibiotic 869 879	cephalexin
+T14	Antibiotic 1029 1052	beta-lactam antibiotics
+T15	Protein 1085 1113	penicillin-binding protein 1
+T16	Antibiotic 1121 1134	cephaloridine
+T17	Antibiotic 1138 1147	cefoxitin
+T18	Antibiotic 1340 1351	beta-lactam
+T19	Bacteria 1365 1372	chi2452
+*	Equiv T19 T5
+T20	Bacteria 1608 1615	chi2452
+T21	Antibiotic 1681 1691	penicillin
+T22	Bacteria 1705 1712	E. coli

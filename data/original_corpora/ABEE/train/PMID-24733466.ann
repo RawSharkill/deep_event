@@ -1,0 +1,13 @@
+T1	Antibiotic 0 9	Quinolone
+T2	Antibiotic 460 469	quinolone
+T3	Bacteria 246 265	Salmonella enterica
+T4	Bacteria 364 400	Salmonella enterica  subsp. enterica
+T5	Gene 192 196	qnrD
+T6	Gene 206 211	qnrD2
+T7	Gene 494 498	gyrA
+T8	Gene 632 636	qnrD
+T9	Gene 638 643	qnrD2
+T10	Gene 500 504	gyrB
+T11	Gene 506 510	parC
+T12	Gene 516 520	parE
+T13	Bacteria 35 45	Salmonella

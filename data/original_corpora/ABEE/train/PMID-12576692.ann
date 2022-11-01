@@ -1,0 +1,33 @@
+T1	Bacteria 103 124	Enterococcus faecalis
+T2	Antibiotic_efflux 86 97	efflux pump
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 163 195	Enterococcus faecalis ATCC 29212
+T4	Bacteria 214 236	Escherichia coli KAM32
+R1	Member-of Arg1:T3 Arg2:T1	
+T5	Bacteria 286 301	E.   coli KAM32
+T7	Antibiotic 493 524	tetraphenylphosphonium chloride
+T8	Antibiotic 527 556	4',6-diamidino-2-phenylindole
+T9	Antibiotic 558 562	DAPI
+*	Equiv T9 T8
+T10	Antibiotic 565 578	Hoechst 33342
+T11	Antibiotic 580 591	acriflavine
+T12	Antibiotic 593 615	benzalkonium  chloride
+T13	Antibiotic 617 628	norfloxacin
+T15	Bacteria 860 867	E. coli
+T16	Antibiotic_efflux 881 887	efflux
+E10	Antibiotic_efflux:T16 Theme:T15 Cause:T19
+T17	Antibiotic 939 943	DAPI
+T18	Antibiotic 945 958	Hoechst 33342
+T19	Antibiotic 963 974	acriflavine
+T20	Antibiotic 986 990	DAPI
+T21	Antibiotic 1027 1036	reserpine
+T22	Antibiotic_efflux 976 982	Efflux
+E11	Antibiotic_efflux:T22 Cause:T20 Theme:T15
+*	Equiv T5 T4
+E7	Antibiotic_efflux:T16 Theme:T15 Cause:T18
+E12	Antibiotic_efflux:T16 Theme:T15 Cause:T17
+T14	Antibiotic 633 649	ethidium bromide
+T6	Protein 995 999	EmeA
+T23	Gene 837 841	emeA
+T24	Gene 37 41	emeA
+T25	Protein 67 71	EmeA

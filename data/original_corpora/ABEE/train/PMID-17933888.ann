@@ -1,0 +1,65 @@
+T1	Bacteria 86 125	Salmonella enterica serovar Typhimurium
+T3	Bacteria 160 170	Salmonella
+T4	Bacteria 398 408	Salmonella
+T5	Antibiotic_efflux 439 445	efflux
+E2	Antibiotic_efflux:T5 Theme:T4
+T2	Antibiotic_efflux 24 30	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T6	Antibiotic 530 541	beta-lactam
+T8	Bacteria 556 575	Salmonella enterica
+T12	Antibiotic 771 780	oxacillin
+T13	Antibiotic 782 793	cloxacillin
+T14	Antibiotic 799 808	nafcillin
+T15	Antibiotic 855 865	novobiocin
+T16	Antibiotic 870 882	deoxycholate
+T17	Antibiotic 898 910	beta-lactams
+T18	Bacteria 915 925	Salmonella
+T24	Antibiotic_efflux 1158 1164	efflux
+E16	Antibiotic_efflux:T24 Theme:T25
+T25	Bacteria 1176 1186	Salmonella
+T26	Resistance_by_absence 1292 1300	deletion
+E17	Resistance_by_absence:T26 Theme:T25
+T27	Resistance_by_absence 1019 1027	deletion
+E18	Resistance_by_absence:T27 Theme:T25
+T28	Bacteria 1747 1757	Salmonella
+T32	Bacteria 1847 1857	Salmonella
+T33	Antibiotic_efflux 1896 1902	efflux
+E21	Antibiotic_efflux:T33 Theme:T32
+T7	Gene 755 759	acrB
+T9	Protein 346 351	BaeSR
+T10	Gene 698 702	baeR
+T11	Gene 810 814	baeR
+T19	Gene 622 626	baeR
+T20	Protein 670 675	BaeSR
+T21	Gene 969 973	baeR
+T22	Gene 1080 1084	tolC
+T23	Protein 1086 1090	TolC
+T29	Gene 1268 1272	acrD
+T30	Gene 1277 1283	mdtABC
+T31	Protein 1343 1347	BaeR
+T34	Gene 1461 1467	mdtABC
+T35	Gene 1452 1456	acrD
+T36	Protein 1517 1521	BaeR
+T37	Gene 1539 1543	acrD
+T38	Gene 1548 1554	mdtABC
+T39	Protein 1678 1683	BaeSR
+T40	Protein 1685 1689	AcrD
+T41	Protein 1695 1701	MdtABC
+T42	Protein 1789 1794	BaeSR
+T43	Protein 1875 1879	AcrD
+T44	Protein 1884 1890	MdtABC
+T45	Protein 1978 1982	AcrD
+T46	Protein 1987 1993	MdtABC
+T47	Protein 1237 1241	BaeR
+T48	Antibiotic 1717 1723	copper
+T49	Antibiotic 1728 1732	zinc
+T50	Antibiotic_efflux 1702 1712	contribute
+E3	Antibiotic_efflux:T50 Cause:T48 Theme:T28
+T51	Antibiotic_efflux 1702 1712	contribute
+E4	Antibiotic_efflux:T51 Cause:T49 Theme:T28
+T52	Antibiotic_efflux 622 626	baeR
+E5	Antibiotic_efflux:T52 Theme:T8 Cause:T6
+T53	Antibiotic_efflux 815 829	overexpression
+E6	Antibiotic_efflux:T53 Cause:T15 Theme:T18
+E7	Antibiotic_efflux:T53 Cause:T16 Theme:T18
+E8	Antibiotic_efflux:T53 Cause:T17 Theme:T18

@@ -1,0 +1,6 @@
+T1	Bacteria 62 85	Pseudomonas  aeruginosa
+T2	Bacteria 225 247	Pseudomonas aeruginosa
+T3	Gene 0 10	bla(IMP-9)
+T4	Gene 414 422	bla(IMP)
+T5	Protein 159 181	metallo-beta-lactamase
+T6	Protein 183 188	IMP-9

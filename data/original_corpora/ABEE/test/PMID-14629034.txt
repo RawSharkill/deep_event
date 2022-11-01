@@ -1,0 +1,3 @@
+The metallo-beta-lactamases fall into two distinct phylogenetic groups. 
+
+The Ambler Class B metallo-beta-lactamases fall into two distinct phylogenetic  groups based on the observation that there is no significant sequence homology  between the sequences of members of different groups. Structural alignments  confirm that those groups are no more closely related to each other than are the   three classes of serine beta-lactamases, Classes A, C, and D. We present  phylogenies of these two groups and suggest a new classification scheme for the  beta-lactamases.

@@ -1,0 +1,15 @@
+T1	Antibiotic 118 130	streptomycin
+T2	Antibiotic 628 640	erythromycin
+T3	Antibiotic 647 657	spiramycin
+T4	Antibiotic 733 745	streptomycin
+T5	Antibiotic 876 885	macrolide
+T6	Bacteria 1082 1098	Escherichia coli
+T7	Bacteria 1312 1319	E. coli
+*	Equiv T7 T6
+T8	Bacteria 1360 1367	E. coli
+T9	Antibiotic 1405 1417	streptomycin
+T10	Antibiotic 1618 1630	streptomycin
+T11	Antibiotic_target_alteration 1392 1400	affinity
+E1	Antibiotic_target_alteration:T11 Cause:T9 Theme:T8
+T12	Antibiotic_target_alteration 1655 1664	altered  
+E2	Antibiotic_target_alteration:T12 Cause:T10

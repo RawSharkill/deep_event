@@ -1,0 +1,11 @@
+T1	Bacteria 8 30	Pseudomonas aeruginosa
+T3	Bacteria 174 196	Pseudomonas aeruginosa
+T4	Antibiotic 712 720	imipenem
+T2	Gene 46 50	oprD
+T5	Antibiotic 155 163	imipenem
+T6	Gene 479 483	oprD
+T7	Antibiotic 574 582	imipenem
+T8	Gene 616 620	oprD
+T9	Gene 689 693	oprD
+T10	Reduced_permeability_to_antibiotic 51 59	mutation
+E1	Reduced_permeability_to_antibiotic:T10 Theme:T1 Cause:T4

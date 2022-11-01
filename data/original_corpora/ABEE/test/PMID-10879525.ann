@@ -1,0 +1,8 @@
+T1	Bacteria 236 258	gram-negative bacteria
+T2	Bacteria 518 534	Escherichia coli
+T3	Protein 52 56	TolC
+T4	Antibiotic_efflux 188 196	exported
+E1	Antibiotic_efflux:T4 Theme:T1
+T5	Protein 405 409	TolC
+T6	Protein 508 512	TolC
+T7	Protein 596 600	TolC

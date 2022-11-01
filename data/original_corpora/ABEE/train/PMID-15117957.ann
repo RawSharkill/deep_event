@@ -1,0 +1,25 @@
+T1	Bacteria 89 111	Pseudomonas aeruginosa
+T2	Antibiotic_efflux 74 85	transporter
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Antibiotic_efflux 130 136	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 145 167	Pseudomonas aeruginosa
+T5	Protein 50 54	MexA
+T6	Protein 119 124	MexAB
+T7	Protein 125 129	OprM
+T8	Protein 278 282	MexA
+T9	Protein 284 288	MexB
+T10	Protein 294 298	OprM
+T11	Protein 567 571	MexA
+T12	Protein 611 615	MexA
+T13	Protein 1581 1586	MexAB
+T14	Protein 1587 1591	OprM
+T15	Protein 1628 1632	MexA
+T16	Protein 1695 1699	OprM
+T17	Protein 1771 1775	MexB
+T18	Protein 1780 1786	OprM  
+T19	Protein 1893 1897	MexB
+T20	Protein 1920 1924	MexA
+T21	Protein 1943 1947	MexB
+T22	Protein 1954 1958	OprM
+T23	Protein 1976 1980	MexA

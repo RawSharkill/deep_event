@@ -1,0 +1,12 @@
+T1	Bacteria 29 39	Salmonella
+T2	Antibiotic 55 67	streptomycin
+T3	Antibiotic 90 102	streptomycin
+T4	Antibiotic 267 279	streptomycin
+T5	Antibiotic 433 448	aminoglycosides
+T6	Antibiotic 627 639	streptomycin
+T7	Antibiotic 753 765	Streptomycin
+T8	Antibiotic 881 893	streptomycin
+T9	Antibiotic_target_alteration 722 734	modification
+E1	Antibiotic_target_alteration:T9 Cause:T6 Theme:T1
+T10	Reduced_permeability_to_antibiotic 827 839	permeability
+E2	Reduced_permeability_to_antibiotic:T10 Cause:T7 Theme:T1

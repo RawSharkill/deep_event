@@ -1,0 +1,11 @@
+T1	Bacteria 14 32	Bacillus anthracis
+T2	Bacteria 269 287	Bacillus anthracis
+T3	Protein 108 131	Metallo-beta-lactamases
+T4	Protein 133 137	MBLs
+T5	Protein 347 351	Bla2
+T6	Protein 329 332	MBL
+T7	Antibiotic 168 191	eta-lactam  antibiotics
+T8	Protein 33 55	metallo-beta-lactamase
+T9	Gene 976 980	Bla2
+T10	Gene 1275 1279	Bla2
+T11	Protein 1096 1102	enzyme

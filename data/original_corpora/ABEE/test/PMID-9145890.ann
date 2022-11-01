@@ -1,0 +1,24 @@
+T1	Antibiotic 23 35	erythromycin
+T2	Antibiotic 40 51	clindamycin
+T3	Antibiotic 175 187	erythromycin
+T4	Bacteria 55 81	cutaneous propionibacteria
+T5	Bacteria 202 228	cutaneous propionibacteria
+T6	Antibiotic 548 558	macrolides
+T7	Antibiotic 560 572	lincosamides
+T8	Antibiotic 578 599	B-type streptogramins
+T9	Bacteria 669 685	Escherichia coli
+T10	Antibiotic 761 773	erythromycin
+T11	Antibiotic 917 927	macrolides
+T12	Antibiotic 1023 1035	erythromycin
+T13	Antibiotic_target_alteration 130 139	mutations
+E1	Antibiotic_target_alteration:T13 Theme:T4 Cause:T2
+E2	Antibiotic_target_alteration:T13 Theme:T4 Cause:T1
+T14	Antibiotic 425 437	erythromycin
+T15	Antibiotic_target_alteration 631 641	transition
+E3	Antibiotic_target_alteration:T15 Cause:T6 Theme:T9
+E4	Antibiotic_target_alteration:T15 Cause:T7 Theme:T9
+E5	Antibiotic_target_alteration:T15 Cause:T8 Theme:T9
+T16	Antibiotic_target_alteration 829 839	transition
+E6	Antibiotic_target_alteration:T16 Cause:T11
+T17	Antibiotic_target_alteration 941 951	transition
+E7	Antibiotic_target_alteration:T17 Cause:T12

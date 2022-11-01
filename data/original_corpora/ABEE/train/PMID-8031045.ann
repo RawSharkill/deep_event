@@ -1,0 +1,38 @@
+T1	Antibiotic 1045 1058	ciprofloxacin
+T2	Gene 1554 1558	gyrA
+T3	Gene 1563 1567	gyrB
+T4	Antibiotic 251 267	fluoroquinolones
+T5	Antibiotic 269 272	FQs
+*	Equiv T5 T4
+T6	Antibiotic 100 109	quinolone
+T7	Gene 71 75	gyrB
+T8	Gene 62 66	gyrA
+T9	Bacteria 35 61	Mycobacterium tuberculosis
+T10	Antibiotic 351 353	FQ
+T11	Bacteria 181 207	Mycobacterium tuberculosis
+T12	Bacteria 368 384	M.  tuberculosis
+*	Equiv T12 T11
+T13	Antibiotic 551 554	FQs
+T14	Gene 424 428	gyrA
+T15	Gene 433 437	gyrB
+T16	Antibiotic 723 732	quinolone
+T17	Gene 764 768	gyrB
+T18	Gene 755 759	gyrA
+T19	Gene 857 861	gyrA
+T20	Antibiotic_target_alteration 833 842	Mutations
+E1	Antibiotic_target_alteration:T20 Cause:T22
+T21	Antibiotic 978 991	ciprofloxacin
+T22	Antibiotic 900 902	FQ
+T23	Bacteria 1109 1124	M. tuberculosis
+T24	Bacteria 1081 1104	Mycobacterium bovis BCG
+T25	Antibiotic_target_alteration 1069 1076	mutants
+E2	Antibiotic_target_alteration:T25 Theme:T24 Cause:T1
+E3	Antibiotic_target_alteration:T25 Theme:T23 Cause:T1
+T26	Antibiotic 1228 1241	ciprofloxacin
+T27	Antibiotic_target_alteration 1168 1175	mutants
+E4	Antibiotic_target_alteration:T27 Cause:T26
+T28	Antibiotic 1336 1349	ciprofloxacin
+T29	Bacteria 1778 1803	M.  tuberculosis isolates
+T30	Antibiotic 1526 1528	FQ
+T31	Gene 1473 1477	gyrA
+T32	Antibiotic 1748 1750	FQ

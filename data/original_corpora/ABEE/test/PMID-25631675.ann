@@ -1,0 +1,29 @@
+T1	Bacteria 73 89	Escherichia coli
+T2	Bacteria 159 175	Escherichia coli
+T3	Antibiotic 387 401	nalidixic acid
+T4	Antibiotic 406 419	ciprofloxacin
+T5	Antibiotic 445 454	quinolone
+T6	Bacteria 1159 1166	E. coli
+*	Equiv T6 T2
+T7	Antibiotic 1444 1456	trimethoprim
+T8	Antibiotic 1482 1497	aminoglycosides
+T9	Antibiotic 1553 1567	nalidixic acid
+T10	Antibiotic 1569 1582	ciprofloxacin
+T11	Bacteria 1645 1652	E. coli
+T12	Bacteria 1758 1765	E. coli
+T13	Antibiotic 1139 1148	quinolone
+T14	Antibiotic 48 57	quinolone
+T15	Antibiotic 134 148	nalidixic acid
+T16	Gene 247 251	gyrA
+T17	Gene 253 257	gyrB
+T18	Gene 259 263	parC
+T19	Gene 268 272	parE
+T20	Gene 497 501	GyrA
+T21	Gene 596 600	GyrA
+T22	Gene 538 542	ParC
+T23	Gene 667 671	parE
+T24	Antibiotic 1195 1204	quinolone
+T25	Gene 1499 1504	aadA2
+T26	Gene 1509 1514	aadA5
+T27	Gene 1459 1465	dfrA12
+T28	Gene 1470 1476	dfrA17

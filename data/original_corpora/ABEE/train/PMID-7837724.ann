@@ -1,0 +1,36 @@
+T1	Antibiotic 1792 1795	KRM
+T2	Bacteria 362 377	M. tuberculosis
+T3	Antibiotic 1159 1169	ethambutol
+T4	Antibiotic 1238 1248	rifampicin
+T5	Antibiotic 1250 1253	RFP
+T6	Bacteria 1265 1280	M. tuberculosis
+T7	Bacteria 849 864	M. tuberculosis
+T8	Bacteria 395 411	M. avium complex
+T9	Bacteria 413 416	MAC
+T10	Antibiotic 1380 1389	rifabutin
+T11	Antibiotic 1391 1394	RBT
+T12	Antibiotic 1400 1403	RFP
+T13	Bacteria 1469 1472	MAC
+T14	Bacteria 1353 1356	MAC
+T15	Antibiotic 1294 1297	KRM
+T16	Antibiotic 1171 1173	EB
+*	Equiv T16 T3
+T17	Antibiotic 936 939	KRM
+T18	Bacteria 948 951	MAC
+T19	Antibiotic 1150 1152	SM
+T20	Antibiotic 1136 1148	streptomycin
+*	Equiv T19 T20
+T21	Antibiotic 1128 1132	SPFX
+T22	Antibiotic 1114 1126	sparfloxacin
+*	Equiv T21 T22
+T23	Antibiotic 1781 1784	KRM
+T24	Bacteria 2048 2051	MAC
+T25	Antibiotic 795 798	KRM
+T26	Antibiotic 1875 1878	KRM
+T27	Antibiotic 1073 1087	clarithromycin
+T28	Antibiotic 1089 1092	CAM
+*	Equiv T28 T27
+T29	Antibiotic 1095 1106	clofazimine
+T30	Antibiotic 1108 1111	CFZ
+*	Equiv T29 T30
+T31	Antibiotic 1226 1229	KRM

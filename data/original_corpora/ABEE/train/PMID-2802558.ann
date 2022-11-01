@@ -1,0 +1,20 @@
+T1	Antibiotic 50 69	oral cephalosporins
+T2	Antibiotic 174 193	oral cephalosporins
+T3	Bacteria 258 276	Enterobacteriaceae
+T4	Antibiotic 336 359	beta-lactam antibiotics
+T5	Antibiotic 600 608	cefixime
+T6	Antibiotic 618 628	cefuroxime
+T7	Antibiotic 639 649	cephalexin
+T8	Antibiotic 663 671	cefaclor
+T9	Antibiotic 705 719	cephalosporins
+T10	Antibiotic 851 859	cefaclor
+T11	Antibiotic 976 986	cefuroxime
+T12	Antibiotic 1091 1099	cefixime
+T13	Antibiotic 1180 1188	cefixime
+T14	Antibiotic 1194 1204	cefuroxime
+T15	Antibiotic 1310 1320	cefuroxime
+T16	Bacteria 1348 1367	Serratia marcescens
+T17	Antibiotic 1406 1414	cefixime
+T18	Antibiotic 1421 1431	cefuroxime
+T19	Antibiotic_inactivation 766 776	hydrolysis
+E1	Antibiotic_inactivation:T19 Cause:T9

@@ -1,0 +1,37 @@
+T1	Bacteria 52 68	Escherichia coli
+T2	Antibiotic_efflux 86 97	efflux pump
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 164 180	Escherichia coli
+T4	Antibiotic_efflux 221 233	efflux pumps
+E2	Antibiotic_efflux:T4 Theme:T3
+T9	Bacteria 1208 1215	E. coli
+T11	Antibiotic 1276 1298	lipophilic antibiotics
+T12	Antibiotic_efflux 1356 1367	efflux pump
+E4	Antibiotic_efflux:T12 Theme:T9 Cause:T11
+T14	Bacteria 1394 1401	E. coli
+T16	Antibiotic 1497 1507	bile salts
+T17	Antibiotic 1512 1523	fatty acids
+T5	Protein 69 76	AcrAB  
+T6	Protein 129 132	Rob
+T7	Protein 155 160	AcrAB
+T8	Protein 384 388	XylS
+T13	Protein 389 393	AraC
+T20	Protein 413 417	MarA
+T21	Protein 419 423	SoxS
+T22	Protein 428 431	Rob
+T23	Protein 442 446	MarA
+T24	Protein 451 455	SoxS
+T25	Protein 546 549	Rob
+T26	Protein 656 661	AcrAB
+T27	Protein 751 754	Rob
+T28	Protein 864 867	Rob
+T29	Protein 882 885	Rob
+T30	Protein 918 923	AcrAB
+T31	Protein 1019 1022	Rob
+T10	Protein 1350 1355	AcrAB
+T18	Protein 1430 1433	Rob
+T19	Protein 1460 1465	AcrAB
+T32	Antibiotic 725 735	bile salts
+T15	Antibiotic_efflux 1443 1455	upregulation
+E3	Antibiotic_efflux:T15 Theme:T14 Cause:T16
+E5	Antibiotic_efflux:T15 Theme:T14 Cause:T17

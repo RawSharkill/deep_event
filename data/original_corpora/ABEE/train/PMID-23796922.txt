@@ -1,0 +1,3 @@
+Resistance Genes Underlying the LSA Phenotype of Staphylococcal Isolates from  France. 
+
+There exist numerous genes disseminated by mobile elements that can confer  cross-resistance to lincosamides and streptogramin A compounds in staphylococci.   This study investigated the nature and means of dissemination of genes  responsible for LSA resistance among 24 French clinical isolates screened for  reduced susceptibility to lincomycin. The vga(A)v gene was found to be the most  prevalent determinant of LSA resistance, while Tn5406 appeared to be its  exclusive gene support.

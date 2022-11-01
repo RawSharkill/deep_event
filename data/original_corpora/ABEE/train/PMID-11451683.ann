@@ -1,0 +1,46 @@
+T1	Antibiotic 35 50	fluoroquinolone
+T3	Bacteria 83 105	Pseudomonas aeruginosa
+T4	Antibiotic 172 187	fluoroquinolone
+T6	Antibiotic_target_alteration 0 31	Type II topoisomerase mutations
+E3	Antibiotic_target_alteration:T6 Theme:T3
+T7	Antibiotic 239 255	fluoroquinolones
+T8	Bacteria 260 282	Pseudomonas aeruginosa
+T10	Antibiotic_target_alteration 292 304	modification
+E5	Antibiotic_target_alteration:T10 Theme:T8
+T11	Antibiotic 397 406	quinolone
+T13	Antibiotic 569 581	levofloxacin
+T14	Antibiotic 624 637	ciprofloxacin
+T17	Antibiotic 1143 1155	levofloxacin
+T18	Antibiotic 1158 1171	ciprofloxacin
+T19	Antibiotic 1177 1189	sparfloxacin
+T21	Antibiotic 1200 1212	sitafloxacin
+E13	Antibiotic_target_replacement:T22 Theme:T8 Cause:T17 Cause2:T19
+T24	Antibiotic_target_alteration 384 393	mutations
+E14	Antibiotic_target_alteration:T24 Theme:T8
+T25	Antibiotic_target_replacement 1263 1275	replacements
+E15	Antibiotic_target_replacement:T25 Theme:T8
+T26	Antibiotic 1412 1428	fluoroquinolones
+T27	Antibiotic 1430 1442	Sitafloxacin
+T28	Antibiotic 1536 1552	fluoroquinolones
+T29	Antibiotic 1622 1632	quinolones
+T30	Antibiotic 1634 1646	sitafloxacin
+T31	Antibiotic 1811 1823	sitafloxacin
+T2	Protein 148 154	enzyme
+T5	Gene 448 453	 gyrA
+T9	Gene 455 459	gyrB
+T12	Gene 461 465	parC
+T15	Gene 471 475	parE
+T16	Protein 746 756	amino acid
+T20	Antibiotic_inactivation 1225 1242	activity  against
+E1	Antibiotic_inactivation:T20 Cause:T21
+T22	Antibiotic_target_replacement 1070 1082	replacements
+E2	Antibiotic_target_replacement:T22 Cause:T18
+T23	Antibiotic_inactivation 1478 1496	activities against
+E4	Antibiotic_inactivation:T23 Cause:T28
+T32	Antibiotic_inactivation 1665 1681	activity against
+E6	Antibiotic_inactivation:T32 Cause:T30
+E7	Antibiotic_inactivation:T32 Cause:T29
+T33	Gene 1735 1739	gyrA
+T34	Gene 1744 1748	parC
+T35	Protein 1847 1854	enzymes
+T36	Protein 911 921	amino acid

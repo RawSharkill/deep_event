@@ -1,0 +1,26 @@
+T1	Bacteria 25 45	Escherichia coli K12
+T2	Antibiotic 76 86	novobiocin
+T3	Bacteria 130 150	Escherichia coli K12
+T4	Antibiotic 208 218	novobiocin
+T5	Antibiotic 230 241	coumermycin
+T6	Antibiotic 243 254	acriflavine
+T7	Antibiotic 260 270	rifampicin
+T8	Antibiotic 335 345	novobiocin
+T9	Antibiotic 427 437	novobiocin
+T10	Antibiotic 639 649	novobiocin
+T11	Antibiotic_target_alteration 363 370	mutants
+E1	Antibiotic_target_alteration:T11 Cause:T8
+T12	Gene 513 517	cysB
+T13	Gene 521 525	cysE
+T14	Gene 572 576	cysB
+T15	Gene 581 585	cysE
+T16	Gene 107 111	cysB
+T17	Gene 116 120	cysE
+T18	Antibiotic_target_alteration 90 99	Mutations
+E2	Antibiotic_target_alteration:T18 Cause:T4 Theme:T3
+E3	Antibiotic_target_alteration:T18 Cause:T5 Theme:T3
+E4	Antibiotic_target_alteration:T18 Cause:T6 Theme:T3
+E5	Antibiotic_target_alteration:T18 Cause:T7 Theme:T3
+T19	Protein 191 197	gyrase
+T20	Gene 9 13	cysE
+T21	Gene 0 4	cysB

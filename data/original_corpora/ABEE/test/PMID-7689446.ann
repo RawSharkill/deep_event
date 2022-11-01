@@ -1,0 +1,28 @@
+T1	Bacteria 740 762	Gram-negative bacteria
+T2	Bacteria 772 790	Enterobacteriaceae
+T3	Bacteria 795 817	Pseudomonas aeruginosa
+T4	Antibiotic 933 942	quinolone
+T5	Gene 1039 1043	micF
+T6	Antibiotic 28 38	quinolones
+T7	Antibiotic 73 83	quinolones
+T8	Bacteria 151 167	Escherichia coli
+T9	Bacteria 172 193	Staphylococcus aureus
+T10	Antibiotic 309 319	quinolones
+T11	Gene 495 499	gyrA
+T12	Gene 521 525	gyrB
+T13	Bacteria 662 669	E. coli
+T14	Bacteria 684 694	S.  aureus
+*	Equiv T13 T8
+*	Equiv T14 T9
+T15	Bacteria 965 972	E. coli
+T16	Gene 988 992	OmpF
+T17	Antibiotic 1155 1168	 trimethoprim
+T18	Antibiotic 1170 1185	chloramphenicol
+T19	Antibiotic 1187 1199	tetracycline
+T20	Bacteria 1404 1413	S. aureus
+T21	Antibiotic 1442 1452	quinolones
+T22	Antibiotic_efflux 1336 1342	efflux
+E1	Antibiotic_efflux:T22 Theme:T20 Cause:T23
+T23	Antibiotic 1280 1290	quinolones
+T24	Bacteria 1606 1615	S. aureus
+T25	Protein 609 619	amino-acid

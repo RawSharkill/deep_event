@@ -1,0 +1,23 @@
+T1	Bacteria 59 81	Pseudomonas aeruginosa
+T2	Bacteria 408 430	Pseudomonas aeruginosa
+T3	Bacteria 460 473	P. aeruginosa
+*	Equiv T3 T1
+T4	Bacteria 2019 2032	P. aeruginosa
+T5	Bacteria 319 342	Gram-negative  bacteria
+T6	Protein 368 390	metallo-beta-lactamase
+T7	Gene 1299 1309	bla(VIM-2)
+T8	Gene 1589 1599	bla(VIM-2)
+T9	Gene 1712 1720	bla(VIM)
+T10	Gene 1149 1159	bla(VIM-4)
+T11	Protein 26 48	metallo-beta-lactamase
+T12	Gene 1346 1357	bla(IMP-14)
+T13	Gene 1255 1265	bla(VIM-2)
+T14	Gene 1054 1064	bla(VIM-4)
+T15	Gene 755 765	bla(VIM-2)
+T16	Gene 1824 1827	MBL
+T17	Gene 2005 2008	MBL
+T18	Gene 1441 1444	MBL
+T19	Gene 1525 1528	MBL
+T20	Gene 673 676	MBL
+T21	Protein 446 449	MBL
+T22	Protein 392 395	MBL

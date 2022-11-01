@@ -1,0 +1,16 @@
+T1	Antibiotic 1102 1112	macrolides
+T2	Antibiotic 48 61	Streptogramin
+T3	Antibiotic 0 14	Streptogramins
+T4	Antibiotic 329 343	streptogramins
+T5	Antibiotic 260 274	streptogramins
+T6	Antibiotic 217 231	streptogramins
+T7	Antibiotic 690 704	streptogramins
+T8	Antibiotic 1189 1203	streptogramins
+T9	Antibiotic 1079 1093	streptogramins
+T10	Antibiotic 822 836	streptogramins
+T11	Antibiotic 616 630	streptogramins
+T12	Antibiotic_target_alteration 733 747	 modifications
+E1	Antibiotic_target_alteration:T12 Cause:T7
+T13	Antibiotic_efflux 759 765	efflux
+E2	Antibiotic_efflux:T13 Cause:T7
+T14	Antibiotic 664 676	erythromycin

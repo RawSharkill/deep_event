@@ -1,0 +1,10 @@
+T1	Antibiotic 55 65	vancomycin
+T2	Bacteria 77 106	Enterococcus faecalis N00-410
+T4	Bacteria 168 197	Enterococcus faecalis N00-410
+T5	Antibiotic 207 217	vancomycin
+T6	Bacteria 320 343	Enterococcus gallinarum
+T3	Gene 34 38	vanE
+T7	Gene 259 263	vanE
+T8	Gene 133 137	vanE
+T9	Gene 442 446	vanE
+T10	Gene 589 593	guaA

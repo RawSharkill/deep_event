@@ -1,0 +1,22 @@
+T1	Antibiotic 23 51	3d generation cephalosporins
+T2	Bacteria 284 298	enterobacteria
+T3	Bacteria 327 348	Klebsiella pneumoniae
+T4	Antibiotic 510 541	third generation cephalosporins
+T5	Antibiotic 596 608	cefotaximase
+T6	Antibiotic 614 627	ceftazidimase
+T7	Antibiotic 676 694	ureido-penicillins
+T8	Antibiotic 753 774	oxyimino beta-lactams
+T9	Antibiotic 777 787	cefotaxime
+T10	Antibiotic 789 800	ceftriaxone
+T11	Antibiotic 802 813	ceftazidime
+T12	Antibiotic 815 824	aztreonam
+T13	Antibiotic 831 841	cefamycins
+T14	Antibiotic 846 854	imipenem
+T15	Antibiotic 914 929	clavulanic acid
+T16	Antibiotic 1179 1190	penicillins
+T17	Antibiotic 1209 1241	aminothiazolimino-cephalosporins
+T18	Antibiotic 1246 1255	aztreonam
+T19	Bacteria 1528 1550	enterobacteria species
+T20	Antibiotic 1593 1603	tobramycin
+T21	Antibiotic 1605 1615	netilmicin
+T22	Antibiotic 1617 1625	amikacin

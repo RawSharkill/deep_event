@@ -1,0 +1,62 @@
+T1	Bacteria 147 168	Staphylococcus aureus
+T2	Bacteria 173 205	coagulase-negative staphylococci
+T3	Bacteria 373 394	Staphylococcus aureus
+T4	Bacteria 406 439	coagulase-negative  staphylococci
+T5	Bacteria 826 853	Staphylococcus haemolyticus
+T6	Bacteria 865 887	Staphylococcus xylosus
+T7	Bacteria 890 911	Staphylococcus lentus
+T8	Bacteria 917 939	Staphylococcus hominis
+T9	Bacteria 969 979	S.  aureus
+*	Equiv T9 T1
+T10	Bacteria 985 1007	Staphylococcus warneri
+T11	Bacteria 1027 1036	S. lentus
+T12	Bacteria 1041 1051	S. xylosus
+*	Equiv T12 T6
+T13	Bacteria 1095 1104	S. aureus
+T14	Bacteria 1106 1121	S. haemolyticus
+T15	Bacteria 1123 1133	S. xylosus
+T16	Bacteria 1140 1166	Staphylococcus epidermidis
+T17	Bacteria 1255 1276	Staphylococcus sciuri
+T18	Bacteria 1390 1404	S. epidermidis
+*	Equiv T18 T16
+T19	Bacteria 1538 1549	S.  warneri
+T20	Bacteria 1554 1564	S. xylosus
+T21	Bacteria 1840 1849	S. sciuri
+T22	Antibiotic 1934 1947	pleuromutilin
+T23	Antibiotic 496 509	pleuromutilin
+T24	Gene 589 595	vga(A)
+T25	Gene 597 603	vga(B)
+T26	Gene 1065 1071	lsa(E)
+T27	Gene 1197 1203	vga(A)
+T28	Gene 1208 1214	lsa(E)
+T29	Gene 1370 1376	vga(A)
+T30	Gene 1221 1227	sal(A)
+T31	Gene 1570 1576	lsa(E)
+T32	Gene 1722 1728	lsa(E)
+T33	Gene 1823 1829	sal(A)
+T34	Gene 1897 1903	sal(A)
+T35	Gene 1445 1451	lsa(E)
+T36	Gene 945 951	vga(A)
+T37	Gene 743 749	vga(B)
+T38	Gene 751 757	vga(C)
+T39	Gene 759 765	vga(E)
+T40	Gene 767 773	vga(E)
+T41	Gene 783 787	vmlR
+T42	Gene 789 792	cfr
+T43	Gene 814 820	lsa(C)
+T44	Gene 802 808	lsa(B)
+T45	Gene 794 800	lsa(A)
+T46	Gene 605 611	vga(C)
+T47	Gene 613 619	vga(E)
+T48	Gene 621 627	vga(E)
+T49	Gene 637 643	sal(A)
+T50	Gene 685 691	lsa(E)
+T51	Gene 673 679	lsa(C)
+T52	Gene 665 671	lsa(B)
+T53	Gene 656 663	 lsa(A)
+T54	Gene 651 654	cfr
+T55	Gene 645 649	vmlR
+T56	Antibiotic 281 294	pleuromutilin
+T57	Antibiotic 295 306	lincosamide
+T58	Antibiotic 307 320	streptogramin
+T59	Antibiotic 351 362	methicillin

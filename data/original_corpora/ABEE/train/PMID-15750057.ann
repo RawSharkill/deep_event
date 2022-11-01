@@ -1,0 +1,24 @@
+T1	Bacteria 30 58	Salmonella enterica serotype
+T2	Bacteria 206 234	Salmonella enterica serotype
+T3	Antibiotic 280 294	cephalosporins
+T4	Antibiotic 645 656	ceftriaxone
+T5	Antibiotic 661 672	ceftazidime
+T6	Antibiotic 779 794	aminoglycosides
+T7	Antibiotic 797 806	kanamycin
+T8	Antibiotic 808 818	tobramycin
+T9	Antibiotic 820 830	netilmicin
+T10	Antibiotic 832 842	gentamicin
+T11	Antibiotic 848 856	amikacin
+T12	Antibiotic 863 892	sulfamethoxazole-trimethoprim
+T13	Antibiotic 1495 1507	trimethoprim
+T14	Protein 701 734	extended-spectrum  beta-lactamase
+T15	Protein 736 740	ESBL
+T16	Protein 1131 1135	ESBL
+T17	Protein 1227 1231	ESBL
+T18	Gene 1463 1469	dfrA21
+T19	Gene 1563 1569	dfrA21
+T20	Protein 1426 1434	CTX-M-14
+T21	Protein 1154 1162	CTX-M-27
+T22	Protein 1370 1378	CTX-M-27
+T23	Protein 83 91	CTX-M-27
+T24	Protein 92 124	extended-spectrum beta-lactamase

@@ -1,0 +1,7 @@
+T1	Antibiotic 1138 1152	aminoglycoside
+T2	Antibiotic 711 722	sulfonamide
+T3	Antibiotic 530 542	sulfonamides
+T4	Antibiotic 552 564	streptomycin
+T5	Antibiotic 681 685	SmSu
+T6	Antibiotic 1600 1615	aminoglycosides
+T7	Bacteria 928 946	Enterobacteriaceae

@@ -1,0 +1,26 @@
+T1	Antibiotic 62 74	azithromycin
+T2	Bacteria 90 112	Chlamydia psittaci 6BC
+T3	Bacteria 117 134	C. trachomatis L2
+T4	Antibiotic 138 150	Azithromycin
+T5	Bacteria 279 301	Chlamydia psittaci 6BC
+T6	Bacteria 482 498	Escherichia coli
+T7	Antibiotic 546 556	macrolides
+T8	Antibiotic 564 576	azithromycin
+T9	Antibiotic 578 590	erythromycin
+T10	Antibiotic 592 601	josamycin
+T11	Antibiotic 607 617	spiramycin
+T12	Antibiotic 715 726	lincosamide
+T13	Antibiotic 727 738	clindamycin
+T14	Bacteria 740 764	Chlamydia trachomatis L2
+*	Equiv T3 T14
+T15	Bacteria 847 854	E. coli
+*	Equiv T15 T6
+T16	Antibiotic 911 923	azithromycin
+T17	Antibiotic 929 941	erythromycin
+T18	Antibiotic 983 992	josamycin
+T19	Antibiotic 997 1007	spiramycin
+T20	Antibiotic 1099 1111	azithromycin
+T21	Antibiotic 1479 1488	macrolide
+T22	Antibiotic 245 257	azithromycin
+T23	Antibiotic_target_alteration 268 275	mutants
+E1	Antibiotic_target_alteration:T23 Theme:T5 Cause:T22

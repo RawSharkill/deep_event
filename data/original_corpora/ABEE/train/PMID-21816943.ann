@@ -1,0 +1,32 @@
+T1	Antibiotic 31 40	quinolone
+T2	Bacteria 68 89	Citrobacter  freundii
+T3	Antibiotic 213 222	quinolone
+T4	Bacteria 291 311	Citrobacter freundii
+T5	Bacteria 386 397	C. freundii
+*	Equiv T5 T4
+T6	Bacteria 687 699	C.  freundii
+T7	Antibiotic 1225 1234	quinolone
+T8	Antibiotic 1530 1543	ciprofloxacin
+T9	Antibiotic 1550 1562	levofloxacin
+T10	Antibiotic 1758 1774	fluoroquinolones
+T11	Antibiotic 1647 1663	fluoroquinolones
+T13	Gene 255 258	qnr
+T14	Gene 260 273	aac(6')-Ib-cr
+T15	Gene 278 282	qepA
+T16	Gene 588 593	qnrA1
+T17	Gene 595 600	qnrB1
+T18	Gene 602 607	qnrB2
+T19	Gene 610 615	qnrB4
+T20	Gene 617 623	qnrB10
+T21	Gene 628 634	qnrB24
+T22	Gene 741 745	qnrB
+T23	Gene 755 761	qnrB24
+T24	Bacteria 888 908	qnr-positive strains
+T25	Gene 1319 1324	qnrB4
+T26	Gene 1114 1117	qnr
+T27	Gene 1201 1206	qnrA1
+T12	Gene 1618 1621	qnr
+T28	Gene 551 555	qepA
+T29	Gene 533 546	aac(6')-Ib-cr
+T30	Gene 485 488	qnr
+T31	Gene 1002 1005	qnr

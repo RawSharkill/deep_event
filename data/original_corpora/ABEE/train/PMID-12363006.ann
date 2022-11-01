@@ -1,0 +1,48 @@
+T2	Bacteria 91 121	Escherichia coli CM2555 strain
+T3	Antibiotic 59 74	chloramphenicol
+T5	Bacteria 183 213	Escherichia coli CM2555 strain
+T9	Antibiotic 228 243	chloramphenicol
+T10	Bacteria 464 485	cat-expressing CM2555
+T13	Antibiotic 512 527	chloramphenicol
+T14	Antibiotic 660 675	chloramphenicol
+T15	Bacteria 802 808	CM2555
+T16	Antibiotic 761 776	chloramphenicol
+T22	Bacteria 1078 1106	cat-expressing CM2555 strain
+T23	Bacteria 1347 1352	CM732
+T24	Bacteria 1376 1382	CM2555
+T25	Bacteria 1418 1433	E. coli strains
+T26	Antibiotic 1449 1464	chloramphenicol
+T29	Bacteria 1620 1634	E. coli MG1655
+T31	Antibiotic 1726 1741	chloramphenicol
+T33	Bacteria 1758 1786	cat-expressing CM2555 strain
+T34	Antibiotic 137 152	chloramphenicol
+T1	Antibiotic 295 310	chloramphenicol
+T4	Gene 20 24	acrA
+T7	Antibiotic_efflux 20 24	acrA
+E1	Antibiotic_efflux:T7 Cause:T3 Theme:T2
+T8	Protein 330 333	CAT
+T11	Antibiotic_efflux 330 333	CAT
+E2	Antibiotic_efflux:T11 Theme:T5 Cause:T9
+T12	Protein 430 447	acetyl coenzyme A
+T6	Protein 154 171	acetyltransferase
+T17	Protein 449 459	Acetyl CoA
+T18	Protein 579 589	Acetyl CoA
+T19	Protein 529 532	CAT
+T20	Protein 701 711	Acetyl CoA
+T21	Gene 952 957	acrEF
+T27	Gene 1004 1008	acrE
+T28	Antibiotic 1048 1063	chloramphenicol
+T30	Antibiotic_efflux 991 995	pump
+E3	Antibiotic_efflux:T30 Cause:T28 Theme:T22
+T32	Gene 1152 1156	acrE
+T35	Gene 1210 1214	acrA
+T36	Bacteria 1145 1151	CM2555
+*	Equiv T36 T22 T5 T15 T24
+T37	Protein 1496 1499	CAT
+T38	Antibiotic_efflux 1484 1492	presence
+E4	Antibiotic_efflux:T38 Cause:T26 Theme:T23
+E5	Antibiotic_efflux:T38 Cause:T26 Theme:T24
+T39	Antibiotic_efflux 409 418	decreased
+E6	Antibiotic_efflux:T39 Theme:T10 Cause:T13
+T40	Antibiotic_efflux 409 418	decreased
+E7	Antibiotic_efflux:T40 Theme:T10 Cause:T13

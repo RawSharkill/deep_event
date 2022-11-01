@@ -1,0 +1,31 @@
+T1	Antibiotic 18 29	methicillin
+T2	Bacteria 44 65	Staphylococcus aureus
+T3	Bacteria 235 256	Staphylococcus aureus
+T4	Antibiotic 331 342	methicillin
+T5	Antibiotic 363 374	methicillin
+T6	Antibiotic 405 414	oxacillin
+T7	Bacteria 535 544	S. aureus
+*	Equiv T7 T2
+T8	Antibiotic 782 793	methicillin
+T9	Antibiotic 817 828	methicillin
+T11	Bacteria 1168 1178	S.  aureus
+T12	Antibiotic 1317 1328	methicillin
+T14	Antibiotic 1630 1641	methicillin
+T15	Antibiotic 1643 1652	oxacillin
+T16	Antibiotic 1658 1668	cefotaxime
+T18	Antibiotic 1969 1980	methicillin
+T19	Bacteria 2098 2111	staphylococci
+T20	Bacteria 2238 2247	S. aureus
+T10	Gene 100 106	PBP 2a
+T13	Protein 131 158	penicillin-binding proteins
+T17	Antibiotic_target_alteration 165 173	modified
+E1	Antibiotic_target_alteration:T17 Theme:T2 Cause:T1
+T21	Antibiotic 1146 1157	methicillin
+T22	Protein 1190 1216	penicillin-binding protein
+T23	Protein 1218 1221	PBP
+T24	Antibiotic 1255 1266	methicillin
+T25	Antibiotic 1283 1293	novobiocin
+T26	Gene 1346 1348	ca
+T27	Antibiotic 1909 1920	methicillin
+T28	Antibiotic 1937 1947	novobiocin
+T29	Antibiotic 2216 2227	methicillin

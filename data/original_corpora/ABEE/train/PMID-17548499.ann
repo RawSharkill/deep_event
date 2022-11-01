@@ -1,0 +1,52 @@
+T1	Antibiotic 21 36	fluoroquinolone
+T2	Antibiotic_efflux 37 43	efflux
+E1	Antibiotic_efflux:T2 Cause:T1 Theme:T3
+T3	Bacteria 68 102	Escherichia  coli clinical isolate
+T4	Antibiotic 205 220	fluoroquinolone
+T5	Antibiotic 222 224	FQ
+*	Equiv T5 T4 T10
+T7	Bacteria 238 242	C316
+T8	Bacteria 247 271	Escherichia coli  strain
+T10	Antibiotic 308 311	FQs
+T12	Antibiotic 351 354	FQs
+T13	Bacteria 375 382	E. coli
+T15	Antibiotic 492 494	FQ
+T16	Antibiotic 667 669	FQ
+T18	Bacteria 730 742	E. coli C316
+T20	Antibiotic 880 891	norfloxacin
+T21	Antibiotic 893 906	ciprofloxacin
+T22	Antibiotic 913 925	enrofloxacin
+T23	Bacteria 957 964	E. coli
+T24	Resistance_by_absence 1012 1021	deficient
+E9	Resistance_by_absence:T24 Theme:T23 Cause:T22
+T25	Antibiotic 1253 1264	norfloxacin
+T26	Antibiotic 1354 1365	norfloxacin
+T28	Bacteria 1403 1410	E. coli
+T29	Antibiotic 1481 1483	FQ
+T31	Bacteria 1656 1663	E. coli
+T32	Antibiotic_efflux 1607 1613	efflux
+E14	Antibiotic_efflux:T32 Theme:T31 Cause:T29
+T34	Antibiotic 1829 1831	FQ
+*	Equiv T13 T3 T8
+T17	Protein 50 54	QepA
+T35	Protein 123 126	Qnr
+T6	Protein 131 144	AAC(6')-Ib-cr
+T9	Gene 431 434	qnr
+T11	Protein 383 387	CSH2
+T14	Gene 686 690	qepA
+T19	Gene 755 759	qepA
+T27	Gene 764 768	rmtB
+T30	Protein 850 854	IS26
+T33	Gene 989 993	qepA
+E2	Resistance_by_absence:T24 Theme:T23 Cause:T21
+E3	Resistance_by_absence:T24 Theme:T23 Cause:T20
+T36	Protein 1034 1038	QepA
+T37	Gene 1282 1286	qepA
+T38	Bacteria 1297 1304	E. coli
+T39	Gene 1385 1389	qepA
+T40	Gene 1706 1710	qepA
+T41	Antibiotic_efflux 686 690	qepA
+E4	Antibiotic_efflux:T41 Cause:T16 Theme:T18
+*	Equiv T18 T7
+T42	Antibiotic_efflux 1390 1400	expressing
+E5	Antibiotic_efflux:T42 Theme:T28 Cause:T26

@@ -1,0 +1,11 @@
+T1	Bacteria 114 130	Escherichia coli
+T2	Bacteria 277 293	Escherichia coli
+T4	Antibiotic_efflux 310 316	efflux
+E2	Antibiotic_efflux:T4 Theme:T2
+T5	Antibiotic_efflux 99 110	transporter
+E3	Antibiotic_efflux:T5 Theme:T1
+T3	Gene 0 4	EvgA
+T6	Gene 156 160	EvgA
+T7	Gene 528 533	yhiUV
+T8	Gene 427 431	EvgA
+T9	Gene 83 88	yhiUV

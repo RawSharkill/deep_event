@@ -1,0 +1,18 @@
+T1	Bacteria 17 37	Enterococcus faecium
+T2	Antibiotic 86 95	macrolide
+T3	Bacteria 116 129	staphylococci
+T4	Antibiotic 166 175	macrolide
+T6	Bacteria 382 402	Enterococcus faecium
+T7	Bacteria 429 440	enterococci
+T8	Antibiotic 550 557	tylosin
+T9	Antibiotic 563 575	quinupristin
+T10	Bacteria 690 700	E. faecium
+T11	Bacteria 718 730	streptococci
+T13	Antibiotic 663 673	macrolides
+T14	Antibiotic 523 535	erythromycin
+T15	Antibiotic 536 548	azithromycin
+T16	Bacteria 775 785	E. faecium
+T17	Antibiotic 877 886	macrolide
+T19	Bacteria 931 944	staphylococci
+*	Equiv T10 T6 T16
+T5	Gene 806 812	msr(A)

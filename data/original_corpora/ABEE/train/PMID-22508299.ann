@@ -1,0 +1,28 @@
+T1	Bacteria 42 63	clostridium difficile
+T2	Antibiotic 144 155	fidaxomicin
+T3	Antibiotic 170 179	rifaximin
+T4	Bacteria 254 275	Clostridium difficile
+T5	Antibiotic 700 711	fidaxomicin
+T6	Antibiotic 716 725	rifaximin
+T7	Antibiotic 874 887	metronidazole
+T8	Antibiotic 986 996	vancomycin
+T9	Antibiotic 1060 1071	clindamycin
+T10	Antibiotic 1117 1129	moxifloxacin
+T11	Antibiotic 1463 1476	ciprofloxacin
+T12	Antibiotic 1482 1494	levofloxacin
+T13	Antibiotic 1568 1580	gemifloxacin
+T14	Antibiotic 1584 1595	nemonoxacin
+T15	Bacteria 1684 1696	C. difficile
+*	Equiv T15 T4
+T16	Antibiotic 1777 1790	metronidazole
+T17	Antibiotic 1795 1805	vancomycin
+T18	Antibiotic 1808 1819	Fidaxomicin
+T19	Antibiotic 1936 1945	rifaximin
+T20	Gene 1198 1202	gyrA
+T21	Gene 1207 1211	gyrB
+T22	Antibiotic 1236 1248	moxifloxacin
+T23	Gene 1300 1304	gyrB
+T24	Antibiotic 1407 1419	Moxifloxacin
+T25	Antibiotic 1505 1516	moxifloxaci
+T26	Antibiotic_inactivation 1846 1862	activity against
+E1	Antibiotic_inactivation:T26 Cause:T18

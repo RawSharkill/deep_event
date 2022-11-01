@@ -1,0 +1,14 @@
+T1	Bacteria 25 45	Mycobacterium leprae
+T2	Bacteria 234 254	Mycobacterium leprae
+T3	Bacteria 487 510	Mycobacterium smegmatis
+T4	Bacteria 524 533	M. leprae
+*	Equiv T4 T2
+T5	Bacteria 812 821	M. leprae
+T6	Bacteria 1260 1270	M.  leprae
+T7	Gene 601 605	folP
+T8	Gene 534 539	folP1
+T9	Antibiotic_target_alteration 1225 1234	mutations
+E1	Antibiotic_target_alteration:T9 Theme:T6
+T10	Gene 1271 1276	folP1
+T11	Gene 901 906	folP1
+T12	Gene 46 51	folP1

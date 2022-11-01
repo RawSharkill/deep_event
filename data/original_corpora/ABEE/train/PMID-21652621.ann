@@ -1,0 +1,24 @@
+T1	Antibiotic 54 68	aminoglycoside
+T2	Bacteria 84 107	Mycobacterium abscessus
+T3	Bacteria 219 242	Mycobacterium abscessus
+T4	Bacteria 986 1002	Escherichia coli
+T5	Antibiotic 1030 1039	kanamycin
+T6	Bacteria 1113 1125	M. abscessus
+*	Equiv T6 T3
+T7	Bacteria 1707 1719	M. abscessus
+T8	Gene 406 409	rrs
+T9	Antibiotic_target_alteration 33 42	mutations
+E1	Antibiotic_target_alteration:T9 Cause:T1 Theme:T2
+T10	Antibiotic 285 299	aminoglycoside
+T11	Antibiotic_target_alteration 310 317	mutants
+E2	Antibiotic_target_alteration:T11 Cause:T10
+T12	Antibiotic 841 855	aminoglycoside
+T13	Gene 1290 1293	rrs
+T14	Gene 1466 1469	rrs
+T15	Gene 1626 1629	rrs
+T16	Antibiotic 1678 1692	aminoglycoside
+T17	Antibiotic_target_alteration 1609 1618	Mutations
+E3	Antibiotic_target_alteration:T17 Cause:T16 Theme:T7
+T18	Antibiotic_target_alteration 804 812	mutation
+E4	Antibiotic_target_alteration:T18 Cause:T12
+T19	Antibiotic 190 204	aminoglycoside

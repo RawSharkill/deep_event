@@ -1,0 +1,17 @@
+T1	Antibiotic 60 68	rifampin
+T2	Bacteria 97 129	Mycobacterium smegmatis DSM43756
+T3	Antibiotic 142 150	rifampin
+T4	Bacteria 377 393	Escherichia coli
+T5	Antibiotic 585 593	rifampin
+T6	Antibiotic 688 696	rifampin
+T7	Antibiotic_inactivation 44 56	inactivation
+E1	Antibiotic_inactivation:T7 Cause:T1 Theme:T8
+T8	Bacteria 74 87	 mycobacteria
+T9	Antibiotic_inactivation 130 141	inactivates
+E2	Antibiotic_inactivation:T9 Theme:T2 Cause:T3
+T10	Antibiotic_inactivation 160 171	inactivated
+E3	Antibiotic_inactivation:T10 Theme:T2
+T11	Antibiotic_inactivation 311 323	inactivation
+E4	Antibiotic_inactivation:T11 Theme:T4
+T12	Antibiotic_inactivation 768 779	transferase
+E5	Antibiotic_inactivation:T12 Cause:T6

@@ -1,0 +1,20 @@
+T1	Antibiotic 35 47	tetracycline
+T2	Antibiotic 262 275	tetracyclines
+T3	Antibiotic 1172 1184	tetracycline
+T4	Antibiotic 1195 1251	13-(cyclopentylthio)-5-hydroxy-6-alpha-deoxytetracycline
+T5	Protein 66 70	TetA
+T6	Antibiotic_efflux 48 54	efflux
+E1	Antibiotic_efflux:T6 Cause:T1
+T7	Antibiotic 141 153	tetracycline
+T8	Protein 223 227	TetA
+T9	Antibiotic_efflux 252 258	efflux
+E2	Antibiotic_efflux:T9 Cause:T2
+T10	Gene 182 186	Tn10
+T11	Gene 20 24	Tn10
+T12	Gene 281 285	tetA
+T13	Protein 376 380	TetA
+T14	Gene 313 315	T7
+T15	Gene 325 328	lac
+T16	Gene 462 464	T7
+T17	Protein 510 514	TetA
+T18	Antibiotic 596 608	tetracycline

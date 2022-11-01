@@ -1,0 +1,41 @@
+T1	Bacteria 57 84	Mycobacterium  tuberculosis
+T2	Antibiotic 290 300	ethambutol
+T3	Bacteria 329 356	Mycobacterium  tuberculosis
+T4	Bacteria 427 442	M. tuberculosis
+*	Equiv T4 T3
+T5	Antibiotic 847 857	ethambutol
+T6	Antibiotic 941 951	ethambutol
+T7	Antibiotic 1240 1249	isoniazid
+T8	Antibiotic 1251 1261	rifampicin
+T9	Antibiotic 1263 1275	streptomycin
+T10	Antibiotic 1281 1291	ethambutol
+T11	Antibiotic 1536 1546	ethambutol
+T12	Bacteria 1550 1565	M. tuberculosis
+T13	Antibiotic 1736 1746	ethambutol
+T14	Antibiotic 1904 1913	isoniazid
+T15	Antibiotic 1916 1926	rifampicin
+T16	Antibiotic 1928 1940	streptomycin
+T17	Antibiotic 1945 1955	ethambutol
+T18	Gene 19 23	embB
+T19	Gene 162 166	embB
+T20	Gene 243 247	embB
+T21	Antibiotic 466 476	ethambutol
+T22	Antibiotic 495 505	ethambutol
+T23	Gene 607 611	embB
+T24	Gene 720 724	embB
+T25	Gene 828 832	embB
+T26	Gene 879 886	embB306
+T27	Gene 920 927	embB497
+T28	Gene 909 916	embB406
+T29	Antibiotic 975 985	ethambutol
+T30	Gene 1012 1019	embB306
+T31	Gene 1135 1139	embB
+T32	Gene 1341 1345	embB
+T33	Gene 1403 1407	embB
+T34	Gene 1453 1457	embB
+T35	Gene 1591 1595	embB
+T36	Gene 1786 1790	embB
+T37	Gene 1677 1684	embB497
+T38	Gene 1664 1671	embB406
+T39	Gene 1713 1720	embB306
+T40	Antibiotic 1204 1214	ethambutol

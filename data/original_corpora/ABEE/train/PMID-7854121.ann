@@ -1,0 +1,20 @@
+T1	Bacteria 209 236	Enterococcus faecium BM4147
+T2	Antibiotic 286 298	glycopeptide
+T3	Antibiotic 0 12	Glycopeptide
+T4	Antibiotic 500 510	ramoplanin
+T5	Bacteria 515 538	Enterococcus   faecalis
+T6	Bacteria 967 978	E. faecalis
+T7	Bacteria 983 1001	Escherichia   coli
+*	Equiv T6 T5
+T8	Gene 91 95	VanX
+T9	Gene 266 270	VanX
+T10	Gene 315 319	vanX
+T11	Gene 373 377	VanA
+T12	Gene 393 397	VanH
+T13	Gene 566 570	VanH
+T14	Gene 572 576	VanA
+T15	Gene 581 585	VanX
+T16	Gene 805 809	vanX
+T17	Gene 959 963	vanX
+T18	Protein 1153 1159	enzyme
+T19	Gene 1190 1194	VanX

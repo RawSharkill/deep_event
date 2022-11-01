@@ -1,0 +1,3 @@
+Mutations in a 23S rRNA gene of Chlamydia trachomatis associated with resistance   to macrolides. 
+
+For six clinical isolates of Chlamydia trachomatis, in vitro susceptibility to  erythromycin, azithromycin, and josamycin has been determined. Four isolates were  resistant to all the antibiotics and had the mutations A2058C and T2611C  (Escherichia coli numbering) in the 23S rRNA gene. All the isolates had mixed  populations of bacteria that did and did not carry 23S rRNA gene mutations.

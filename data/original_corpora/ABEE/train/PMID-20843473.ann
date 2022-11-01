@@ -1,0 +1,18 @@
+T1	Antibiotic 14 24	polymyxins
+T3	Antibiotic 73 83	Polymyxins
+T4	Bacteria 519 542	gram-negative bacterial
+T5	Antibiotic 567 577	polymyxins
+T8	Antibiotic 727 737	polymyxins
+T9	Antibiotic 769 779	polymyxins
+T10	Antibiotic 828 837	Polymyxin
+T11	Antibiotic 850 858	regimens
+T12	Antibiotic 861 872	tigecycline
+T13	Antibiotic 877 887	fosfomycin
+T16	Bacteria 952 965	gram-negative
+T2	Protein 407 411	PmrA
+T6	Protein 412 416	PmrB
+T7	Protein 421 425	PhoP
+T14	Protein 426 430	PhoQ
+T15	Antibiotic_target_alteration 371 383	modification
+E1	Antibiotic_target_alteration:T15 Cause:T3
+T17	Antibiotic 932 941	polymyxin

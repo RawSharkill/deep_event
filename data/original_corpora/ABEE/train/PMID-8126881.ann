@@ -1,0 +1,5 @@
+T1	Antibiotic 818 828	quinolones
+T2	Antibiotic 800 810	macrolides
+T3	Antibiotic 833 843	vancomycin
+T4	Bacteria 473 495	gram positive bacteria
+T5	Bacteria 262 284	gram negative bacteria

@@ -1,0 +1,32 @@
+T1	Bacteria 46 96	Salmonella enterica subsp. enterica  serovar Agona
+T2	Bacteria 169 218	Salmonella enterica subsp. enterica serovar Agona
+T3	Bacteria 406 414	S. Agona
+T4	Bacteria 746 754	S. Agona
+*	Equiv T4 T2
+T5	Bacteria 896 905	Agona 231
+T6	Antibiotic 924 939	chloramphenicol
+T7	Antibiotic 953 965	tetracycline
+T8	Antibiotic 970 981	minocycline
+T9	Antibiotic 1001 1014	sulphonamides
+T10	Antibiotic 1052 1064	streptomycin
+T11	Antibiotic 1183 1195	streptomycin
+T12	Antibiotic 1200 1213	spectinomycin
+T13	Bacteria 1215 1227	S. Agona 242
+T14	Antibiotic 1310 1322	sulphonamide
+T15	Antibiotic 1427 1439	trimethoprim
+T16	Antibiotic 1471 1486	chloramphenicol
+T17	Bacteria 1681 1689	S. Agona
+T18	Bacteria 1819 1829	Salmonella
+T19	Gene 1018 1022	sul1
+T20	Gene 1145 1151	aadA23
+T21	Gene 1272 1276	sul1
+T22	Gene 1253 1258	catA1
+T23	Gene 1260 1266	tet(B)
+T24	Gene 1341 1345	sul2
+T25	Gene 1456 1463	dfrA15b
+T26	Gene 1504 1509	cmlA4
+T27	Gene 1560 1565	aadA2
+T28	Gene 1081 1086	 strA
+T29	Gene 1121 1125	aadA
+T30	Gene 985 991	tet(B)
+T31	Antibiotic 943 948	catA1

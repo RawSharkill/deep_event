@@ -1,0 +1,13 @@
+T1	Gene 261 267	tet(M)
+T2	Antibiotic 45 57	tetracycline
+T3	Antibiotic 186 198	tetracycline
+T4	Gene 69 74	 TetM
+T5	Antibiotic 115 128	tetracyclines
+T6	Antibiotic 134 148	glycylcyclines
+T7	Gene 322 328	tet(M)
+T8	Gene 432 438	tet(M)
+T9	Antibiotic 635 647	tetracycline
+T10	Gene 659 663	TetM
+T11	Antibiotic 499 511	tetracycline
+T12	Antibiotic 708 720	tetracycline
+T13	Antibiotic 533 545	tetracycline

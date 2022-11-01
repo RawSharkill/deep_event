@@ -1,0 +1,26 @@
+T1	Antibiotic 14 24	gentamicin
+T3	Antibiotic 159 169	gentamicin
+T5	Antibiotic 218 228	Gentamicin
+T6	Bacteria 316 332	Escherichia coli
+T7	Bacteria 362 376	enterobacteria
+T8	Bacteria 391 409	Acinetobacter spp.
+T9	Bacteria 428 450	Pseudomonas aeruginosa
+T10	Antibiotic 492 502	gentamicin
+T11	Bacteria 507 525	Enterobacteriaceae
+T12	Bacteria 695 709	enterobacteria
+T13	Bacteria 719 735	Providencia spp.
+T14	Bacteria 798 810	Serratia spp
+T15	Bacteria 866 884	Acinetobacter spp.
+T16	Bacteria 890 906	Pseudomonas spp.
+T17	Bacteria 951 967	Pseudomonas spp.
+T18	Bacteria 992 1010	Acinetobacter spp.
+T19	Bacteria 1087 1105	Enterobacteriaceae
+T20	Bacteria 1148 1163	Pseudomonas spp
+T4	Antibiotic_target_alteration 671 680	modifying
+E2	Antibiotic_target_alteration:T4 Cause:T2 Theme:T12
+T2	Antibiotic 655 670	 aminoglycoside
+T21	Protein 608 616	AAD(2'')
+T22	Protein 816 823	AAC(6')
+T23	Bacteria 185 206	Gram-negative bacilli
+T24	Protein 753 760	AAC(2')
+T25	Protein 907 915	AAD(2'')

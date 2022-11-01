@@ -1,0 +1,15 @@
+T1	Bacteria 262 283	Gram-negative bacilli
+T2	Bacteria 120 138	anaerobic bacteria
+T3	Bacteria 0 9	Anaerobes
+T4	Bacteria 1332 1342	B fragilis
+T5	Bacteria 681 690	anaerobes
+T6	Bacteria 705 725	Bacteroides fragilis
+T7	Bacteria 733 743	Prevotella
+T8	Bacteria 746 759	Porphyromonas
+T9	Bacteria 765 778	Fusobacterium
+T10	Antibiotic 1172 1182	gentamicin
+T11	Antibiotic 1183 1194	clindamycin
+T12	Bacteria 1082 1089	aerobes
+T13	Bacteria 1094 1103	anaerobes
+T14	Antibiotic 1227 1239	Piperacillin
+T15	Antibiotic 1240 1250	tazobactam

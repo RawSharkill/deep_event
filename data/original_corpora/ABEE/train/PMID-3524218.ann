@@ -1,0 +1,21 @@
+T1	Antibiotic 47 59	beta-lactams
+T2	Antibiotic 67 99	beta-lactam  plus aminoglycoside
+T3	Antibiotic 176 187	beta-lactam
+T4	Antibiotic 195 209	aminoglycoside
+T5	Bacteria 217 239	Pseudomonas aeruginosa
+T6	Antibiotic 424 436	beta-lactams
+T7	Bacteria 457 470	P. aeruginosa
+*	Equiv T7 T5
+T8	Antibiotic 509 524	aminoglycosides
+T9	Antibiotic 563 574	beta-lactam
+T10	Antibiotic 741 753	beta-lactams
+T11	Antibiotic 846 878	beta-lactams and aminoglycosides
+T12	Antibiotic 1201 1213	beta-lactams
+T13	Antibiotic 1271 1282	beta-lactam
+T14	Antibiotic 1291 1305	aminoglycoside
+T15	Antibiotic 1481 1493	beta-lactams
+T16	Bacteria 1583 1601	Enterobacteriaceae
+T17	Bacteria 1642 1655	P. aeruginosa
+T18	Antibiotic 1912 1923	beta-lactam
+T19	Antibiotic 1959 1990	beta-lactam plus aminoglycoside
+T20	Antibiotic 1720 1734	aminoglycoside

@@ -1,0 +1,26 @@
+T1	Antibiotic 73 81	amikacin
+T2	Bacteria 131 154	Mycobacterium abscessus
+T3	Bacteria 160 182	Mycobacterium chelonae
+T4	Bacteria 218 241	Mycobacterium abscessus
+T5	Antibiotic 255 263	amikacin
+T6	Antibiotic 500 508	amikacin
+T7	Antibiotic 510 519	kanamycin
+T8	Antibiotic 521 531	gentamicin
+T9	Antibiotic 533 543	tobramycin
+T10	Antibiotic 549 557	neomycin
+T11	Antibiotic 611 623	streptomycin
+T12	Bacteria 786 798	M. abscessus
+*	Equiv T12 T4
+T13	Bacteria 803 826	Mycobacterium  chelonae
+T14	Bacteria 964 988	Mycobacterium  smegmatis
+T15	Bacteria 1077 1089	M. smegmatis
+*	Equiv T15 T14
+T16	Antibiotic 1215 1223	amikacin
+T17	Bacteria 1238 1250	M. abscessus
+T18	Antibiotic 756 774	amikacin-resistant
+T19	Antibiotic_target_alteration 775 782	mutants
+E1	Antibiotic_target_alteration:T19 Cause:T18 Theme:T13
+E2	Antibiotic_target_alteration:T19 Cause:T18 Theme:T12
+T20	Antibiotic 1108 1122	aminoglycoside
+T21	Antibiotic_target_alteration 1186 1194	mutation
+E3	Antibiotic_target_alteration:T21 Cause:T16 Theme:T17

@@ -1,0 +1,26 @@
+T1	Antibiotic 0 12	Tetracycline
+T2	Bacteria 27 43	Escherichia coli
+T3	Bacteria 99 115	Escherichia coli
+T4	Antibiotic 129 141	tetracycline
+T5	Antibiotic 143 145	TC
+*	Equiv T5 T4
+T6	Antibiotic 199 201	TC
+T7	Antibiotic 245 247	TC
+T8	Antibiotic 313 315	TC
+T9	Antibiotic 343 345	TC
+T10	Bacteria 496 503	E. coli
+*	Equiv T10 T2
+T11	Antibiotic 552 554	TC
+T12	Antibiotic 677 679	TC
+T13	Antibiotic 771 773	TC
+T14	Antibiotic 837 849	tetracycline
+T15	Antibiotic 851 863	streptomycin
+T16	Antibiotic 870 880	ampicillin
+T17	Antibiotic 909 911	TC
+T18	Antibiotic 941 943	TC
+T19	Bacteria 999 1006	E. coli
+T20	Antibiotic 1031 1033	TC
+T21	Antibiotic 1157 1159	TC
+T22	Antibiotic 1219 1221	TC
+T23	Antibiotic 1357 1359	TC
+T24	Antibiotic 986 988	TC

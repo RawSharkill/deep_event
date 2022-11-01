@@ -1,0 +1,7 @@
+T1	Antibiotic 27 36	quinolone
+T4	Antibiotic 99 109	quinolones
+T5	Bacteria 151 169	Enterobacteriaceae
+T2	Gene 60 64	QnrA
+T3	Gene 252 256	qnrA
+T6	Bacteria 211 232	gram-negative species
+T7	Bacteria 269 285	Shewanella algae

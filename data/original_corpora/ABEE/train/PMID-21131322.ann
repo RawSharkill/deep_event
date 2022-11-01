@@ -1,0 +1,37 @@
+T1	Bacteria 68 92	Acinetobacter  baumannii
+T2	Bacteria 97 119	Pseudomonas aeruginosa
+T3	Antibiotic 50 58	ACHN-490
+T5	Bacteria 174 197	Acinetobacter baumannii
+T6	Bacteria 202 225	Pseudomonas  aeruginosa
+T7	Antibiotic 274 284	polymyxins
+T8	Antibiotic 324 332	ACHN-490
+T9	Bacteria 407 420	Gram-positive
+T10	Bacteria 425 448	Gram-negative pathogens
+T11	Bacteria 493 505	A. baumannii
+T12	Bacteria 510 523	P. aeruginosa
+T15	Bacteria 633 645	A. baumannii
+T16	Bacteria 650 663	P. aeruginosa
+T17	Antibiotic 571 579	ACHN-490
+T19	Antibiotic 551 566	aminoglycosides
+T23	Antibiotic 352 366	aminoglycoside
+T24	Antibiotic 855 870	aminoglycosides
+T25	Bacteria 903 917	A.   baumannii
+T27	Antibiotic 919 927	ACHN-490
+T28	Bacteria 1017 1030	P. aeruginosa
+T29	Antibiotic 1048 1056	ACHN-490
+T30	Antibiotic 1081 1089	amikacin
+T32	Bacteria 1142 1155	A.  baumannii
+T33	Bacteria 1160 1173	P. aeruginosa
+T34	Antibiotic 1187 1195	ACHN-490
+T36	Bacteria 1309 1321	A. baumannii
+T37	Antibiotic 1335 1343	ACHN-490
+T38	Antibiotic 1382 1397	aminoglycosides
+T39	Bacteria 1403 1416	P. aeruginosa
+T40	Antibiotic 1434 1442	ACHN-490
+T41	Antibiotic 1468 1476	amikacin
+T42	Antibiotic 34 48	aminoglycoside
+*	Equiv T11 T1
+*	Equiv T12 T2
+T4	Antibiotic 675 689	aminoglycoside
+T13	Antibiotic 766 780	aminoglycoside
+T14	Antibiotic 1257 1271	aminoglycoside

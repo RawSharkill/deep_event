@@ -1,0 +1,15 @@
+T1	Antibiotic 114 126	Tetracycline
+T2	Antibiotic 161 173	tetracycline
+T3	Bacteria 662 683	Escherichia coli K-12
+T4	Antibiotic 1197 1209	tetracycline
+T5	Antibiotic 1366 1378	tetracycline
+T6	Antibiotic 1635 1647	tetracycline
+T7	Gene 17 25	Tn10 tet
+T8	Gene 622 626	tetA
+T9	Gene 429 433	tetA
+T10	Gene 192 196	tetA
+T11	Gene 314 317	tet
+T12	Gene 488 496	Tn10 tet
+T13	Protein 753 763	amino acid
+T14	Gene 867 870	tet
+T15	Gene 1172 1177	tetRs

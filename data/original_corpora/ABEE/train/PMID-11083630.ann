@@ -1,0 +1,26 @@
+T1	Antibiotic 52 60	rifampin
+T2	Bacteria 83 122	Mycobacterium tuberculosis strain H37Rv
+T4	Antibiotic 140 148	rifampin
+T5	Bacteria 152 178	Mycobacterium tuberculosis
+T6	Antibiotic_target_alteration 192 201	mutations
+E2	Antibiotic_target_alteration:T6 Theme:T5
+T8	Antibiotic 286 294	rifampin
+T10	Bacteria 305 313	isolates
+T11	Antibiotic_target_alteration 319 328	mutations
+E5	Antibiotic_target_alteration:T11 Theme:T10 Cause:T8
+T12	Antibiotic 595 603	rifampin
+T14	Bacteria 623 631	isolates
+T15	Antibiotic 775 783	rifampin
+T16	Antibiotic 958 966	rifampin
+T18	Bacteria 833 872	M. tuberculosis laboratory strain H37Rv
+T19	Antibiotic 986 994	Rifampin
+T3	Gene 1178 1182	rpoB
+T7	Gene 466 470	rpoB
+T9	Gene 262 266	rpoB
+T13	Gene 332 336	rpoB
+T17	Antibiotic_target_alteration 667 676	mutations
+E1	Antibiotic_target_alteration:T17 Cause:T12 Theme:T14
+T20	Antibiotic_target_alteration 794 800	mutant
+E3	Antibiotic_target_alteration:T20 Cause:T15 Theme:T18
+T21	Gene 1381 1385	rpoB
+T22	Gene 1317 1321	rpoB

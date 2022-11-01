@@ -1,0 +1,12 @@
+T1	Antibiotic 69 80	fluconazole
+T2	Bacteria 108 124	Candida albicans
+T3	Antibiotic 385 396	fluconazole
+T4	Antibiotic 420 431	fluconazole
+T5	Bacteria 453 470	 Candida albicans
+T6	Antibiotic 671 683	itraconazole
+T7	Bacteria 867 877	C.albicans
+*	Equiv T7 T5
+T8	Antibiotic 329 343	amphotericin B
+T9	Antibiotic 345 356	flucytosine
+T10	Antibiotic 362 374	itraconazole
+T11	Antibiotic 191 206	pneumocandin B0

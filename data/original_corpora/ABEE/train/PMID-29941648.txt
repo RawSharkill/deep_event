@@ -1,0 +1,3 @@
+Functional Characterization of AbaQ, a Novel Efflux Pump Mediating Quinolone  Resistance in Acinetobacter baumannii. 
+
+Acinetobacter baumannii has emerged as an important multidrug-resistant  nosocomial pathogen. In previous work, we identified a putative MFS transporter,   AU097_RS17040, involved in the pathogenicity of A. baumannii (M. Perez-Varela, J.  Corral, J. A. Vallejo, S. Rumbo-Feal, G. Bou, J. Aranda, and J. Barbe, Infect  Immun 85:e00327-17, 2017, https://doi.org/10.1128/IAI.00327-17). In this study,  we analyzed the susceptibility to diverse antimicrobial agents of A. baumannii  cells defective in this transporter, referred to as AbaQ. Our results showed that  AbaQ is mainly involved in the extrusion of quinolone-type drugs in A. baumannii.

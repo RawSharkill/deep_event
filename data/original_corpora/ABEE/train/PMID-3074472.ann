@@ -1,0 +1,11 @@
+T2	Antibiotic 127 150	beta-lactam antibiotics
+T4	Antibiotic 279 297	beta-lactam agents
+T5	Antibiotic 357 368	beta-lactam
+T6	Bacteria 474 485	bacteroides
+T7	Bacteria 491 503	fusobacteria
+T8	Antibiotic 607 617	penicillin
+T9	Antibiotic 727 738	clindamycin
+T10	Antibiotic 743 756	metronidazole
+T1	Protein 223 250	penicillin-binding proteins
+T3	Reduced_permeability_to_antibiotic 264 275	penetration
+E1	Reduced_permeability_to_antibiotic:T3 Cause:T4

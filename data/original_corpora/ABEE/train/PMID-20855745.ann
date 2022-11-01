@@ -1,0 +1,29 @@
+T1	Antibiotic_efflux 20 26	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 75 96	Staphylococcus aureus
+T3	Bacteria 175 196	Staphylococcus aureus
+T4	Antibiotic_efflux 112 118	efflux
+E2	Antibiotic_efflux:T4 Theme:T3 Cause:T5
+T5	Antibiotic 141 151	lincomycin
+T8	Antibiotic 408 417	linezolid
+T14	Antibiotic 528 540	trimethoprim
+T15	Antibiotic 546 561	chloramphenicol
+T11	Antibiotic 643 653	lincomycin
+T18	Bacteria 677 690	Bacillus spp.
+T19	Bacteria 692 710	Lactobacillus spp.
+T20	Bacteria 716 730	Listeria  spp.
+T6	Protein 0 4	LmrS
+T7	Protein 135 139	LmrS
+T9	Protein 247 250	MFS
+T10	Protein 298 302	LmrS
+T12	Antibiotic 422 453	tetraphenylphosphonium chloride
+T13	Antibiotic 455 459	TPCL
+*	Equiv T13 T12
+T16	Antibiotic 498 520	sodium dodecyl sulfate
+T17	Antibiotic 522 525	SDS
+*	Equiv T17 T16
+T21	Protein 564 568	LmrS
+T22	Antibiotic_efflux 564 568	LmrS
+E3	Antibiotic_efflux:T22 Cause:T11 Theme:T18
+E4	Antibiotic_efflux:T22 Cause:T11 Theme:T19
+E5	Antibiotic_efflux:T22 Theme:T20 Cause:T11

@@ -1,0 +1,5 @@
+T1	Bacteria 50 66	Escherichia coli
+T2	Bacteria 272 288	Escherichia coli
+T3	Bacteria 306 313	E. coli
+*	Equiv T3 T1
+T4	Bacteria 568 575	E. coli

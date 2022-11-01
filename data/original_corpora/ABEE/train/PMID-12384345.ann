@@ -1,0 +1,23 @@
+T1	Antibiotic 62 75	Ciprofloxacin
+T2	Antibiotic 81 93	moxifloxacin
+T3	Bacteria 97 118	Clostridium difficile
+T5	Antibiotic_target_alteration 14 23	mutations
+E2	Antibiotic_target_alteration:T5 Theme:T3
+T6	Bacteria 171 192	Clostridium difficile
+T7	Antibiotic 318 334	fluoroquinolones
+T8	Antibiotic 399 412	ciprofloxacin
+T9	Antibiotic_target_alteration 891 899	mutation
+E4	Antibiotic_target_alteration:T9 Theme:T6
+T11	Antibiotic 1493 1506	ciprofloxacin
+T12	Antibiotic 1639 1655	fluoroquinolones
+T13	Bacteria 1659 1671	C. difficile
+T15	Antibiotic_target_alteration 1748 1756	mutation
+E7	Antibiotic_target_alteration:T15 Theme:T13 Cause:T12
+T4	Gene 9 13	gyrB
+T10	Gene 0 4	gyrA
+T16	Gene 910 914	gyrA
+T17	Protein 934 944	amino acid
+T18	Protein 1046 1056	amino acid
+T19	Antibiotic 1511 1527	ethidium bromide
+T14	Gene 1743 1747	gyrB
+T20	Gene 1735 1739	gyrA

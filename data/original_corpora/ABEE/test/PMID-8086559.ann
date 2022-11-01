@@ -1,0 +1,17 @@
+T1	Bacteria 254 278	Streptococcus pneumoniae
+T2	Antibiotic 315 327	penicillin G
+T3	Bacteria 540 554	S.  pneumoniae
+T4	Antibiotic 508 518	penicillin
+T5	Antibiotic 634 644	cefuroxime
+T6	Antibiotic 646 656	cefotaxime
+T7	Antibiotic 662 673	ceftriaxone
+T8	Bacteria 800 813	S. pneumoniae
+T9	Antibiotic 868 878	penicillin
+T10	Antibiotic 1032 1042	penicillin
+T11	Bacteria 1053 1064	pneumococci
+T12	Antibiotic 1091 1101	macrolides
+T13	Antibiotic 1126 1138	tetracycline
+T14	Bacteria 1005 1016	pneumococci
+T15	Bacteria 1353 1375	Haemophilus influenzae
+T16	Bacteria 1380 1401	Moraxella catarrhalis
+T17	Bacteria 1287 1298	pneumococci

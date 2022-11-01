@@ -1,0 +1,22 @@
+T1	Antibiotic 14 26	trimethoprim
+T2	Antibiotic 31 43	sulfonamides
+T3	Antibiotic 47 59	Sulfonamides
+T5	Antibiotic 64 76	trimethoprim
+T6	Antibiotic 448 460	trimethoprim
+T7	Antibiotic 603 614	sulfonamide
+T8	Antibiotic 637 649	trimethoprim
+T9	Antibiotic 431 442	sulfonamide
+T13	Bacteria 995 1011	Escherichia coli
+T14	Bacteria 1106 1123	Erwinia amylovora
+T15	Antibiotic 1184 1196	sulfonamides
+T16	Antibiotic 1201 1213	trimethoprim
+T18	Antibiotic 1762 1773	sulfonamide
+T19	Antibiotic 1779 1791	trimethoprim
+T4	Gene 487 491	sul1
+T10	Gene 496 500	sul2
+T11	Gene 899 903	dfr9
+T12	Gene 1057 1063	Tn5393
+T17	Protein 738 762	dihydrofolate reductases
+T20	Protein 556 581	dihydropteroate synthases
+T21	Protein 373 397	dihydropteroate synthase
+T22	Protein 402 425	dihydrofolate reductase

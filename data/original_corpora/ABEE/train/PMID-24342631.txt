@@ -1,0 +1,3 @@
+vanO, a new glycopeptide resistance operon in environmental Rhodococcus equi  isolates. 
+
+We describe here the sequence and gene organization of a new glycopeptide  resistance operon (vanO) in Rhodococcus equi from soil. The vanO operon has low  homology to enterococcal van operons and harbors a vanHOX cluster transcribed in   the direction opposite that of the vanS-vanR regulatory system and composed of  three open reading frames with unknown function. This finding has clinical  interest, since glycopeptides are used to treat R. equi infections and resistance  has been reported in clinical isolates.

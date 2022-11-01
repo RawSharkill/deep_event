@@ -1,0 +1,17 @@
+T1	Antibiotic 9 19	daptomycin
+T2	Bacteria 77 97	Enterococcus faecium
+T3	Bacteria 102 113	E. faecalis
+T4	Antibiotic 117 127	Daptomycin
+T5	Bacteria 299 312	staphylococci
+T6	Bacteria 343 354	enterococci
+T7	Antibiotic 398 408	daptomycin
+T8	Antibiotic 473 483	daptomycin
+T9	Bacteria 506 517	enterococci
+T10	Antibiotic 519 529	Daptomycin
+T11	Bacteria 710 730	Enterococcus faecium
+T12	Bacteria 754 775	Enterococcus faecalis
+*	Equiv T3 T12
+T13	Antibiotic 936 946	daptomycin
+T14	Antibiotic 2001 2011	Daptomycin
+T15	Antibiotic 55 65	vancomycin
+T16	Antibiotic 1718 1728	daptomycin

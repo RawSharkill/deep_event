@@ -1,0 +1,13 @@
+T1	Bacteria 80 96	Escherichia coli
+T2	Bacteria 192 208	Escherichia coli
+T3	Bacteria 451 463	E. coli K-12
+T4	Antibiotic 740 752	tetracycline
+T5	Antibiotic 754 769	chloramphenicol
+T6	Antibiotic 772 782	ampicillin
+T7	Antibiotic 784 798	nalidixic acid
+T8	Antibiotic 804 812	rifampin
+T9	Protein 0 5	AcrAB
+T10	Protein 129 132	Mar
+T11	Antibiotic_efflux 6 12	efflux
+E1	Antibiotic_efflux:T11 Theme:T1
+T12	Gene 493 498	marR1

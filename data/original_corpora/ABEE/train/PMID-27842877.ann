@@ -1,0 +1,44 @@
+T1	Antibiotic 86 101	fluoroquinolone
+T2	Bacteria 116 137	Clostridium difficile
+T3	Antibiotic 328 343	fluoroquinolone
+T4	Bacteria 358 379	Clostridium difficile
+T5	Bacteria 404 416	C. difficile
+*	Equiv T5 T4
+T6	Antibiotic 445 460	fluoroquinolone
+T7	Antibiotic 518 531	ciprofloxacin
+T8	Antibiotic 869 884	fluoroquinolone
+T9	Bacteria 984 996	C. difficile
+T10	Antibiotic 1291 1304	ciprofloxacin
+T11	Antibiotic 1306 1315	ofloxacin
+T12	Antibiotic 1317 1329	levofloxacin
+T13	Antibiotic 1335 1347	moxifloxacin
+T14	Antibiotic 1388 1398	novobiocin
+T15	Bacteria 1443 1455	C. difficile
+T16	Antibiotic 1525 1540	fluoroquinolone
+T17	Antibiotic 1745 1760	fluoroquinolone
+T18	Bacteria 1775 1787	C. difficile
+T19	Antibiotic 1976 1991	fluoroquinolone
+T20	Antibiotic_target_alteration 1250 1258	mutation
+E1	Antibiotic_target_alteration:T20 Cause:T13
+E2	Antibiotic_target_alteration:T20 Cause:T12
+E3	Antibiotic_target_alteration:T20 Cause:T11
+E4	Antibiotic_target_alteration:T20 Cause:T10
+T21	Gene 1192 1196	GyrA
+T22	Antibiotic 1055 1070	fluoroquinolone
+T23	Gene 1574 1579	gyrBA
+T24	Antibiotic_target_alteration 1724 1732	mutation
+E5	Antibiotic_target_alteration:T24 Cause:T17 Theme:T18
+T25	Protein 1945 1951	gyrase
+E6	Antibiotic_target_alteration:T20 Cause:T14
+T26	Gene 796 801	gyrBA
+T27	Antibiotic 251 260	quinolone
+T28	Gene 69 73	GyrA
+T29	Antibiotic_target_alteration 26 34	mutation
+E7	Antibiotic_target_alteration:T29 Cause:T1 Theme:T2
+T30	Protein 307 313	gyrase
+T31	Antibiotic_target_alteration 235 243	mutation
+E8	Antibiotic_target_alteration:T31 Cause:T27 Theme:T4
+E9	Antibiotic_target_alteration:T31 Cause:T3
+T32	Antibiotic_target_alteration 1081 1087	mutant
+E10	Antibiotic_target_alteration:T32 Cause:T22
+T33	Protein 1621 1627	gyrase

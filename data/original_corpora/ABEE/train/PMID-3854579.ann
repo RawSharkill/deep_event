@@ -1,0 +1,9 @@
+T1	Antibiotic 712 726	Nalidixic acid
+T2	Antibiotic 729 742	oxolinic acid
+T3	Antibiotic 744 758	pipemidic acid
+T4	Antibiotic 760 770	polymyxins
+T5	Antibiotic 772 786	co-trimoxazole
+T6	Antibiotic 788 807	polyene antibiotics
+T7	Antibiotic 814 824	framycetin
+T8	Antibiotic 1551 1565	aminoglycoside
+T9	Antibiotic 1580 1603	beta-lactam  antibiotic

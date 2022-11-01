@@ -1,0 +1,33 @@
+T1	Bacteria 45 69	Streptomyces glaucescens
+T2	Antibiotic 77 93	tetracenomycin C
+T5	Antibiotic 162 178	tetracenomycin C
+T7	Bacteria 200 226	Streptomyces   glaucescens
+T8	Antibiotic 343 357	methylenomycin
+T10	Bacteria 380 403	Streptomyces coelicolor
+T11	Antibiotic 444 456	tetracycline
+T12	Bacteria 409 429	Streptomyces rimosus
+T14	Antibiotic 488 501	aminotriazole
+T16	Bacteria 523 548	Saccharomyces  cerevisiae
+T17	Bacteria 865 881	Escherichia coli
+T18	Bacteria 911 924	S. coelicolor
+*	Equiv T18 T10
+T4	Gene 157 161	tcmA
+T6	Gene 430 436	tet347
+T9	Gene 438 442	otrB
+T13	Gene 483 487	atr1
+T15	Gene 339 342	mmr
+T19	Gene 758 762	tcmA
+T20	Gene 715 719	tcmR
+T21	Gene 788 792	tcmR
+T22	Gene 837 841	tetR
+T23	Gene 890 895	actII
+T24	Gene 955 959	tcmA
+T25	Gene 964 968	tcmR
+T26	Antibiotic_efflux 157 161	tcmA
+E1	Antibiotic_efflux:T26 Cause:T5 Theme:T7
+T3	Antibiotic_efflux 339 342	mmr
+E2	Antibiotic_efflux:T3 Cause:T8 Theme:T10
+T27	Antibiotic_efflux 430 436	tet347
+E3	Antibiotic_efflux:T27 Theme:T12 Cause:T11
+T28	Antibiotic_efflux 483 487	atr1
+E4	Antibiotic_efflux:T28 Cause:T14 Theme:T16

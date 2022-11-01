@@ -1,0 +1,33 @@
+T1	Bacteria 68 91	Salmonella  Enteritidis
+T2	Bacteria 169 191	Salmonella Enteritidis
+T3	Antibiotic 222 236	nalidixic acid
+T4	Antibiotic 276 292	fluoroquinolones
+T5	Antibiotic 386 395	quinolone
+T6	Bacteria 422 436	S. Enteritidis
+*	Equiv T6 T2
+T7	Antibiotic 540 549	quinolone
+T8	Bacteria 583 597	S. Enteritidis
+T9	Antibiotic 692 705	ciprofloxacin
+T10	Antibiotic 900 909	quinolone
+T11	Antibiotic 965 978	ciprofloxacin
+T12	Antibiotic 1215 1228	ciprofloxacin
+T13	Antibiotic 1459 1472	ciprofloxacin
+T14	Bacteria 1485 1499	Nal(R) strains
+T15	Gene 1704 1708	gyrA
+T16	Gene 1349 1353	gyrB
+T17	Gene 1355 1359	parC
+T18	Gene 1367 1371	parE
+T19	Bacteria 1073 1087	Nal(R) strains
+T20	Gene 1046 1050	gyrA
+T21	Bacteria 764 778	Nal(S) strains
+T22	Bacteria 598 612	Nal(R) strains
+T23	Gene 875 879	gyrB
+T24	Gene 881 885	parC
+T25	Gene 892 896	parE
+T26	Gene 481 485	gyrA
+T27	Gene 488 492	gyrB
+T28	Gene 494 498	parC
+T29	Gene 504 508	parE
+T30	Bacteria 728 742	Nal(R) strains
+T31	Gene 811 815	gyrA
+T32	Gene 1377 1381	qnrB

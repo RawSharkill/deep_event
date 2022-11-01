@@ -1,0 +1,6 @@
+T1	Bacteria 90 116	Mycobacterium tuberculosis
+T2	Antibiotic 14 25	ethionamide
+T3	Antibiotic 4 13	isoniazid
+T4	Antibiotic_target_alteration 42 50	mutation
+E1	Antibiotic_target_alteration:T4 Theme:T1 Cause:T2
+E2	Antibiotic_target_alteration:T4 Cause:T3 Theme:T1

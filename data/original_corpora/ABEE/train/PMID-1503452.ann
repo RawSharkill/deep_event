@@ -1,0 +1,18 @@
+T1	Antibiotic 145 158	tetracyclines
+T2	Bacteria 179 195	Escherichia coli
+T3	Bacteria 200 222	Staphylococcus  aureus
+T4	Antibiotic 54 67	tetracyclines
+T5	Antibiotic_target_protection 30 40	protection
+E1	Antibiotic_target_protection:T5 Cause:T4
+T6	Antibiotic 103 116	tetracyclines
+T7	Antibiotic 291 304	tetracyclines
+T8	Protein 316 321	Tet B
+T9	Protein 326 331	Tet K
+T10	Protein 358 363	Tet M
+T11	Antibiotic_efflux 308 314	efflux
+E2	Antibiotic_efflux:T11 Cause:T7 Theme:T2
+E3	Antibiotic_efflux:T11 Theme:T3 Cause:T7
+T12	Antibiotic_target_protection 346 356	protection
+E4	Antibiotic_target_protection:T12 Cause:T7 Theme:T3
+E5	Antibiotic_target_protection:T12 Theme:T2 Cause:T7
+T13	Antibiotic 427 440	tetracyclines

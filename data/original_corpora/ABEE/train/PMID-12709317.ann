@@ -1,0 +1,42 @@
+T1	Bacteria 60 78	Pseudomonas putida
+T4	Antibiotic 190 222	expanded-spectrum cephalosporins
+T5	Antibiotic 227 238	carbapenems
+T6	Bacteria 593 609	Escherichia coli
+T7	Bacteria 613 635	Pseudomonas aeruginosa
+T8	Bacteria 1325 1332	E. coli
+*	Equiv T8 T6
+T10	Antibiotic 1552 1566	cephalosporins
+T9	Antibiotic 1571 1582	carbapenems
+T11	Antibiotic 1599 1610	penicillins
+T13	Antibiotic 1635 1645	temocillin
+T14	Antibiotic 1650 1659	aztreonam
+T15	Antibiotic 1795 1806	penicillins
+T16	Antibiotic 1908 1916	imipenem
+T2	Bacteria 102 120	Pseudomonas putida
+T3	Protein 390 412	metallo-beta-lactamase
+T12	Gene 513 524	bla(IMP-12)
+T17	Gene 484 492	bla(IMP)
+T18	Protein 804 810	IMP-12
+T19	Protein 889 894	IMP-8
+T20	Protein 899 904	IMP-2
+T21	Protein 957 962	IMP-1
+T22	Protein 983 989	IMP-12
+T23	Gene 1203 1214	bla(IMP-11)
+T24	Gene 1186 1197	bla(IMP-10)
+T25	Gene 1150 1160	bla(IMP-1)
+T26	Gene 1162 1172	bla(IMP-6)
+T27	Gene 1174 1184	bla(IMP-7)
+T28	Gene 1285 1295	bla(IMP-8)
+T29	Gene 1270 1280	bla(IMP-2)
+T30	Gene 1509 1515	IMP-12
+T31	Protein 1495 1498	IMP
+T32	Gene 996 1007	bla(IMP-12)
+T33	Protein 1670 1676	IMP-12
+T34	Protein 1739 1742	IMP
+T35	Protein 1297 1303	IMP-12
+T36	Protein 0 6	IMP-12
+T37	Protein 30 52	metallo-beta-lactamase
+T38	Antibiotic 786 798	beta-lactams
+T39	Antibiotic_inactivation 664 679	electroporation
+E1	Antibiotic_inactivation:T39 Theme:T7 Cause:T38
+E2	Antibiotic_inactivation:T39 Theme:T6 Cause:T38

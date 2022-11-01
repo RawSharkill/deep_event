@@ -1,0 +1,19 @@
+T1	Bacteria 1028 1046	Cystobacter strain
+T2	Antibiotic 12 23	acriflavine
+T3	Bacteria 43 55	myxobacteria
+T4	Bacteria 79 101	Gram-negative bacteria
+T5	Bacteria 132 144	Myxobacteria
+T6	Antibiotic 185 196	acriflavine
+T7	Antibiotic 884 895	acriflavine
+T8	Antibiotic 635 646	acriflavine
+T9	Antibiotic 659 670	acriflavine
+T10	Bacteria 1331 1343	Myxobacteria
+T11	Bacteria 1364 1386	Gram-negative bacteria
+T12	Antibiotic 1187 1198	acriflavine
+T13	Antibiotic 1224 1235	acriflavine
+T14	Antibiotic_target_alteration 0 8	Mutation
+E1	Antibiotic_target_alteration:T14 Cause:T2 Theme:T3
+T15	Antibiotic 225 236	acriflavine
+T16	Antibiotic 359 370	acriflavine
+T17	Reduced_permeability_to_antibiotic 1292 1304	permeability
+E2	Reduced_permeability_to_antibiotic:T17 Cause:T13 Theme:T10

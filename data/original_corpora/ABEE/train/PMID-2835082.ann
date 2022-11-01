@@ -1,0 +1,6 @@
+T1	Antibiotic 61 73	tetracycline
+T2	Antibiotic 111 114	Tet
+*	Equiv T2 T1
+T3	Antibiotic 184 187	Tet
+T4	Antibiotic 2205 2208	Tet
+T5	Antibiotic 2462 2465	Tet

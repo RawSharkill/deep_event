@@ -1,0 +1,34 @@
+T1	Bacteria 257 282	Escherichia coli  isolate
+T2	Bacteria 632 647	E. coli isolate
+*	Equiv T2 T1
+T3	Antibiotic 693 704	carbapenems
+T4	Antibiotic 1231 1242	carbapenems
+T5	Bacteria 1344 1359	E. coli isolate
+T6	Bacteria 1462 1469	E. coli
+T7	Protein 185 218	New Delhi  metallo-beta-lactamase
+T8	Protein 220 223	NDM
+T9	Protein 52 85	New Delhi  metallo-beta-lactamase
+T10	Protein 13 18	NDM-7
+T11	Gene 434 454	beta-lactamase genes
+T12	Gene 785 791	blaNDM
+T13	Gene 772 780	blaTEM-1
+T14	Gene 759 770	blaCTX-M-15
+T15	Gene 749 757	blaCMY-2
+T16	Gene 832 838	blaNDM
+T17	Gene 863 871	blaNDM-1
+T18	Protein 954 964	amino acid
+T19	Protein 1054 1059	NDM-7
+T20	Gene 1065 1073	blaNDM-7
+T21	Protein 1024 1027	NDM
+T22	Protein 1447 1450	NDM
+T24	Protein 1473 1478	NDM-7
+T25	Protein 1569 1572	NDM
+T26	Gene 1703 1709	blaNDM
+T27	Bacteria 1139 1146	E. coli
+T28	Protein 1282 1287	NDM-1
+T29	Protein 101 114	carbapenemase
+T30	Bacteria 1640 1661	Gram-negative species
+T31	Antibiotic 1207 1219	beta-lactams
+T23	Antibiotic_inactivation 1509 1518	hydrolyse
+E1	Antibiotic_inactivation:T23 Theme:T6 Cause:T32
+T32	Antibiotic 1519 1530	beta-lactam

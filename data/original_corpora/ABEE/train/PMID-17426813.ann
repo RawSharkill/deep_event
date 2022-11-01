@@ -1,0 +1,9 @@
+T1	Bacteria 64 71	E. coli
+T3	Antibiotic 582 594	tetracycline
+T4	Bacteria 1390 1397	E. coli
+T5	Antibiotic 1401 1413	tetracycline
+T2	Bacteria 506 522	Escherichia coli
+T6	Bacteria 336 358	Gram-negative bacteria
+T7	Bacteria 1202 1224	Gram-negative bacteria
+T8	Reduced_permeability_to_antibiotic 1186 1198	permeability
+E1	Reduced_permeability_to_antibiotic:T8 Theme:T7 Cause:T3

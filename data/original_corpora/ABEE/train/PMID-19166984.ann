@@ -1,0 +1,28 @@
+T1	Bacteria 55 77	Gram-negative bacteria
+T2	Bacteria 86 102	Escherichia coli
+T3	Bacteria 107 129	Pseudomonas aeruginosa
+T4	Antibiotic_efflux 153 159	efflux
+E1	Antibiotic_efflux:T4 Theme:T1
+E2	Antibiotic_efflux:T4 Theme:T2
+E3	Antibiotic_efflux:T4 Theme:T3
+T5	Antibiotic 394 404	bile salts
+T6	Antibiotic_efflux 310 316	efflux
+E4	Antibiotic_efflux:T6 Theme:T7 Cause:T5
+T7	Bacteria 284 291	E. coli
+T8	Antibiotic 1341 1351	minocyclin
+T9	Antibiotic 1356 1367	doxorubicin
+*	Equiv T7 T2
+T10	Protein 32 36	AcrB
+T11	Protein 324 328	AcrA
+T12	Protein 329 333	AcrB
+T13	Protein 334 338	TolC
+T14	Protein 450 454	AcrB
+T15	Protein 511 514	RND
+T16	Protein 872 876	AcrB
+T17	Protein 1236 1240	TolC
+T18	Protein 1324 1328	AcrB
+T19	Protein 1597 1601	D407
+T20	Protein 1602 1606	D408
+T21	Protein 1607 1611	K940
+T22	Protein 1911 1915	AcrB
+T23	Protein 2204 2207	RND

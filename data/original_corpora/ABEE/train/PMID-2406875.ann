@@ -1,0 +1,22 @@
+T1	Antibiotic 14 37	beta-lactam antibiotics
+T2	Antibiotic 86 97	beta-lactam
+T3	Antibiotic_target_alteration 171 181	alteration
+E1	Antibiotic_target_alteration:T3 Cause:T2
+T4	Protein 185 212	penicillin-binding proteins
+T5	Antibiotic 242 253	beta-lactam
+T6	Antibiotic 331 342	beta-lactam
+T7	Bacteria 422 433	Bacteroides
+T8	Bacteria 435 448	Fusobacterium
+T9	Bacteria 455 466	Clostridium
+T10	Antibiotic 476 487	beta-Lactam
+T11	Bacteria 502 522	Bacteroides fragilis
+T12	Bacteria 611 623	B.  fragilis
+*	Equiv T12 T11
+T13	Antibiotic 690 699	cefoxitin
+T14	Antibiotic 704 712	imipenem
+T15	Bacteria 742 753	Bacteroides
+T16	Bacteria 862 885	Fusobacterium nucleatum
+T17	Bacteria 897 907	clostridia
+T18	Bacteria 909 931	Clostridium  butyricum
+T19	Bacteria 933 960	Clostridium clostridioforme
+T20	Bacteria 966 985	Clostridium ramosum

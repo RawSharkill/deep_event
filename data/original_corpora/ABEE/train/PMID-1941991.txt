@@ -1,0 +1,3 @@
+Nucleotide sequence of dihydrofolate reductase type VI. 
+
+The complete sequence of the type VI dihydrofolate reductase (DHFR) gene from  plasmid pUK672 was determined. The structural gene coded for a polypeptide of 157  amino acids which had a deduced mol. wt of 17,424. Comparison with amino-acid  sequences of the type I, type V and Escherichia coli K12 chromosomal DHFRs showed  that there was 63%, 61% and 31% homology respectively. Putative RNA polymerase  and ribosomal binding sites were identified proximal to the initiation codon and   a feature consistent with transcription termination was present distal to the  coding region. Sodium dodecyl sulphate-polyacrylamide gel electrophoresis showed   that the enzyme had a subunit mol. wt of 17,500.

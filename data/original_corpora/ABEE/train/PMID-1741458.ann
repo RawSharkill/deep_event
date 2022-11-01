@@ -1,0 +1,16 @@
+T1	Bacteria 1456 1480	Saccharomyces cerevisiae
+T2	Antibiotic_efflux 1369 1375	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 1752 1773	Staphylococcus aureus
+T4	Antibiotic_efflux 1800 1806	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Protein 1844 1848	CadA
+T6	Protein 1903 1907	CadC
+T7	Protein 1958 1962	CadR
+T8	Protein 2188 2192	CzcA
+T9	Protein 2194 2198	CzcB
+T10	Protein 2204 2208	CzcC
+T11	Protein 2250 2254	CzcD
+T12	Protein 2286 2290	CzcA
+T13	Protein 2329 2333	CzcB
+T14	Protein 2367 2371	CzcC

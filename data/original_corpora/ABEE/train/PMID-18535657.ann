@@ -1,0 +1,30 @@
+T1	Antibiotic 38 53	fluoroquinolone
+T2	Bacteria 68 89	Campylobacter  jejuni
+T4	Bacteria 93 113	Campylobacter jejuni
+T5	Antibiotic 200 216	Fluoroquinolones
+T6	Bacteria 366 379	Campylobacter
+T8	Bacteria 525 538	Campylobacter
+T9	Bacteria 586 595	C. jejuni
+*	Equiv T9 T4
+T10	Antibiotic 803 816	ciprofloxacin
+T11	Antibiotic 836 849	ciprofloxacin
+T12	Antibiotic 1091 1104	ciprofloxacin
+T13	Bacteria 1207 1216	C. jejuni
+T14	Bacteria 1285 1298	Campylobacter
+T15	Antibiotic 1342 1358	fluoroquinolones
+T16	Antibiotic 1430 1445	fluoroquinolone
+T17	Bacteria 1460 1473	Campylobacter
+T18	Bacteria 1660 1673	Campylobacter
+T7	Antibiotic 499 514	fluoroquinolone
+T20	Gene 993 996	mfd
+T19	Antibiotic 1634 1649	fluoroquinolone
+T21	Gene 1389 1392	Mfd
+T22	Gene 1521 1524	Mfd
+T23	Antibiotic 1259 1274	fluoroquinolone
+T24	Gene 877 880	mfd
+T25	Antibiotic 340 355	fluoroquinolone
+T26	Bacteria 316 334	campylobacteriosis
+T3	Gene 12 15	Mfd
+T27	Gene 1141 1144	mfd
+T28	Antibiotic_target_alteration 1538 1546	mutation
+E1	Antibiotic_target_alteration:T28 Theme:T18 Cause:T19

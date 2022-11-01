@@ -1,0 +1,38 @@
+T1	Bacteria 62 95	Acinetobacter  baumannii AC-54/97
+T2	Bacteria 243 275	Acinetobacter baumannii AC-54/97
+T3	Bacteria 1123 1139	Escherichia coli
+T5	Antibiotic 1230 1240	ampicillin
+T6	Antibiotic 1242 1255	carbenicillin
+T7	Antibiotic 1257 1268	cephalothin
+T8	Antibiotic 1294 1302	cefepime
+T9	Antibiotic 1309 1320	carbapenems
+T13	Antibiotic 1628 1636	cefepime
+T15	Antibiotic 1691 1701	ampicillin
+T17	Antibiotic 1718 1731	cephaloridine
+T18	Antibiotic 1737 1746	meropenem
+T11	Antibiotic 1603 1612	cefoxitin
+T12	Antibiotic 1615 1626	ceftazidime
+T14	Antibiotic 1642 1650	imipenem
+T16	Antibiotic 1703 1716	carbenicillin
+T19	Antibiotic 1270 1279	cefoxitin
+T20	Antibiotic 1281 1291	ceftazidim
+T10	Bacteria 1361 1384	Escherichia coli strain
+T4	Protein 121 129	bla(IMP)
+T21	Gene 1104 1114	bla(IMP-2)
+T22	Protein 1542 1547	IMP-2
+T23	Protein 1508 1513	IMP-1
+T24	Protein 1327 1332	IMP-2
+T25	Gene 1923 1931	bla(IMP)
+T26	Protein 1847 1850	IMP
+T27	Gene 931 939	bla(IMP)
+T28	Gene 592 600	bla(IMP)
+T29	Gene 576 586	bla(IMP-2)
+T30	Gene 769 777	bla(IMP)
+T31	Gene 779 789	bla(IMP-2)
+T32	Protein 205 227	metallo-beta-lactamase
+T33	Protein 367 372	IMP-1
+T34	Protein 24 46	metallo-beta-lactamase
+T35	Gene 880 890	bla(IMP-2)
+T36	Protein 348 354	enzyme
+T37	Protein 1333 1339	enzyme
+T38	Antibiotic 1215 1227	beta-lactams

@@ -1,0 +1,20 @@
+T1	Bacteria 51 58	E. coli
+T2	Bacteria 181 197	Escherichia coli
+T3	Bacteria 529 536	E. coli
+*	Equiv T1 T2
+T4	Protein 15 19	LeuO
+T5	Protein 119 123	H-NS
+T6	Protein 127 131	LeuO
+T7	Protein 366 370	LeuO
+T8	Protein 485 489	LeuO
+T9	Protein 619 623	H-NS
+T10	Protein 703 707	LeuO
+T11	Protein 963 967	LeuO
+T12	Protein 803 807	H-NS
+T13	Protein 885 889	H-NS
+T14	Protein 908 912	LeuO
+T15	Protein 1143 1147	LeuO
+T16	Protein 1152 1156	H-NS
+T17	Gene 1257 1261	leuO
+T18	Protein 1391 1395	LeuO
+T19	Protein 1472 1476	H-NS

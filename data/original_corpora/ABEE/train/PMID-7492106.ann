@@ -1,0 +1,12 @@
+T1	Gene 11 15	fosC
+T2	Bacteria 29 49	Pseudomonas syringae
+T3	Gene 468 472	fosC
+T4	Gene 634 638	FosC
+T5	Antibiotic 891 901	fosfomycin
+T6	Gene 848 852	fosC
+T7	Protein 484 497	ca. 19,000-Da
+T8	Antibiotic 156 166	fosfomycin
+T9	Antibiotic 60 70	fosfomycin
+T10	Antibiotic 315 325	fosfomycin
+T11	Reduced_permeability_to_antibiotic 287 301	impermeability
+E1	Reduced_permeability_to_antibiotic:T11 Cause:T10

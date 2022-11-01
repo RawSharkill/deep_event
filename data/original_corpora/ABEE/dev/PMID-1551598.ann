@@ -1,0 +1,18 @@
+T1	Bacteria 29 59	Enterococcus gallinarum BM4174
+T2	Antibiotic 129 139	vancomycin
+T3	Bacteria 231 261	Enterococcus gallinarum BM4174
+T4	Bacteria 369 385	Escherichia coli
+T5	Bacteria 426 437	En. faecium
+T6	Bacteria 614 621	E. coli
+*	Equiv T6 T4
+T7	Gene 16 20	vanC
+T8	Antibiotic 203 213	vancomycin
+T9	Protein 343 353	amino acid
+T10	Protein 438 441	VmR
+T11	Gene 491 495	vanC
+T12	Gene 605 609	VanA
+T13	Gene 521 525	vanC
+T14	Gene 660 664	vanC
+T15	Antibiotic_inactivation 644 656	inactivation
+E1	Antibiotic_inactivation:T15 
+T16	Gene 451 455	VanA

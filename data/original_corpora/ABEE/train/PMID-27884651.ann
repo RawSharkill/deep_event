@@ -1,0 +1,10 @@
+T1	Bacteria 60 83	Ureaplasma  urealyticum
+T2	Bacteria 88 105	Ureaplasma parvum
+T3	Antibiotic 128 144	fluoroquinolones
+T4	Antibiotic 195 210	fluoroquinolone
+T5	Antibiotic 354 363	quinolone
+T6	Antibiotic 493 503	quinolones
+T7	Antibiotic 560 569	quinolone
+T8	Antibiotic 709 724	fluoroquinolone
+T9	Antibiotic 1453 1466	fluoroquinone
+T10	Bacteria 1481 1496	Ureaplasma spp.

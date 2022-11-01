@@ -1,0 +1,22 @@
+T1	Antibiotic 14 25	tigecycline
+T3	Bacteria 43 83	Klebsiella pneumoniae clinical  isolates
+T6	Bacteria 120 141	Klebsiella pneumoniae
+T7	Bacteria 143 148	TNSKP
+T8	Bacteria 358 371	TNSKP strains
+T9	Bacteria 476 490	TNSKP isolates
+T10	Bacteria 581 586	TNSKP
+T11	Antibiotic 622 633	tigecycline
+T2	Antibiotic 93 104	tigecycline
+T4	Gene 204 208	ramR
+T5	Gene 216 220	acrR
+T12	Gene 228 232	ramR
+T13	Gene 243 247	acrR
+T14	Gene 300 304	ramA
+T15	Gene 306 310	acrB
+T16	Gene 312 316	rarA
+T17	Gene 322 326	oqxB
+T18	Gene 392 396	ramA
+T19	Gene 401 405	acrB
+T20	Gene 414 418	rarA
+T21	Gene 423 427	oqxB
+T22	Protein 573 577	RamA

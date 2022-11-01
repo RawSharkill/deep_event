@@ -1,0 +1,6 @@
+T1	Antibiotic 495 506	penicillins
+T2	Antibiotic 518 527	cefazolin
+T3	Bacteria 432 445	E. coli HB101
+T4	Antibiotic_target_alteration 404 418	Transformation
+E1	Antibiotic_target_alteration:T4 Theme:T3 Cause:T1
+E2	Antibiotic_target_alteration:T4 Theme:T3 Cause:T2

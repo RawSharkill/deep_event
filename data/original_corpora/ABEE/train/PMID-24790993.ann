@@ -1,0 +1,18 @@
+T1	Antibiotic 446 454	colistin
+T2	Antibiotic 456 467	tigecycline
+T3	Antibiotic 474 484	fosfomycin
+T4	Bacteria 763 781	Enterobacteriaceae
+T5	Bacteria 832 845	P. aeruginosa
+T6	Bacteria 850 868	Acinetobacter spp.
+T7	Bacteria 869 887	Acinetobacter  sp.
+T8	Bacteria 970 988	Enterobacteriaceae
+T9	Bacteria 58 80	Gram-negative bacteria
+T10	Protein 31 54	NDM-type carbapenemases
+T11	Protein 165 192	New Delhi metallo-lactamase
+T12	Protein 194 199	NDM-1
+T13	Gene 926 933	bla NDM
+T14	Gene 514 517	NDM
+T15	Gene 678 685	bla NDM
+*	Equiv T7 T6
+T16	Protein 136 150	carbapenemases
+T17	Antibiotic 381 392	carbapenems

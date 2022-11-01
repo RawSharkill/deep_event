@@ -1,0 +1,32 @@
+T1	Antibiotic 11 20	quinolone
+T2	Bacteria 35 57	gram-negative bacteria
+T3	Antibiotic 80 104	6 alpha-fluoroquinolones
+T4	Antibiotic 178 187	quinolone
+T5	Bacteria 198 212	enterobacteria
+T6	Bacteria 281 302	Staphylococcus aureus
+T7	Antibiotic 390 399	quinolone
+T8	Bacteria 410 432	Pseudomonas aeruginosa
+T9	Antibiotic 466 476	quinolones
+T10	Bacteria 483 506	gram-positive organisms
+T11	Antibiotic_target_alteration 528 539	alterations
+E1	Antibiotic_target_alteration:T11 Theme:T10 Cause:T9
+T12	Bacteria 589 607	gram-negative rods
+T13	Antibiotic_target_alteration 613 624	alterations
+E2	Antibiotic_target_alteration:T13 Theme:T12 Cause:T9
+T14	Bacteria 874 888	enterobacteria
+T15	Bacteria 893 915	Pseudomonas aeruginosa
+T16	Antibiotic 980 989	quinolone
+T17	Antibiotic_target_alteration 917 928	Alterations
+E3	Antibiotic_target_alteration:T17 Cause:T16
+T18	Antibiotic 1206 1218	beta-lactams
+T19	Antibiotic 1220 1235	chloramphenicol
+T20	Antibiotic 1237 1252	tetracyclines  
+T21	Antibiotic 1256 1266	gentamicin
+T22	Antibiotic 1344 1353	quinolone
+T23	Antibiotic 1395 1404	quinolone
+T24	Bacteria 1421 1443	Pseudomonas aeruginosa
+T25	Antibiotic 1480 1490	quinolones
+T26	Bacteria 1520 1542	Pseudomonas aeruginosa
+T27	Antibiotic 1599 1609	quinolones
+T28	Antibiotic 1614 1626	beta-lactams
+T29	Bacteria 1660 1682	Pseudomonas aeruginosa

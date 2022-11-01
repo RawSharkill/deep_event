@@ -1,0 +1,11 @@
+T1	Bacteria 60 76	Escherichia coli
+T2	Antibiotic 1645 1657	streptomycin
+T3	Antibiotic 378 388	pulvomycin
+T4	Antibiotic 357 367	kirromycin
+T5	Antibiotic 369 373	kirT
+T6	Antibiotic 390 394	pulT
+*	Equiv T6 T3
+*	Equiv T5 T4
+T7	Antibiotic 841 851	kirromycin
+T8	Antibiotic 562 572	kirromycin
+T9	Antibiotic 1358 1369	 pulvomycin

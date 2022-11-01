@@ -1,0 +1,24 @@
+T2	Reduced_permeability_to_antibiotic 164 176	permeability
+E2	Reduced_permeability_to_antibiotic:T2 Cause:T3
+T3	Antibiotic 184 201	 fluoroquinolones
+T1	Antibiotic 245 254	quinolone
+T4	Bacteria 321 343	gram-negative bacteria
+T5	Antibiotic_target_alteration 293 303	alteration
+E1	Antibiotic_target_alteration:T5 Cause:T1 Theme:T4
+T6	Bacteria 71 94	Neisseria   gonorrhoeae
+T7	Antibiotic 365 380	fluoroquinolone
+T8	Antibiotic 911 922	norfloxacin
+T9	Antibiotic 35 46	norfloxacin
+T10	Antibiotic 1859 1868	quinolone
+T11	Antibiotic 1594 1605	norfloxacin
+T12	Antibiotic 1413 1424	norfloxacin
+T13	Antibiotic 988 999	norfloxacin
+T14	Bacteria 391 404	N gonorrhoeae
+*	Equiv T14 T6
+T15	Antibiotic 692 703	norfloxacin
+T16	Antibiotic 501 512	norfloxacin
+T17	Antibiotic 1723 1734	norfloxacin
+T18	Bacteria 1893 1906	N gonorrhoeae
+T19	Antibiotic_target_alteration 1811 1821	alteration
+E3	Antibiotic_target_alteration:T19 Cause:T10 Theme:T18
+T20	Bacteria 205 226	Neisseria gonorrhoeae

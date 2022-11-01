@@ -1,0 +1,20 @@
+T1	Antibiotic 58 70	Tetracycline
+T2	Antibiotic 76 87	Tigecycline
+T3	Antibiotic 473 485	tetracycline
+T4	Antibiotic 490 501	tigecycline
+T5	Bacteria 586 609	Escherichia coli EPI300
+T6	Antibiotic 638 650	tetracycline
+T7	Antibiotic 701 713	tetracycline
+T8	Antibiotic 922 934	tetracycline
+T9	Antibiotic 939 950	tigecycline
+T10	Bacteria 1006 1020	E. coli EPI300
+*	Equiv T10 T5 T11
+T11	Bacteria 1309 1324	E. coli strains
+T12	Antibiotic 1352 1363	tigecycline
+T13	Antibiotic 1369 1380	doxycycline
+T14	Protein 88 91	ABC
+T15	Gene 819 828	tetAB(60)
+T16	Protein 790 793	ABC
+T17	Antibiotic_efflux 830 841	Mutagenesis
+E1	Antibiotic_efflux:T17 Cause:T8 Theme:T5
+E2	Antibiotic_efflux:T17 Cause:T9 Theme:T5

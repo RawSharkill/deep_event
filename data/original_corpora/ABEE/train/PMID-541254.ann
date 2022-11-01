@@ -1,0 +1,9 @@
+T1	Antibiotic 0 15	Chloramphenicol
+T2	Bacteria 46 59	flavobacteria
+T3	Antibiotic 66 81	chloramphenicol
+T4	Bacteria 101 114	flavobacteria
+T5	Antibiotic 207 222	chloramphenicol
+T6	Antibiotic_inactivation 191 202	acetylation
+E1	Antibiotic_inactivation:T6 Cause:T5 Theme:T4
+T7	Antibiotic_inactivation 321 332	degradation
+E2	Antibiotic_inactivation:T7 Cause:T5 Theme:T4

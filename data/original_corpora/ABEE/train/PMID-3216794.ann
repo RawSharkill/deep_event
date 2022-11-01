@@ -1,0 +1,7 @@
+T1	Antibiotic 83 93	fosfomycin
+T2	Antibiotic 178 188	fosfomycin
+T3	Bacteria 334 349	enterobacteriae
+T4	Antibiotic 709 719	fosfomycin
+T5	Antibiotic 29 39	fosfomycin
+T6	Antibiotic_target_alteration 493 502	modifying
+E1	Antibiotic_target_alteration:T6 Cause:T2 Theme:T3

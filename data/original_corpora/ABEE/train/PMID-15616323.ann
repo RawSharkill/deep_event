@@ -1,0 +1,11 @@
+T1	Antibiotic 16 28	trimethoprim
+T2	Bacteria 50 71	Pasteurella multocida
+T3	Antibiotic 83 95	trimethoprim
+T4	Bacteria 180 201	Pasteurella multocida
+T5	Gene 0 6	dfrA20
+T6	Gene 124 130	dfrA20
+T7	Antibiotic_target_replacement 136 144	detected
+E1	Antibiotic_target_replacement:T7 Theme:T4 Cause:T3
+T8	Gene 207 213	dfrA20
+T9	Gene 316 322	DfrA20
+T10	Protein 263 274	amino acids

@@ -1,0 +1,29 @@
+T2	Bacteria 159 188	Acinetobacter baumannii 65FFC
+T4	Antibiotic 420 431	penicillins
+T6	Antibiotic 475 486	ceftazidime
+T7	Antibiotic 488 499	ceftriaxone
+T8	Antibiotic 501 509	cefepime
+T9	Antibiotic 511 520	cefpirome
+T10	Antibiotic 529 538	aztreonam
+T12	Antibiotic 573 583	ampicillin
+T13	Antibiotic 584 593	sulbactam
+T5	Antibiotic 433 462	broad-spectrum cephalosporins
+T1	Bacteria 100 123	Acinetobacter baumannii
+*	Equiv T2 T1
+T11	Antibiotic 193 201	imipenem
+T14	Gene 688 696	bla(IMP)
+T15	Gene 711 721	bla(IMP-5)
+T16	Gene 928 938	bla(IMP-5)
+T17	Protein 48 86	integron-borne  metallo-beta-lactamase
+T18	Gene 30 40	bla(IMP-5)
+T19	Protein 723 743	IMP-5 beta-lactamase
+T20	Gene 1146 1154	bla(IMP)
+T21	Protein 1032 1035	IMP
+T22	Protein 775 780	IMP-1
+T23	Protein 782 787	IMP-3
+T24	Protein 794 799	IMP-4
+T25	Protein 842 847	IMP-2
+T3	Protein 1036 1042	enzyme
+T26	Antibiotic 595 610	aminoglycosides
+T27	Antibiotic 615 625	quinolones
+T28	Protein 892 902	amino acid

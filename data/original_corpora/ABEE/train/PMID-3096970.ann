@@ -1,0 +1,11 @@
+T1	Bacteria 79 96	Bacillus subtilis
+T2	Antibiotic 167 179	erythromycin
+T3	Antibiotic 247 259	erythromycin
+T4	Bacteria 432 449	Bacillus subtilis
+T5	Gene 32 36	ermC
+T6	Protein 46 63	methyltransferase
+T7	Gene 99 103	ermC
+T8	Protein 122 139	methyltransferase
+T9	Gene 410 414	ermC
+T10	Gene 681 685	ermC
+T11	Gene 1046 1050	ermC

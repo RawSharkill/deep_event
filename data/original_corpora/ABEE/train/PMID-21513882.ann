@@ -1,0 +1,19 @@
+T1	Antibiotic_efflux 347 353	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 364 380	Escherichia coli
+T3	Antibiotic 554 564	novobiocin
+T4	Antibiotic 569 589	MC-207,110 inhibitor
+T5	Protein 58 63	AcrAB
+T6	Protein 64 68	TolC
+T7	Protein 310 315	AcrAB
+T8	Protein 316 320	TolC
+T9	Protein 414 418	AcrA
+T10	Protein 450 454	TolC
+T11	Protein 494 498	AcrB
+T12	Protein 614 618	AcrB
+T13	Protein 737 741	AcrA
+T14	Protein 746 750	AcrB
+T15	Protein 774 778	TolC
+T16	Protein 921 922	r
+T17	Protein 958 963	AcrAB
+T18	Protein 964 968	TolC

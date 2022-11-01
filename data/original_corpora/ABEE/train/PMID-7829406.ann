@@ -1,0 +1,12 @@
+T1	Bacteria 41 67	Mycobacterium tuberculosis
+T2	Bacteria 829 855	Mycobacterium tuberculosis
+T3	Bacteria 1194 1209	M. tuberculosis
+T4	Antibiotic 951 960	isoniazid
+T5	Antibiotic 624 633	isoniazid
+T6	Antibiotic 635 645	rifampicin
+T7	Antibiotic 650 662	streptomycin
+T8	Antibiotic 701 711	rifampicin
+T9	Antibiotic 716 728	streptomycin
+T10	Antibiotic 776 785	isoniazid
+T11	Protein 902 906	katG
+T12	Gene 911 915	inhA

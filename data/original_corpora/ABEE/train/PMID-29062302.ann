@@ -1,0 +1,11 @@
+T1	Bacteria 87 130	TEM-1- and CMY-2-Producing Escherichia coli
+T2	Bacteria 173 210	O86:H28 ST156-fimH38 Escherichia coli
+T3	Antibiotic 751 767	fluoroquinolones
+T4	Gene 45 50	qepA4
+T5	Protein 140 145	QepA4
+T6	Gene 277 282	qepA4
+T7	Gene 366 371	qepA4
+T8	Gene 377 382	catA1
+T9	Protein 539 543	QepA
+T10	Antibiotic_efflux 544 551	variant
+E1	Antibiotic_efflux:T10 Cause:T3 Theme:T2

@@ -1,0 +1,22 @@
+T1	Bacteria 51 87	Moraxella (Branhamella)  catarrhalis
+T2	Bacteria 192 227	Moraxella (Branhamella) catarrhalis
+T3	Antibiotic 452 462	vancomycin
+T4	Antibiotic 467 479	trimethoprim
+T5	Bacteria 510 533	Branhamella catarrhalis
+T6	Bacteria 856 865	Moraxella
+T7	Bacteria 936 950	B. catarrhalis
+*	Equiv T7 T5
+T8	Bacteria 1169 1184	Moraxella genus
+T9	Antibiotic 1201 1216	aminoglycosides
+T10	Antibiotic 1221 1233	trimethoprim
+T11	Antibiotic 1234 1250	sulfamethoxazole
+T12	Antibiotic 1305 1317	erythromycin
+T13	Antibiotic 1322 1334	tetracycline
+T14	Bacteria 1397 1411	B. catarrhalis
+T15	Antibiotic 1570 1581	amoxicillin
+T16	Antibiotic 1600 1612	erythromycin
+T17	Antibiotic 1618 1631	tetracyclines
+T18	Antibiotic 1633 1646	ciprofloxacin
+T19	Antibiotic 1653 1665	trimethoprim
+T20	Antibiotic 1666 1682	sulfamethoxazole
+T21	Bacteria 1792 1806	B. catarrhalis

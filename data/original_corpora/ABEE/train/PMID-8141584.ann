@@ -1,0 +1,50 @@
+T1	Bacteria 181 200	Serratia marcescens
+T2	Antibiotic 283 291	imipenem
+T3	Antibiotic 353 361	imipenem
+T4	Bacteria 402 424	Escherichia coli HB101
+T5	Bacteria 454 467	E. coli HB101
+*	Equiv T5 T4
+T6	Antibiotic 785 796	carbapenems
+T7	Antibiotic 807 816	aztreonam
+T8	Antibiotic 879 890	cloxacillin
+T9	Antibiotic 864 875	clavulanate
+T10	Antibiotic 1072 1082	Carbapenem
+T11	Bacteria 1120 1140	S. marcescens TN9106
+T12	Bacteria 1144 1156	E. coli CSH2
+T13	Bacteria 1251 1272	S.  marcescens TN9106
+T14	Bacteria 1460 1475	Bacillus cereus
+T15	Bacteria 1477 1497	Bacteroides fragilis
+T16	Bacteria 1504 1524	Aeromonas hydrophila
+T17	Antibiotic 2116 2127	carbapenems
+T18	Protein 1578 1589	amino  acid
+T19	Protein 1703 1713	amino acid
+T20	Protein 1984 2022	enterobacterial metallo beta-lactamase
+T21	Bacteria 202 208	TN9106
+*	Equiv T21 T1
+T22	Protein 1355 1365	amino acid
+T23	Antibiotic 136 144	imipenem
+T24	Protein 221 244	metallo  beta-lactamase
+T25	Protein 246 251	IMP-1
+T26	Protein 49 71	metallo beta-lactamase
+T27	Protein 296 325	broad-spectrum   beta-lactams
+T28	Gene 500 506	blaIMP
+T29	Gene 657 662	IMP-1
+T30	Protein 747 774	broad-spectrum beta-lactams
+T31	Antibiotic_inactivation 719 729	hydrolyzes
+E1	Antibiotic_inactivation:T31 Cause:T6
+T32	Gene 847 852	IMP-1
+T33	Gene 909 914	IMP-1
+T34	Gene 1211 1217	blaIMP
+T35	Gene 1309 1315	blaIMP
+T36	Gene 1726 1731	IMP-1
+T37	Protein 1758 1768	amino acid
+T38	Gene 1815 1821	 IMP-1
+T39	Protein 1826 1836	amino acid
+T40	Protein 2139 2166	broad-spectrum beta-lactams
+T41	Gene 1545 1551	blaIMP
+T42	Protein 1428 1450	metallo beta-lactamase
+T43	Gene 331 337	blaIMP
+T44	Protein 430 435	IMP-1
+T45	Protein 1053 1059	enzyme
+T46	Protein 1911 1917	enzyme
+T47	Protein 1971 1976	IMP-1

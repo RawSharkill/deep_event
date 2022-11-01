@@ -1,0 +1,19 @@
+T1	Reduced_permeability_to_antibiotic 1430 1442	permeability
+E1	Reduced_permeability_to_antibiotic:T1 Theme:T16
+T2	Antibiotic 1201 1211	fosfomycin
+T3	Antibiotic 23 33	fosfomycin
+T4	Bacteria 69 91	Klebsiella  pneumoniae
+T5	Bacteria 152 173	Klebsiella pneumoniae
+T6	Antibiotic 98 108	fosfomycin
+T7	Antibiotic 344 354	fosfomycin
+T8	Antibiotic 434 444	fosfomycin
+T9	Bacteria 405 411	Tf129B
+T10	Bacteria 750 771	Klebsiella pneumoniae
+T11	Antibiotic 776 786	fosfomycin
+T12	Bacteria 1120 1126	Tf129B
+T13	Bacteria 1267 1273	Tf129B
+T14	Bacteria 1131 1137	Tf408E
+T15	Antibiotic 1292 1302	fosfomycin
+T16	Bacteria 1371 1377	Tf408E
+T17	Antibiotic_inactivation 726 739	 inactivating
+E2	Antibiotic_inactivation:T17 Cause:T11 Theme:T10

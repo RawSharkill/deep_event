@@ -1,0 +1,12 @@
+T1	Bacteria 74 92	Klebsiella oxytoca
+T2	Bacteria 127 145	Klebsiella oxytoca
+T3	Antibiotic 334 344	ampicillin
+T4	Antibiotic 347 358	ceftazidime
+T5	Antibiotic 364 372	cefepime
+T6	Antibiotic 398 406	imipenem
+T7	Antibiotic 411 420	meropenem
+T8	Gene 229 240	bla(IMP-28)
+T10	Gene 304 310	IMP-28
+T11	Protein 28 57	IMP-28 metallo-beta-lactamase
+T12	Protein 163 189	IMP metallo-beta-lactamase
+T13	Protein 455 460	IMP-1

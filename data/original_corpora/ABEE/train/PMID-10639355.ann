@@ -1,0 +1,20 @@
+T1	Antibiotic 43 51	cefepime
+T2	Bacteria 75 91	Escherichia coli
+T5	Bacteria 112 128	Escherichia coli
+T8	Bacteria 416 423	E. coli
+T9	Antibiotic 550 563	cephalosporin
+*	Equiv T8 T2
+T11	Antibiotic 595 603	Cefepime
+T12	Antibiotic 788 801	cephalosporin
+T14	Antibiotic 1095 1108	cephalosporin
+T3	Reduced_permeability_to_antibiotic 0 13	Substitutions
+E1	Reduced_permeability_to_antibiotic:T3 Theme:T2 Cause:T1
+T6	Antibiotic 270 293	beta-lactam antibiotics
+T10	Antibiotic 568 575	colicin
+T13	Reduced_permeability_to_antibiotic 483 492	inserting
+E5	Reduced_permeability_to_antibiotic:T13 Theme:T8 Cause:T9
+T15	Antibiotic 828 835	colicin
+T4	Protein 92 96	OmpF
+T7	Protein 129 133	OmpF
+T16	Protein 424 428	OmpF
+E2	Reduced_permeability_to_antibiotic:T13 Cause:T10 Theme:T8

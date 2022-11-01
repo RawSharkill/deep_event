@@ -1,0 +1,15 @@
+T1	Antibiotic 14 24	pefloxacin
+T2	Bacteria 28 50	Pseudomonas aeruginosa
+T3	Antibiotic 81 91	pefloxacin
+T4	Bacteria 128 150	Pseudomonas aeruginosa
+T5	Antibiotic 532 542	pefloxacin
+T6	Antibiotic 747 757	pefloxacin
+T7	Protein 1023 1025	D2
+T8	Protein 1358 1362	OmpF
+T10	Antibiotic 1508 1518	pefloxacin
+T11	Antibiotic 1722 1732	pefloxacin
+T12	Reduced_permeability_to_antibiotic 1803 1815	permeability
+E1	Reduced_permeability_to_antibiotic:T12 Cause:T11
+T13	Protein 1895 1897	D2
+T9	Bacteria 2033 2046	P. aeruginosa
+*	Equiv T9 T4

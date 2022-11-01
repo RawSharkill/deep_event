@@ -1,0 +1,11 @@
+T1	Bacteria 90 112	Escherichia coli ST648
+T2	Bacteria 280 302	Escherichia coli ST648
+T3	Bacteria 584 591	E. coli
+T4	Antibiotic 633 647	cephalosporins
+T5	Antibiotic 653 664	carbapenems
+T6	Protein 193 210	New Delhi metallo
+T7	Protein 219 222	NDM
+T8	Protein 17 22	NDM-5
+T9	Protein 31 63	New Delhi metallo-beta-lactamase
+T10	Protein 438 443	NDM-5
+T11	Protein 467 474	enzymes

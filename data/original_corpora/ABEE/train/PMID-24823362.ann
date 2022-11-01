@@ -1,0 +1,38 @@
+T1	Bacteria 67 89	Klebsiella  pneumoniae
+T2	Antibiotic_efflux 24 30	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 125 146	Klebsiella pneumoniae
+T4	Bacteria 393 416	K. pneumoniae  bacillus
+T5	Antibiotic_efflux 340 346	efflux
+E2	Antibiotic_efflux:T5 Theme:T4
+T6	Antibiotic 597 609	azithromycin
+T7	Antibiotic 611 622	ceftazidime
+T8	Antibiotic 624 637	ciprofloxacin
+T9	Antibiotic 639 648	ertapenem
+T10	Antibiotic 651 663	erythromycin
+T11	Antibiotic 665 675	gentamicin
+T12	Antibiotic 677 685	imipenem
+T13	Antibiotic 687 698	ticarcillin
+T14	Antibiotic 700 711	norfloxacin
+T15	Antibiotic 713 724	polymyxin-B
+T16	Antibiotic 727 739	piperacillin
+T17	Antibiotic 741 754	spectinomycin
+T18	Antibiotic 756 766	tobramycin
+T19	Antibiotic 771 783	streptomycin
+T20	Bacteria 1028 1041	K. pneumoniae
+T21	Antibiotic_efflux 1013 1024	transporter
+E3	Antibiotic_efflux:T21 Theme:T20
+T23	Bacteria 1188 1201	K. pneumoniae
+T24	Antibiotic_efflux 1088 1094	efflux
+E18	Antibiotic_efflux:T24 Theme:T23
+T25	Bacteria 1318 1331	K. pneumoniae
+T26	Bacteria 1499 1512	K. pneumoniae
+T27	Antibiotic_efflux 1383 1389	efflux
+E19	Antibiotic_efflux:T27 Theme:T26
+*	Equiv T20 T1
+T22	Gene 529 534	kpnGH
+T28	Gene 1125 1130	kpnGH
+T29	Gene 1208 1213	kpnGH
+T30	Protein 1395 1400	KpnGH
+T31	Protein 1379 1382	MFS
+T32	Protein 335 338	MFS

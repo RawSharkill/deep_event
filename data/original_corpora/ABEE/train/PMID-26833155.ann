@@ -1,0 +1,21 @@
+T1	Bacteria 87 109	Pseudomonas aeruginosa
+T2	Antibiotic_target_replacement 11 24	Substitutions
+E1	Antibiotic_target_replacement:T2 Theme:T1
+T3	Bacteria 144 166	Pseudomonas aeruginosa
+T4	Antibiotic_efflux 196 202	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Antibiotic 372 385	ciprofloxacin
+T6	Antibiotic 418 426	imipenem
+T7	Gene 522 526	nfxC
+T8	Gene 476 480	OprD
+T9	Gene 693 697	mexS
+T10	Gene 739 743	MexS
+T11	Gene 789 799	mexEF-oprN
+T12	Gene 838 842	MexT
+T13	Gene 873 877	nfxC
+T14	Gene 927 931	MexS
+T15	Gene 1186 1190	mexS
+T16	Gene 1191 1195	mexT
+T17	Gene 1196 1200	mvaT
+T18	Gene 1206 1210	ampR
+T19	Gene 1339 1343	nfxC

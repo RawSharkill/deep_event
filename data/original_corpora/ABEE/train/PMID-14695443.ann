@@ -1,0 +1,49 @@
+T1	Antibiotic_efflux 61 67	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 79 104	Haemophilus influenzae Rd
+T3	Antibiotic 141 152	norfloxacin
+T5	Bacteria 194 216	Haemophilus influenzae
+T6	Bacteria 300 323	Vibrio parahaemolyticus
+T7	Bacteria 336 354	Escherichia   coli
+T10	Antibiotic 512 523	norfloxacin
+T11	Antibiotic 536 547	acriflavine
+T12	Antibiotic 549 580	4 ', 6-diamidino-2-phenylindole
+T13	Antibiotic 583 594	doxorubicin
+T14	Antibiotic 596 612	ethidium bromide
+T15	Antibiotic 614 645	tetraphenylphosphonium chloride
+T16	Antibiotic 647 660	Hoechst 33342
+T17	Antibiotic 663 673	daunomycin
+T18	Antibiotic 675 684	berberine
+T19	Antibiotic 690 709	sodium deoxycholate
+T20	Bacteria 713 735	Escherichia coli KAM32
+T21	Antibiotic_efflux 797 803	efflux
+E14	Antibiotic_efflux:T21 Theme:T24 Cause:T22
+T22	Antibiotic 807 815	ethidium
+T24	Bacteria 858 871	E. coli KAM32
+*	Equiv T24 T20
+T4	Protein 46 50	HmrM
+T8	Gene 248 252	hmrM
+T9	Protein 254 258	HmrM
+T23	Protein 292 296	NorM
+T25	Protein 328 332	YdhE
+T26	Protein 385 389	MATE
+T27	Gene 459 463	hmrM
+T28	Antibiotic 824 832	ethidium
+T29	Gene 914 918	hmrM
+T30	Protein 953 957	HmrM
+T31	Protein 1072 1076	HmrM
+T32	Protein 1078 1082	NorM
+T33	Protein 1088 1092	YdhE
+T34	Antibiotic_efflux 125 136	responsible
+E2	Antibiotic_efflux:T34 Theme:T5 Cause:T3
+T35	Antibiotic_efflux 469 478	conferred
+E3	Antibiotic_efflux:T35 Cause:T10 Theme:T20
+E4	Antibiotic_efflux:T35 Cause:T11 Theme:T20
+E5	Antibiotic_efflux:T35 Cause:T12 Theme:T20
+E6	Antibiotic_efflux:T35 Cause:T13 Theme:T20
+E7	Antibiotic_efflux:T35 Cause:T14 Theme:T20
+E8	Antibiotic_efflux:T35 Cause:T15 Theme:T20
+E9	Antibiotic_efflux:T35 Cause:T16 Theme:T20
+E10	Antibiotic_efflux:T35 Cause:T17 Theme:T20
+E11	Antibiotic_efflux:T35 Cause:T18 Theme:T20
+E12	Antibiotic_efflux:T35 Cause:T19 Theme:T20

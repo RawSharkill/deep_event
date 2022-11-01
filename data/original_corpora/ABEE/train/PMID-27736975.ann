@@ -1,0 +1,44 @@
+T1	Bacteria 139 162	Pseudomonas  aeruginosa
+T2	Bacteria 261 283	Pseudomonas aeruginosa
+T3	Bacteria 405 421	Escherichia coli
+T4	Bacteria 507 520	P. aeruginosa
+T5	Bacteria 622 635	P. aeruginosa
+*	Equiv T4 T1
+T6	Bacteria 756 769	P. aeruginosa
+T7	Bacteria 900 913	P. aeruginosa
+T8	Bacteria 1585 1598	P. aeruginosa
+T9	Antibiotic_efflux 203 209	efflux
+E1	Antibiotic_efflux:T9 Theme:T2
+T10	Protein 0 4	CpxR
+T11	Protein 15 25	MexAB-OprM
+T12	Gene 117 121	nalB
+T13	Antibiotic_efflux 26 32	Efflux
+E2	Antibiotic_efflux:T13 Theme:T1
+T14	Protein 320 324	CpxR
+T15	Protein 493 503	MexAB-OprM
+T16	Protein 534 538	CpxR
+T17	Gene 584 588	mexA
+T18	Protein 645 649	CpxR
+T19	Gene 674 679	mexAB
+T20	Protein 747 751	MexR
+T21	Gene 797 801	mexR
+T22	Gene 865 869	nalB
+T23	Protein 979 983	CpxR
+T24	Protein 1134 1138	CpxR
+T25	Gene 680 684	oprM
+T26	Gene 1178 1183	mexAB
+T27	Gene 1184 1188	oprM
+T28	Protein 1250 1254	MexR
+T29	Antibiotic 1269 1279	cefsulodin
+T30	Antibiotic 1259 1268	ofloxacin
+T31	Antibiotic_efflux 1164 1174	expression
+E3	Antibiotic_efflux:T31 Cause:T30 Theme:T6
+E4	Antibiotic_efflux:T31 Cause:T29 Theme:T6
+T32	Protein 1342 1346	CpxR
+T33	Gene 1374 1378	mexR
+T34	Protein 1457 1461	CpxR
+T35	Protein 1470 1480	MexAB-OprM
+T36	Antibiotic_efflux 1481 1487	efflux
+E5	Antibiotic_efflux:T36 Theme:T8
+T37	Antibiotic_efflux 685 695	expression
+E6	Antibiotic_efflux:T37 Theme:T6

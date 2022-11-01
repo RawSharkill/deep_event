@@ -1,0 +1,36 @@
+T1	Bacteria 59 79	Lactococcus garvieae
+T2	Bacteria 183 203	Lactococcus garvieae
+T3	Antibiotic 275 290	chloramphenicol
+T4	Antibiotic 292 305	ciprofloxacin
+T5	Antibiotic 307 319	erythromycin
+T6	Antibiotic 322 324	EM
+*	Equiv T6 T5
+T7	Antibiotic 327 335	enoxacin
+T8	Antibiotic 337 347	fleroxacin
+T9	Antibiotic 349 360	florfenicol
+T10	Antibiotic 362 371	kanamycin
+T11	Antibiotic 373 383	lincomycin
+T12	Antibiotic 385 388	LCM
+*	Equiv T12 T11
+T13	Antibiotic 392 403	norfloxacin
+T14	Antibiotic 405 418	oxolinic acid
+T15	Antibiotic 420 432	orbifloxacin
+T16	Antibiotic 434 443	ofloxacin
+T17	Antibiotic 445 461	benzylpenicillin
+T18	Antibiotic 464 476	streptomycin
+T19	Antibiotic 481 493	tetracycline
+T20	Antibiotic 495 497	TC
+*	Equiv T20 T19
+T21	Antibiotic 564 566	EM
+T22	Antibiotic 568 571	LCM
+T23	Antibiotic 576 578	TC
+T24	Antibiotic 990 992	EM
+T25	Antibiotic 997 999	TC
+T26	Antibiotic 1171 1181	quinolones
+T27	Antibiotic 1242 1244	EM
+T28	Antibiotic 1246 1249	LCM
+T29	Antibiotic 1254 1256	TC
+T30	Gene 1092 1096	gyrA
+T31	Gene 1106 1110	parC
+T32	Gene 1043 1047	ermB
+T33	Gene 1052 1056	tetS

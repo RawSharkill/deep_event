@@ -1,0 +1,33 @@
+T1	Bacteria 12 34	Pseudomonas aeruginosa
+T2	Antibiotic 38 47	pyocyanin
+T3	Bacteria 166 188	Pseudomonas aeruginosa
+T4	Antibiotic 214 223	pyocyanin
+T5	Antibiotic 225 234	Pyocyanin
+T6	Bacteria 410 423	P. aeruginosa
+*	Equiv T6 T3
+T7	Antibiotic 432 441	pyocyanin
+T8	Antibiotic 448 457	pyocyanin
+T9	Bacteria 480 496	Escherichia coli
+T10	Bacteria 501 514	P. aeruginosa
+T11	Antibiotic 691 700	pyocyanin
+T12	Bacteria 709 723	P.  aeruginosa
+T13	Bacteria 732 739	E. coli
+*	Equiv T13 T9
+T14	Bacteria 741 754	P. aeruginosa
+T15	Bacteria 805 812	E. coli
+T16	Bacteria 978 991	P. aeruginosa
+T17	Antibiotic 1007 1016	pyocyanin
+T18	Bacteria 1046 1053	E. coli
+T19	Bacteria 1074 1081	E. coli
+T20	Antibiotic 1101 1110	pyocyanin
+T21	Antibiotic 1169 1178	pyocyanin
+T22	Bacteria 1221 1234	P. aeruginosa
+T23	Antibiotic 1254 1263	pyocyanin
+T24	Antibiotic 1324 1333	pyocyanin
+T25	Bacteria 1419 1433	P.  aeruginosa
+T26	Antibiotic 1437 1446	pyocyanin
+T27	Antibiotic 1501 1510	pyocyanin
+T28	Bacteria 1702 1715	P. aeruginosa
+T29	Bacteria 1861 1874	P. aeruginosa
+T30	Antibiotic 1883 1892	pyocyanin
+T31	Antibiotic 1979 1988	pyocyanin

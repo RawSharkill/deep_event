@@ -1,0 +1,14 @@
+T1	Antibiotic 57 67	vancomycin
+T2	Antibiotic 73 84	teicoplanin
+T3	Antibiotic 124 134	vancomycin
+T4	Bacteria 154 165	enterococci
+T5	Antibiotic 231 241	vancomycin
+T6	Bacteria 298 309	enterococci
+T7	Antibiotic 831 841	vancomycin
+T8	Antibiotic 846 857	teicoplanin
+T9	Antibiotic 987 997	vancomycin
+T10	Antibiotic 1002 1013	teicoplanin
+T11	Antibiotic 1341 1351	vancomycin
+T12	Bacteria 1370 1381	enterococci
+T13	Protein 765 770	VanSA
+T14	Protein 1294 1299	VanSA

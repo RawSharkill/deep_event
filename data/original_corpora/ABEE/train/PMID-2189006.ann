@@ -1,0 +1,19 @@
+T1	Antibiotic 12 24	trimethoprim
+T2	Bacteria 42 58	Shigella species
+T3	Bacteria 144 160	Shigella species
+T4	Antibiotic 108 120	Trimethoprim
+T5	Antibiotic 122 125	TMP
+*	Equiv T5 T4
+T6	Antibiotic 268 271	TMP
+T7	Bacteria 282 290	Shigella
+*	Equiv T7 T3
+T8	Antibiotic 439 442	TMP
+T9	Protein 486 517	type I  dihydrofolate reductase
+T10	Protein 519 523	DHFR
+T11	Gene 727 739	type I  DHFR
+T12	Bacteria 805 822	Shigella  species
+T13	Gene 890 902	type V  DHFR
+T14	Gene 946 957	type V DHFR
+T15	Gene 981 994	type III DHFR
+T16	Antibiotic 1061 1064	TMP
+T17	Gene 1129 1133	DHFR

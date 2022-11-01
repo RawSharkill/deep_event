@@ -1,0 +1,34 @@
+T1	Bacteria 151 168	Escherichia  coli
+T4	Bacteria 175 191	Escherichia coli
+T5	Antibiotic_target_protection 207 215	protects
+E2	Antibiotic_target_protection:T5 Theme:T4
+T2	Protein 50 54	GadX
+T3	Protein 59 63	GadW
+T6	Gene 71 75	gadA
+T7	Gene 81 86	gadBC
+T8	Gene 329 333	gadA
+T9	Gene 336 340	gadB
+T10	Gene 346 350	gadC
+T11	Protein 603 607	GadC
+T12	Gene 635 639	gadA
+T13	Gene 644 649	gadBC
+T14	Protein 822 826	AraC
+T15	Protein 843 847	GadX
+T16	Protein 852 856	GadW
+T17	Gene 900 904	gadA
+T18	Gene 909 914	gadBC
+T19	Gene 1096 1100	gadA
+T20	Protein 1186 1190	H-NS
+T21	Gene 1208 1213	gadBC
+T22	Protein 1427 1431	GadX
+T23	Protein 1437 1441	GadW
+T24	Gene 1503 1507	gadA
+T25	Protein 1518 1522	GadX
+T26	Protein 1527 1531	GadW
+T27	Protein 1569 1573	H-NS
+T28	Gene 1614 1619	gadBC
+T29	Protein 433 437	GABA
+T30	Protein 402 431	glutamate/gamma-aminobutyrate
+T31	Protein 543 547	GABA
+T32	Gene 1062 1067	gadBC
+T33	Gene 1053 1057	gadA

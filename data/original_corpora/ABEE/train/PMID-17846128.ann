@@ -1,0 +1,17 @@
+T1	Antibiotic 46 56	ethambutol
+T2	Bacteria 64 91	Mycobacterium  tuberculosis
+T3	Bacteria 137 163	Mycobacterium tuberculosis
+T4	Antibiotic 246 256	ethambutol
+T5	Antibiotic 258 267	isoniazid
+T6	Antibiotic 269 277	rifampin
+T7	Antibiotic 284 293	ofloxacin
+T8	Antibiotic 376 386	ethambutol
+T9	Antibiotic 479 489	ethambutol
+T10	Antibiotic 494 502	rifampin
+T11	Gene 28 32	embB
+T12	Gene 337 341	embB
+T13	Antibiotic_target_alteration 342 351	mutations
+E1	Antibiotic_target_alteration:T13 Cause:T10
+E2	Antibiotic_target_alteration:T13 Cause:T9
+T14	Antibiotic_target_alteration 33 41	mutation
+E3	Antibiotic_target_alteration:T14 Cause:T1 Theme:T2

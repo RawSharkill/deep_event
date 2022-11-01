@@ -1,0 +1,7 @@
+T1	Bacteria 55 79	Saccharomyces cerevisiae
+T2	Bacteria 117 130	S. cerevisiae
+*	Equiv T2 T1
+T3	Gene 314 318	bls1
+T4	Gene 323 327	bls2
+T5	Gene 352 356	bls1
+T6	Gene 374 378	ilv3

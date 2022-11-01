@@ -1,0 +1,22 @@
+T1	Antibiotic 34 43	quinolone
+T2	Bacteria 58 80	Pseudomonas aeruginosa
+T3	Antibiotic 184 194	quinolones
+T4	Bacteria 217 240	Pseudomonas  aeruginosa
+T5	Antibiotic 338 348	pefloxacin
+T6	Antibiotic 395 404	Quinolone
+T7	Antibiotic 560 572	beta-lactams
+T8	Antibiotic 574 586	tetracycline
+T9	Antibiotic 592 607	chloramphenicol
+T10	Antibiotic 638 649	norfloxacin
+T11	Antibiotic 779 790	norfloxacin
+T12	Antibiotic 1162 1172	quinolones
+T13	Antibiotic 1319 1330	norfloxacin
+T14	Antibiotic 1382 1393	norfloxacin
+T15	Antibiotic 1423 1433	quinolones
+T16	Antibiotic 1438 1453	chloramphenicol
+T17	Antibiotic 1474 1485	norfloxacin
+T18	Antibiotic 1700 1709	quinolone
+T19	Antibiotic 1831 1842	norfloxacin
+T20	Bacteria 1991 2004	P. aeruginosa
+T21	Antibiotic_target_replacement 1940 1951	alterations
+E1	Antibiotic_target_replacement:T21 Cause:T19 Theme:T20

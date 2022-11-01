@@ -1,0 +1,43 @@
+T1	Antibiotic 23 46	beta-lactam antibiotics
+T2	Antibiotic 102 125	beta-lactam antibiotics
+T3	Antibiotic 158 181	beta-lactam antibiotics
+T4	Bacteria 280 303	Clostridium perfringens
+T5	Bacteria 305 320	anaerobic cocci
+T6	Bacteria 325 336	curved rods
+T7	Antibiotic 379 391	beta-lactams
+T8	Bacteria 400 412	C. difficile
+T9	Antibiotic 433 449	benzylpenicillin
+T10	Antibiotic 451 463	piperacillin
+T11	Antibiotic 468 476	imipenem
+T12	Antibiotic 531 545	cephalosporins
+T13	Bacteria 552 564	fusobacteria
+T14	Antibiotic 590 613	beta-lactam antibiotics
+T15	Antibiotic 685 696	penicillins
+T16	Bacteria 710 730	Bacteroides fragilis
+T17	Antibiotic 738 746	imipenem
+T18	Antibiotic 778 788	moxalactam
+T19	Antibiotic 790 802	piperacillin
+T20	Antibiotic 807 816	cefoxitin
+T21	Bacteria 859 883	Bacteroides non-fragilis
+T22	Antibiotic 919 942	beta-lactam antibiotics
+T23	Antibiotic 1033 1044	penicillins
+T24	Antibiotic 1121 1132	beta-lactam
+T25	Antibiotic 1277 1289	beta-lactams
+T26	Bacteria 1377 1388	Bacteroides
+T27	Bacteria 1393 1412	Clostridium species
+T28	Antibiotic 1571 1582	beta-lactam
+T29	Antibiotic 1515 1525	penicillin
+T30	Antibiotic 1222 1232	penicillin
+T31	Antibiotic_target_alteration 1207 1217	alteration
+E1	Antibiotic_target_alteration:T31 Cause:T30 Theme:T32
+T32	Bacteria 1149 1167	anaerobic bacteria
+T33	Bacteria 0 18	Anaerobic bacteria
+T34	Bacteria 79 97	anaerobic bacteria
+T35	Reduced_permeability_to_antibiotic 1262 1273	penetration
+E2	Reduced_permeability_to_antibiotic:T35 Cause:T25 Theme:T32
+T36	Antibiotic_inactivation 1190 1205	beta-lactamases
+E3	Antibiotic_inactivation:T36 Theme:T32 Cause:T24
+T37	Reduced_permeability_to_antibiotic 1548 1559	penetration
+E4	Reduced_permeability_to_antibiotic:T37 Cause:T28
+T38	Protein 1349 1364	beta-lactamases
+T39	Protein 1474 1489	beta-lactamases

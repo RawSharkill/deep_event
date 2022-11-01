@@ -1,0 +1,66 @@
+T2	Antibiotic 20 35	chloramphenicol
+T3	Antibiotic 40 51	florfenicol
+T4	Bacteria 66 83	Escherichia  coli
+T5	Antibiotic 119 130	Florfenicol
+T6	Antibiotic 167 180	thiamphenicol
+T7	Antibiotic 273 284	florfenicol
+T9	Bacteria 334 350	Escherichia coli
+T11	Antibiotic 438 449	florfenicol
+T12	Antibiotic 454 469	chloramphenicol
+T13	Bacteria 506 530	Photobacterium piscicida
+T14	Bacteria 535 580	Salmonella enterica serovar Typhimurium DT104
+T15	Bacteria 657 680	Pseudomonas  aeruginosa
+T16	Antibiotic_efflux 753 759	efflux
+E4	Antibiotic_efflux:T16 Theme:T15 Cause:T18
+T18	Antibiotic 704 732	nonenzymatic chloramphenicol
+T19	Antibiotic 866 881	chloramphenicol
+T20	Antibiotic 886 897	florfenicol
+T22	Bacteria 783 790	E. coli
+T23	Antibiotic 1009 1020	florfenicol
+T25	Antibiotic 1122 1133	florfenicol
+T26	Bacteria 1209 1216	E. coli
+T27	Antibiotic 1255 1270	chloramphenicol
+T28	Antibiotic 1389 1400	florfenicol
+T29	Antibiotic 1405 1420	chloramphenicol
+T30	Bacteria 1501 1508	E. coli
+T33	Bacteria 1774 1781	E. coli
+T35	Bacteria 1839 1846	E. coli
+T37	Bacteria 1941 1949	E.  coli
+T40	Antibiotic 2066 2077	florfenicol
+T41	Antibiotic 2082 2097	chloramphenicol
+T43	Bacteria 2130 2137	E. coli
+T24	Bacteria 1095 1102	E. coli
+*	Equiv T22 T4 T24 T26 T33 T43 T35 T31
+T31	Bacteria 1999 2006	E. coli
+T1	Gene 398 401	flo
+T8	Gene 587 590	flo
+T10	Protein 630 634	CmlA
+T17	Gene 686 690	cmlA
+T21	Gene 949 952	flo
+T32	Gene 957 961	cmlA
+T34	Antibiotic_efflux 414 421	confers
+E1	Antibiotic_efflux:T34 Cause:T11 Theme:T13
+E2	Antibiotic_efflux:T34 Cause:T12 Theme:T13
+E3	Antibiotic_efflux:T34 Cause:T11 Theme:T14
+E5	Antibiotic_efflux:T34 Cause:T12 Theme:T14
+T36	Gene 1081 1084	flo
+T38	Gene 1185 1188	flo
+T42	Gene 1245 1249	cmlA
+T44	Gene 1365 1368	flo
+T45	Gene 1373 1377	cmlA
+T46	Gene 1509 1512	flo
+T47	Gene 1647 1650	flo
+T48	Antibiotic 1817 1838	florfenicol-resistant
+T49	Gene 1985 1988	flo
+T50	Gene 2007 2010	flo
+T51	Gene 1608 1611	flo
+T52	Antibiotic 1752 1773	florfenicol-resistant
+T53	Antibiotic_efflux 1660 1670	identified
+E6	Antibiotic_efflux:T53 Cause:T52 Theme:T33
+T54	Antibiotic_efflux 1864 1873	contained
+E7	Antibiotic_efflux:T54 Theme:T35 Cause:T48
+T39	Antibiotic_efflux 2041 2057	cross-resistance
+E8	Antibiotic_efflux:T39 Theme:T31 Cause:T40
+E9	Antibiotic_efflux:T39 Theme:T31 Cause:T41
+T55	Bacteria 1620 1632	P. piscicida
+*	Equiv T55 T13

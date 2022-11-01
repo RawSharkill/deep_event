@@ -1,0 +1,40 @@
+T1	Antibiotic 58 68	macrolides
+T2	Bacteria 73 91	Mycoplasma hominis
+T3	Bacteria 96 117	Mycoplasma fermentans
+T5	Antibiotic_target_alteration 0 9	Mutations
+E2	Antibiotic_target_alteration:T5 Theme:T2 Cause:T1
+E4	Antibiotic_target_alteration:T5 Theme:T3 Cause:T1
+T6	Antibiotic 150 160	macrolides
+T7	Bacteria 164 174	M. hominis
+E6	Antibiotic_target_alteration:T5 Theme:T7 Cause:T1
+T9	Bacteria 220 238	Mycoplasma hominis
+T11	Bacteria 320 334	M.  pneumoniae
+T12	Antibiotic 370 380	macrolides
+T15	Antibiotic 396 408	erythromycin
+T16	Bacteria 432 447	M. hominis PG21
+T17	Antibiotic 518 530	erythromycin
+T18	Bacteria 678 688	M. hominis
+T19	Bacteria 759 772	M. pneumoniae
+T20	Antibiotic 631 650	[(14)C]erythromycin
+T21	Bacteria 890 900	M. hominis
+T22	Bacteria 944 958	M.  pneumoniae
+T23	Bacteria 960 970	M. hominis
+T24	Bacteria 1035 1048	M. fermentans
+T25	Bacteria 1058 1068	mycoplasma
+T26	Antibiotic 1077 1089	erythromycin
+T29	Antibiotic 1268 1269	i
+T28	Bacteria 1192 1220	M. hominis clinical isolates
+T31	Bacteria 1767 1777	M. hominis
+T32	Antibiotic 1781 1811	14- and 15-membered macrolides
+T10	Antibiotic 242 273	14- and  15-membered macrolides
+T35	Antibiotic 1884 1893	macrolide
+T36	Antibiotic 1895 1906	lincosamide
+T37	Antibiotic 1914 1927	streptogramin
+T34	Bacteria 1842 1870	mycoplasma clinical isolates
+T39	Antibiotic_target_alteration 1952 1960	mutation
+E15	Antibiotic_target_alteration:T39 Theme:T34
+T4	Antibiotic_efflux 598 604	efflux
+E1	Antibiotic_efflux:T4 Cause:T17
+T8	Antibiotic_target_alteration 1291 1300	mutations
+E3	Antibiotic_target_alteration:T8 Cause:T29 Theme:T28
+T13	Bacteria 1164 1174	M. hominis

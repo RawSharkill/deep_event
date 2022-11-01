@@ -1,0 +1,29 @@
+T1	Bacteria 72 83	enterococci
+T2	Bacteria 181 192	enterococci
+T3	Bacteria 372 394	Enterococcus  faecalis
+T4	Bacteria 404 414	E. faecium
+T5	Bacteria 418 431	E. gallinarum
+T6	Bacteria 435 443	E. avium
+T7	Bacteria 447 463	E. casseliflavus
+T8	Bacteria 469 482	E. raffinosus
+T9	Bacteria 490 498	E. hirae
+T10	Bacteria 536 547	E. faecalis
+T11	Antibiotic 825 835	gentamicin
+T12	Antibiotic 839 851	streptomycin
+T13	Bacteria 922 933	E. faecalis
+T14	Antibiotic 957 967	vancomycin
+T15	Bacteria 1034 1045	E. faecalis
+T16	Bacteria 1056 1066	E. faecium
+T17	Bacteria 1116 1127	E. faecalis
+T18	Antibiotic 1140 1150	penicillin
+T19	Antibiotic 1152 1162	ampicillin
+T20	Antibiotic 1165 1177	piperacillin
+T21	Antibiotic 1179 1187	imipenem
+T22	Antibiotic 1193 1206	ciprofloxacin
+T23	Antibiotic 1327 1340	ciprofloxacin
+T24	Antibiotic 1349 1360	penicillins
+T25	Bacteria 1423 1434	enterococci
+T26	Antibiotic 1545 1555	vancomycin
+T27	Bacteria 125 137	Enterococcal
+T28	Bacteria 1281 1292	enterococci
+T29	Antibiotic 1497 1512	aminoglycosides

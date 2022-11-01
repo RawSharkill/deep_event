@@ -1,0 +1,17 @@
+T1	Antibiotic_target_alteration 0 9	Mutations
+E1	Antibiotic_target_alteration:T1 Theme:T3
+T3	Bacteria 74 86	pneumococcal
+T4	Antibiotic 282 294	azithromycin
+T5	Bacteria 192 216	Streptococcus pneumoniae
+T7	Antibiotic 116 125	macrolide
+T8	Antibiotic 168 177	macrolide
+T2	Antibiotic_target_alteration 218 225	mutants
+E2	Antibiotic_target_alteration:T2 Theme:T5 Cause2:T8
+T6	Protein 1542 1553	amino acids
+T9	Antibiotic 1719 1728	macrolide
+T10	Bacteria 1739 1752	S. pneumoniae
+T11	Protein 1588 1599	amino acids
+T12	Protein 1454 1464	amino acid
+T13	Protein 1363 1374	amino acids
+T14	Antibiotic 1075 1085	macrolides
+T15	Antibiotic 369 379	macrolides

@@ -1,0 +1,18 @@
+T1	Bacteria 97 113	Escherichia coli
+T2	Bacteria 150 166	Escherichia coli
+T3	Bacteria 257 264	E. coli
+*	Equiv T3 T2
+T4	Gene 29 34	soxRS
+T5	Gene 292 296	marC
+T6	Gene 363 368	soxRS
+T7	Gene 551 556	soxRS
+T8	Gene 641 645	marC
+T9	Gene 910 917	soxR201
+T10	Gene 692 699	soxR201
+T11	Gene 1543 1547	MarA
+T12	Gene 1457 1461	marA
+T13	Gene 1467 1471	soxS
+T14	Protein 1263 1267	MarA
+T15	Antibiotic_target_alteration 204 213	mutations
+E1	Antibiotic_target_alteration:T15 Theme:T2
+T16	Gene 1219 1224	soxRS

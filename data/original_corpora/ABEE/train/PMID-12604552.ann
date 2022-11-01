@@ -1,0 +1,12 @@
+T1	Bacteria 128 146	Campylobacter spp.
+T2	Antibiotic 104 113	macrolide
+T3	Bacteria 229 247	Campylobacter spp.
+T4	Antibiotic 275 285	macrolides
+T5	Antibiotic 324 336	erythromycin
+T6	Bacteria 460 479	Helicobacter pylori
+T7	Antibiotic_target_alteration 78 87	mutations
+E1	Antibiotic_target_alteration:T7 Cause:T2 Theme:T1
+T8	Antibiotic_target_alteration 297 306	mutations
+E2	Antibiotic_target_alteration:T8 Cause:T5 Theme:T6
+T9	Protein 700 704	BsaI
+T10	Protein 711 716	BceAI

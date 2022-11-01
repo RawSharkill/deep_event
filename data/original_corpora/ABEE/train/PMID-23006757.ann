@@ -1,0 +1,21 @@
+T1	Antibiotic 133 142	meropenem
+T2	Antibiotic 556 576	carbapenem meropenem
+T4	Protein 43 66	metallo-beta-lactamases
+T5	Protein 155 178	Metallo-beta-lactamases
+T6	Protein 67 72	IMP-1
+T7	Protein 338 343	IMP-1
+T8	Antibiotic_inactivation 534 544	inactivate
+E1	Antibiotic_inactivation:T8 Cause:T2
+T9	Protein 370 375	IMP-1
+T10	Protein 660 665	IMP-1
+T11	Protein 670 675	IMP-6
+T12	Protein 648 654	IMP-25
+T13	Protein 74 79	IMP-6
+T14	Protein 87 93	IMP-25
+T15	Protein 480 485	IMP-6
+T16	Protein 490 496	IMP-25
+T17	Protein 356 362	IMP-25
+T18	Protein 345 350	IMP-6
+T19	Protein 330 337	enzymes
+T20	Protein 399 405	enzyme
+T21	Protein 687 693	enzyme

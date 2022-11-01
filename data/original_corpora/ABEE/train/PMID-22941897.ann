@@ -1,0 +1,32 @@
+T1	Bacteria 85 106	Staphylococcus aureus
+T2	Bacteria 258 301	methicillin-resistant Staphylococcus aureus
+T3	Bacteria 303 307	MRSA
+T4	Bacteria 581 590	S. aureus
+*	Equiv T4 T1
+T5	Bacteria 885 889	MRSA
+T6	Bacteria 1061 1065	MRSA
+T7	Antibiotic 1216 1225	linezolid
+T8	Antibiotic 1227 1237	rifampicin
+T9	Antibiotic 1239 1248	kanamycin
+T10	Antibiotic 1250 1261	norfloxacin
+T11	Antibiotic 1264 1276	erythromycin
+T12	Antibiotic 1278 1289	clindamycin
+T13	Antibiotic 1291 1303	fusidic acid
+T14	Antibiotic 1305 1317	tetracycline
+T15	Antibiotic 1320 1332	trimethoprim
+T16	Antibiotic 1333 1349	sulfamethoxazole
+T17	Antibiotic 1354 1363	mupirocin
+T18	Bacteria 1540 1544	MRSA
+T19	Bacteria 1706 1710	MRSA
+T20	Gene 901 905	mecA
+T21	Gene 211 215	mecA
+T22	Gene 1566 1570	mecA
+T23	Gene 20 24	mecA
+T24	Bacteria 484 488	MRSA
+T25	Gene 754 758	mecA
+T26	Gene 710 714	mecA
+T27	Bacteria 723 727	MRSA
+T28	Antibiotic 63 74	methicillin
+T29	Gene 195 199	mecA
+T30	Gene 509 513	mecA
+T31	Gene 1785 1789	mecA

@@ -1,0 +1,3 @@
+Inactivation of rifampin by Nocardia brasiliensis. 
+
+Rifampin was glycosylated by a pathogenic species of Nocardia, i.e., Nocardia  brasiliensis. The structures of two glycosylated compounds (RIP-1 and RIP-2)  isolated from the culture broth of the bacterium were determined to be  3-formyl-23-(O-[beta-D-glucopyranosyl])rifamycin SV and  23-(O-[beta-D-glucopyranosyl])rifampin, respectively. Both compounds lacked  antimicrobial activity against other gram-positive bacteria as well as the  Nocardia species.

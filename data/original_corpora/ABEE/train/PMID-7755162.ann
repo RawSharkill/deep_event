@@ -1,0 +1,12 @@
+T1	Antibiotic 655 667	tetracycline
+T2	Bacteria 209 225	Escherichia coli
+T3	Bacteria 173 194	Staphylococcus aureus
+T4	Bacteria 228 249	Klebsiella pneumoniae
+T5	Bacteria 251 271	Enterobacter cloacae
+T6	Bacteria 277 296	Bacteroides species
+T7	Antibiotic 580 593	penicillinase
+T8	Antibiotic 535 545	penicillin
+T9	Antibiotic_target_alteration 520 530	alteration
+E1	Antibiotic_target_alteration:T9 Cause:T8
+T10	Antibiotic_target_protection 641 651	protection
+E2	Antibiotic_target_protection:T10 Cause:T1

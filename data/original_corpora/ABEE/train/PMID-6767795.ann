@@ -1,0 +1,12 @@
+T1	Bacteria 37 58	gram-negative bacilli
+T2	Antibiotic 103 113	gentamicin
+T3	Bacteria 124 145	gram-negative bacilli
+T4	Antibiotic 431 441	gentamicin
+T5	Bacteria 533 555	Pseudomonas aeruginosa
+T6	Antibiotic 8 22	aminoglycoside
+T7	Antibiotic 937 951	aminoglycoside
+T8	Bacteria 1113 1131	Enterobacteriaceae
+T9	Antibiotic 1230 1244	aminoglycoside
+T10	Bacteria 1033 1050	resistant bacilli
+T11	Bacteria 331 349	Enterobacteriaceae
+T12	Bacteria 776 794	Enterobacteriaceae

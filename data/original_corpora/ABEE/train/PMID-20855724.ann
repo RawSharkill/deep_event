@@ -1,0 +1,18 @@
+T1	Antibiotic 0 8	Colistin
+T2	Bacteria 23 46	Acinetobacter baumannii
+T3	Antibiotic 225 234	Polymyxin
+T4	Antibiotic 255 263	colistin
+T5	Bacteria 377 400	Acinetobacter baumannii
+T6	Bacteria 420 434	A.   baumannii
+*	Equiv T6 T5
+T7	Antibiotic 469 478	polymyxin
+T8	Bacteria 752 764	A. baumannii
+T9	Bacteria 1091 1103	A. baumannii
+T10	Antibiotic 1052 1060	colistin
+T11	Bacteria 1192 1215	Gram-negative bacterium
+T12	Bacteria 160 182	Gram-negative bacteria
+T13	Bacteria 342 365	Gram-negative pathogens
+T14	Bacteria 661 683	Gram-negative bacteria
+T15	Antibiotic 717 725	colistin
+T16	Antibiotic_target_alteration 820 829	mutations
+E1	Antibiotic_target_alteration:T16 Cause:T15 Theme:T8

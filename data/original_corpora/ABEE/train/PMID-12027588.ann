@@ -1,0 +1,17 @@
+T1	Antibiotic 190 202	beta-lactams
+T2	Antibiotic 204 219	chloramphenicol
+T3	Antibiotic 222 232	quinolones
+T4	Antibiotic 237 249	tetracycline
+T5	Bacteria 418 434	Escherichia coli
+T6	Bacteria 439 449	Salmonella
+T7	Protein 545 549	MarA
+T8	Gene 588 594	marRAB
+T9	Gene 968 974	marRAB
+T10	Protein 1267 1271	MarA
+T11	Gene 899 905	marRAB
+T12	Protein 1156 1160	RobA
+T13	Protein 1162 1166	SoxS
+T14	Protein 1172 1177	AcrAB
+T15	Protein 751 761	AcrAB-TolC
+T16	Protein 810 834	Outer Membrane Protein F
+T17	Protein 836 840	OmpF

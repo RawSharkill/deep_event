@@ -1,0 +1,27 @@
+T1	Bacteria 988 1012	Klebsiella spp. isolates
+T2	Antibiotic 1031 1042	 cefuroxime
+T3	Antibiotic 1165 1175	cefuroxime
+T4	Antibiotic 1503 1513	cefuroxime
+T5	Protein 1392 1426	extended-spectrum  beta-lactamases
+T6	Antibiotic 1558 1573	 cephalosporins
+T7	Bacteria 234 251	Escherichia  coli
+T8	Bacteria 256 271	Klebsiella spp.
+T9	Protein 339 372	extended-spectrum beta-lactamases
+T10	Bacteria 415 430	Klebsiella spp.
+T11	Bacteria 29 45	Escherichia coli
+T12	Bacteria 50 68	Klebsiella species
+T13	Bacteria 389 405	Escherichia coli
+T14	Antibiotic 655 665	ampicillin
+T15	Bacteria 612 635	Klebsiella spp. strains
+T16	Bacteria 830 846	Escherichia coli
+T17	Bacteria 584 600	Escherichia coli
+T18	Bacteria 905 928	Klebsiella spp. strains
+T19	Antibiotic 884 894	ampicillin
+T20	Antibiotic 809 819	ampicillin
+T21	Antibiotic 1198 1211	cephalosporin
+T22	Antibiotic 1275 1289	cephalosporins
+T23	Antibiotic 1119 1133	cephalosporins
+T24	Antibiotic 1457 1467	cefuroxime
+T25	Antibiotic_target_alteration 1526 1537	alternative
+E1	Antibiotic_target_alteration:T25 Cause:T4
+T26	Bacteria 961 977	Escherichia coli

@@ -1,0 +1,28 @@
+T1	Antibiotic 17 33	fluoroquinolones
+T2	Bacteria 37 60	Mycobacterium smegmatis
+T3	Bacteria 153 205	quinolone-resistant Mycobacterium  smegmatis mc2-552
+T4	Antibiotic 240 256	fluoroquinolones
+T5	Antibiotic 637 653	fluoroquinolones
+T6	Bacteria 657 669	M. smegmatis
+*	Equiv T6 T2
+T7	Antibiotic 713 734	hydrophilic quinolone
+T8	Antibiotic 736 747	norfloxacin
+T9	Bacteria 753 765	M. smegmatis
+T10	Antibiotic 997 1008	Norfloxacin
+T11	Antibiotic 1063 1076	ciprofloxacin
+T12	Antibiotic 1088 1102	nalidixic acid
+T13	Antibiotic 1439 1449	quinolones
+T14	Protein 73 77	LfrA
+T15	Antibiotic_efflux 7 13	efflux
+E1	Antibiotic_efflux:T15 Cause:T1 Theme:T2
+T16	Gene 112 116	lfrA
+T17	Gene 327 331	lfrA
+T18	Protein 609 613	LfrA
+T19	Gene 799 803	lfrA
+T20	Protein 1028 1032	LfrA
+T21	Antibiotic 1146 1157	norfloxacin
+T22	Protein 1382 1386	LfrA
+T23	Antibiotic_efflux 1420 1426	efflux
+E2	Antibiotic_efflux:T23 Cause:T13
+T24	Antibiotic_efflux 206 215	conferred
+E3	Antibiotic_efflux:T24 Theme:T3 Cause:T4

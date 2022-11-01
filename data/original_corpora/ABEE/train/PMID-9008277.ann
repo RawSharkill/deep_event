@@ -1,0 +1,31 @@
+T1	Bacteria 0 26	Mycobacterium tuberculosis
+T2	Bacteria 97 129	Mycobacterium tuberculosis H37Rv
+T3	Bacteria 1294 1309	M. tuberculosis
+*	Equiv T3 T1
+T4	Bacteria 1374 1389	M. tuberculosis
+T5	Bacteria 1391 1411	Mycobacterium leprae
+T6	Bacteria 1417 1436	Mycobacterium bovis
+T7	Bacteria 1479 1498	Mycobacterium avium
+T8	Bacteria 1503 1531	Mycobacterium  intracellular
+T9	Gene 27 31	efpA
+T10	Protein 65 69	QacA
+T11	Gene 130 134	efpA
+T12	Protein 176 180	EfpA
+T13	Antibiotic_efflux 43 49	efflux
+E1	Antibiotic_efflux:T13 Theme:T1
+T14	Antibiotic_efflux 159 165	efflux
+E2	Antibiotic_efflux:T14 Theme:T2
+T15	Protein 208 212	EfpA
+T16	Protein 260 264	Pur8
+T17	Protein 266 270	MmrA
+T18	Protein 272 276	TcmA
+T19	Protein 278 282	LfrA
+T20	Protein 284 288	EmrB
+T21	Protein 315 319	QacA
+T22	Protein 437 441	EfpA
+T23	Gene 641 645	efpA
+T24	Protein 507 511	QacA
+T25	Gene 808 812	efpA
+T26	Gene 1315 1319	efpA
+T27	Gene 1542 1546	efpA
+T28	Bacteria 1622 1635	mycobacterial

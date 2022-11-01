@@ -1,0 +1,35 @@
+T1	Antibiotic 34 49	streptogramin A
+T3	Bacteria 86 113	Staphylococcus haemolyticus
+T4	Antibiotic 158 170	lincosamides
+T5	Antibiotic 204 219	streptogramin A
+T7	Bacteria 272 299	Staphylococcus haemolyticus
+T8	Antibiotic 313 323	lincomycin
+T10	Antibiotic 329 340	clindamycin
+T11	Antibiotic 360 372	erythromycin
+T12	Antibiotic 398 409	lincosamide
+T15	Bacteria 577 592	S. haemolyticus
+*	Equiv T15 T7
+T17	Antibiotic 619 631	lincosamides
+T18	Antibiotic 636 651	streptogramin A
+T19	Bacteria 804 821	S. aureus  RN4220
+T20	Antibiotic 894 906	lincosamides
+T21	Antibiotic 911 926	streptogramin A
+T22	Antibiotic 978 993	streptogramin A
+T26	Antibiotic 1356 1384	 lincosamide-streptogramin A
+T28	Antibiotic 1449 1459	lincomycin
+T29	Antibiotic 1495 1506	lincosamide
+T31	Bacteria 1522 1537	S. haemolyticus
+T33	Antibiotic 1576 1603	macrolide-streptogramin   B
+T35	Antibiotic_target_protection 1615 1624	conferred
+E17	Antibiotic_target_protection:T35 Theme:T31
+*	Equiv T31 T3
+T2	Protein 70 78	Vga(A)LC
+T6	Protein 237 245	vga(A)LC
+T9	Protein 1031 1041	amino acid
+T13	Protein 934 940	Vga(A)
+T14	Protein 855 863	Vga(A)LC
+T16	Protein 762 768	Vga(A)
+T23	Protein 747 757	Vga(A)(LC)
+T24	Protein 485 491	vga(A)
+T27	Gene 451 459	vga(A)LC
+T30	Protein 523 533	amino acid

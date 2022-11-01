@@ -1,0 +1,15 @@
+T1	Antibiotic 27 39	streptomycin
+T2	Bacteria 79 101	Pseudomonas aeruginosa
+T3	Bacteria 131 153	Pseudomonas aeruginosa
+T4	Antibiotic 246 258	streptomycin
+T5	Antibiotic 397 409	streptomycin
+T6	Antibiotic 589 601	streptomycin
+T7	Antibiotic 800 812	streptomycin
+T8	Antibiotic 900 912	streptomycin
+T9	Antibiotic 933 945	streptomycin
+T10	Antibiotic 1096 1108	streptomycin
+T11	Antibiotic 1207 1219	streptomycin
+T12	Antibiotic 1279 1291	streptomycin
+T13	Antibiotic_inactivation 573 585	inactivation
+E1	Antibiotic_inactivation:T13 Cause:T6 Theme:T2
+T14	Antibiotic 624 636	streptomycin

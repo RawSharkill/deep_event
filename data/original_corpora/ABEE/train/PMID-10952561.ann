@@ -1,0 +1,4 @@
+T1	Antibiotic_efflux 0 6	Efflux
+E1	Antibiotic_efflux:T1 Theme:T3 Cause:T2
+T2	Antibiotic 30 46	fluoroquinolones
+T3	Bacteria 50 72	gram-negative bacteria

@@ -1,0 +1,21 @@
+T1	Antibiotic 12 23	lividomycin
+T2	Bacteria 32 54	Pseudomonas aeruginosa
+T3	Antibiotic 181 192	lividomycin
+T4	Antibiotic 201 227	aminoglycosidic antibiotic
+T5	Bacteria 261 284	Pseudomonas  aeruginosa
+T6	Antibiotic 326 337	lividomycin
+T7	Antibiotic 421 432	lividomycin
+T8	Bacteria 476 495	P. aeruginosa TI-13
+T13	Antibiotic 857 868	lividomycin
+T14	Bacteria 917 936	P. aeruginosa TI-13
+T15	Antibiotic 958 969	lividomycin
+T9	Antibiotic_inactivation 60 72	inactivation
+E1	Antibiotic_inactivation:T9 Theme:T2 Cause:T1
+T10	Antibiotic_inactivation 165 177	inactivation
+E2	Antibiotic_inactivation:T10 Cause:T3 Theme:T5
+E3	Antibiotic_inactivation:T10 Cause:T4 Theme:T5
+T11	Antibiotic 514 525	lividomycin
+T12	Antibiotic_inactivation 573 584	inactivated
+E4	Antibiotic_inactivation:T12 Cause:T11 Theme:T8
+T16	Antibiotic_inactivation 942 954	inactivation
+E5	Antibiotic_inactivation:T16 Cause:T15 Theme:T14

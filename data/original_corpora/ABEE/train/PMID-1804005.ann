@@ -1,0 +1,37 @@
+T1	Antibiotic 84 93	quinolone
+T2	Antibiotic 27 37	quinolones
+T3	Bacteria 128 141	staphylococci
+T4	Bacteria 143 161	Enterobacteriaceae
+T5	Bacteria 163 185	Pseudomonas aeruginosa
+T6	Bacteria 192 243	miscellaneous nonfermentative gram-negative bacilli
+T7	Antibiotic 295 308	ciprofloxacin
+T8	Antibiotic 411 424	ciprofloxacin
+T9	Antibiotic 569 592	fluoroquinolones CI-960
+T10	Antibiotic 602 614	sparfloxacin
+T11	Antibiotic 620 629	ofloxacin
+T12	Antibiotic 594 600	CI-990
+T13	Antibiotic 658 667	quinolone
+T14	Antibiotic 681 694	ciprofloxacin
+T15	Antibiotic 836 848	sparfloxacin
+T16	Antibiotic 853 862	ofloxacin
+T17	Antibiotic 896 909	ciprofloxacin
+T18	Antibiotic 943 956	ciprofloxacin
+T19	Antibiotic 960 966	CI-990
+T20	Antibiotic 1052 1065	ciprofloxacin
+T21	Antibiotic 1122 1132	quinolones
+T22	Antibiotic 1233 1246	ciprofloxacin
+T23	Antibiotic 1330 1346	fluoroquinolones
+T24	Antibiotic 1351 1360	nalidixic
+T25	Antibiotic 1429 1438	quinolone
+T26	Antibiotic 1481 1487	CI-960
+T27	Antibiotic 1551 1561	quinolones
+T28	Antibiotic 1641 1654	ciprofloxacin
+T29	Bacteria 1750 1763	staphylococci
+T30	Antibiotic 1788 1804	fluoroquinolones
+T31	Bacteria 1812 1820	Serratia
+T32	Antibiotic 1872 1885	ciprofloxacin
+T33	Bacteria 1964 1985	Staphylococcus aureus
+T34	Bacteria 1987 2003	Escherichia coli
+T35	Bacteria 2005 2028	Klebsiella   pneumoniae
+T36	Bacteria 2033 2055	Pseudomonas aeruginosa
+T37	Antibiotic 2229 2239	quinolones

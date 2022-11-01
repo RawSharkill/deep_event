@@ -1,0 +1,29 @@
+T1	Antibiotic 24 34	vancomycin
+T2	Bacteria 122 148	Enterococcus faecalis V583
+T3	Antibiotic 181 193	glycopeptide
+T4	Bacteria 208 219	enterococci
+T5	Antibiotic 365 375	vancomycin
+T6	Antibiotic 381 392	teicoplanin
+T7	Antibiotic 419 430	teicoplanin
+T8	Bacteria 545 571	Enterococcus faecalis V583
+T9	Bacteria 1539 1550	enterococci
+T10	Gene 854 861	vanY(B)
+T11	Gene 1421 1427	vanS B
+T12	Gene 1070 1078	VanR (B)
+T13	Protein 642 650	VanH (B)
+T14	Protein 652 656	VanB
+T15	Protein 662 670	VanX (B)
+T16	Protein 721 725	VanH
+T17	Protein 727 731	VanA
+T18	Protein 737 741	VanX
+T19	Protein 767 771	VanA
+T20	Protein 14 18	VanB
+T21	Protein 69 76	VanS(B)
+T22	Protein 77 86	VanR  (B)
+T23	Protein 161 165	VanA
+T24	Protein 171 175	VanB
+T25	Protein 319 323	VanA
+T26	Protein 394 398	VanB
+T27	Protein 520 524	VanB
+T28	Protein 1141 1149	VanS (B)
+T29	Protein 1529 1533	VanB

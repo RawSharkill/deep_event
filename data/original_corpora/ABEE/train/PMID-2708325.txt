@@ -1,0 +1,3 @@
+Expression and inducibility in Staphylococcus aureus of the mecA gene, which  encodes a methicillin resistant S. aureus-specific penicillin binding protein. 
+
+A beta-lactam-sensitive strain of Staphylococcus aureus could be converted to  methicillin resistance by the introduction of a plasmid carrying the 4.3-kilobase  HindIII chromosomal DNA fragment which encoded the mecA gene from a  methicillin resistant S. aureus. Transformant cells produced  methicillin resistant S. aureus-specific penicillin binding protein  constitutively, and additional insertion of an inducible penicillinase plasmid  caused production of the pencillin-binding protein to become inducible.

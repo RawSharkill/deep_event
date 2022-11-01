@@ -1,0 +1,9 @@
+T1	Antibiotic 62 79	chlortetracycline
+T2	Bacteria 146 158	mycobacteria
+T3	Reduced_permeability_to_antibiotic 81 92	penetration
+E1	Reduced_permeability_to_antibiotic:T3 Cause:T1 Theme:T2
+T4	Antibiotic 175 192	chlortetracycline
+T5	Bacteria 246 267	Mycobacterium citreum
+T6	Antibiotic 295 308	tetracyclines
+T7	Antibiotic 472 489	chlortetracycline
+T8	Antibiotic 823 840	chlortetracycline

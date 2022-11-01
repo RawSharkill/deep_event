@@ -1,0 +1,21 @@
+T1	Bacteria 61 76	vibrio cholerae
+T2	Bacteria 132 147	Vibrio cholerae
+T3	Antibiotic 233 245	trimethoprim
+T4	Antibiotic 247 249	Tm
+T5	Antibiotic 253 268	chloramphenicol
+T6	Antibiotic 270 272	Cm
+T7	Antibiotic 279 291	streptomycin
+T8	Antibiotic 293 295	Sm
+T9	Antibiotic 210 226	sulfamethoxazole
+T10	Antibiotic 228 230	Su
+*	Equiv T10 T9
+*	Equiv T4 T3
+*	Equiv T6 T5
+*	Equiv T8 T7
+T11	Bacteria 429 440	V. cholerae
+*	Equiv T11 T2
+T12	Antibiotic 721 723	Cm
+T13	Antibiotic 732 734	Su
+T14	Antibiotic 749 751	Sm
+T15	Antibiotic 853 855	Tm
+T16	Antibiotic 1123 1125	Tm

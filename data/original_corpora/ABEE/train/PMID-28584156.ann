@@ -1,0 +1,21 @@
+T1	Antibiotic 142 152	Tobramycin
+T2	Bacteria 100 121	Achromobacter Species
+T3	Antibiotic 215 229	aminoglycoside
+T4	Bacteria 245 263	Achromobacter spp.
+T5	Antibiotic 509 524	aminoglycosides
+T6	Antibiotic 526 534	cefepime
+T7	Antibiotic 537 553	fluoroquinolones
+T8	Antibiotic 555 568	tetracyclines
+T9	Antibiotic 574 586	erythromycin
+T10	Bacteria 767 780	Achromobacter
+T11	Antibiotic 977 987	tobramycin
+T12	Bacteria 1275 1288	Achromobacter
+T13	Antibiotic 1366 1376	tobramycin
+T14	Antibiotic 1526 1541	aminoglycosides
+T15	Antibiotic 1551 1567	fluoroquinolones
+T16	Antibiotic 1569 1577	cefepime
+T17	Antibiotic 1584 1597	tetracyclines
+T18	Protein 699 709	amino acid
+T19	Gene 404 408	axyZ
+T20	Protein 741 745	AxyZ
+T21	Gene 1015 1019	axyY

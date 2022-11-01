@@ -1,0 +1,63 @@
+T1	Antibiotic 14 24	Fosfomycin
+T2	Bacteria 100 121	Staphylococcus aureus
+T3	Antibiotic 196 206	fosfomycin
+T4	Bacteria 370 391	Staphylococcus aureus
+T5	Bacteria 393 397	MRSA
+*	Equiv T5 T4
+T6	Bacteria 431 440	S. aureus
+*	Equiv T6 T2
+T7	Antibiotic 575 585	fosfomycin
+T8	Bacteria 601 605	MRSA
+T9	Bacteria 653 657	MRSA
+T10	Antibiotic 1121 1131	fosfomycin
+T11	Bacteria 1143 1147	MRSA
+T12	Antibiotic 1255 1265	fosfomycin
+T13	Bacteria 1946 1950	MRSA
+T14	Antibiotic 2001 2011	fosfomycin
+T15	Bacteria 2125 2129	MRSA
+T16	Antibiotic 2189 2199	fosfomycin
+T17	Bacteria 313 335	Gram-positive bacteria
+T18	Antibiotic 409 419	fosfomycin
+T19	Antibiotic 875 885	fosfomycin
+T20	Gene 912 917	 fosB
+T21	Gene 919 923	murA
+T22	Gene 925 929	glpT
+T23	Gene 935 939	uhpT
+T24	Gene 1333 1337	fosB
+T25	Gene 1396 1400	murA
+T26	Gene 1408 1412	glpT
+T27	Gene 1423 1427	uhpT
+T28	Antibiotic 1630 1640	fosfomycin
+T29	Antibiotic 1752 1762	fosfomycin
+T30	Antibiotic 1527 1537	fosfomycin
+T31	Gene 1457 1461	murA
+T32	Gene 1573 1577	murA
+T33	Gene 1490 1494	glpT
+T34	Antibiotic 1605 1615	fosfomycin
+T35	Gene 1692 1696	murA
+T36	Gene 1700 1704	glpT
+T37	Gene 1714 1718	uhpT
+T38	Gene 1844 1848	glpT
+T39	Gene 1856 1860	uhpT
+T40	Antibiotic 1925 1935	fosfomycin
+T41	Gene 2078 2082	uhpT
+T42	Gene 2062 2065	mur
+T43	Gene 2068 2072	glpT
+T44	Antibiotic 2103 2113	fosfomycin
+T45	Gene 2237 2241	fosB
+T46	Antibiotic_target_alteration 1495 1504	mutations
+E1	Antibiotic_target_alteration:T46 Cause:T30
+T47	Antibiotic_target_alteration 1578 1586	mutation
+E2	Antibiotic_target_alteration:T47 Cause:T28
+E3	Antibiotic_target_alteration:T47 Cause:T34
+T48	Antibiotic_target_alteration 1679 1688	mutations
+E4	Antibiotic_target_alteration:T48 Cause:T29
+T49	Antibiotic_target_alteration 1861 1868	mutants
+E5	Antibiotic_target_alteration:T49 Cause:T40 Theme:T13
+T50	Antibiotic_target_alteration 2045 2054	mutations
+E6	Antibiotic_target_alteration:T50 Cause:T44 Theme:T15
+T51	Antibiotic 348 359	methicillin
+T52	Gene 53 57	murA
+T53	Gene 59 63	glpT
+T54	Antibiotic 78 89	Methicillin
+T55	Gene 69 73	uhpT

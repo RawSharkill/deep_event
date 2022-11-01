@@ -1,0 +1,22 @@
+T1	Antibiotic 34 46	tetracycline
+T2	Bacteria 102 127	Streptomyces aureofaciens
+T3	Bacteria 243 277	Streptomyces aureofaciens NRRL3203
+T4	Bacteria 376 400	parental strain NRRL3203
+*	Equiv T4 T3
+T5	Bacteria 708 728	Streptomyces rimosus
+T6	Antibiotic 748 763	oxytetracycline
+T7	Bacteria 821 837	strain  NRRL3203
+T8	Antibiotic 908 920	tetracycline
+T9	Antibiotic_efflux 47 56	effluxing
+E1	Antibiotic_efflux:T9 Cause:T1 Theme:T2
+T10	Antibiotic 182 208	6-demethylchlortetracyclin
+T11	Antibiotic 212 217	6-DCT
+*	Equiv T11 T10
+T12	Gene 305 309	tcrC
+T13	Gene 502 506	tcrC
+T14	Gene 539 543	tcrC
+T15	Gene 476 481	BamHI
+T16	Gene 697 703	tet347
+T17	Antibiotic_efflux 764 770	efflux
+E2	Antibiotic_efflux:T17 Theme:T5 Cause:T6
+T18	Gene 776 780	tcrC

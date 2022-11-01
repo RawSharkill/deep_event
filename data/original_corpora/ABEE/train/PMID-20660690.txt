@@ -1,0 +1,3 @@
+Sequence of pNL194, a 79.3-kilobase IncN plasmid carrying the blaVIM-1  metallo-beta-lactamase gene in Klebsiella pneumoniae. 
+
+The nucleotide sequence of pNL194, a VIM-1-encoding plasmid, is described in this  study. pNL194 (79,307 bp) comprised an IncN-characteristic segment (38,940 bp)  and a mosaic structure (40,367 bp) including bla(VIM-1), aacA7, aadA1, aadA2,  dfrA1, dfrA12, aphA1, strA, strB, and sul1. Tn1000 or Tn5501 insertion within  fipA probably facilitated recruitment of additional mobile elements carrying  resistance genes.

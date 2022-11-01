@@ -1,0 +1,15 @@
+T1	Antibiotic 860 868	imipenem
+T2	Antibiotic 873 882	meropenem
+T3	Protein 36 68	New Delhi metallo-beta-lactamase
+T4	Protein 110 144	New Delhi metallo beta-lactamase-1
+T5	Protein 359 369	amino acid
+T6	Protein 70 75	NDM-1
+T7	Protein 753 758	NDM-1
+T8	Protein 887 892	NDM-1
+T9	Protein 1027 1032	NDM-1
+T10	Protein 1355 1360	NDM-1
+T11	Protein 257 260	NDM
+T12	Protein 1306 1316	amino acid
+T13	Protein 91 97	enzyme
+T14	Protein 160 173	arbapenemases
+T15	Antibiotic 209 235	beta-lactamase antibiotics

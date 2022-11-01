@@ -1,0 +1,45 @@
+T1	Antibiotic 23 39	fluoroquinolones
+T2	Bacteria 54 72	Mycoplasma hominis
+T3	Antibiotic 134 150	fluoroquinolones
+T4	Bacteria 165 185	Mycoplasma   hominis
+T5	Bacteria 187 189	MH
+*	Equiv T5 T4
+T6	Bacteria 247 249	MH
+T7	Antibiotic 313 341	fluoroquinolones antibiotics
+T8	Antibiotic 568 596	fluoroquinolones antibiotics
+T9	Bacteria 601 603	MH
+T10	Antibiotic 633 642	quinolone
+T11	Antibiotic 916 925	Ofloxacin
+T12	Antibiotic 927 930	OFX
+*	Equiv T12 T11
+T13	Antibiotic 960 972	Levofloxacin
+T14	Antibiotic 974 977	LVX
+*	Equiv T14 T13
+T15	Antibiotic 983 995	Sparfloxacin
+T16	Antibiotic 997 1000	SFX
+*	Equiv T16 T15
+T17	Antibiotic 1086 1101	fluoroquinolone
+T18	Bacteria 1138 1140	MH
+T19	Bacteria 1212 1214	MH
+T20	Antibiotic 1247 1250	OFX
+T21	Antibiotic 1255 1258	LVX
+T22	Antibiotic 1293 1309	fluoroquinolones
+T23	Bacteria 1314 1316	MH
+T24	Antibiotic 379 388	quinolone
+T25	Gene 444 448	gyrA
+T26	Gene 453 457	gyrB
+T27	Antibiotic 703 712	quinolone
+T28	Gene 832 836	gyrB
+T29	Gene 788 792	gyrA
+T30	Gene 796 800	parC
+T31	Antibiotic_target_alteration 817 828	alterations
+E1	Antibiotic_target_alteration:T31 Cause:T11
+E2	Antibiotic_target_alteration:T31 Cause:T15
+E3	Antibiotic_target_alteration:T31 Cause:T13
+T32	Protein 1180 1190	amino acid
+T33	Antibiotic_target_alteration 1192 1200	mutation
+E4	Antibiotic_target_alteration:T33 Cause:T20 Theme:T23
+E5	Antibiotic_target_alteration:T33 Cause:T22
+E6	Antibiotic_target_alteration:T33 Cause:T21
+T34	Protein 1366 1372	gyrase
+T35	Gene 1381 1385	ParC

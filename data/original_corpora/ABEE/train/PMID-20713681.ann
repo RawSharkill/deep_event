@@ -1,0 +1,31 @@
+T1	Antibiotic 101 116	streptogramin A
+T2	Bacteria 120 140	Enterococcus faecium
+T3	Antibiotic 169 184	streptogramin A
+T4	Bacteria 244 269	Enterococcus faecium JS79
+T5	Bacteria 299 309	E. faecium
+T6	Antibiotic 348 363	streptogramin A
+T7	Bacteria 441 457	E.  faecium JS79
+*	Equiv T7 T4
+T8	Antibiotic 569 584	streptogramin A
+T9	Bacteria 1207 1217	E. faecium
+T10	Bacteria 1396 1406	E. faecium
+T11	Antibiotic 1667 1682	streptogramin A
+T12	Bacteria 1686 1696	E. faecium
+T13	Bacteria 1801 1811	E. faecium
+T14	Gene 48 52	vgaD
+T15	Gene 57 61	vatH
+T16	Antibiotic 208 233	quinupristin-dalfopristin
+T17	Gene 1051 1055	vgaD
+T18	Gene 1358 1362	vgaD
+T19	Gene 1368 1372	vatH
+T20	Gene 1773 1777	vatH
+T21	Gene 1763 1767	vgaD
+T22	Gene 1140 1144	vatH
+T23	Gene 1093 1097	vatH
+T24	Antibiotic_efflux 637 643	efflux
+E1	Antibiotic_efflux:T24 
+T25	Gene 1595 1599	vgaD
+T26	Antibiotic 1171 1196	quinupristin-dalfopristin
+T27	Gene 1057 1061	vgaD
+T28	Protein 711 722	amino acids
+T29	Gene 821 825	vatH

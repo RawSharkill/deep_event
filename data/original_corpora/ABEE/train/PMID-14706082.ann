@@ -1,0 +1,13 @@
+T1	Bacteria 35 57	Gram-negative bacteria
+T2	Antibiotic_efflux 0 15	Efflux-mediated
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 118 140	Pseudomonas aeruginosa
+T4	Bacteria 80 103	Gram-negative pathogens
+T5	Bacteria 144 172	Stenotrophomonas maltophilia
+T6	Bacteria 174 192	Acinetobacter spp.
+T7	Bacteria 201 219	Enterobacteriaceae
+T8	Bacteria 899 922	Gram-negative pathogens
+T9	Bacteria 624 647	Gram-negative organisms
+*	Equiv T9 T4 T1
+T10	Antibiotic_efflux 713 728	efflux-mediated
+E2	Antibiotic_efflux:T10 Theme:T9

@@ -1,0 +1,33 @@
+T1	Antibiotic 824 839	aminoglycosides
+T2	Antibiotic 841 856	chloramphenicol
+T3	Antibiotic 859 871	beta-lactams
+T4	Antibiotic 950 960	macrolides
+T5	Antibiotic 1024 1037	tetracyclines
+T6	Antibiotic 1039 1054	chloramphenicol
+T7	Antibiotic 1056 1066	macrolides
+T8	Antibiotic 1068 1083	aminoglycosides
+T9	Antibiotic 1141 1154	tetracyclines
+T10	Antibiotic 1253 1268	aminoglycosides
+T11	Antibiotic 1270 1285	chloramphenicol
+T12	Antibiotic 1352 1364	beta-lactams
+T13	Antibiotic 1455 1477	beta-lactam antibiotic
+T14	Antibiotic 1535 1545	macrolides
+E2	Antibiotic_target_replacement:T17 Cause:T2
+T17	Antibiotic_target_replacement 673 679	change
+T15	Antibiotic_target_alteration 874 880	change
+E4	Antibiotic_target_alteration:T15 Cause:T4
+T18	Reduced_permeability_to_antibiotic 963 973	diminished
+E5	Reduced_permeability_to_antibiotic:T18 Cause:T5
+E6	Reduced_permeability_to_antibiotic:T18 Cause:T6
+E7	Reduced_permeability_to_antibiotic:T18 Cause:T7
+E8	Reduced_permeability_to_antibiotic:T18 Cause:T8
+T19	Antibiotic_efflux 1095 1104	transport
+E9	Antibiotic_efflux:T19 Cause:T9
+T20	Antibiotic_inactivation 1207 1219	inactivating
+E10	Antibiotic_inactivation:T20 Cause:T10
+E11	Antibiotic_inactivation:T20 Cause:T11
+T21	Antibiotic_inactivation 1367 1379	inactivation
+E12	Antibiotic_inactivation:T21 Cause:T13
+E13	Antibiotic_inactivation:T21 Cause:T14
+E1	Antibiotic_target_replacement:T17 Cause:T3
+E3	Antibiotic_target_replacement:T17 Cause:T1

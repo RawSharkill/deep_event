@@ -1,0 +1,6 @@
+T1	Bacteria 66 93	Mycobacterium  tuberculosis
+T2	Bacteria 266 292	Mycobacterium tuberculosis
+T3	Bacteria 642 657	M. tuberculosis
+*	Equiv T3 T2
+T4	Antibiotic 988 998	 isoniazid
+T5	Gene 1009 1023	katG Ser315Thr

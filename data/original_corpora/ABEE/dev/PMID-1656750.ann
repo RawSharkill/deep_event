@@ -1,0 +1,12 @@
+T1	Bacteria 58 69	enterococci
+T2	Bacteria 109 120	enterococci
+T3	Antibiotic 244 254	vancomycin
+T4	Antibiotic 259 270	teicoplanin
+T5	Antibiotic 309 319	vancomycin
+T6	Antibiotic 434 444	daptomycin
+T7	Antibiotic 403 413	ramoplanin
+T8	Gene 946 950	vanA
+T9	Bacteria 1099 1117	Enterobacteriaceae
+T10	Bacteria 1148 1164	Escherichia coli
+T11	Antibiotic_target_alteration 1544 1550	modify
+E1	Antibiotic_target_alteration:T11 Theme:T10

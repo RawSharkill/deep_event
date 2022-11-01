@@ -1,0 +1,20 @@
+T1	Bacteria 72 87	Chlamydia  spp.
+T2	Bacteria 328 347	Helicobacter pylori
+T3	Bacteria 352 370	Mycobacterium spp.
+T4	Bacteria 434 447	Chlamydiaceae
+T5	Bacteria 633 646	Chlamydiaceae
+T6	Bacteria 679 703	Chlamydia trachomatis L2
+T7	Bacteria 726 753	Chlamydophila  psittaci 6BC
+T8	Antibiotic 793 806	spectinomycin
+T9	Bacteria 1114 1129	C. psittaci 6BC
+*	Equiv T9 T7
+T10	Bacteria 1169 1186	C. trachomatis L2
+*	Equiv T10 T6
+T11	Antibiotic 1217 1225	rifampin
+T12	Bacteria 1319 1328	Chlamydia
+T13	Antibiotic 1350 1363	tetracyclines
+T14	Antibiotic 1368 1378	macrolides
+T15	Gene 103 107	rRNA
+T16	Gene 532 536	rRNA
+T17	Antibiotic 1028 1041	spectinomycin
+T18	Gene 1136 1142	Spc(r)

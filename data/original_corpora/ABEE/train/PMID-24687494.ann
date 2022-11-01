@@ -1,0 +1,14 @@
+T1	Antibiotic 57 68	lincosamide
+T2	Antibiotic 74 89	streptogramin A
+T3	Bacteria 104 125	Staphylococcus sciuri
+T4	Antibiotic 151 163	lincosamides
+T5	Antibiotic 168 184	streptogramins A
+T6	Bacteria 230 247	Bacillus subtilis
+T7	Bacteria 252 273	Enterococcus faecalis
+T8	Bacteria 309 329	Staphylococcus genus
+T9	Bacteria 433 455	Staphylococcus  sciuri
+T10	Antibiotic 842 854	lincosamides
+T11	Antibiotic 919 935	streptogramins A
+T12	Bacteria 1173 1182	S. sciuri
+*	Equiv T12 T9
+T13	Antibiotic 957 973	pristinamycin II

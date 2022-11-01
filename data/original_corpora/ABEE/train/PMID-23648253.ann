@@ -1,0 +1,35 @@
+T1	Bacteria 80 90	Klebsiella
+T2	Antibiotic 165 175	quinolones
+T3	Bacteria 201 211	Klebsiella
+T4	Antibiotic 410 420	quinolones
+T5	Antibiotic 1334 1344	quinolones
+T6	Gene 684 688	gyrA
+T7	Gene 813 817	qnrS
+T8	Gene 1440 1445	qnrB2
+T9	Gene 1447 1452	qnrB4
+T10	Gene 1455 1460	qnrS1
+T11	Gene 1462 1467	qnrS4
+T12	Gene 1469 1483	aac (6')-Ib-cr
+T13	Gene 1575 1580	qnrS4
+T14	Antibiotic 1254 1263	Quinolone
+T15	Antibiotic 1376 1385	quinolone
+T16	Gene 1236 1240	qnrS
+T17	Gene 1154 1159	qnrS4
+T18	Gene 931 935	gyrA
+T19	Gene 784 788	qnrB
+T20	Gene 516 520	qnrS
+T21	Gene 510 514	qnrB
+T22	Gene 522 536	aac (6')-Ib-cr
+T23	Gene 538 542	qepA
+T24	Gene 422 426	gyrA
+T25	Gene 429 433	parC
+T26	Antibiotic 439 448	quinolone
+T27	Gene 503 507	qnrA
+T28	Gene 843 847	qnrS
+T29	Gene 871 885	aac (6')-Ib-cr
+T30	Gene 44 48	qnrS
+T31	Gene 32 36	gyrA
+T32	Gene 38 42	parC
+T33	Gene 758 763	qnrB2
+T34	Gene 721 725	parC
+T35	Gene 1035 1039	parC

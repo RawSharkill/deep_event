@@ -1,0 +1,45 @@
+T1	Bacteria 50 72	Pseudomonas aeruginosa
+T2	Bacteria 1928 1941	P. aeruginosa
+T3	Bacteria 324 337	P. aeruginosa
+T4	Bacteria 127 149	Pseudomonas aeruginosa
+*	Equiv T3 T4
+T5	Antibiotic 604 616	piperacillin
+T6	Antibiotic 618 629	ceftazidime
+T7	Antibiotic 631 641	gentamicin
+T8	Antibiotic 643 654	norfloxacin
+T9	Antibiotic 659 670	polymyxin-B
+T10	Bacteria 525 541	long-LPS strains
+T11	Bacteria 548 565	short-LPS strains
+T12	Bacteria 576 597	LPS-deficient strains
+T13	Antibiotic 1690 1700	gentamicin
+T14	Antibiotic 1742 1764	piperacillin-resistant
+T15	Antibiotic 1961 1973	piperacillin
+T16	Bacteria 2302 2315	P. aeruginosa
+T17	Antibiotic 2277 2287	gentamicin
+T18	Antibiotic 2260 2272	piperacillin
+T19	Antibiotic 2487 2497	gentamicin
+T20	Antibiotic_target_alteration 2498 2507	modifying
+E1	Antibiotic_target_alteration:T20 Cause:T19
+T21	Reduced_permeability_to_antibiotic 2371 2380	decreased
+E2	Reduced_permeability_to_antibiotic:T21 Cause:T18 Theme:T16
+T22	Antibiotic_inactivation 2436 2448	inactivating
+E3	Antibiotic_inactivation:T22 Cause:T17 Theme:T16
+E4	Reduced_permeability_to_antibiotic:T21 Theme:T16 Cause:T17
+T23	Antibiotic_inactivation 2436 2448	inactivating
+E5	Antibiotic_inactivation:T23 Theme:T16 Cause:T18
+T24	Antibiotic 2574 2586	piperacillin
+T25	Antibiotic 2590 2600	gentamicin
+T26	Antibiotic 2107 2117	gentamicin
+T27	Antibiotic_inactivation 2118 2130	inactivating
+E6	Antibiotic_inactivation:T27 Cause:T26
+T28	Antibiotic 2065 2075	gentamicin
+T29	Antibiotic 1607 1617	gentamicin
+T30	Antibiotic_inactivation 1618 1630	inactivating
+E7	Antibiotic_inactivation:T30 Cause:T29
+T31	Antibiotic 1663 1675	piperacillin
+T32	Antibiotic 1020 1032	piperacillin
+T33	Antibiotic 1034 1045	ceftazidime
+T34	Antibiotic 1050 1061	norfloxacin
+T35	Bacteria 1227 1240	P. aeruginosa
+T36	Bacteria 1199 1221	long-chain LPS strains
+T37	Antibiotic 873 883	gentamicin

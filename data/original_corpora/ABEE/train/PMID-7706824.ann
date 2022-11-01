@@ -1,0 +1,18 @@
+T1	Bacteria 74 100	Mycobacterium tuberculosis
+T2	Antibiotic 270 282	streptomycin
+T3	Antibiotic 145 157	streptomycin
+T4	Antibiotic 159 167	rifampin
+T5	Antibiotic 173 182	isoniazid
+T6	Bacteria 190 216	Mycobacterium tuberculosis
+T7	Antibiotic 443 451	rifampin
+T8	Antibiotic 476 484	rifampin
+T9	Antibiotic 543 552	isoniazid
+T10	Antibiotic 591 600	isoniazid
+T11	Gene 636 640	katG
+T12	Gene 690 694	inhA
+T13	Antibiotic 769 781	streptomycin
+T14	Antibiotic 783 791	rifampin
+T15	Antibiotic 797 806	isoniazid
+T16	Gene 394 398	rpoB
+T17	Gene 352 355	rrs
+T18	Gene 322 326	rpsL

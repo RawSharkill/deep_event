@@ -1,0 +1,15 @@
+T1	Bacteria 43 63	Enterococcus faecium
+T3	Bacteria 95 106	enterococci
+T5	Bacteria 272 292	Enterococcus faecium
+T6	Bacteria 374 384	E. faecium
+*	Equiv T6 T5
+T7	Bacteria 459 470	E.  faecium
+T9	Bacteria 620 655	Enterococcus faecium strain Aus0004
+T10	Bacteria 847 858	E.  faecium
+T11	Bacteria 1081 1091	E. faecium
+T12	Antibiotic 1435 1445	vancomycin
+T13	Bacteria 1477 1487	E. faecium
+T8	Antibiotic 598 608	vancomycin
+T4	Antibiotic 251 261	vancomycin
+T2	Antibiotic 74 84	Vancomycin
+T14	Protein 915 924	hemolysin

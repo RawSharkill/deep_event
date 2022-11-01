@@ -1,0 +1,9 @@
+T1	Bacteria 129 149	Mycobacterium leprae
+T2	Bacteria 151 161	(M. leprae
+*	Equiv T2 T1
+T3	Bacteria 293 302	M. leprae
+T4	Bacteria 367 376	M. leprae
+T5	Bacteria 922 931	M. leprae
+T6	Bacteria 1330 1340	M.  leprae
+T7	Bacteria 1775 1784	M. leprae
+T8	Bacteria 2131 2140	M. leprae

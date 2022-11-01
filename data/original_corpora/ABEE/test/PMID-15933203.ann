@@ -1,0 +1,14 @@
+T1	Antibiotic 2 17	fluoroquinolone
+T2	Bacteria 42 68	Mycobacterium tuberculosis
+T4	Antibiotic 90 106	Fluoroquinolones
+T5	Bacteria 262 288	Mycobacterium tuberculosis
+T7	Antibiotic 311 324	ciprofloxacin
+T8	Antibiotic 330 342	sparfloxacin
+T9	Antibiotic 687 702	fluoroquinolone
+T10	Antibiotic_target_protection 357 362	binds
+E4	Antibiotic_target_protection:T10 Theme:T5
+T11	Antibiotic_target_protection 620 627	mimicry
+E5	Antibiotic_target_protection:T11 Theme:T5 Cause:T9
+T12	Antibiotic_target_protection 74 80	mimics
+E6	Antibiotic_target_protection:T12 Theme:T2
+T3	Protein 676 682	gyrase

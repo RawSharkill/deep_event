@@ -1,0 +1,14 @@
+T1	Bacteria 92 119	Klebsiella pneumoniae ST147
+T2	Bacteria 216 237	Klebsiella pneumoniae
+T3	Antibiotic 474 482	imipenem
+T4	Antibiotic 487 496	cefoxitin
+T5	Protein 521 526	VIM-1
+T6	Protein 20 49	metallo-beta-lactamase VIM-27
+T7	Protein 69 74	VIM-1
+T8	Protein 123 152	VIM-27 metallo-beta-lactamase
+T9	Protein 184 189	VIM-1
+T10	Gene 280 291	bla(VIM-27)
+T11	Gene 425 431	VIM-27
+T12	Antibiotic_inactivation 433 443	hydrolyzed
+E1	Antibiotic_inactivation:T12 Cause:T3
+E2	Antibiotic_inactivation:T12 Cause:T4

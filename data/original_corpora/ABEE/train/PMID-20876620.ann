@@ -1,0 +1,7 @@
+T1	Antibiotic 70 82	lincosamides
+T2	Antibiotic 84 98	pleuromutilins
+T3	Antibiotic 103 118	streptogramin A
+T4	Bacteria 157 184	Staphylococcus aureus ST398
+T5	Gene 34 40	vga(C)
+T6	Gene 24 30	vga(A)
+T7	Antibiotic 135 146	methicillin

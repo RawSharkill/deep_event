@@ -1,0 +1,42 @@
+T2	Bacteria 95 111	Escherichia coli
+T3	Antibiotic_efflux 34 45	transporter
+E2	Antibiotic_efflux:T3 Theme:T2
+T4	Antibiotic 160 189	Quaternary ammonium compounds
+T5	Antibiotic 191 195	QACs
+*	Equiv T5 T4
+T6	Antibiotic 357 361	QACs
+T8	Bacteria 365 387	Gram-negative bacteria
+T9	Antibiotic_efflux 439 451	transporters
+E4	Antibiotic_efflux:T9 Theme:T8 Cause:T6
+T10	Bacteria 631 647	Escherichia coli
+T11	Antibiotic_efflux 683 689	efflux
+E5	Antibiotic_efflux:T11 Theme:T10 Cause:T12
+T12	Antibiotic 693 697	QACs
+T13	Bacteria 820 827	E. coli
+T14	Antibiotic_target_protection 812 819	protect
+E6	Antibiotic_target_protection:T14 Theme:T13 Cause:T15
+T15	Antibiotic 879 883	QACs
+T16	Antibiotic 969 973	QACs
+T17	Bacteria 1143 1150	E. coli
+T19	Antibiotic 1244 1248	QACs
+T20	Antibiotic_efflux 1306 1317	transporter
+E8	Antibiotic_efflux:T20 Theme:T17 Cause:T19
+T21	Antibiotic 1344 1347	QAC
+T22	Antibiotic_efflux 1440 1449	transport
+E9	Antibiotic_efflux:T22 Cause:T23
+T23	Antibiotic 1450 1454	QACs
+T24	Antibiotic 1851 1855	QACs
+T26	Bacteria 1907 1915	E.  coli
+T27	Antibiotic_efflux 1823 1829	efflux
+E11	Antibiotic_efflux:T27 Theme:T26 Cause:T24
+*	Equiv T13 T2
+T1	Protein 46 50	MdtM
+T7	Protein 619 623	MdtM
+T18	Gene 746 750	mdtM
+T25	Protein 978 982	MdtM
+T28	Protein 1175 1179	MdtM
+T29	Protein 1328 1332	MdtM
+T30	Protein 1557 1561	MdtM
+T31	Protein 1620 1625	AcrAB
+T32	Protein 1626 1630	TolC
+T33	Protein 1798 1802	MdtM

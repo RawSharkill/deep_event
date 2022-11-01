@@ -1,0 +1,4 @@
+T1	Bacteria 0 26	Mycobacterium tuberculosis
+T2	Bacteria 156 182	Mycobacterium tuberculosis
+T3	Antibiotic_target_alteration 380 389	mutations
+E1	Antibiotic_target_alteration:T3 Theme:T2

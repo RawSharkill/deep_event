@@ -1,0 +1,31 @@
+T1	Gene 580 584	aacA
+T2	Gene 585 589	aphD
+T3	Bacteria 620 631	E. faecalis
+T4	Bacteria 39 50	enterococci
+T5	Antibiotic 81 95	aminoglycoside
+T6	Antibiotic 127 141	aminoglycoside
+T7	Gene 212 216	aacA
+T8	Gene 217 221	aphD
+T9	Bacteria 257 278	Enterococcus faecalis
+T10	Bacteria 1056 1067	E. faecalis
+*	Equiv T3 T9
+T11	Bacteria 1000 1017	E.  casseliflavus
+T12	Bacteria 948 958	E. faecium
+T13	Bacteria 960 968	E. avium
+T14	Bacteria 985 998	E. raffinosus
+T15	Bacteria 970 983	E. gallinarum
+T16	Antibiotic 1225 1235	gentamicin
+T17	Bacteria 1531 1542	enterococci
+T18	Bacteria 1516 1529	staphylococci
+T19	Bacteria 1547 1559	streptococci
+T20	Antibiotic 1460 1470	gentamicin
+T21	Antibiotic 875 885	gentamicin
+T22	Bacteria 418 431	staphylococci
+T23	Antibiotic 232 242	gentamicin
+T24	Antibiotic_target_alteration 379 390	transposons
+E1	Antibiotic_target_alteration:T24 Theme:T22
+T25	Antibiotic_target_alteration 96 113	acetyltransferase
+E2	Antibiotic_target_alteration:T25 Cause:T5
+T26	Antibiotic_target_alteration 142 160	phosphotransferase
+E3	Antibiotic_target_alteration:T26 Cause:T6
+T27	Antibiotic 11 21	gentamicin

@@ -1,0 +1,16 @@
+T1	Antibiotic 33 41	imipenem
+T2	Antibiotic 52 75	beta-lactam antibiotics
+T3	Bacteria 80 102	Pseudomonas aeruginosa
+T4	Antibiotic 151 159	imipenem
+T5	Antibiotic 170 182	beta-lactams
+*	Equiv T5 T2
+T6	Bacteria 186 209	Pseudomonas  aeruginosa
+T7	Antibiotic 298 306	imipenem
+T8	Antibiotic 317 328	beta-lactam
+T9	Antibiotic 351 361	moxalactam
+T10	Antibiotic 363 374	ceftriaxone
+T11	Antibiotic 379 389	cefotaxime
+T12	Antibiotic 465 473	imipenem
+T13	Antibiotic 491 499	imipenem
+T14	Antibiotic 568 579	beta-lactam
+T15	Antibiotic 1306 1317	beta-lactam

@@ -1,0 +1,10 @@
+T1	Bacteria 311 318	E. coli
+T2	Bacteria 320 333	K. pneumoniae
+T3	Bacteria 338 348	Salmonella
+T4	Antibiotic 403 414	E. faecalis
+T5	Antibiotic 435 448	ciprofloxacin
+T6	Bacteria 488 501	staphylococci
+T7	Antibiotic 554 564	vancomycin
+T8	Bacteria 579 590	E. faecalis
+T9	Bacteria 595 606	E.  faecium
+T10	Antibiotic 466 477	methicillin

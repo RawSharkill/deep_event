@@ -1,0 +1,9 @@
+T1	Antibiotic 39 62	beta-lactam antibiotics
+T2	Antibiotic 86 98	cefoperazone
+T3	Antibiotic 183 195	cefoperazone
+T4	Antibiotic 322 334	cefoperazone
+T5	Antibiotic 356 368	beta-lactams
+T6	Antibiotic 656 670	cephalosporins
+T7	Bacteria 683 701	Enterobacteriaceae
+T8	Bacteria 717 739	Pseudomonas aeruginosa
+T9	Antibiotic 900 912	beta-lactams

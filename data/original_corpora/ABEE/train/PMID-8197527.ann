@@ -1,0 +1,6 @@
+T1	Antibiotic 372 386	cephalosporins
+T2	Antibiotic 401 411	quinolones
+T3	Bacteria 598 621	Gram-negative organisms
+T4	Bacteria 223 246	Gram-negative organisms
+T5	Antibiotic 388 399	carbapenems
+T6	Antibiotic 769 783	aminoglycoside

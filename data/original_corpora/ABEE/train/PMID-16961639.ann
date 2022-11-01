@@ -1,0 +1,34 @@
+T1	Antibiotic 161 170	quinolone
+T3	Bacteria 331 349	Enterobacteriaceae
+T4	Antibiotic 355 364	quinolone
+T6	Bacteria 553 573	Enterobacter cloacae
+T7	Bacteria 582 603	Klebsiella pneumoniae
+T8	Bacteria 609 629	Citrobacter freundii
+T9	Bacteria 635 653	Klebsiella oxytoca
+T10	Bacteria 663 680	Proteus mirabilis
+T11	Bacteria 786 796	E. cloacae
+*	Equiv T11 T6 T15 T16
+T12	Antibiotic 1049 1063	nalidixic acid
+T14	Antibiotic 1076 1089	ciprofloxacin
+T15	Bacteria 1126 1137	E.  cloacae
+T16	Bacteria 1774 1784	E. cloacae
+T2	Gene 14 18	qnrA
+T17	Gene 126 130	qnrA
+T5	Protein 379 411	extended-spectrum beta-lactamase
+T18	Protein 415 419	ESBL
+T19	Gene 522 526	qnrA
+T20	Gene 700 704	qnrA
+T21	Protein 750 754	ESBL
+T22	Protein 822 826	ESBL
+T23	Gene 865 869	qnrA
+T24	Protein 889 893	ESBL
+T13	Gene 1112 1116	qnrA
+T25	Gene 973 977	qnrA
+T26	Gene 1331 1335	qnrA
+T27	Gene 1430 1434	qnrA
+T28	Gene 1572 1576	ESBL
+T29	Gene 1599 1603	qnrA
+T30	Gene 1608 1619	bla(SHV-12)
+T31	Gene 1649 1658	bla(PER-1
+T32	Gene 1664 1675	bla(SHV-2a)
+T33	Gene 1732 1736	qnrA

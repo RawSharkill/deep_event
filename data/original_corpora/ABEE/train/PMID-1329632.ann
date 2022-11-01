@@ -1,0 +1,46 @@
+T1	Antibiotic 14 24	daptomycin
+T2	Antibiotic 26 36	vancomycin
+T3	Antibiotic 42 63	ampicillin-gentamicin
+T4	Bacteria 140 151	enterococci
+T5	Bacteria 170 181	enterococci
+T6	Antibiotic 394 404	penicillin
+T7	Bacteria 417 444	Enterococcus faecalis HH-22
+T8	Antibiotic 482 492	penicillin
+T9	Bacteria 546 576	Enterococcus raffinosus SF-195
+T10	Antibiotic 633 643	penicillin
+T11	Bacteria 732 737	HH-22
+*	Equiv T11 T7
+T12	Antibiotic 802 812	daptomycin
+T13	Antibiotic 886 896	vancomycin
+T14	Antibiotic 935 945	ampicillin
+T15	Antibiotic 987 997	gentamicin
+T16	Antibiotic 1033 1043	vancomycin
+T17	Antibiotic 1103 1113	daptomycin
+T18	Antibiotic 1060 1081	ampicillin-gentamicin
+T19	Bacteria 1346 1352	SF-195
+*	Equiv T19 T9
+T20	Antibiotic 1384 1394	ampicillin
+T21	Antibiotic 1397 1418	ampicillin-gentamicin
+T22	Antibiotic 1420 1430	vancomycin
+T23	Antibiotic 1435 1445	daptomycin
+T24	Antibiotic 1493 1503	Daptomycin
+T25	Antibiotic 1505 1515	vancomycin
+T26	Antibiotic 1521 1542	ampicillin-gentamicin
+T27	Antibiotic 1627 1637	ampicillin
+T28	Antibiotic 1796 1806	ampicillin
+T29	Antibiotic 1861 1871	daptomycin
+T30	Antibiotic 2000 2010	Daptomycin
+T31	Antibiotic 2015 2025	vancomycin
+T32	Bacteria 2473 2478	HH-22
+T33	Antibiotic 2512 2533	ampicillin-gentamicin
+T34	Bacteria 2613 2619	SF-195
+T35	Antibiotic 2656 2666	penicillin
+T36	Antibiotic 2748 2758	ampicillin
+T37	Antibiotic 462 477	aminoglycosides
+T38	Antibiotic 119 129	penicillin
+T39	Antibiotic 595 610	aminoglycosides
+T40	Antibiotic 673 683	penicillin
+T41	Antibiotic 2121 2131	penicillin
+T42	Protein 2391 2403	beta-lactams
+T43	Protein 2437 2451	Beta-Lactamase
+T44	Antibiotic 2850 2864	aminoglycoside

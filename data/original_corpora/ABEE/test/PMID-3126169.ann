@@ -1,0 +1,28 @@
+T1	Bacteria 86 106	Streptomyces griseus
+T2	Antibiotic 210 212	KM
+T3	Bacteria 235 265	Streptomyces griseus SS-1198PR
+T5	Bacteria 445 461	strain SS-1198PR
+*	Equiv T5 T3
+T6	Bacteria 492 499	SS-1198
+T8	Bacteria 1099 1108	SS-1198PR
+T9	Bacteria 1123 1149	Streptomyces lividans TK21
+T10	Bacteria 1163 1174	strain TK21
+*	Equiv T10 T9
+T11	Antibiotic 1215 1229	aminoglycoside
+T12	Bacteria 1499 1516	strains SS-1198PR
+T4	Antibiotic 23 32	kanamycin
+T7	Antibiotic 396 398	KM
+T13	Gene 416 419	kan
+T14	Antibiotic 471 473	KM
+T15	Gene 573 576	kan
+T16	Gene 866 869	kan
+T17	Gene 1018 1021	kan
+T18	Gene 1109 1112	kan
+T19	Gene 1191 1194	kan
+T20	Protein 1249 1257	AAC(3)-V
+T21	Gene 1362 1365	kan
+T22	Gene 1410 1413	kan
+T23	Antibiotic 1450 1452	KM
+T24	Protein 1483 1491	AAC(3)-V
+T25	Antibiotic_target_alteration 1344 1354	alteration
+E1	Antibiotic_target_alteration:T25 Cause:T23 Theme:T12

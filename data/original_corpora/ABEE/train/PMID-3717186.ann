@@ -1,0 +1,6 @@
+T1	Antibiotic 0 26	Beta-lactam/aminoglycoside
+T2	Antibiotic 93 105	beta-lactams
+T3	Antibiotic 111 126	aminoglycosides
+T4	Antibiotic 271 283	beta-lactams
+T5	Antibiotic 288 303	aminoglycosides
+T6	Bacteria 484 495	enterococci

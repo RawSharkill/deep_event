@@ -1,0 +1,46 @@
+T1	Antibiotic 34 46	tetracycline
+T2	Bacteria 83 112	Agrobacterium tumefaciens C58
+T3	Bacteria 116 145	Agrobacterium tumefaciens C58
+T4	Antibiotic 213 225	tetracycline
+T5	Bacteria 384 387	C58
+*	Equiv T5 T2
+T6	Antibiotic 449 461	tetracycline
+T7	Antibiotic 504 516	tetracycline
+T8	Bacteria 520 536	Escherichia coli
+T9	Bacteria 541 554	Agrobacterium
+T10	Antibiotic 1044 1056	tetracycline
+T11	Bacteria 1121 1134	Agrobacterium
+T12	Bacteria 1151 1162	strains C58
+T13	Bacteria 1167 1170	T37
+T14	Antibiotic 1317 1329	tetracycline
+T15	Bacteria 1759 1772	Agrobacterium
+T16	Bacteria 1896 1906	strain C58
+T17	Bacteria 1908 1915	TetRC58
+*	Equiv T17 T16
+T18	Bacteria 1941 1951	strain RP4
+T19	Bacteria 1953 1960	tetARP4
+*	Equiv T19 T18
+T20	Antibiotic 1982 1994	tetracycline
+T21	Bacteria 2010 2017	tetAC58
+T22	Bacteria 2022 2029	TetRRP4
+T23	Gene 750 754	tetA
+T24	Gene 759 763	tetR
+T25	Protein 826 832	Tet(A)
+T26	Gene 907 911	tetR
+T27	Gene 932 937	IS426
+T28	Antibiotic_target_alteration 192 199	mutants
+E1	Antibiotic_target_alteration:T28 Theme:T3 Cause:T4
+T29	Antibiotic_target_alteration 359 366	mutants
+E2	Antibiotic_target_alteration:T29 Theme:T5 Cause:T6
+T30	Antibiotic_target_alteration 601 607	mutant
+E3	Antibiotic_target_alteration:T30 Cause:T7 Theme:T8
+E4	Antibiotic_target_alteration:T30 Theme:T9 Cause:T7
+T31	Protein 1292 1298	Tet(A)
+T32	Gene 1495 1498	tet
+T33	Gene 1551 1554	tet
+T34	Gene 1721 1724	RP4
+T35	Protein 1726 1730	TetR
+T36	Gene 1773 1776	tet
+T37	Gene 1794 1797	RP4
+T38	Protein 1878 1882	TetR
+T39	Gene 1924 1928	tetA

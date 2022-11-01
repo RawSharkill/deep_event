@@ -1,0 +1,17 @@
+T1	Antibiotic 16 28	trimethoprim
+T2	Bacteria 50 66	Salmonella Agona
+T3	Antibiotic 149 161	trimethoprim
+T4	Bacteria 267 284	Salmonella  Agona
+T5	Bacteria 320 342	Escherichia coli MT102
+T6	Protein 190 196	dfrA25
+T7	Protein 0 6	dfrA25
+T8	Protein 504 508	DfrA
+T9	Protein 793 798	dfrA5
+T10	Protein 824 830	dfrA25
+T11	Protein 749 761	amino  acids
+T12	Protein 701 707	dfrA25
+T13	Antibiotic 470 482	trimethoprim
+T14	Protein 718 741	dihydrofolate reductase
+T15	Antibiotic 919 931	tetracycline
+T16	Gene 948 954	tet(A)
+T17	Protein 799 822	dihydrofolate reductase

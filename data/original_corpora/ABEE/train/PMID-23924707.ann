@@ -1,0 +1,29 @@
+T1	Antibiotic_efflux 79 85	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 96 118	Pseudomonas aeruginosa
+T3	Antibiotic_efflux 147 153	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 164 186	Pseudomonas aeruginosa
+T5	Bacteria 1145 1159	P.  aeruginosa
+*	Equiv T5 T2
+T6	Protein 35 39	NfxB
+T7	Gene 57 62	mexCD
+T8	Gene 63 67	oprJ
+T9	Gene 126 131	mexCD
+T10	Gene 132 136	oprJ
+T11	Protein 209 213	NfxB
+T12	Protein 238 242	NfxB
+T13	Protein 433 437	NfxB
+T14	Gene 461 466	mexCD
+T15	Gene 467 471	oprJ
+T16	Protein 622 626	NfxB
+T17	Protein 802 806	NfxB
+T18	Protein 1034 1038	NfxB
+T19	Gene 1169 1174	mexCD
+T20	Gene 1175 1179	oprJ
+T21	Gene 1353 1358	mexCD
+T22	Gene 1359 1363	oprJ
+T23	Protein 1800 1804	NfxB
+T24	Protein 2038 2042	NfxB
+T25	Protein 1258 1262	NfxB
+T26	Gene 1322 1326	nfxB

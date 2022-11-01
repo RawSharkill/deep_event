@@ -1,0 +1,15 @@
+T1	Antibiotic 12 27	fluoroquinolone
+T2	Bacteria 63 90	Mycobacterium  tuberculosis
+T3	Bacteria 126 152	Mycobacterium tuberculosis
+T4	Antibiotic 316 325	quinolone
+T5	Antibiotic 571 580	ofloxacin
+T6	Antibiotic 834 843	ofloxacin
+T7	Antibiotic 863 879	fluoroquinolones
+T8	Antibiotic 157 166	ofloxacin
+T9	Gene 298 303	gyr A
+T10	Gene 1040 1045	gyr B
+T11	Gene 1007 1012	gyr A
+T12	Gene 915 920	gyr A
+T13	Antibiotic 188 197	ofloxacin
+T14	Antibiotic_target_alteration 485 494	mutations
+E1	Antibiotic_target_alteration:T14 Cause:T5

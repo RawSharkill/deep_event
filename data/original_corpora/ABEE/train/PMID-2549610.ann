@@ -1,0 +1,8 @@
+T1	Antibiotic 24 34	quinolones
+T2	Antibiotic 116 126	quinolones
+T3	Antibiotic 656 666	quinolones
+T4	Bacteria 856 878	Pseudomonas aeruginosa
+T5	Bacteria 883 904	Staphylococcus aureus
+T6	Bacteria 964 977	P. aeruginosa
+*	Equiv T6 T4
+T7	Antibiotic 1084 1093	quinolone

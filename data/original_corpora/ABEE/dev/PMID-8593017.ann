@@ -1,0 +1,25 @@
+T1	Bacteria 76 97	Mycoplasma pneumoniae
+T2	Antibiotic 101 113	Erythromycin
+T3	Bacteria 153 174	Mycoplasma pneumoniae
+T4	Antibiotic 289 301	erythromycin
+T5	Antibiotic 346 358	erythromycin
+T6	Antibiotic 369 379	macrolides
+T7	Bacteria 574 592	M. pneumoniae M129
+T8	Antibiotic 633 645	erythromycin
+T9	Antibiotic 733 770	macrolide-lincosamide-streptogramin B
+T10	Antibiotic 772 775	MLS
+*	Equiv T10 T9
+T11	Bacteria 947 951	M129
+*	Equiv T11 T7
+T12	Antibiotic 1311 1314	MLS
+T13	Bacteria 1368 1381	M. pneumoniae
+*	Equiv T13 T3
+T14	Antibiotic 1578 1590	erythromycin
+T15	Antibiotic 40 52	erythromycin
+T16	Antibiotic_target_alteration 11 20	mutations
+E1	Antibiotic_target_alteration:T16 Cause:T15 Theme:T1
+T17	Antibiotic_target_alteration 324 331	mutants
+E2	Antibiotic_target_alteration:T17 Cause:T5
+E3	Antibiotic_target_alteration:T17 Cause:T6
+T18	Antibiotic_target_alteration 529 536	mutants
+E4	Antibiotic_target_alteration:T18 Theme:T7 Cause:T8

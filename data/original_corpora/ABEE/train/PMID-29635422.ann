@@ -1,0 +1,42 @@
+T1	Antibiotic 305 314	linezolid
+T2	Bacteria 445 476	Staphylococcus aureus AOUC-0915
+T3	Bacteria 550 566	Escherichia coli
+T4	Bacteria 568 577	S. aureus
+T5	Bacteria 583 604	Enterococcus faecalis
+T6	Bacteria 1021 1028	E. coli
+*	Equiv T6 T3
+T7	Bacteria 1030 1039	S. aureus
+T8	Bacteria 1044 1056	E.  faecalis
+*	Equiv T8 T5
+T9	Antibiotic 1096 1105	phenicols
+T10	Antibiotic 1107 1121	oxazolidinones
+T11	Antibiotic 1127 1140	tetracyclines
+T12	Bacteria 1196 1207	E. faecalis
+T13	Bacteria 1210 1230	Enterococcus faecium
+T14	Bacteria 1235 1259	Pediococcus acidilactici
+T15	Bacteria 1365 1378	Clostridiales
+T16	Antibiotic 1746 1755	phenicols
+T17	Antibiotic 1759 1773	oxazolidinones
+T18	Antibiotic 1778 1791	tetracyclines
+T19	Gene 482 487	poxtA
+T20	Gene 20 25	poxtA
+T21	Antibiotic 58 70	tetracycline
+T22	Antibiotic 35 43	phenicol
+T23	Antibiotic 44 57	oxazolidinone
+T24	Antibiotic 159 167	phenicol
+T25	Antibiotic 168 181	oxazolidinone
+T26	Antibiotic 182 194	tetracycline
+T27	Gene 219 224	poxtA
+T28	Bacteria 263 274	MRSA strain
+T29	Gene 336 339	cfr
+T30	Gene 360 365	poxtA
+T31	Gene 765 770	poxtA
+T32	Gene 820 825	OptrA
+T33	Antibiotic_target_protection 986 996	protection
+E1	Antibiotic_target_protection:T33 
+T34	Gene 1012 1017	poxtA
+T35	Gene 1187 1192	poxtA
+T36	Gene 1324 1329	poxtA
+T37	Gene 1426 1431	poxtA
+T38	Gene 1563 1568	poxtA
+T39	Gene 1701 1706	PoxtA

@@ -1,0 +1,23 @@
+T1	Bacteria 40 66	Mycobacterium tuberculosis
+T2	Bacteria 143 169	Mycobacterium tuberculosis
+T3	Bacteria 398 413	M. tuberculosis
+*	Equiv T3 T2
+T4	Bacteria 563 578	M. tuberculosis
+T5	Antibiotic 741 751	Rifampicin
+T6	Antibiotic 817 826	Isoniazid
+T7	Bacteria 1332 1347	M. tuberculosis
+T8	Antibiotic_target_alteration 27 36	mutations
+E1	Antibiotic_target_alteration:T8 Theme:T1
+T9	Gene 778 782	rpoB
+T10	Gene 863 867	katG
+T11	Gene 877 881	inhA
+T12	Antibiotic_target_alteration 783 792	mutations
+E2	Antibiotic_target_alteration:T12 Cause:T5
+T13	Antibiotic_target_alteration 853 862	mutations
+E3	Antibiotic_target_alteration:T13 Cause:T6
+T14	Antibiotic 898 910	Streptomycin
+T15	Antibiotic_target_alteration 937 946	mutations
+E4	Antibiotic_target_alteration:T15 Cause:T14
+T16	Gene 971 974	rrs
+T17	Gene 947 951	rpsL
+T18	Gene 985 989	gidB

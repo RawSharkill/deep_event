@@ -1,0 +1,3 @@
+NDM-12, a novel New Delhi metallo-beta-lactamase variant from a  carbapenem resistant Escherichia coli clinical isolate in Nepal. 
+
+A novel New Delhi metallo-beta-lactamase variant, NDM-12, was identified in a  carbapenem resistant Escherichia coli clinical isolate obtained from a urine  sample from a patient in Nepal. NDM-12 differed from NDM-1 by two amino acid  substitutions (M154L and G222D). The enzymatic activities of NDM-12 against  beta-lactams were similar to those of NDM-1, although NDM-12 showed lower kcat/Km  ratios for all beta-lactams tested except doripenem. The blaNDM-12 gene was  located in a plasmid of 160 kb.

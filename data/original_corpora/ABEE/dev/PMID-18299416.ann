@@ -1,0 +1,15 @@
+T1	Bacteria 60 83	Pseudomonas  aeruginosa
+T2	Bacteria 88 109	Klebsiella pneumoniae
+T3	Bacteria 194 217	Pseudomonas  aeruginosa
+T4	Bacteria 242 263	Klebsiella pneumoniae
+T5	Gene 17 22	arr-4
+T6	Gene 27 32	arr-5
+T7	Gene 226 231	arr-4
+T8	Gene 311 316	arr-4
+T9	Gene 354 359	arr-5
+T10	Protein 333 338	aacA7
+T11	Gene 460 465	Arr-2
+T12	Gene 436 441	Arr-4
+T13	Gene 420 425	Arr-5
+T14	Protein 339 344	catB3
+T15	Gene 273 278	arr-5

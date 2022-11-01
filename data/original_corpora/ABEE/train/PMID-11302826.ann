@@ -1,0 +1,21 @@
+T1	Bacteria 126 142	Escherichia coli
+T2	Bacteria 233 240	E. coli
+*	Equiv T2 T1
+T3	Gene 43 47	acrB
+T4	Gene 24 30	marRAB
+T5	Gene 34 39	soxRS
+T6	Antibiotic 64 79	fluoroquinolone
+T7	Gene 159 163	acrB
+T8	Gene 165 169	marA
+T9	Gene 175 179	soxS
+T10	Antibiotic 207 222	fluoroquinolone
+T11	Gene 323 327	acrB
+T12	Gene 406 410	acrR
+T13	Gene 496 500	soxS
+T14	Gene 535 540	 marA
+T15	Gene 582 586	marR
+T16	Gene 591 595	soxR
+T17	Gene 650 654	marA
+T18	Gene 659 663	soxS
+T19	Antibiotic_target_alteration 554 563	mutations
+E1	Antibiotic_target_alteration:T19 Cause:T10 Theme:T2

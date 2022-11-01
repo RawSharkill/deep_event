@@ -1,0 +1,16 @@
+T1	Antibiotic 17 26	quinolone
+T2	Bacteria 100 118	Enterobacteriaceae
+T3	Bacteria 206 224	Enterobacteriaceae
+T4	Antibiotic 239 253	nalidixic acid
+T5	Bacteria 403 423	Citrobacter freundii
+T6	Protein 537 562	AmpC-type  beta-lactamase
+T7	Gene 496 500	qnrB
+T8	Gene 502 506	armA
+T9	Protein 271 300	extended-spectrum beta-lactam
+T10	Gene 327 331	qnrA
+T11	Gene 333 337	qnrB
+T12	Gene 343 347	qnrS
+T13	Gene 385 389	qnrB
+T14	Gene 51 55	qnrA
+T15	Gene 57 61	qnrB
+T16	Gene 67 71	qnrS

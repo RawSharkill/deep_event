@@ -1,0 +1,16 @@
+T1	Bacteria 71 93	Enterobacter aerogenes
+T2	Bacteria 126 148	Enterobacter aerogenes
+T3	Bacteria 414 447	Enterobacter aerogenes ATCC 13048
+T4	Bacteria 572 594	Escherichia coli JM109
+T5	Bacteria 599 622	E. aerogenes ATCC 13048
+*	Equiv T5 T3
+T6	Antibiotic 682 694	beta-lactams
+T7	Antibiotic 696 708	tetracycline
+T8	Antibiotic 710 725	chloramphenicol
+T9	Antibiotic 733 743	quinolones
+T10	Gene 0 4	RamA
+T11	Gene 182 186	MarA
+T12	Gene 302 306	RamA
+T13	Gene 521 525	RamA
+T14	Gene 873 877	RamA
+T15	Gene 1022 1026	RamA

@@ -1,0 +1,9 @@
+T1	Bacteria 104 115	Haemophilus
+T2	Bacteria 235 246	Haemophilus
+T3	Antibiotic 276 288	beta-lactams
+T4	Antibiotic 529 539	ampicillin
+T5	Antibiotic 1104 1114	ampicillin
+T6	Antibiotic 1809 1819	penicillin
+T7	Antibiotic 1770 1780	penicillin
+T8	Antibiotic 1965 1977	beta-lactams
+T9	Antibiotic 2653 2664	beta-lactam

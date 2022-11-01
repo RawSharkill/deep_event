@@ -1,0 +1,18 @@
+T1	Bacteria 55 76	Enterococcus faecalis
+T2	Antibiotic 112 122	vancomycin
+T3	Bacteria 245 257	Enterococcus
+T4	Bacteria 274 300	Enterococcus faecalis V583
+T5	Antibiotic 359 369	vancomycin
+T6	Bacteria 525 541	E. faecalis V583
+*	Equiv T6 T4
+T7	Antibiotic 585 595	vancomycin
+T8	Antibiotic 928 938	vancomycin
+T9	Bacteria 1190 1201	E. faecalis
+T10	Gene 30 34	vanV
+T11	Gene 39 43	vanB
+T12	Bacteria 173 196	Gram-positive pathogens
+T13	Gene 633 637	vanB
+T14	Gene 734 751	vanY(B)WH(B)BX(B)
+T15	Gene 1030 1034	vanB
+T16	Bacteria 1083 1094	E. faecalis
+T17	Gene 879 883	vanV

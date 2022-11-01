@@ -1,0 +1,19 @@
+T1	Antibiotic 51 61	fosfomycin
+T2	Bacteria 99 125	Mycobacterium tuberculosis
+T5	Bacteria 129 155	Mycobacterium tuberculosis
+T6	Antibiotic 390 400	fosfomycin
+T9	Bacteria 530 546	Escherichia coli
+T10	Antibiotic 548 558	fosfomycin
+T11	Bacteria 706 726	M. tuberculosis MurA
+T13	Antibiotic 833 843	fosfomycin
+T15	Bacteria 1094 1109	M. tuberculosis
+T7	Bacteria 473 488	M. tuberculosis
+T12	Bacteria 789 809	M. tuberculosis MurA
+*	Equiv T7 T5
+T4	Antibiotic_target_alteration 77 88	recombinant
+E2	Antibiotic_target_alteration:T4 Cause:T1 Theme:T2
+T3	Protein 23 33	amino acid
+T16	Antibiotic_target_alteration 0 10	Alteration
+E1	Antibiotic_target_alteration:T16 Cause:T1 Theme:T2
+T8	Protein 494 500	enzyme
+T14	Protein 1110 1116	enzyme

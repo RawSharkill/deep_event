@@ -1,0 +1,7 @@
+T1	Antibiotic 20 28	imipenem
+T3	Antibiotic 80 88	Imipenem
+T4	Antibiotic 127 150	beta-lactam antibiotics
+T6	Antibiotic 402 410	Imipenem
+T7	Antibiotic 103 113	carbapenem
+T2	Bacteria 56 77	gram-negative bacilli
+T5	Bacteria 225 244	Gram-negative  rods

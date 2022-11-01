@@ -1,0 +1,15 @@
+T1	Antibiotic 61 72	beta-lactam
+T2	Bacteria 89 100	enterococci
+T3	Bacteria 103 114	Enterococci
+T4	Antibiotic 186 197	beta-lactam
+T5	Bacteria 237 248	enterococci
+T6	Antibiotic 252 263	beta-lactam
+T7	Antibiotic 326 336	penicillin
+T8	Antibiotic 388 399	beta-lactam
+T9	Antibiotic 520 531	beta-lactam
+T10	Antibiotic 650 660	beta-lacta
+T11	Protein 355 358	PBP
+T12	Protein 693 696	PBP
+T13	Antibiotic 852 863	beta-lactam
+T14	Bacteria 1189 1210	Enterococcus faecalis
+T15	Antibiotic 1231 1241	penicillin

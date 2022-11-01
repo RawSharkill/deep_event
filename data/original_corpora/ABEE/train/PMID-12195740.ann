@@ -1,0 +1,8 @@
+T1	Bacteria 1020 1036	Escherichia coli
+T2	Bacteria 1200 1222	Gram-negative bacteria
+T3	Antibiotic_efflux 1387 1393	efflux
+E1	Antibiotic_efflux:T3 Theme:T6
+T4	Protein 1000 1004	MsbA
+T5	Antibiotic_efflux 1005 1016	transporter
+E2	Antibiotic_efflux:T5 Theme:T1
+T6	Bacteria 1403 1416	Gram-negative

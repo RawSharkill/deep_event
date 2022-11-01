@@ -1,0 +1,15 @@
+T1	Bacteria 125 147	Pseudomonas aeruginosa
+T2	Bacteria 301 323	Pseudomonas aeruginosa
+T3	Antibiotic 395 410	aminoglycosides
+T4	Antibiotic 85 100	aminoglycosides
+T5	Antibiotic 105 116	ticarcillin
+T6	Antibiotic 485 496	ticarcillin
+T7	Antibiotic 276 287	ticarcillin
+T8	Antibiotic 262 270	amikacin
+T9	Antibiotic 250 260	gentamicin
+T10	Antibiotic 238 248	tobramycin
+T11	Antibiotic 198 208	azlocillin
+T12	Antibiotic 182 193	thienamycin
+T13	Antibiotic 62 72	Azlocillin
+T14	Antibiotic 37 48	thienamycin
+T15	Antibiotic 652 663	thienamycin

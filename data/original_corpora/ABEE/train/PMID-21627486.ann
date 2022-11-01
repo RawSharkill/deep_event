@@ -1,0 +1,21 @@
+T1	Antibiotic 717 731	streptothricin
+T2	Bacteria 891 906	Escherichia sp.
+T3	Antibiotic 938 950	tetracycline
+T4	Antibiotic 952 967	chloramphenicol
+T5	Antibiotic 969 981	streptomycin
+T6	Antibiotic 987 996	kanamycin
+T7	Protein 785 789	orfF
+T8	Protein 794 798	orfC
+T9	Protein 685 690	aadA1
+T10	Protein 692 697	aadA2
+T11	Protein 699 704	aadA5
+T12	Protein 710 714	aadB
+T13	Protein 586 611	dihydrofolate  reductases
+T14	Protein 613 618	dfrA1
+T15	Protein 620 626	dfrA12
+T16	Protein 628 634	dfrA17
+T17	Protein 640 645	dfrB7
+T18	Protein 872 877	dfrA1
+T19	Protein 882 887	aadA5
+T20	Bacteria 53 75	gram-negative bacteria
+T21	Gene 842 847	 orf1

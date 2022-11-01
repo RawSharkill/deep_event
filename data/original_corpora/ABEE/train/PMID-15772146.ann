@@ -1,0 +1,26 @@
+T1	Bacteria 97 123	Shewanella livingstonensis
+T2	Bacteria 136 161	Shewanella  frigidimarina
+T5	Bacteria 295 320	Shewanella  frigidimarina
+T7	Bacteria 460 477	Escherichia  coli
+T3	Bacteria 609 627	S. livingstonensis
+T4	Bacteria 633 649	S. frigidimarina
+*	Equiv T4 T2
+*	Equiv T3 T1
+T8	Bacteria 826 848	Pseudomonas aeruginosa
+T10	Antibiotic 979 993	cephalosporins
+T6	Bacteria 325 351	Shewanella livingstonensis
+T9	Protein 548 577	Metallo-beta-lactamases SLB-1
+T11	Protein 742 765	class B beta-lactamases
+T12	Protein 67 91	class B  beta-lactamases
+T13	Protein 677 687	amino acid
+T14	Protein 778 788	amino acid
+T15	Gene 202 216	beta-lactamase
+T16	Bacteria 272 293	gram-negative bacilli
+T17	Protein 529 536	enzymes
+T18	Antibiotic_inactivation 969 978	hydrolyse
+E1	Antibiotic_inactivation:T18 Cause:T10
+T19	Protein 898 924	broad-spectrum beta-lactam
+T20	Antibiotic 1181 1192	beta-lactam
+T21	Antibiotic 234 245	beta-lactam
+T22	Protein 805 810	GIM-1
+T23	Protein 815 820	IMP-1

@@ -1,0 +1,13 @@
+T1	Antibiotic 38 50	fusidic acid
+T2	Bacteria 90 111	Staphylococcus aureus
+T3	Antibiotic 129 141	fusidic acid
+T4	Bacteria 145 166	Staphylococcus aureus
+T5	Antibiotic 826 838	fusidic acid
+T6	Bacteria 1828 1837	S. aureus
+*	Equiv T6 T2
+T7	Gene 1394 1398	fusA
+T8	Antibiotic 560 572	fusidic acid
+T9	Antibiotic 427 440	fusidic  acid
+T10	Antibiotic 1670 1683	fusidic  acid
+T11	Antibiotic 1782 1794	fusidic acid
+T12	Gene 1078 1082	fusC

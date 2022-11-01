@@ -1,0 +1,24 @@
+T1	Antibiotic 2 10	ketolide
+T2	Antibiotic 131 140	Ketolides
+T3	Antibiotic 171 192	macrolide antibiotics
+T4	Bacteria 272 288	Escherichia coli
+T5	Antibiotic 423 439	ketolide HMR3647
+T6	Bacteria 609 617	E.  coli
+*	Equiv T6 T4
+T7	Antibiotic 693 701	ketolide
+T8	Antibiotic 736 748	erythromycin
+T9	Antibiotic 771 779	ketolide
+T10	Antibiotic 784 796	erythromycin
+T11	Antibiotic 918 926	ketolide
+T12	Antibiotic 945 957	erythromycin
+T13	Antibiotic 1125 1134	macrolide
+T14	Antibiotic 1188 1197	ketolides
+T15	Antibiotic 1268 1277	ketolides
+T16	Antibiotic 1372 1381	macrolide
+T17	Antibiotic_target_alteration 566 574	mutation
+E1	Antibiotic_target_alteration:T17 Theme:T6 Cause:T7
+T18	Antibiotic_target_alteration 386 393	mutants
+E2	Antibiotic_target_alteration:T18 Cause:T5 Theme:T4
+T19	Antibiotic_target_alteration 712 720	mutation
+E3	Antibiotic_target_alteration:T19 Cause:T8 Theme:T6
+T20	Antibiotic 1286 1298	erythromycin

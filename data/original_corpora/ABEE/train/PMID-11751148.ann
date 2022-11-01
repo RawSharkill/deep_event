@@ -1,0 +1,13 @@
+T6	Antibiotic 196 207	carbapenems
+T7	Antibiotic 212 223	ceftazidime
+T8	Antibiotic 232 244	piperacillin
+T2	Bacteria 44 66	Pseudomonas aeruginosa
+T3	Bacteria 110 141	Pseudomonas aeruginosa isolates
+T1	Antibiotic 23 33	carbapenem
+T4	Protein 289 311	metallo-beta-lactamase
+T5	Protein 353 358	IMP-1
+T9	Protein 324 329	IMP-7
+T10	Gene 402 410	bla(IMP)
+T11	Gene 360 370	bla(IMP-7)
+T12	Gene 79 87	bla(IMP)
+T13	Gene 96 106	bla(IMP-7)

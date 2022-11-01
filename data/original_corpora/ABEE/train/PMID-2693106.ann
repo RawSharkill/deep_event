@@ -1,0 +1,12 @@
+T2	Antibiotic 56 67	beta-lactam
+T4	Antibiotic 165 188	beta-lactam antibiotics
+T5	Bacteria 401 421	Enterobacter cloacae
+T6	Bacteria 828 850	Pseudomonas aeruginosa
+T7	Antibiotic 901 909	imipenem
+T1	Bacteria 126 147	gram-negative bacilli
+T3	Bacteria 27 48	gram-negative bacilli
+T8	Antibiotic 488 502	cephalosporins
+T9	Antibiotic 507 518	monobactams
+T10	Antibiotic 659 673	cephalosporins
+T11	Antibiotic_target_alteration 929 940	alterations
+E1	Antibiotic_target_alteration:T11 Cause:T7 Theme:T6

@@ -1,0 +1,22 @@
+T1	Bacteria 307 323	Escherichia coli
+T2	Antibiotic 843 853	kirromycin
+T3	Antibiotic 50 64	enacyloxin IIa
+T4	Antibiotic 222 236	enacyloxin IIa
+T6	Antibiotic 589 603	enacyloxin IIa
+T7	Antibiotic 780 790	kirromycin
+T8	Antibiotic 409 423	enacyloxin IIa
+T9	Antibiotic 941 955	enacyloxin IIa
+T10	Antibiotic 1513 1527	enacyloxin IIa
+T11	Antibiotic 1222 1236	enacyloxin IIa
+T12	Antibiotic 1063 1077	enacyloxin IIa
+T13	Antibiotic 1326 1340	enacyloxin IIa
+T14	Antibiotic 1382 1396	enacyloxin IIa
+T15	Antibiotic 1133 1149	enacyloxin   IIa
+T19	Antibiotic_inactivation 1160 1170	hydrolysis
+E5	Antibiotic_inactivation:T19 Theme:T15
+T16	Antibiotic_target_replacement 1185 1206	reducing the affinity
+E2	Antibiotic_target_replacement:T16 Theme:T1
+T5	Antibiotic_target_alteration 186 193	mutants
+E1	Antibiotic_target_alteration:T5 
+T17	Antibiotic_target_alteration 813 822	mutations
+E3	Antibiotic_target_alteration:T17 Cause:T2

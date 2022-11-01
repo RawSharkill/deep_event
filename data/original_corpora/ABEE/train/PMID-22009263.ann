@@ -1,0 +1,17 @@
+T1	Bacteria 24 40	Aquifex aeolicus
+T2	Bacteria 144 160	Aquifex aeolicus
+T3	Bacteria 278 287	Aeromonas
+T4	Bacteria 377 388	A. aeolicus
+*	Equiv T4 T1
+T5	Bacteria 423 439	Escherichia coli
+T6	Bacteria 564 571	E. coli
+*	Equiv T6 T5
+T7	Protein 4 10	CphAII
+T8	Protein 103 109	CphAII
+T9	Protein 201 223	metallo-beta-lactamase
+T10	Protein 225 228	MBL
+T11	Protein 340 346	CphAII
+T12	Protein 494 500	CphAII
+T13	Protein 1014 1017	MBL
+T14	Protein 656 662	enzyme
+T15	Gene 299 319	subclass B2 CphA MBL

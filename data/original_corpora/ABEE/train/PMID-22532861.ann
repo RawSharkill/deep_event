@@ -1,0 +1,13 @@
+T1	Antibiotic 30 39	macrolide
+T2	Bacteria 50 71	Mycoplasma genitalium
+T3	Bacteria 146 167	Mycoplasma genitalium
+T4	Bacteria 169 171	MG
+*	Equiv T4 T3
+T5	Bacteria 241 243	MG
+T6	Antibiotic 277 289	azithromycin
+T7	Bacteria 469 471	MG
+T8	Antibiotic 1846 1855	macrolide
+T9	Antibiotic 1979 1991	azithromycin
+T10	Antibiotic_target_alteration 451 460	mutations
+E1	Antibiotic_target_alteration:T10 Theme:T7 Cause:T6
+T11	Antibiotic 1107 1119	azithromycin

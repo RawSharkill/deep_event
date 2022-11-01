@@ -1,0 +1,13 @@
+T1	Bacteria 54 70	Escherichia coli
+T2	Bacteria 195 211	Escherichia coli
+T3	Antibiotic 483 492	quinolone
+T4	Antibiotic 0 11	4-Quinolone
+T5	Protein 44 50	gyrase
+T6	Antibiotic_target_alteration 23 32	mutations
+E1	Antibiotic_target_alteration:T6 Cause:T4 Theme:T1
+T7	Antibiotic 149 163	nalidixic acid
+T8	Protein 263 280	gyrase A proteins
+T9	Antibiotic_target_alteration 244 253	mutations
+E2	Antibiotic_target_alteration:T9 Theme:T2 Cause:T7
+T10	Antibiotic_target_alteration 421 429	mutation
+E3	Antibiotic_target_alteration:T10 Cause:T3

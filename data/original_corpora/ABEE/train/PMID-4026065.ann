@@ -1,0 +1,22 @@
+T1	Antibiotic 71 86	aminoglycosides
+T2	Bacteria 115 138	Mycobacterium fortuitum
+T3	Bacteria 144 166	Mycobacterium chelonei
+T4	Bacteria 319 342	Mycobacterium fortuitum
+T5	Bacteria 348 372	Mycobacterium chelonei t
+T6	Antibiotic 504 513	cefoxitin
+T7	Antibiotic 515 526	doxycycline
+T8	Antibiotic 528 540	erythromycin
+T9	Antibiotic 546 562	sulfamethoxazole
+T10	Antibiotic 606 615	kanamycin
+T11	Antibiotic 620 628	amikacin
+T12	Antibiotic 696 710	aminoglycoside
+T13	Antibiotic 817 831	aminoglycoside
+T14	Antibiotic 1077 1085	amikacin
+T15	Antibiotic 1222 1234	streptomycin
+T16	Antibiotic 1114 1149	2-deoxystreptamine  aminoglycosides
+T17	Bacteria 1711 1723	M. fortuitum
+T18	Bacteria 1728 1739	M. chelonei
+*	Equiv T17 T2
+*	Equiv T18 T3
+T19	Protein 236 267	aminoglycoside-modifying enzyme
+T20	Antibiotic 630 644	Aminoglycoside

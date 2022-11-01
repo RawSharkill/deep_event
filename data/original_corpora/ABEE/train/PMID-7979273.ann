@@ -1,0 +1,30 @@
+T1	Antibiotic 39 49	quinolones
+T2	Bacteria 79 102	 Pseudomonas aeruginosa
+T3	Antibiotic 177 188	norfloxacin
+T4	Gene 413 418	 gyrA
+T5	Gene 422 426	nfxB
+T6	Bacteria 1335 1353	P. aeruginosa PAO1
+T7	Gene 646 650	gyrA
+T8	Antibiotic 589 600	norfloxacin
+T9	Bacteria 260 273	P. aeruginosa
+T10	Antibiotic 479 490	norfloxacin
+T11	Bacteria 782 795	P. aeruginosa
+T12	Gene 697 701	nfxB
+T13	Antibiotic_target_alteration 631 642	alterations
+E1	Antibiotic_target_alteration:T13 Cause:T8
+T14	Antibiotic 742 753	norfloxacin
+T15	Gene 1483 1487	nfxB
+T16	Gene 1397 1401	gyrA
+T17	Gene 1402 1406	nfxB
+T18	Bacteria 1437 1447	 GN17434-2
+T19	Bacteria 817 827	 GN17434-2
+T20	Bacteria 805 812	GN17605
+T21	Antibiotic_target_alteration 854 868	transformation
+E2	Antibiotic_target_alteration:T21 Theme:T11 Cause:T14
+E3	Antibiotic_target_alteration:T21 Theme:T20 Cause:T14
+T22	Bacteria 1142 1149	GN17605
+T23	Bacteria 1263 1270	GN17605
+T24	Antibiotic 1198 1209	norfloxacin
+T25	Bacteria 129 151	Pseudomonas aeruginosa
+T26	Antibiotic 283 294	norfloxacin
+E4	Antibiotic_target_alteration:T21 Theme:T19 Cause:T14

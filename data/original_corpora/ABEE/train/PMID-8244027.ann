@@ -1,0 +1,19 @@
+T1	Bacteria 22 47	Streptomyces antibioticus
+T2	Bacteria 211 232	Streptomyces lividans
+T3	Bacteria 289 314	Streptomyces antibioticus
+T4	Bacteria 1142 1153	S. lividans
+*	Equiv T4 T2
+T5	Antibiotic 1337 1349	oleandomycin
+T6	Antibiotic_inactivation 118 130	inactivation
+E1	Antibiotic_inactivation:T6 Theme:T1
+T7	Gene 415 419	ORF1
+T8	Gene 455 459	oleD
+T9	Gene 444 448	ORF2
+T10	Gene 979 983	oleD
+T11	Gene 1128 1131	mgt
+T12	Antibiotic_inactivation 1216 1228	inactivating
+E2	Antibiotic_inactivation:T12 Theme:T4 Cause:T16
+T13	Gene 689 693	ORF2
+T14	Gene 153 156	mgt
+T15	Gene 547 551	ORF1
+T16	Antibiotic 1229 1239	macrolides

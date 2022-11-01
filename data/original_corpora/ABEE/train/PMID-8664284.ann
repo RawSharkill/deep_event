@@ -1,0 +1,17 @@
+T1	Bacteria 56 72	Escherichia coli
+T2	Antibiotic 205 215	fosfomycin
+T3	Antibiotic 234 244	fosfomycin
+T4	Bacteria 392 408	Escherichia coli
+T5	Bacteria 413 433	Enterobacter cloacae
+T6	Antibiotic 485 495	fosfomycin
+T7	Bacteria 708 734	Mycobacterium tuberculosis
+T8	Bacteria 767 775	E.  coli
+*	Equiv T8 T4
+T9	Antibiotic 857 867	fosfomycin
+T10	Antibiotic 869 879	Fosfomycin
+T11	Antibiotic 995 1005	fosfomycin
+T12	Antibiotic 1008 1018	Fosfomycin
+T13	Antibiotic 2288 2298	fosfomycin
+T14	Antibiotic_inactivation 174 186	inactivation
+E1	Antibiotic_inactivation:T14 Cause:T2 Theme:T1
+T15	Antibiotic 1534 1544	fosfomycin

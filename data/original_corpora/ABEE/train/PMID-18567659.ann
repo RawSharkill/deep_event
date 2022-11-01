@@ -1,0 +1,14 @@
+T1	Antibiotic_efflux 54 60	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 70 87	Escherichia  coli
+T3	Antibiotic_efflux 371 377	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 388 404	Escherichia coli
+T5	Protein 0 4	AcrS
+T6	Protein 5 9	EnvR
+T7	Gene 38 43	acrAB
+T8	Gene 95 99	acrS
+T9	Gene 143 148	acrEF
+T10	Protein 203 207	AcrS
+T11	Protein 296 300	AcrS
+T12	Gene 343 348	acrAB

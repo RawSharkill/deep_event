@@ -1,0 +1,20 @@
+T1	Bacteria 30 46	Escherichia coli
+T2	Antibiotic 87 99	streptomycin
+T3	Bacteria 235 251	Escherichia coli
+T4	Bacteria 292 299	E. coli
+*	Equiv T4 T1
+T5	Antibiotic 362 374	streptomycin
+T6	Antibiotic 448 460	streptomycin
+T7	Antibiotic 644 652	neomycin
+T8	Antibiotic 654 663	kanamycin
+T9	Antibiotic 668 678	gentamicin
+T10	Antibiotic 709 721	streptomycin
+T11	Antibiotic 891 903	streptomycin
+T12	Antibiotic 1070 1082	streptomycin
+T13	Antibiotic_target_alteration 2 10	mutation
+E1	Antibiotic_target_alteration:T13 Theme:T1 Cause:T2
+T14	Gene 252 256	rrnB
+T15	Antibiotic_target_alteration 327 334	mutated
+E2	Antibiotic_target_alteration:T15 Cause:T5 Theme:T4
+T16	Antibiotic_target_alteration 380 387	mutated
+E3	Antibiotic_target_alteration:T16 Cause:T6

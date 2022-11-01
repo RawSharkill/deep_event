@@ -1,0 +1,26 @@
+T1	Bacteria 57 73	Escherichia coli
+T2	Antibiotic 111 123	4-quinolones
+T3	Antibiotic 127 141	Nalidixic acid
+T4	Antibiotic 143 151	enoxacin
+T5	Antibiotic 177 189	4-quinolones
+T6	Bacteria 536 552	Escherichia coli
+T7	Antibiotic 625 635	quinolones
+T8	Antibiotic 798 806	enoxacin
+T9	Bacteria 1123 1135	E. coli K-12
+T10	Antibiotic 1479 1493	nalidixic acid
+T11	Antibiotic 1498 1514	fluoroquinolones
+T12	Gene 1005 1009	gyrA
+T13	Protein 1028 1038	amino-acid
+T14	Protein 1058 1066	gyrase A
+T15	Protein 660 668	gyrase B
+T16	Protein 575 583	gyrase A
+T17	Protein 202 208	gyrase
+T18	Protein 38 46	gyrase A
+T19	Protein 281 293	A2B2  gyrase
+T20	Gene 504 508	gyrA
+T21	Antibiotic 858 867	quinolone
+T22	Protein 829 835	enzyme
+T23	Gene 1311 1315	gyrA
+T24	Gene 1379 1382	Trp
+T25	Protein 1399 1405	gyrase
+T26	Gene 1327 1335	gyrA(Ts)

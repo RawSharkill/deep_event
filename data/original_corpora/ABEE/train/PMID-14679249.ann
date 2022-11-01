@@ -1,0 +1,29 @@
+T1	Antibiotic_efflux 26 32	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 96 118	Pseudomonas aeruginosa
+T3	Antibiotic_efflux 215 221	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 260 282	Pseudomonas aeruginosa
+T5	Bacteria 333 362	Escherichia coli KAM32 strain
+T6	Antibiotic_efflux 507 513	efflux
+E3	Antibiotic_efflux:T6 Cause2:T8 Theme:T7
+T7	Bacteria 384 391	E. coli
+T8	Antibiotic 517 525	ethidium
+T9	Bacteria 758 772	P.  aeruginosa
+T10	Antibiotic 815 836	benzalkonium chloride
+T11	Antibiotic 839 855	fluoroquinolones
+T12	Antibiotic 857 873	ethidium bromide
+T13	Antibiotic 875 886	acriflavine
+T14	Antibiotic 892 924	tetraphenylphosphonium  chloride
+*	Equiv T9 T2
+T15	Protein 39 43	PmpM
+T16	Gene 141 147	PA1361
+T17	Gene 172 176	pmpM
+T18	Gene 553 557	pmpM
+T19	Gene 407 411	pmpM
+T20	Protein 578 582	PmpM
+T21	Gene 745 749	pmpM
+T22	Protein 787 791	PmpM
+T23	Protein 944 948	PmpM
+T24	Protein 695 699	MATE
+T25	Protein 61 65	MATE

@@ -1,0 +1,14 @@
+T1	Bacteria 98 120	Pseudomonas aeruginosa
+T2	Bacteria 168 190	Pseudomonas aeruginosa
+T3	Antibiotic 274 288	aminoglycoside
+T4	Bacteria 290 318	P. aeruginosa  strain PA0905
+T5	Antibiotic 433 445	beta-lactams
+T6	Antibiotic 447 462	aminoglycosides
+T7	Antibiotic 469 485	fluoroquinolones
+T9	Antibiotic 698 707	arbekacin
+T8	Antibiotic 971 979	amikacin
+T10	Antibiotic 981 991	tobramycin
+T11	Antibiotic 997 1007	gentamicin
+T12	Antibiotic 946 961	aminoglycosides
+T13	Bacteria 1131 1144	P. aeruginosa
+*	Equiv T13 T2

@@ -1,0 +1,8 @@
+T1	Bacteria 116 133	Shigella flexneri
+T2	Bacteria 185 197	Sh. flexneri
+*	Equiv T2 T1
+T3	Antibiotic 379 390	polymyxin M
+T4	Antibiotic 392 402	mecillinam
+T5	Antibiotic 407 413	neamin
+T6	Antibiotic 688 698	mecillinam
+T7	Antibiotic 753 759	neamin

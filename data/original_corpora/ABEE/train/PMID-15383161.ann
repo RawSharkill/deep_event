@@ -1,0 +1,42 @@
+T1	Bacteria 8 29	Clostridium difficile
+T2	Antibiotic_efflux 47 53	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 116 137	Clostridium difficile
+T4	Bacteria 206 222	Escherichia coli
+T5	Bacteria 227 250	Clostridium perfringens
+T7	Antibiotic 265 281	ethidium bromide
+T8	Antibiotic 286 296	acriflavin
+T9	Antibiotic 381 392	norfloxacin
+T10	Antibiotic 395 408	ciprofloxacin
+T11	Antibiotic 410 420	gentamicin
+T12	Antibiotic 422 434	erythromycin
+T13	Antibiotic 436 447	tetracyclin
+T14	Antibiotic 453 468	chloramphenicol
+T16	Antibiotic 503 518	fluoroquinolone
+T17	Bacteria 533 540	E. coli
+T18	Bacteria 668 700	C. difficile clinical strain 253
+T19	Antibiotic 753 769	ethidium bromide
+T21	Antibiotic 853 866	ciprofloxacin
+T23	Antibiotic 1078 1094	ethidium bromide
+T24	Antibiotic_efflux 1112 1118	efflux
+E21	Antibiotic_efflux:T24 Theme:T25 Cause:T23
+T25	Bacteria 1139 1146	E. coli
+T27	Bacteria 1356 1369	C.  difficile
+*	Equiv T17 T4
+*	Equiv T27 T1
+T6	Protein 0 4	CdeA
+T15	Protein 73 79	MATE  
+T20	Gene 93 97	cdeA
+T22	Antibiotic_efflux 252 261	resistant
+E2	Antibiotic_efflux:T22 Theme:T4 Cause:T7
+E3	Antibiotic_efflux:T22 Theme:T4 Cause:T8
+E4	Antibiotic_efflux:T22 Theme:T5 Cause:T7
+E5	Antibiotic_efflux:T22 Theme:T5 Cause:T8
+T28	Protein 586 590	Plac
+E6	Antibiotic_efflux:T22 Cause:T16 Theme:T17
+T29	Gene 816 820	cdeA
+T30	Protein 1052 1056	MATE
+T31	Protein 1066 1070	CdeA
+T32	Protein 1221 1225	CdeA
+T33	Protein 1251 1255	MATE
+T34	Protein 1295 1299	CdeA

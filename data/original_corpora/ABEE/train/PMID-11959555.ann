@@ -1,0 +1,16 @@
+T5	Antibiotic 336 347	ceftriaxone
+T6	Bacteria 257 276	Salmonella isolates
+T1	Bacteria 92 110	Salmonella strains
+T2	Bacteria 535 554	Salmonella  strains
+T3	Antibiotic 68 81	cephalosporin
+T4	Protein 38 43	CMY-2
+T7	Antibiotic 234 245	ceftriaxone
+T8	Antibiotic 212 225	cephalosporin
+T9	Gene 380 385	cmy-2
+T10	Gene 456 461	cmy-2
+T11	Gene 523 528	cmy-2
+T12	Gene 596 601	cmy-2
+T13	Antibiotic_efflux 368 376	mediated
+E1	Antibiotic_efflux:T13 Theme:T6 Cause:T5
+T14	Antibiotic_efflux 38 43	CMY-2
+E2	Antibiotic_efflux:T14 Cause:T3 Theme:T1

@@ -1,0 +1,19 @@
+T1	Antibiotic 17 26	ofloxacin
+T2	Antibiotic 39 48	quinolone
+T3	Bacteria 69 86	Proteus  vulgaris
+T4	Antibiotic_efflux 7 13	efflux
+E1	Antibiotic_efflux:T4 Cause:T1 Theme:T3
+T5	Bacteria 111 127	Proteus vulgaris
+T6	Antibiotic 165 174	ofloxacin
+T7	Antibiotic 184 193	ofloxacin
+T8	Antibiotic 256 265	ofloxacin
+T9	Antibiotic 349 358	ofloxacin
+T10	Antibiotic 378 387	ofloxacin
+T11	Bacteria 486 499	P.   vulgaris
+T12	Antibiotic 703 712	ofloxacin
+T13	Antibiotic 1086 1095	ofloxacin
+T14	Antibiotic 1334 1343	ofloxacin
+T15	Antibiotic_target_alteration 1184 1195	alterations
+E2	Antibiotic_target_alteration:T15 Cause:T14 Theme:T5
+T16	Antibiotic_efflux 1252 1258	efflux
+E3	Antibiotic_efflux:T16 Cause:T14 Theme:T5

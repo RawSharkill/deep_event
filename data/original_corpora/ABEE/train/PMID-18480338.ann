@@ -1,0 +1,37 @@
+T1	Antibiotic 0 15	Fluoroquinolone
+T2	Bacteria 30 51	Clostridium difficile
+T3	Bacteria 90 102	C. difficile
+*	Equiv T3 T2
+T4	Bacteria 155 176	Clostridium difficile
+T5	Bacteria 252 264	C. difficile
+T6	Antibiotic 416 428	moxifloxacin
+T7	Antibiotic 430 432	MX
+*	Equiv T7 T6
+T8	Antibiotic 499 515	fluoroquinolones
+T9	Antibiotic 517 520	FQs
+*	Equiv T9 T8
+T10	Antibiotic 935 937	MX
+T11	Antibiotic 939 952	ciprofloxacin
+T12	Antibiotic 954 956	CI
+T13	Antibiotic 959 971	gatifloxacin
+T14	Antibiotic 973 975	GA
+T15	Antibiotic 981 993	levofloxacin
+T16	Antibiotic 995 997	LE
+*	Equiv T12 T11
+*	Equiv T14 T13
+*	Equiv T16 T15
+T17	Antibiotic 1334 1336	CI
+T18	Antibiotic 1342 1344	LE
+T19	Antibiotic 1375 1377	MX
+T20	Antibiotic 1382 1384	GA
+T21	Antibiotic 1439 1441	MX
+T22	Antibiotic 1637 1639	MX
+T23	Antibiotic 1641 1643	CI
+T24	Antibiotic 1648 1650	LE
+T25	Antibiotic 1671 1673	GA
+T26	Bacteria 1888 1901	C.  difficile
+T27	Bacteria 2195 2207	C. difficile
+T28	Bacteria 2496 2512	Escherichia coli
+T29	Bacteria 2523 2535	C. difficile
+T30	Bacteria 2564 2576	C. difficile
+T31	Antibiotic 2650 2653	FQs

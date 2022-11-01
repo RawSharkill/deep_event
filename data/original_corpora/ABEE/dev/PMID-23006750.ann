@@ -1,0 +1,69 @@
+T1	Bacteria 112 132	Enterobacter cloacae
+T2	Antibiotic_efflux 86 92	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Antibiotic_efflux 246 252	Efflux
+E2	Antibiotic_efflux:T3 Theme:T5
+T5	Bacteria 396 414	Enterobacteriaceae
+T6	Antibiotic_efflux 431 437	efflux
+E4	Antibiotic_efflux:T6 Theme:T7
+T7	Bacteria 483 503	Enterobacter cloacae
+T9	Bacteria 608 625	Escherichia  coli
+T10	Bacteria 790 800	E. cloacae
+T11	Bacteria 802 808	EcDC64
+T12	Bacteria 887 892	Jc194
+T13	Antibiotic_efflux 870 876	efflux
+E6	Antibiotic_efflux:T13 Theme:T11 Cause:T23
+T14	Bacteria 1022 1032	E. cloacae
+T16	Antibiotic 1140 1152	erythromycin
+T17	Antibiotic 1154 1166	tetracycline
+T18	Antibiotic 1168 1181	telithromycin
+T19	Antibiotic 1184 1197	ciprofloxacin
+T20	Antibiotic 1203 1218	chloramphenicol
+T21	Bacteria 1252 1257	Jc194
+T22	Bacteria 1286 1292	EcDC64
+T23	Antibiotic 1313 1323	salicylate
+T24	Antibiotic 1325 1334	decanoate
+T25	Antibiotic 1337 1349	tetracycline
+T26	Antibiotic 1355 1363	paraquat
+T27	Bacteria 1644 1662	E. cloacae  EcDC64
+T28	Bacteria 1779 1795	E. cloacae Jc194
+T29	Bacteria 2027 2037	E. cloacae
+T30	Bacteria 2285 2296	E.  cloacae
+*	Equiv T10 T1
+*	Equiv T11 T27
+*	Equiv T12 T28
+T4	Protein 37 41	SoxS
+T8	Protein 43 47	RobA
+T15	Protein 53 57	RamA
+T31	Protein 98 103	AcrAB
+T32	Protein 104 108	TolC
+T33	Protein 420 425	AcrAB
+T34	Protein 426 430	TolC
+T35	Gene 648 653	acrAB
+T36	Protein 721 725	MarA
+T37	Protein 727 731	SoxS
+T38	Protein 737 740	Rob
+T39	Protein 858 863	AcrAB
+T40	Protein 864 870	TolC  
+T41	Protein 916 921	AcrAB
+T42	Protein 922 926	TolC
+T43	Gene 1393 1398	acrAB
+T44	Protein 1616 1621	AcrAB
+T45	Protein 1750 1755	AcrAB
+T46	Protein 1686 1690	SoxS
+T47	Protein 1692 1696	RobA
+T48	Protein 1702 1706	RamA
+T49	Protein 1820 1824	SoxS
+T50	Protein 1826 1830	RobA
+T51	Protein 1836 1840	RamA
+T52	Protein 1872 1876	SoxS
+T53	Protein 1878 1882	RobA
+T54	Protein 1888 1892	RamA
+T55	Gene 1946 1951	acrAB
+T56	Protein 2077 2081	SoxS
+T57	Protein 2083 2087	RobA
+T58	Protein 2093 2097	RamA
+T59	Gene 2259 2264	acrAB
+E3	Antibiotic_efflux:T13 Theme:T11 Cause:T24
+E5	Antibiotic_efflux:T13 Cause:T25 Theme:T11
+E7	Antibiotic_efflux:T13 Theme:T11 Cause:T26

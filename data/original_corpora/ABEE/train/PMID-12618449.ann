@@ -1,0 +1,6 @@
+T1	Bacteria 140 156	Escherichia coli
+T2	Bacteria 163 179	Escherichia coli
+T3	Bacteria 818 834	Escherichia coli
+T4	Antibiotic_efflux 877 885	exporter
+E1	Antibiotic_efflux:T4 Theme:T3
+T5	Gene 782 786	evgA

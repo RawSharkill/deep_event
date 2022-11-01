@@ -1,0 +1,36 @@
+T1	Antibiotic 53 65	tetracycline
+T3	Antibiotic 170 182	tetracycline
+T4	Bacteria 231 247	Bacteroides spp.
+T6	Antibiotic_target_protection 149 159	protection
+E3	Antibiotic_target_protection:T6 Theme:T4
+T7	Bacteria 369 387	Bacteroides strain
+T8	Antibiotic 346 358	tetracycline
+T11	Bacteria 464 490	Bacteroides sp. strain 139
+T10	Bacteria 444 462	Bacteroides strain
+T12	Antibiotic 554 566	tetracycline
+T14	Antibiotic 619 631	tetracycline
+T15	Bacteria 654 680	Bacteroides sp. strain 139
+T16	Antibiotic_target_protection 757 767	protection
+E6	Antibiotic_target_protection:T16 Theme:T15 Cause:T17
+T17	Antibiotic 777 789	tetracycline
+T20	Antibiotic 949 961	tetracycline
+T22	Antibiotic_target_protection 929 939	protection
+E10	Antibiotic_target_protection:T22 Theme:T15 Cause:T20
+T23	Bacteria 1034 1061	Bacteroides sp.  strain 139
+T24	Bacteria 1073 1088	Bacteroides sp.
+T25	Bacteria 1392 1418	Bacteroides sp. strain 139
+T2	Gene 84 91	tet(36)
+T5	Gene 1306 1313	tet(36)
+T9	Gene 985 992	tet(36)
+T13	Gene 1122 1129	tet(36)
+T18	Gene 1262 1269	tet(36)
+T19	Bacteria 1440 1460	gram-positive genera
+T21	Bacteria 1465 1493	gram-negative proteobacteria
+T26	Gene 1535 1542	tet(36)
+T27	Bacteria 275 294	 anaerobic bacteria
+T28	Gene 202 206	tetQ
+T29	Gene 711 717	Tet 36
+T30	Gene 509 513	tetQ
+T31	Protein 881 891	amino acid
+T32	Protein 818 828	amino acid
+T33	Gene 853 857	TetQ

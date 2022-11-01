@@ -1,0 +1,12 @@
+T1	Bacteria 72 88	Escherichia coli
+T2	Antibiotic 120 132	streptomycin
+T3	Bacteria 140 156	Escherichia coli
+T4	Antibiotic 198 210	streptomycin
+T5	Bacteria 275 282	E. coli
+*	Equiv T5 T3
+T6	Antibiotic 827 839	streptomycin
+T7	Antibiotic 1123 1135	streptomycin
+T8	Bacteria 1190 1197	E. coli
+T9	Antibiotic 1347 1359	streptomycin
+T10	Antibiotic 1455 1467	streptomycin
+T11	Bacteria 1588 1595	E. coli

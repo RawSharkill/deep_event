@@ -1,0 +1,12 @@
+T1	Bacteria 115 126	enterococci
+T2	Bacteria 153 180	Enterococcus faecium BM4147
+T3	Antibiotic 245 255	vancomycin
+T4	Antibiotic 260 271	teicoplanin
+T5	Bacteria 550 571	Enterococcus faecalis
+T6	Antibiotic 220 232	glycopeptide
+T7	Antibiotic 718 731	glycopeptides
+T8	Antibiotic 1199 1210	teicoplanin
+T9	Antibiotic 1352 1362	vancomycin
+T10	Antibiotic 1367 1378	teicoplanin
+T11	Antibiotic 1490 1502	glycopeptide
+T12	Antibiotic 92 104	glycopeptide

@@ -1,0 +1,26 @@
+T2	Bacteria 404 426	Escherichia coli DH10B
+T4	Bacteria 734 752	C. meningosepticum
+T3	Bacteria 827 847	Chryseobacterium spp
+T5	Antibiotic 247 258	carbapenems
+T1	Bacteria 325 343	C. indologenes 001
+T6	Protein 532 543	amino acids
+T7	Protein 545 550	IND-1
+T12	Gene 724 728	BlaB
+T13	Protein 571 577	enzyme
+T14	Bacteria 125 141	Chryseobacterium
+T15	Bacteria 143 157	Flavobacterium
+T16	Bacteria 76 92	Chryseobacterium
+T17	Bacteria 94 108	Flavobacterium
+T18	Antibiotic 217 228	beta-lactam
+T10	Antibiotic 32 42	carbapenem
+T19	Antibiotic_inactivation 43 54	hydrolyzing
+E1	Antibiotic_inactivation:T19 Cause:T10 Theme:T16
+T20	Antibiotic_inactivation 613 623	hydrolysis
+E2	Antibiotic_inactivation:T20 Cause:T11
+T11	Antibiotic 600 611	beta-lactam
+T8	Antibiotic 646 656	carbapenem
+T21	Antibiotic_inactivation 657 668	hydrolyzing
+E3	Antibiotic_inactivation:T21 Cause:T8 Theme:T4
+T9	Antibiotic 785 795	carbapenem
+T22	Antibiotic_inactivation 796 807	hydrolyzing
+E4	Antibiotic_inactivation:T22 Cause:T9 Theme:T3

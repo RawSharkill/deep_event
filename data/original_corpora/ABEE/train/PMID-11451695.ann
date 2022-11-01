@@ -1,0 +1,34 @@
+T1	Antibiotic 14 26	moxifloxacin
+T2	Bacteria 40 70	Clostridium difficile isolates
+T3	Antibiotic_target_alteration 91 100	mutations
+E1	Antibiotic_target_alteration:T3 Theme:T2
+T5	Bacteria 112 133	Clostridium difficile
+T6	Antibiotic 262 278	Fluoroquinolones
+T7	Antibiotic 287 300	ciprofloxacin
+T8	Bacteria 336 349	C.  difficile
+*	Equiv T8 T5
+T9	Bacteria 406 428	C. difficile  isolates
+T10	Antibiotic 643 655	moxifloxacin
+T11	Antibiotic 657 660	MXF
+*	Equiv T11 T10
+T12	Antibiotic 665 678	metronidazole
+T13	Antibiotic 680 683	MEO
+*	Equiv T13 T12
+T14	Antibiotic 690 700	vancomycin
+T15	Antibiotic 702 705	VAN
+*	Equiv T15 T14
+T16	Antibiotic 737 753	fluoroquinolones
+T18	Antibiotic 831 834	MXF
+T19	Antibiotic 910 919	quinolone
+T21	Antibiotic 1167 1170	MEO
+T22	Antibiotic 1175 1178	VAN
+T25	Antibiotic 1261 1264	MXF
+T27	Antibiotic 1551 1554	MXF
+T28	Antibiotic_target_alteration 1604 1616	substitution
+E9	Antibiotic_target_alteration:T28 Theme:T9
+T4	Gene 104 108	gyrA
+T17	Gene 966 970	gyrA
+T20	Protein 1365 1375	amino acid
+T23	Protein 1592 1602	amino acid
+T24	Gene 1624 1628	gyrA
+T26	Gene 1412 1416	gyrA

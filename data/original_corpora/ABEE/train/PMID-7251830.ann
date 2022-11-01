@@ -1,0 +1,17 @@
+T1	Antibiotic 833 843	Gentamicin
+T2	Antibiotic 378 390	tetracycline
+T3	Antibiotic 407 417	penicillin
+T4	Antibiotic 433 442	polymyxin
+T5	Antibiotic 471 486	 nitrofurantoin
+T6	Antibiotic 667 677	Ampicillin
+T7	Antibiotic 756 765	kanamycin
+T8	Antibiotic 785 798	carbenicillin
+T9	Antibiotic 952 966	aminoglycoside
+T11	Antibiotic 912 922	gentamicin
+T12	Antibiotic 877 886	kanamycin
+T13	Antibiotic 1137 1146	kanamycin
+T14	Antibiotic 1187 1197	gentamicin
+T15	Bacteria 1224 1235	P. stuartii
+T16	Bacteria 25 45	Providencia stuartii
+T17	Bacteria 97 117	Providencia stuartii
+*	Equiv T15 T16

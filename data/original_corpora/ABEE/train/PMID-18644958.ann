@@ -1,0 +1,13 @@
+T1	Antibiotic 17 26	quinolone
+T3	Bacteria 55 71	Escherichia coli
+T4	Antibiotic_efflux 38 42	pump
+E2	Antibiotic_efflux:T4 Theme:T3 Cause:T1
+T5	Bacteria 239 282	CTX-M-15-positive  Escherichia coli isolate
+R1	Member-of Arg1:T5 Arg2:T3	
+T6	Antibiotic_efflux 317 321	pump
+E3	Antibiotic_efflux:T6 Theme:T5 Cause:T7
+T7	Antibiotic 448 476	hydrophilic fluoroquinolones
+T2	Protein 43 48	QepA2
+T8	Gene 219 223	qepA
+T9	Protein 322 327	QepA2
+T10	Gene 350 355	qepA2

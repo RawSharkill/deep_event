@@ -1,0 +1,5 @@
+T1	Bacteria 564 571	E. coli
+T2	Bacteria 382 405	Pseudomonas  aeruginosa
+T3	Bacteria 902 909	E. coli
+T4	Bacteria 364 380	Escherichia coli
+*	Equiv T1 T4

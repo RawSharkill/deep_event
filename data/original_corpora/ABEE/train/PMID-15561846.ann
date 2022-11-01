@@ -1,0 +1,46 @@
+T3	Antibiotic 259 270	carbapenems
+T4	Antibiotic 276 287	ceftazidime
+T5	Bacteria 470 514	Pseudomonas aeruginosa index strain 101-4704
+T6	Bacteria 690 716	P. aeruginosa index strain
+T7	Antibiotic 1408 1422	cephalosporins
+T8	Antibiotic 1427 1438	carbapenems
+T9	Antibiotic 1443 1454	penicillins
+T10	Antibiotic 1580 1589	cefoxitin
+T11	Antibiotic_inactivation 1590 1600	hydrolysis
+E3	Antibiotic_inactivation:T11 Cause:T10
+T12	Antibiotic 1633 1641	imipenem
+T1	Bacteria 222 245	Pseudomonas sp. strains
+T2	Gene 55 64	blaIMP-16
+T13	Gene 1094 1101	aac(6')
+T14	Gene 1145 1155	amino acid
+T15	Gene 985 997	 bla(IMP-16)
+T16	Antibiotic 1786 1800	aminoglycoside
+T17	Protein 1526 1532	IMP-16
+T18	Gene 539 542	bla
+T19	Protein 543 546	IMP
+T20	Gene 557 560	bla
+T21	Protein 561 567	IMP-16
+T22	Antibiotic 87 101	aminoglycoside
+T23	Gene 26 48	metallo-beta-lactamase
+T24	Gene 117 124	aac(6')
+T25	Gene 128 138	aac(6')-Ib
+T26	Protein 379 401	metallo-beta-lactamase
+T27	Protein 798 804	IMP-11
+T28	Gene 1128 1138	aac(6')-Ib
+T29	Gene 642 653	bla(IMP-16)
+T32	Gene 865 876	bla(IMP-16)
+T34	Protein 756 759	IMP
+T35	Protein 734 744	amino acid
+T36	Protein 817 820	IMP
+T37	Gene 1172 1179	aac(6')
+T38	Protein 1361 1364	IMP
+T39	Protein 1715 1737	metallo-beta-lactamase
+T40	Protein 1561 1564	IMP
+T31	Gene 1253 1260	AAC(6')
+T41	Gene 1325 1330	aadA1
+T30	Antibiotic 1055 1069	aminoglycoside
+T33	Antibiotic_target_alteration 1070 1079	modifying
+E1	Antibiotic_target_alteration:T33 Cause:T30
+T42	Antibiotic 937 951	aminoglycoside
+T43	Antibiotic_target_alteration 952 961	modifying
+E2	Antibiotic_target_alteration:T43 Cause:T42

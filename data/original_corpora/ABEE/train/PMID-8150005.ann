@@ -1,0 +1,11 @@
+T1	Antibiotic 99 110	methicillin
+T2	Bacteria 121 142	Staphylococcus aureus
+T3	Antibiotic 237 248	methicillin
+T4	Bacteria 259 280	Staphylococcus aureus
+T5	Bacteria 282 286	MRSA
+T6	Bacteria 700 704	MRSA
+T7	Bacteria 998 1002	MRSA
+T8	Bacteria 836 840	MRSA
+T9	Antibiotic 905 916	methicillin
+T10	Bacteria 927 936	S. aureus
+*	Equiv T10 T4

@@ -1,0 +1,7 @@
+T1	Bacteria 87 108	Escherichia coli K-12
+T2	Bacteria 151 158	E. coli
+*	Equiv T2 T1
+T3	Antibiotic 443 453	gentamicin
+T4	Gene 1141 1145	hemB
+T5	Gene 1228 1232	hemB
+T6	Gene 1461 1465	hemB

@@ -1,0 +1,13 @@
+T1	Bacteria 88 104	Escherichia coli
+T2	Protein 42 46	MarA
+T3	Gene 182 186	marA
+T4	Gene 190 194	soxS
+T5	Bacteria 227 243	Escherichia coli
+T6	Antibiotic 427 437	superoxide
+T7	Antibiotic 129 139	superoxide
+T8	Protein 620 624	MarA
+T9	Protein 849 853	MarA
+T10	Protein 513 522	MalE-SoxS
+T11	Gene 495 500	SoxS,
+T12	Protein 456 460	MarA
+T13	Protein 679 683	MarA

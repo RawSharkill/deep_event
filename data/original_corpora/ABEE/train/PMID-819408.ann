@@ -1,0 +1,24 @@
+T1	Antibiotic 14 26	streptomycin
+T2	Antibiotic 27 29	SM
+*	Equiv T2 T1
+T3	Antibiotic 52 54	SM
+T4	Bacteria 65 88	Pseudomonas  aeruginosa
+T5	Bacteria 124 180	K-Ps 94, K-Ps 97 and K-Ps 102, of Pseudomonas aeruginosa
+T6	Antibiotic 244 256	streptomycin
+T7	Antibiotic 258 260	SM
+*	Equiv T7 T6
+T8	Antibiotic 297 299	SM
+T9	Antibiotic 377 379	SM
+T10	Antibiotic 422 424	SM
+T11	Reduced_permeability_to_antibiotic 511 523	permeability
+E1	Reduced_permeability_to_antibiotic:T11 Cause:T10 Theme:T17
+T12	Reduced_permeability_to_antibiotic 689 701	permeability
+E2	Reduced_permeability_to_antibiotic:T12 Cause:T13 Theme:T15
+T13	Antibiotic 726 728	SM
+T14	Antibiotic 864 866	SM
+T15	Bacteria 667 675	K-Ps 102
+T16	Bacteria 549 556	K-Ps 97
+T17	Bacteria 395 402	K-Ps 94
+*	Equiv T17 T5 T16 T15
+T18	Antibiotic_target_alteration 769 777	affinity
+E3	Antibiotic_target_alteration:T18 Cause:T14 Theme:T15

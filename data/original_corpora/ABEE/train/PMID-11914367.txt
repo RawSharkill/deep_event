@@ -1,0 +1,3 @@
+EvgA of the two-component signal transduction system modulates production of the   yhiUV multidrug transporter in Escherichia coli. 
+
+Overexpression of the EvgA regulator of the two-component signal transduction  system was previously found to modulate multidrug resistance of Escherichia coli   by increasing efflux of drugs (K. Nishino and A. Yamaguchi, J. Bacteriol.  183:1455-1458, 2001). Here we present data showing that EvgA contributes to  multidrug resistance through increased expression of the multidrug transporter  yhiUV gene.

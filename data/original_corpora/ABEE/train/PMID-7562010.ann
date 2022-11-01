@@ -1,0 +1,21 @@
+T1	Bacteria 102 124	Pseudomonas aeruginosa
+T2	Bacteria 227 239	P.aeruginosa
+*	Equiv T2 T1
+T3	Antibiotic 194 202	imipenem
+T4	Antibiotic 180 189	meropenem
+T5	Antibiotic 307 316	meropenem
+T6	Antibiotic 321 329	imipenem
+T7	Bacteria 764 776	P.aeruginosa
+T8	Antibiotic 933 941	imipenem
+T9	Antibiotic 946 955	meropenem
+T10	Antibiotic 997 1007	carbapenem
+T11	Bacteria 886 898	P.aeruginosa
+T12	Antibiotic 1139 1148	meropenem
+T13	Antibiotic 1122 1130	imipenem
+T14	Antibiotic 58 66	imipenem
+T15	Antibiotic 41 50	meropenem
+T16	Antibiotic_inactivation 21 28	killing
+E1	Antibiotic_inactivation:T16 Cause:T14 Theme:T1
+E2	Antibiotic_inactivation:T16 Cause:T15 Theme:T1
+T17	Antibiotic 669 678	Meropenem
+T18	Antibiotic 818 826	imipenem

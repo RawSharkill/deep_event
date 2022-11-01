@@ -1,0 +1,9 @@
+T1	Bacteria 139 159	Escherichia coli B-r
+T2	Bacteria 231 260	Escherichia   coli B/r hcr(-)
+T3	Bacteria 1038 1057	E. coli B/r strains
+*	Equiv T3 T1
+T4	Antibiotic 194 208	streptolydigin
+T5	Antibiotic 308 322	streptolydigin
+T6	Antibiotic 481 496	chloramphenicol
+T7	Antibiotic 657 671	streptolydigin
+T8	Antibiotic 935 949	streptolydigin

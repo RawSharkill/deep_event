@@ -1,0 +1,8 @@
+T1	Bacteria 57 78	Klebsiella pneumoniae
+T2	Bacteria 166 188	Klebsiella  pneumoniae
+T3	Antibiotic 240 251	carbapenems
+T4	Protein 6 32	VIM metallo-beta-lactamase
+T5	Protein 42 48	VIM-24
+T6	Protein 153 159	VIM-24
+T7	Gene 335 344	blaVIM-24
+T8	Protein 140 143	VIM

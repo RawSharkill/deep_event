@@ -1,0 +1,3 @@
+Tet determinants provide poor protection against some tetracyclines: further  evidence for division of tetracyclines into two classes.
+
+Atypical tetracyclines were active against Escherichia coli and Staphylococcus  aureus strains containing determinants that mediate resistance to typical  tetracyclines by efflux (Tet B and Tet K) or ribosomal protection (Tet M)  mechanisms. The results support recently published data that tetracyclines are  divisible into at least two classes on the basis of their modes of action.

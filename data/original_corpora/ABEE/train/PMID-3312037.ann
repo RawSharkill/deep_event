@@ -1,0 +1,16 @@
+T1	Antibiotic 18 28	ceftazidim
+T2	Antibiotic 89 100	ceftazidime
+T3	Antibiotic 261 271	gentamicin
+T4	Antibiotic 276 286	ampicillin
+T5	Antibiotic 326 337	ceftazidime
+T6	Antibiotic 367 377	gentamicin
+T7	Antibiotic 480 491	ceftazidime
+T8	Antibiotic 676 690	cephalosporins
+T9	Bacteria 757 769	streptococci
+T10	Bacteria 887 904	Enterobacter spp.
+T11	Antibiotic 954 965	ceftazidime
+T12	Antibiotic 1031 1042	ceftazidime
+T13	Antibiotic 1202 1213	ceftazidime
+T14	Antibiotic 1272 1282	gentamicin
+T15	Antibiotic 1288 1298	penicillin
+T16	Antibiotic 1302 1312	ampicillin

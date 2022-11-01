@@ -1,0 +1,24 @@
+T1	Bacteria 18 41	Mycobacterium fortuitum
+T2	Antibiotic 103 126	beta-lactam antibiotics
+T3	Bacteria 292 315	Mycobacterium fortuitum
+T4	Antibiotic 319 342	beta-lactam antibiotics
+T5	Bacteria 437 449	M. fortuitum
+*	Equiv T5 T3
+T6	Antibiotic 681 697	benzylpenicillin
+T7	Antibiotic 699 710	amoxicillin
+T8	Antibiotic 712 722	ampicillin
+T9	Antibiotic 728 741	cephaloridine
+T10	Antibiotic 836 844	imipenem
+T11	Antibiotic 849 858	cefoxitin
+T12	Antibiotic 901 912	amoxicillin
+T13	Antibiotic 977 987	ampicillin
+T14	Antibiotic 1111 1134	beta-lactam antibiotics
+T15	Bacteria 1162 1174	M. fortuitum
+T16	Antibiotic 1303 1319	benzylpenicillin
+T17	Antibiotic 1325 1338	cephaloridine
+T18	Bacteria 1564 1578	M.   fortuitum
+T19	Antibiotic 1617 1640	beta-lactam antibiotics
+T20	Reduced_permeability_to_antibiotic 1486 1498	permeability
+E1	Reduced_permeability_to_antibiotic:T20 Cause:T19 Theme:T18
+T21	Antibiotic_target_alteration 1506 1514	affinity
+E2	Antibiotic_target_alteration:T21 Theme:T18 Cause:T19

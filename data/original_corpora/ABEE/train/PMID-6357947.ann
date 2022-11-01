@@ -1,0 +1,6 @@
+T1	Bacteria 41 57	Escherichia coli
+T2	Antibiotic 263 273	rifampicin
+T3	Bacteria 332 348	Escherichia coli
+T4	Bacteria 473 480	E. coli
+*	Equiv T4 T1
+T5	Antibiotic 721 731	rifampicin

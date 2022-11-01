@@ -1,0 +1,5 @@
+T1	Bacteria 276 298	Clostridium  difficile
+T2	Bacteria 359 372	C.  difficile
+*	Equiv T2 T1
+T3	Bacteria 741 753	C. difficile
+T4	Bacteria 191 214	Gram-positive  bacteria

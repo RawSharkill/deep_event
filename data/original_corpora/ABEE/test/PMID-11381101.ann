@@ -1,0 +1,21 @@
+T1	Antibiotic 0 12	Tetracycline
+T2	Bacteria 237 250	gram-positive
+T3	Bacteria 255 277	gram-negative bacteria
+T4	Bacteria 280 290	chlamydiae
+T5	Bacteria 292 303	mycoplasmas
+T6	Bacteria 305 316	rickettsiae
+T7	Bacteria 322 341	protozoan parasites
+T8	Antibiotic 120 133	Tetracyclines
+T9	Bacteria 591 611	Shigella dysenteriae
+T13	Antibiotic 635 647	Tetracycline
+T20	Antibiotic 856 868	Tetracycline
+T23	Antibiotic 970 983	tetracyclines
+T25	Antibiotic 1055 1068	tetracyclines
+T26	Antibiotic 1538 1550	tetracycline
+T27	Antibiotic 1653 1666	tetracyclines
+T14	Antibiotic_efflux 960 966	efflux
+E2	Antibiotic_efflux:T14 Cause:T23
+T10	Antibiotic 556 568	tetracycline
+T11	Antibiotic 766 778	tetracycline
+T12	Antibiotic_target_protection 1007 1015	protects
+E1	Antibiotic_target_protection:T12 Cause:T25

@@ -1,0 +1,23 @@
+T1	Bacteria 114 139	Streptomyces antibioticus
+T2	Antibiotic 184 196	oleandomycin
+T3	Bacteria 206 232	Streptomyces  antibioticus
+T4	Bacteria 451 472	Streptomyces lividans
+T5	Antibiotic 673 683	lankamycin
+T6	Antibiotic 685 687	LK
+T8	Antibiotic 1037 1047	lankamycin
+*	Equiv T6 T5
+T9	Antibiotic 17 26	macrolide
+T12	Antibiotic 866 868	LK
+T11	Antibiotic 652 661	macrolide
+T10	Gene 147 151	oleD
+T13	Gene 406 410	oleD
+T7	Protein 1169 1179	amino acid
+T14	Antibiotic 248 257	macrolide
+T15	Antibiotic 78 88	 macrolide
+T16	Antibiotic_inactivation 89 108	glycosyltransferase
+E1	Antibiotic_inactivation:T16 Cause:T15 Theme:T1
+T17	Antibiotic_inactivation 258 277	glycosyltransferase
+E2	Antibiotic_inactivation:T17 Cause:T14
+T18	Antibiotic 356 366	macrolides
+T19	Antibiotic_inactivation 373 392	glycosyltransferase
+E3	Antibiotic_inactivation:T19 Theme:T4

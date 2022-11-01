@@ -1,0 +1,26 @@
+T1	Antibiotic 175 183	amikacin
+T2	Antibiotic 312 320	amikacin
+T3	Antibiotic 334 342	amikacin
+T4	Antibiotic 355 365	gentamicin
+T5	Antibiotic 377 387	tobramycin
+T6	Antibiotic 402 412	netilmicin
+T7	Antibiotic 447 455	amikacin
+T8	Antibiotic 548 556	amikacin
+T9	Antibiotic 595 603	amikacin
+T10	Bacteria 689 711	Enterobacter aerogenes
+T11	Antibiotic 783 793	gentamicin
+T12	Antibiotic 798 808	tobramycin
+T13	Antibiotic 966 974	amikacin
+T14	Antibiotic 1222 1230	amikacin
+T15	Antibiotic 65 79	aminoglycoside
+T16	Antibiotic 214 228	aminoglycoside
+T17	Antibiotic 464 478	aminoglycoside
+T18	Antibiotic 670 678	amikacin
+T19	Protein 863 870	AAC(3)V
+T20	Protein 876 884	AAC(6')I
+T21	Protein 908 915	ANT(2")
+T22	Protein 919 925	AAC(3)
+T23	Protein 1043 1051	AAC(6')I
+T24	Protein 1084 1091	AAC(3)V
+T25	Reduced_permeability_to_antibiotic 1136 1148	permeability
+E1	Reduced_permeability_to_antibiotic:T25 Cause:T14

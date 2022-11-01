@@ -1,0 +1,24 @@
+T1	Bacteria 60 87	Mycobacterium  tuberculosis
+T2	Antibiotic 100 111	Ethionamide
+T3	Antibiotic 113 116	ETH
+*	Equiv T3 T2
+T4	Antibiotic 170 179	isoniazid
+T5	Antibiotic 182 185	INH
+*	Equiv T5 T4
+T6	Bacteria 243 255	mycolic acid
+T7	Antibiotic 271 274	INH
+T8	Antibiotic 358 361	INH
+T9	Antibiotic 433 436	ETH
+T10	Bacteria 524 550	Mycobacterium tuberculosis
+T11	Antibiotic 637 640	ETH
+T12	Antibiotic 645 648	INH
+T13	Antibiotic 820 823	ETH
+T14	Antibiotic 1044 1047	ETH
+T15	Antibiotic 1170 1173	INH
+T16	Antibiotic 1320 1323	INH
+T17	Antibiotic 1446 1449	ETH
+T18	Antibiotic 1562 1565	ETH
+T19	Antibiotic 1641 1644	ETH
+T20	Antibiotic 29 40	ethionamide
+T21	Protein 396 402	enzyme
+T22	Antibiotic 510 513	ETH

@@ -1,0 +1,28 @@
+T1	Antibiotic_efflux 72 83	transporter
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 97 119	Pseudomonas aeruginosa
+T3	Bacteria 193 216	Pseudomonas  aeruginosa
+T4	Antibiotic_efflux 143 149	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Resistance_by_absence 669 676	absence
+E3	Resistance_by_absence:T5 Theme:T6
+T6	Bacteria 737 753	Escherichia coli
+T7	Antibiotic_efflux 776 787	drug-efflux
+E4	Antibiotic_efflux:T7 Theme:T6
+T8	Antibiotic 831 848	ethidium  bromide
+T9	Bacteria 854 876	Gram-positive organism
+T10	Antibiotic_efflux 802 811	transport
+E5	Antibiotic_efflux:T10 Theme:T9 Cause:T8
+E6	Resistance_by_absence:T5 Theme:T9
+T11	Protein 51 55	MexB
+T13	Protein 127 137	MexAB-OprM
+T14	Protein 543 547	MexB
+T15	Protein 596 600	MexA
+T16	Protein 607 611	OprM
+T17	Protein 680 684	MexA
+T18	Protein 690 694	OprM
+T19	Protein 696 700	MexB
+T20	Protein 718 722	AcrA
+T21	Protein 727 731	TolC
+T22	Protein 1161 1164	RND
+T23	Protein 1295 1298	RND

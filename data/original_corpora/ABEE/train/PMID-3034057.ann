@@ -1,0 +1,39 @@
+T1	Antibiotic 42 55	ciprofloxacin
+T2	Antibiotic 58 71	Ciprofloxacin
+T3	Antibiotic 88 118	quinolone antimicrobial agents
+T4	Antibiotic 250 264	nalidixic acid
+T5	Antibiotic 347 360	ciprofloxacin
+T6	Bacteria 364 380	Escherichia coli
+T7	Antibiotic 536 549	ciprofloxacin
+T8	Antibiotic 560 570	quinolones
+T9	Antibiotic 588 598	quinolones
+T10	Antibiotic 705 718	ciprofloxacin
+T11	Antibiotic 723 732	ofloxacin
+T12	Antibiotic 776 786	quinolones
+T13	Antibiotic 814 822	rifampin
+T14	Bacteria 999 1006	E. coli
+*	Equiv T14 T6
+T15	Antibiotic 1042 1055	ciprofloxacin
+T16	Antibiotic 1066 1080	nalidixic acid
+T17	Antibiotic 1111 1124	ciprofloxacin
+T18	Antibiotic 1444 1457	ciprofloxacin
+T19	Antibiotic 1522 1532	quinolones
+T20	Antibiotic 1597 1610	ciprofloxacin
+T21	Antibiotic 1612 1624	tetracycline
+T22	Antibiotic 1630 1645	chloramphenicol
+T23	Antibiotic 1950 1963	ciprofloxacin
+T24	Antibiotic 1975 1985	quinolones
+T25	Antibiotic 1987 2000	Ciprofloxacin
+T26	Gene 1719 1723	marA
+T27	Gene 1295 1299	cfxA
+T28	Gene 1393 1397	gyrA
+T29	Gene 1473 1477	gyrA
+T30	Gene 1554 1558	cfxB
+T31	Gene 1739 1743	cfxB
+T32	Gene 1816 1820	OmpF
+T33	Reduced_permeability_to_antibiotic 2088 2098	permeation
+E1	Reduced_permeability_to_antibiotic:T33 Cause:T25
+T34	Reduced_permeability_to_antibiotic 1544 1552	mutation
+E2	Reduced_permeability_to_antibiotic:T34 Cause:T20
+E3	Reduced_permeability_to_antibiotic:T34 Cause:T21
+E4	Reduced_permeability_to_antibiotic:T34 Cause:T22

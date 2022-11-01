@@ -1,0 +1,18 @@
+T1	Antibiotic 44 56	tetracycline
+T2	Bacteria 72 94	Pseudomonas aeruginosa
+T3	Antibiotic 114 126	tetracycline
+T4	Bacteria 158 181	Pseudomonas  aeruginosa
+T5	Bacteria 227 243	Escherichia coli
+T10	Antibiotic 358 370	tetracycline
+T11	Antibiotic 411 423	tetracycline
+T12	Antibiotic 542 559	(3)H-tetracycline
+T13	Antibiotic 635 647	tetracycline
+T14	Antibiotic 699 711	tetracycline
+T15	Antibiotic 720 732	Tetracycline
+T16	Bacteria 748 778	R(-)P. aeruginosa strains 1731
+T19	Antibiotic 867 879	tetracycline
+T20	Antibiotic 945 957	tetracycline
+T21	Bacteria 1046 1059	R(-)  strains
+*	Equiv T21 T16
+T6	Reduced_permeability_to_antibiotic 880 886	uptake
+E1	Reduced_permeability_to_antibiotic:T6 Theme:T16 Cause:T15

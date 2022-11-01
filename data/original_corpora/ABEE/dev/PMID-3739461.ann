@@ -1,0 +1,6 @@
+T1	Bacteria 58 80	non-O1 Vibrio cholerae
+T2	Bacteria 106 124	non-O1 V. cholerae
+*	Equiv T2 T1
+T3	Bacteria 599 614	vibrio isolates
+T4	Bacteria 546 562	vibrio  isolates
+T5	Bacteria 1005 1028	non-O1 vibrio  isolates

@@ -1,0 +1,47 @@
+T2	Bacteria 45 66	Streptomyces lividans
+T4	Antibiotic 29 41	lincosamides
+T5	Antibiotic 75 90	aminoglycosides
+T6	Bacteria 94 117	Micromonospora purpurea
+T8	Antibiotic 149 159	gentamicin
+T9	Bacteria 214 237	Micromonospora purpurea
+T10	Bacteria 330 354	Streptomyces tenebrarius
+T12	Antibiotic 631 641	lincomycin
+T13	Antibiotic 643 646	Ln)
+*	Equiv T13 T12
+T14	Antibiotic 651 661	macrolides
+T15	Bacteria 666 692	Streptomyces lividans TK21
+T16	Antibiotic_inactivation 839 850	inactivates
+E6	Antibiotic_inactivation:T16 Theme2:T15 Cause:T17
+T17	Antibiotic 851 861	macrolides
+T18	Bacteria 926 942	Escherichia coli
+T20	Antibiotic 999 1001	Ln
+T22	Antibiotic 1042 1052	macrolides
+T23	Antibiotic 1123 1133	macrolides
+T25	Antibiotic 1199 1209	methymycin
+T26	Antibiotic 1211 1223	erythromycin
+T27	Antibiotic 1226 1238	azithromycin
+T28	Antibiotic 1242 1249	tylosin
+T29	Antibiotic 1274 1284	spiramycin
+T30	Antibiotic 1289 1299	carbomycin
+T3	Antibiotic 14 24	macrolides
+T1	Gene 731 734	lrm
+T11	Gene 776 779	mgt
+T19	Gene 1515 1518	lrm
+T21	Gene 1523 1526	mgt
+T24	Protein 1595 1601	26-kDa
+T31	Gene 1578 1581	lrm
+T32	Gene 1708 1711	mgt
+T7	Antibiotic 121 134	Ribosomal (r)
+T33	Gene 306 310	kgmA
+T34	Gene 272 276	kgmA
+T35	Gene 255 259	grmA
+T36	Gene 377 381	kgmB
+T37	Gene 388 392	grmA
+T38	Gene 397 400	kgm
+T39	Gene 506 510	grmA
+T40	Gene 867 870	lrm
+T41	Protein 408 415	enzymes
+T42	Protein 1334 1340	enzyme
+T43	Gene 1666 1670	carB
+T44	Gene 1672 1676	tlrA
+T45	Gene 1681 1685	ermE

@@ -1,0 +1,10 @@
+T1	Antibiotic 0 10	Ampicillin
+T2	Bacteria 67 90	Haemophilus  influenzae
+T3	Antibiotic 150 160	ampicillin
+T4	Bacteria 192 214	Haemophilus influenzae
+T5	Bacteria 314 327	H. influenzae
+*	Equiv T5 T2
+T6	Antibiotic 354 364	ampicillin
+T7	Antibiotic 472 497	chromogenic cephalosporin
+T8	Bacteria 728 741	H. influenzae
+T9	Antibiotic 703 713	ampicillin

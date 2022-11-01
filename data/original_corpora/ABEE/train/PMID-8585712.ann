@@ -1,0 +1,23 @@
+T1	Gene 1612 1616	CDR1
+T2	Bacteria 55 71	Candida albicans
+T3	Antibiotic 28 33	azole
+T4	Antibiotic 144 149	Azole
+T5	Antibiotic 340 351	fluconazole
+T6	Bacteria 1787 1798	C. albicans
+T7	Antibiotic 1624 1629	azole
+T8	Bacteria 1640 1652	C.  albicans
+T9	Bacteria 1479 1491	C.  albicans
+T10	Bacteria 1093 1105	C.  albicans
+T11	Antibiotic 1071 1082	fluconazole
+T12	Bacteria 771 782	C. albicans
+T13	Bacteria 529 540	C. albicans
+T14	Antibiotic 622 629	 azoles
+T15	Antibiotic 722 733	fluconazole
+T16	Antibiotic 1448 1459	fluconazole
+T17	Bacteria 1988 1999	C. albicans
+T18	Antibiotic 1978 1984	azoles
+T19	Antibiotic 2281 2294	  fluconazole
+T20	Antibiotic 2296 2308	itraconazole
+T21	Antibiotic 2314 2326	ketoconazole
+T22	Antibiotic 2105 2110	azole
+T23	Gene 1680 1684	CDR1

@@ -1,0 +1,22 @@
+T1	Antibiotic 37 53	fluoroquinolones
+T2	Bacteria 57 78	Enterococcus faecalis
+T3	Bacteria 119 140	Enterococcus faecalis
+T4	Antibiotic 202 213	norfloxacin
+T5	Antibiotic 215 224	ofloxacin
+T6	Antibiotic 226 239	ciprofloxacin
+T7	Antibiotic 247 259	temafloxacin
+T8	Bacteria 301 312	E. faecalis
+*	Equiv T8 T3
+T9	Antibiotic 334 349	fluoroquinolone
+T10	Antibiotic 536 552	fluoroquinolones
+T11	Bacteria 783 806	gram-positive  bacteria
+T12	Bacteria 815 832	Bacillus subtilis
+T13	Bacteria 837 855	Micrococcus luteus
+T14	Bacteria 935 951	fluoroquinolones
+T15	Antibiotic 1143 1159	fluoroquinolones
+T16	Antibiotic 1343 1359	fluoroquinolones
+T17	Antibiotic 1457 1472	fluoroquinolone
+T18	Bacteria 1487 1498	E. faecalis
+T19	Antibiotic_target_alteration 1393 1403	alteration
+E1	Antibiotic_target_alteration:T19 Cause:T17 Theme:T18
+T20	Antibiotic 1584 1599	fluoroquinolone

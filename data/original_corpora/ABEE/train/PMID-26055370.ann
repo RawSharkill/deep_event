@@ -1,0 +1,18 @@
+T1	Bacteria 100 121	Staphylococcus aureus
+T2	Antibiotic 179 189	Daptomycin
+T3	Antibiotic 560 570	daptomycin
+T4	Bacteria 585 606	Staphylococcus aureus
+T5	Antibiotic 651 661	daptomycin
+T6	Antibiotic 697 707	daptomycin
+T7	Bacteria 843 874	methicillin-resistant S. aureus
+T8	Bacteria 876 880	MRSA
+*	Equiv T8 T7
+T9	Antibiotic 1030 1040	daptomycin
+T10	Antibiotic 1971 1974	DAP
+T11	Bacteria 2014 2023	S. aureus
+*	Equiv T11 T1
+*	Equiv T10 T6
+T12	Antibiotic 78 89	Methicillin
+T13	Antibiotic 771 781	daptomycin
+T14	Antibiotic 803 813	daptomycin
+T15	Bacteria 1346 1360	DAP(r) strains

@@ -1,0 +1,43 @@
+T1	Bacteria 108 127	Helicobacter pylori
+T2	Bacteria 216 235	Helicobacter pylori
+T3	Bacteria 351 360	H. pylori
+*	Equiv T3 T1
+T4	Bacteria 445 454	H. pylori
+T5	Bacteria 548 557	H. pylori
+T6	Antibiotic 663 675	Tetracycline
+T7	Antibiotic 677 680	TET
+*	Equiv T7 T6
+T8	Antibiotic 685 697	Erythromycin
+T9	Antibiotic 699 702	ERY
+*	Equiv T9 T8
+T10	Antibiotic 705 718	Metronidazole
+T11	Antibiotic 720 723	MTZ
+*	Equiv T11 T10
+T12	Antibiotic 726 739	Ciprofloxacin
+T13	Antibiotic 741 744	CIP
+*	Equiv T13 T12
+T14	Antibiotic 1417 1420	TET
+T15	Antibiotic 1422 1425	CIP
+T16	Antibiotic 1430 1433	MTZ
+T17	Gene 15 21	hp1181
+T18	Gene 26 32	hp1184
+T19	Gene 469 475	hp1181
+T20	Gene 480 486	hp1184
+T21	Antibiotic 648 661	beta-lactames
+T22	Antibiotic 750 766	Ethidium Bromide
+T23	Antibiotic 769 773	EtBr
+*	Equiv T23 T22
+T24	Antibiotic 1242 1246	EtBr
+T25	Antibiotic 1402 1415	beta-lactames
+T26	Gene 1621 1627	hp1181
+T27	Gene 1767 1773	hp1184
+T28	Gene 1778 1784	hp1181
+T29	Antibiotic 1836 1840	EtBr
+T30	Antibiotic_efflux 55 61	Efflux
+E1	Antibiotic_efflux:T30 Theme:T1
+T31	Antibiotic_efflux 260 274	Active pumping
+E2	Antibiotic_efflux:T31 Theme:T3
+T32	Gene 883 889	hp1181
+T33	Gene 894 900	hp1184
+T34	Antibiotic_efflux 1819 1832	active efflux
+E3	Antibiotic_efflux:T34 Cause:T29 Theme:T1

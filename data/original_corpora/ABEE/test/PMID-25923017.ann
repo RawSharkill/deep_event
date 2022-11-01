@@ -1,0 +1,33 @@
+T1	Bacteria 31 52	Moraxella catarrhalis
+T2	Antibiotic 234 243	macrolide
+T3	Bacteria 258 289	Moraxella catarrhalis  isolates
+T4	Bacteria 373 387	M. catarrhalis
+T5	Antibiotic 388 397	macrolide
+*	Equiv T4 T1
+T6	Bacteria 459 482	M. catarrhalis isolates
+*	Equiv T6 T3
+T7	Antibiotic 661 670	macrolide
+T8	Antibiotic 711 720	macrolide
+T9	Bacteria 831 847	M.   catarrhalis
+T10	Bacteria 997 1011	M. catarrhalis
+T11	Bacteria 1432 1446	M. catarrhalis
+T12	Bacteria 1557 1571	M. catarrhalis
+T13	Antibiotic 1572 1581	macrolide
+T14	Antibiotic 11 20	Macrolide
+T15	Antibiotic_target_alteration 140 148	Mutation
+E1	Antibiotic_target_alteration:T15 Theme:T1 Cause:T14
+T16	Antibiotic 977 986	macrolide
+T17	Antibiotic 1225 1234	macrolide
+T18	Antibiotic_target_alteration 1258 1266	mutation
+E2	Antibiotic_target_alteration:T18 Cause:T17
+T19	Antibiotic 1294 1303	macrolide
+T20	Gene 1334 1338	ermA
+T21	Gene 1340 1344	ermB
+T22	Gene 1346 1350	mefA
+T23	Gene 1355 1359	mefE
+T24	Antibiotic 1448 1457	macrolide
+T25	Antibiotic_target_alteration 1519 1527	mutation
+E3	Antibiotic_target_alteration:T25 Theme:T12 Cause:T13
+T26	Antibiotic 1717 1726	macrolide
+T27	Antibiotic_target_alteration 1758 1766	mutation
+E4	Antibiotic_target_alteration:T27 Cause:T26

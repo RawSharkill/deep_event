@@ -1,0 +1,14 @@
+T1	Bacteria 91 98	E. coli
+T2	Antibiotic 102 114	distamycin A
+T3	Antibiotic_efflux 28 40	transduction
+E1	Antibiotic_efflux:T3 Theme:T1 Cause:T2
+T4	Antibiotic 151 163	distamycin A
+T5	Bacteria 279 286	E. coli
+T6	Bacteria 471 483	E. coli K-12
+T7	Bacteria 547 560	E. coli C6000
+T8	Antibiotic 582 594	distamycin A
+T9	Antibiotic_efflux 167 179	transduction
+E2	Antibiotic_efflux:T9 Cause:T4 Theme:T5
+T10	Antibiotic 689 701	distamycin A
+T11	Antibiotic 1371 1385	distamycin   A
+T12	Antibiotic 1523 1535	distamycin A

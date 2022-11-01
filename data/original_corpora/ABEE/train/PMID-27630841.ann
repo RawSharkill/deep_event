@@ -1,0 +1,33 @@
+T1	Bacteria 40 73	Salmonella enterica Serovar Typhi
+T2	Bacteria 313 346	Salmonella enterica serovar Typhi
+T3	Bacteria 348 356	S. Typhi
+*	Equiv T3 T2
+T4	Antibiotic 513 529	fluoroquinolones
+T5	Bacteria 548 558	Salmonella
+T6	Antibiotic 718 727	Quinolone
+T7	Bacteria 789 799	Salmonella
+T8	Bacteria 848 857	S.  Typhi
+T9	Bacteria 1312 1320	S. Typhi
+T10	Antibiotic 1347 1361	nalidixic acid
+T11	Antibiotic 1388 1401	ciprofloxacin
+T12	Bacteria 1599 1609	Salmonella
+T13	Antibiotic 1637 1653	fluoroquinolones
+T14	Bacteria 1820 1830	Salmonella
+T15	Antibiotic 596 612	fluoroquinolones
+T16	Antibiotic 584 594	quinolones
+T17	Antibiotic 769 778	quinolone
+T18	Antibiotic_target_alteration 706 714	mutation
+E1	Antibiotic_target_alteration:T18 Cause:T6 Theme:T7
+E2	Antibiotic_target_alteration:T18 Cause:T17 Theme:T7
+T19	Gene 1519 1523	parC
+T20	Gene 1460 1464	gyrA
+T21	Gene 1550 1554	gyrA
+T22	Gene 1559 1563	parC
+T23	Antibiotic 1794 1809	fluoroquinolone
+T24	Protein 1709 1715	gyrase
+T25	Antibiotic_target_alteration 1537 1546	Mutations
+E3	Antibiotic_target_alteration:T25 Theme:T12
+T26	Antibiotic_target_alteration 1688 1697	mutations
+E4	Antibiotic_target_alteration:T26 Cause:T13
+T27	Gene 1176 1180	parC
+T28	Gene 1166 1170	gyrA

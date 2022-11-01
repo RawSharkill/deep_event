@@ -1,0 +1,13 @@
+T1	Antibiotic 0 10	Ampicillin
+T2	Bacteria 25 40	Shigella sonnei
+T3	Antibiotic 47 57	ampicillin
+T4	Bacteria 93 108	Shigella sonnei
+T5	Antibiotic 388 402	cephalosporins
+T6	Antibiotic 433 444	cephalothin
+T7	Antibiotic 610 624	cephalosporins
+T8	Antibiotic 635 646	cephalothin
+T9	Antibiotic 742 752	ampicillin
+T10	Antibiotic_inactivation 377 387	hydrolyses
+E1	Antibiotic_inactivation:T10 Cause:T5
+T11	Antibiotic_inactivation 310 318	mutation
+E2	Antibiotic_inactivation:T11 Cause:T6

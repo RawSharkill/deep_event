@@ -1,0 +1,15 @@
+T1	Antibiotic 53 65	Hygromycin B
+T2	Antibiotic 69 81	Hygromycin B
+T3	Antibiotic 229 241	hygromycin B
+T4	Bacteria 352 375	Mycobacterium smegmatis
+T5	Antibiotic 460 472	hygromycin B
+T6	Bacteria 626 633	E. coli
+T7	Antibiotic 676 688	hygromycin B
+T8	Antibiotic 918 930	hygromycin B
+T9	Antibiotic 782 794	hygromycin B
+T10	Bacteria 328 351	gram-positive bacterium
+T11	Antibiotic_target_alteration 562 571	mutations
+E1	Antibiotic_target_alteration:T11 Theme:T6 Cause:T7
+T12	Antibiotic_target_alteration 178 189	alterations
+E2	Antibiotic_target_alteration:T12 Cause:T3 Theme:T4
+T13	Bacteria 476 486	eubacteria

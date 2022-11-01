@@ -1,0 +1,17 @@
+T1	Antibiotic 15 25	azlocillin
+T2	Bacteria 40 62	Pseudomonas aeruginosa
+T3	Antibiotic 115 125	azlocillin
+T4	Bacteria 169 191	Pseudomonas aeruginosa
+T5	Antibiotic 296 307	penicillins
+T6	Antibiotic 309 319	azlocillin
+T7	Antibiotic 414 427	cephalosporin
+T8	Antibiotic 562 572	azlocillin
+T9	Antibiotic 615 638	beta-lactam antibiotics
+T10	Antibiotic 640 661	notably carbenicillin
+T11	Antibiotic 663 675	cefoperazone
+T12	Antibiotic 681 691	cefsulodin
+T13	Protein 218 232	penicillinases
+T14	Protein 129 143	beta-lactamase
+T15	Protein 270 286	cephalosporinase
+T16	Protein 495 511	cephalosporinase
+T17	Protein 581 596	beta-lactamases

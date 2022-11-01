@@ -1,0 +1,14 @@
+T1	Antibiotic 47 58	beta-lactam
+T2	Bacteria 74 88	enterobacteria
+T3	Antibiotic 147 158	beta-lactam
+T4	Antibiotic 180 194	cephalosporins
+T5	Bacteria 198 226	gram-negative enterobacteria
+T6	Antibiotic 629 640	beta-lactam
+T7	Antibiotic 906 917	beta-lactam
+T8	Protein 247 272	class C   beta-lactamases
+T9	Reduced_permeability_to_antibiotic 344 356	permeability
+E1	Reduced_permeability_to_antibiotic:T9 Cause:T4 Theme:T5
+E2	Reduced_permeability_to_antibiotic:T9 Cause:T3 Theme:T5
+T10	Gene 504 508	ampC
+T11	Protein 519 542	class C beta-lactamases
+T12	Bacteria 1024 1046	gram-negative bacteria

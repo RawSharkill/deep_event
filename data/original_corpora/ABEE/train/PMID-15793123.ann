@@ -1,0 +1,33 @@
+T1	Antibiotic 29 40	carbapenems
+T2	Bacteria 86 109	Acinetobacter baumannii
+T4	Reduced_permeability_to_antibiotic 131 143	inactivation
+E2	Reduced_permeability_to_antibiotic:T4 Theme:T2 Cause:T1
+T7	Bacteria 374 397	Acinetobacter baumannii
+T8	Antibiotic 450 458	imipenem
+T9	Antibiotic 463 472	meropenem
+T11	Bacteria 517 529	A. baumannii
+*	Equiv T11 T2
+T12	Reduced_permeability_to_antibiotic 553 557	loss
+E4	Reduced_permeability_to_antibiotic:T12 Theme:T11 Cause:T9
+T13	Bacteria 821 833	A. baumannii
+T15	Bacteria 1071 1083	A. baumannii
+T17	Antibiotic 1236 1246	carbapenem
+T18	Bacteria 1263 1275	A. baumannii
+T19	Reduced_permeability_to_antibiotic 1103 1113	disruption
+E7	Reduced_permeability_to_antibiotic:T19 Theme:T15 Cause:T26
+T20	Bacteria 1377 1390	Acinetobacter
+T21	Bacteria 1392 1401	Moraxella
+T22	Bacteria 1408 1421	Psychrobacter
+T23	Bacteria 1519 1532	Moraxellaceae
+T24	Bacteria 1547 1567	gamma-Proteobacteria
+T5	Antibiotic 291 301	carbapenem
+T6	Antibiotic 302 313	beta-lactam
+E1	Reduced_permeability_to_antibiotic:T12 Theme:T11 Cause:T8
+T3	Gene 667 671	carO
+T10	Protein 623 627	CarO
+T14	Gene 750 754	carO
+T16	Gene 846 850	carO
+T25	Gene 1117 1121	carO
+T26	Antibiotic 1029 1039	carbapenem
+T27	Protein 1201 1205	CarO
+T28	Gene 1332 1336	carO

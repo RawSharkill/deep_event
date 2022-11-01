@@ -1,0 +1,25 @@
+T1	Bacteria 0 21	Klebsiella pneumoniae
+T2	Antibiotic_efflux 28 34	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T4	Bacteria 131 152	Klebsiella pneumoniae
+T5	Bacteria 527 540	K. pneumoniae
+T6	Bacteria 714 727	strain 52145R
+T8	Antibiotic 804 814	quinolones
+T9	Antibiotic 866 878	beta-lactams
+T10	Antibiotic_efflux 1402 1408	efflux
+E5	Antibiotic_efflux:T10 Theme:T11
+T11	Bacteria 1467 1480	K. pneumoniae
+*	Equiv T5 T1
+T3	Protein 22 27	AcrAB
+T7	Bacteria 447 470	Gram-negative pathogens
+T12	Antibiotic_efflux 368 374	efflux
+E2	Antibiotic_efflux:T12 Theme:T7
+T13	Protein 541 547	AcrRAB
+T14	Protein 643 647	AcrB
+T15	Protein 667 671	AcrR
+T16	Protein 755 759	AcrB
+T17	Protein 916 920	AcrR
+T18	Protein 958 964	AcrB  
+T19	Protein 1164 1168	AcrB
+T20	Protein 1136 1140	AcrR
+T21	Protein 1396 1401	AcrAB

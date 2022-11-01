@@ -1,0 +1,33 @@
+T1	Antibiotic 39 51	erythromycin
+T2	Antibiotic 73 88	oxytetracycline
+T3	Antibiotic 92 105	spectinomycin
+T4	Bacteria 114 137	Pasteurella haemolytica
+T5	Antibiotic 165 177	erythromycin
+T6	Antibiotic 179 182	Ery
+*	Equiv T6 T5
+T7	Antibiotic 189 204	oxytetracycline
+T8	Antibiotic 206 209	Oxy
+*	Equiv T8 T7
+T9	Antibiotic 215 228	spectinomycin
+T10	Antibiotic 230 232	Sp
+*	Equiv T10 T9
+T11	Bacteria 237 260	Pasteurella haemolytica
+T12	Antibiotic 593 596	Ery
+T13	Antibiotic 619 622	Oxy
+T14	Antibiotic 650 652	Sp
+T15	Bacteria 664 678	P. haemolytica
+*	Equiv T15 T4
+T16	Antibiotic 711 714	Oxy
+T17	Antibiotic 722 724	Sp
+T18	Antibiotic 736 739	Ery
+T19	Antibiotic 798 801	Ery
+T20	Antibiotic 806 809	Oxy
+T21	Antibiotic 901 904	Ery
+T22	Antibiotic 909 911	Sp
+T23	Antibiotic 1134 1137	Ery
+T24	Antibiotic 1142 1145	Oxy
+T25	Bacteria 1196 1210	P. haemolytica
+T26	Antibiotic 1221 1224	Ery
+T27	Antibiotic 1229 1231	Sp
+T28	Antibiotic 1303 1306	Ery
+T29	Antibiotic 1311 1314	Oxy

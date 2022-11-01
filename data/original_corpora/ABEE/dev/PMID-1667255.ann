@@ -1,0 +1,26 @@
+T1	Antibiotic 37 53	fluoroquinolones
+T2	Bacteria 57 78	Staphylococcus aureus
+T3	Bacteria 95 116	Staphylococcus aureus
+T4	Antibiotic 131 147	fluoroquinolones
+T5	Antibiotic 238 253	fluoroquinolone
+T6	Antibiotic 360 376	fluoroquinolones
+T7	Antibiotic 386 399	ciprofloxacin
+T8	Antibiotic 401 412	norfloxacin
+T9	Antibiotic 414 423	ofloxacin
+T10	Antibiotic 425 437	temafloxacin
+T11	Antibiotic 443 455	sparfloxacin
+T12	Antibiotic 547 563	fluoroquinolones
+T13	Antibiotic 748 758	quinolones
+T14	Antibiotic 886 901	fluoroquinolone
+T15	Antibiotic 984 999	fluoroquinolone
+T16	Antibiotic 1046 1062	fluoroquinolones
+T17	Antibiotic 1071 1084	ciprofloxacin
+T18	Antibiotic 1089 1100	norfloxacin
+T19	Antibiotic 1388 1398	quinolones
+T20	Antibiotic 1472 1488	fluoroquinolones
+T21	Antibiotic 1534 1549	fluoroquinolone
+T22	Antibiotic_efflux 1366 1372	efflux
+E1	Antibiotic_efflux:T22 Cause:T19
+E2	Antibiotic_efflux:T22 Cause:T20
+T23	Antibiotic_target_alteration 1593 1603	alteration
+E3	Antibiotic_target_alteration:T23 Cause:T21

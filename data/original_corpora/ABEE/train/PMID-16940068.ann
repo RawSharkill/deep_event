@@ -1,0 +1,41 @@
+T1	Bacteria 140 161	Neisseria gonorrhoeae
+T2	Antibiotic 219 227	cefixime
+T3	Bacteria 253 274	Neisseria gonorrhoeae
+T4	Antibiotic 107 115	cefixime
+T5	Antibiotic 763 771	cefixime
+T6	Antibiotic 875 883	cefixime
+T7	Antibiotic 1239 1246	cephems
+T8	Antibiotic 1404 1412	cefixime
+T9	Antibiotic 1414 1424	ceftibuten
+T10	Antibiotic 1430 1441	cefpodoxime
+T11	Antibiotic 1630 1638	cefixime
+T12	Bacteria 1642 1656	N. gonorrhoeae
+*	Equiv T12 T1
+T13	Antibiotic 35 45	penicillin
+T14	Protein 0 10	Amino acid
+T15	Protein 289 299	amino acid
+T16	Antibiotic 325 335	penicillin
+T17	Protein 355 359	PBP2
+T18	Antibiotic_target_alteration 940 949	mutations
+E1	Antibiotic_target_alteration:T18 Cause:T6
+T19	Antibiotic_target_alteration 1170 1178	mutation
+E2	Antibiotic_target_alteration:T19 Cause:T7
+T20	Gene 910 914	PBP2
+T21	Gene 916 920	penA
+T22	Antibiotic_target_replacement 1248 1259	Replacement
+E3	Antibiotic_target_replacement:T22 Cause:T8
+E4	Antibiotic_target_replacement:T22 Cause:T10
+E5	Antibiotic_target_replacement:T22 Cause:T9
+T23	Protein 1534 1538	PBP2
+T24	Protein 1562 1572	amino acid
+T25	Antibiotic_target_alteration 1487 1496	mutations
+E6	Antibiotic_target_alteration:T25 Cause:T11 Theme:T12
+T26	Gene 404 408	ponA
+T27	Gene 410 414	penA
+T28	Gene 420 423	por
+T29	Gene 455 459	PBP1
+T30	Gene 461 465	PBP2
+T31	Gene 471 476	porin
+T32	Protein 619 623	PBP2
+T33	Protein 581 585	PBP1
+T34	Protein 722 726	PBP2

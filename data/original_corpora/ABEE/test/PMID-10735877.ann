@@ -1,0 +1,7 @@
+T1	Bacteria 303 319	Escherichia coli
+T2	Bacteria 99 116	Bacillus subtilis
+T3	Antibiotic_efflux 205 211	efflux
+E1	Antibiotic_efflux:T3 Theme:T2
+T4	Gene 185 188	SMR
+T5	Protein 377 381	ykkC
+T6	Protein 385 389	ykkD

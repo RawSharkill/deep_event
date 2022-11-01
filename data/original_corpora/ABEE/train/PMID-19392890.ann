@@ -1,0 +1,28 @@
+T1	Bacteria 70 96	Citrobacter  spp. isolates
+T2	Antibiotic 203 212	quinolone
+T3	Bacteria 270 288	Enterobacteriaceae
+T4	Bacteria 657 687	Citrobacter   freundii isolate
+T5	Bacteria 724 744	C. freundii isolates
+*	Equiv T5 T4
+T6	Bacteria 758 787	Citrobacter werkmanii isolate
+T7	Bacteria 821 851	Klebsiella  pneumoniae isolate
+T8	Gene 524 527	qnr
+T9	Gene 608 614	qnrB16
+T10	Gene 693 698	qnrB6
+T11	Gene 793 798	qnrS2
+T12	Gene 857 861	qnrA
+T13	Gene 918 923	qnrS2
+T14	Gene 985 991	qnrB16
+T15	Gene 975 980	qnrB6
+T16	Gene 1171 1175	qnrB
+T17	Gene 1200 1204	qnrA
+T18	Gene 1209 1213	qnrS
+T19	Gene 1261 1267	qnrB16
+T20	Gene 41 46	qnrB6
+T21	Gene 59 65	qnrB16
+T22	Gene 230 234	qnrA
+T23	Gene 236 240	qnrB
+T24	Gene 583 586	qnr
+T25	Gene 245 249	qnrS
+T26	Gene 26 30	qnrB
+T27	Gene 633 637	qnrB

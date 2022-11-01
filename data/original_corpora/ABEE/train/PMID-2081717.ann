@@ -1,0 +1,17 @@
+T1	Antibiotic 62 71	aztreonam
+T2	Antibiotic 87 98	ceftazidime
+T3	Bacteria 109 127	Enterobacteriaceae
+T4	Bacteria 153 171	Enterobacteriaceae
+T5	Bacteria 186 206	Enterobacter cloacae
+T6	Bacteria 209 229	Citrobacter freundii
+T7	Bacteria 231 250	Serratia marcescens
+T8	Bacteria 252 271	Morganella morganii
+T9	Bacteria 276 297	Providencia  stuartii
+T10	Antibiotic 315 324	aztreonam
+T11	Antibiotic 329 340	ceftazidime
+T12	Protein 777 780	OMP
+T13	Bacteria 952 964	Ent. cloacae
+*	Equiv T13 T5
+T14	Antibiotic 1086 1097	ceftazidime
+T15	Bacteria 1276 1287	M. morganii
+*	Equiv T15 T8

@@ -1,0 +1,29 @@
+T1	Antibiotic 35 44	isoniazid
+T2	Antibiotic 49 60	ethionamide
+T3	Bacteria 64 91	Mycobacterium  tuberculosis
+T4	Antibiotic 95 104	Isoniazid
+T5	Bacteria 232 259	Mycobacterium  tuberculosis
+T6	Antibiotic 367 370	INH
+T7	Antibiotic 375 386	ethionamide
+T8	Antibiotic 388 391	ETH
+*	Equiv T8 T7
+T9	Antibiotic 135 138	INH
+*	Equiv T9 T4
+T10	Bacteria 396 408	M. smegmatis
+T11	Bacteria 418 426	M. bovis
+T12	Antibiotic 467 470	INH
+T13	Antibiotic 475 478	ETH
+T14	Bacteria 541 553	M. smegmatis
+T15	Bacteria 558 566	M. bovis
+T16	Bacteria 640 657	Escherichia  coli
+T17	Antibiotic 830 833	INH
+T18	Antibiotic 838 841	ETH
+T19	Gene 0 4	inhA
+T20	Protein 578 582	InhA
+T21	Protein 665 669	EnvM
+T22	Protein 783 787	InhA
+T23	Gene 317 321	inhA
+T24	Antibiotic_target_alteration 283 291	mutation
+E2	Antibiotic_target_alteration:T24 Cause:T7 Theme:T11
+E3	Antibiotic_target_alteration:T24 Cause:T6 Theme:T10
+T25	Gene 442 446	inhA

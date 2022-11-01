@@ -1,0 +1,65 @@
+T1	Bacteria 23 34	enterococci
+T2	Antibiotic 38 46	cefepime
+T3	Antibiotic 51 61	ampicillin
+E1	Antibiotic_target_alteration:T47 Theme:T1 Cause:T2
+E2	Antibiotic_target_alteration:T47 Theme:T1 Cause:T3
+T5	Antibiotic 69 80	beta-lactam
+T6	Bacteria 101 114	Streptococcus
+T7	Antibiotic 166 176	penicillin
+T8	Protein 195 199	PBPs
+T9	Antibiotic 285 296	beta-lactam
+T10	Bacteria 334 346	Enterococcus
+T11	Bacteria 388 410	Streptococcus pyogenes
+T12	Bacteria 412 433	Enterococcus faecalis
+T13	Bacteria 435 455	Enterococcus faecium
+T14	Bacteria 462 480	Enterococcus avium
+T15	Antibiotic 514 522	Cefepime
+T16	Antibiotic 535 545	ampicillin
+T17	Antibiotic 524 528	CFPM
+*	Equiv T17 T15
+T18	Antibiotic 547 551	ABPC
+*	Equiv T18 T16
+T19	Antibiotic 585 592	cephems
+T20	Antibiotic 597 608	penicillins
+T21	Bacteria 650 661	S. pyogenes
+*	Equiv T21 T11
+T22	Antibiotic 701 705	CFPM
+T23	Antibiotic 710 714	ABPC
+T24	Bacteria 740 751	E. faecalis
+*	Equiv T24 T12
+T25	Antibiotic 787 791	ABPC
+T26	Antibiotic 803 807	CFPM
+T27	Bacteria 812 822	E. faecium
+T28	Antibiotic 850 860	penicillin
+T29	Antibiotic 919 923	ABPC
+T30	Antibiotic 967 971	CFPM
+T31	Bacteria 1007 1017	E. faecium
+T32	Protein 1028 1032	PBPs
+T33	Antibiotic 1072 1076	CFPM
+T34	Antibiotic 1083 1087	ABPC
+T35	Protein 1110 1114	PBPs
+T36	Bacteria 1128 1136	E. avium
+*	Equiv T36 T14
+T37	Antibiotic 1171 1175	CFPM
+T38	Antibiotic 1264 1268	ABPC
+T39	Antibiotic 1317 1321	ABPC
+T40	Bacteria 1335 1343	E. avium
+T41	Antibiotic 1369 1373	ABPC
+T42	Antibiotic 1403 1407	CFPM
+T43	Bacteria 1456 1464	E. avium
+T44	Antibiotic 1468 1472	CFPM
+T45	Antibiotic 1551 1555	ABPC
+T46	Antibiotic 1626 1630	ABPC
+T47	Antibiotic_target_alteration 1 11	Affinities
+T4	Antibiotic_target_alteration 154 162	affinity
+E3	Antibiotic_target_alteration:T4 Theme:T6 Cause:T5
+T48	Antibiotic 973 984	beta-lactam
+T49	Antibiotic_target_alteration 1058 1068	affinities
+E4	Antibiotic_target_alteration:T49 Theme:T31 Cause:T33
+E5	Antibiotic_target_alteration:T49 Theme:T31 Cause:T34
+T50	Antibiotic_target_alteration 1157 1167	affinities
+E6	Antibiotic_target_alteration:T50 Theme:T36 Cause:T37
+T51	Antibiotic_target_alteration 1500 1510	affinities
+E7	Antibiotic_target_alteration:T51 Theme:T43 Cause:T44
+T52	Antibiotic_target_alteration 1612 1622	affinities
+E8	Antibiotic_target_alteration:T52 Cause:T45 Theme:T43

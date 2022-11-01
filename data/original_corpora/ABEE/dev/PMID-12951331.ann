@@ -1,0 +1,30 @@
+T3	Bacteria 81 103	Pseudomonas aeruginosa
+T4	Antibiotic 167 177	carbapenem
+T11	Bacteria 933 948	P.   aeruginosa
+T12	Antibiotic 983 991	Colistin
+T14	Antibiotic 1455 1465	carbapenem
+T17	Antibiotic 1590 1600	carbapenem
+T19	Bacteria 1712 1725	P. aeruginosa
+T13	Bacteria 1062 1084	P. aeruginosa isolates
+T2	Bacteria 1489 1511	P. aeruginosa isolates
+T6	Bacteria 242 273	Pseudomonas aeruginosa isolates
+T7	Bacteria 364 385	P.  aeruginosa strain
+*	Equiv T7 T6
+T9	Protein 114 140	SPM metallo-beta-lactamase
+T10	Gene 458 464	blaSPM
+T16	Protein 507 529	metallo-beta-lactamase
+T8	Antibiotic 912 922	carbapenem
+T15	Protein 533 536	MBL
+T18	Protein 807 810	MBL
+T20	Protein 1688 1691	MBL
+T21	Protein 1556 1559	SPM
+T22	Protein 1249 1254	SPM-1
+T23	Protein 1260 1263	MBL
+T24	Protein 755 758	MBL
+T25	Protein 1677 1682	SPM-1
+T26	Protein 1343 1346	MBL
+T5	Antibiotic 208 218	carbapenem
+T1	Antibiotic 59 69	carbapenem
+T27	Protein 494 497	SPM
+T28	Gene 860 866	blaSPM
+T29	Protein 1560 1563	MBL

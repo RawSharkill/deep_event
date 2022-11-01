@@ -1,0 +1,13 @@
+T1	Bacteria 30 46	Escherichia coli
+T2	Antibiotic 58 71	spectinomycin
+T3	Antibiotic 173 186	spectinomycin
+T4	Antibiotic 289 302	spectinomycin
+T5	Antibiotic 547 559	fusidic acid
+T6	Antibiotic_target_alteration 6 14	mutation
+E1	Antibiotic_target_alteration:T6 Theme:T1 Cause:T2
+T7	Antibiotic_target_alteration 105 113	mutation
+E2	Antibiotic_target_alteration:T7 Cause:T3
+T8	Antibiotic_target_alteration 454 462	mutation
+E3	Antibiotic_target_alteration:T8 Cause:T4
+T9	Antibiotic_target_alteration 497 505	mutation
+E4	Antibiotic_target_alteration:T9 Cause:T5

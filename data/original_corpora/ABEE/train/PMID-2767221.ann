@@ -1,0 +1,16 @@
+T1	Antibiotic 14 23	macrolide
+T2	Antibiotic 195 205	macrolides
+T3	Antibiotic 520 532	erythromycin
+T4	Antibiotic 794 804	macrolides
+T5	Antibiotic 830 839	macrolide
+T6	Antibiotic 940 949	josamycin
+T7	Antibiotic 951 963	erythromycin
+T8	Antibiotic 965 978	roxithromycin
+T9	Antibiotic 980 990	lincomycin
+T10	Antibiotic 996 1007	clindamycin
+T11	Antibiotic 1025 1036	minocycline
+T12	Antibiotic 1133 1142	macrolide
+T13	Antibiotic 1289 1298	macrolide
+T14	Bacteria 38 60	Ureaplasma urealyticum
+T15	Bacteria 1314 1328	U. urealyticum
+*	Equiv T15 T14

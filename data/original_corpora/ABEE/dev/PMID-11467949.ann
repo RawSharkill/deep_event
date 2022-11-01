@@ -1,0 +1,32 @@
+T1	Bacteria 9 30	Staphylococcus aureus
+T2	Antibiotic 43 58	streptogramin B
+T6	Antibiotic 399 413	streptogramins
+T7	Antibiotic 423 437	Streptogramins
+T9	Antibiotic 715 731	B streptogramins
+T10	Bacteria 794 815	Staphylococcus aureus
+T11	Antibiotic_inactivation 908 921	linearization
+E4	Antibiotic_inactivation:T11 Theme:T10
+T12	Antibiotic 1133 1148	streptogramin B
+T14	Bacteria 1517 1538	Bordetella  pertussis
+T15	Bacteria 1543 1566	Streptomyces coelicolor
+T16	Antibiotic 1617 1632	streptogramin B
+T19	Antibiotic 1961 1974	streptogramin
+T21	Antibiotic 2148 2161	streptogramin
+T25	Antibiotic 886 904	cyclic  antibiotic
+T4	Antibiotic 122 135	streptogramin
+T18	Antibiotic 1787 1802	streptogramin B
+T8	Antibiotic_inactivation 31 42	inactivates
+E3	Antibiotic_inactivation:T8 Theme:T1 Cause:T2
+T3	Antibiotic_inactivation 1149 1161	inactivation
+E1	Antibiotic_inactivation:T3 Cause:T12
+T5	Antibiotic_inactivation 1633 1645	inactivation
+E2	Antibiotic_inactivation:T5 Theme:T15 Cause:T16
+T13	Protein 0 3	Vgb
+T17	Protein 785 788	Vgb
+T20	Protein 1000 1003	Vgb
+T22	Protein 1367 1370	Vgb
+T23	Protein 1714 1717	Vgb
+T24	Protein 1443 1446	Vgb
+T26	Protein 823 829	enzyme
+T27	Protein 1598 1605	enzymes
+T28	Protein 1750 1753	Vgb

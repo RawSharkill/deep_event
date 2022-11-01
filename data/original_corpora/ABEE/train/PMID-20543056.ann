@@ -1,0 +1,8 @@
+T1	Antibiotic 6 17	florfenicol
+T2	Antibiotic 22 37	chloramphenicol
+T4	Antibiotic 166 177	florfenicol
+T7	Antibiotic 300 311	florfenicol
+T3	Gene 342 346	pexA
+T5	Protein 363 367	PexA
+T6	Antibiotic_efflux 414 420	efflux
+E1	Antibiotic_efflux:T6 Cause:T7

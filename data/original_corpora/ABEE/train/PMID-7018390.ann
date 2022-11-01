@@ -1,0 +1,24 @@
+T1	Bacteria 26 45	Serratia marcescens
+T2	Bacteria 656 669	S. marcescens
+T3	Antibiotic 72 88	benzylpenicillin
+T4	Antibiotic 102 111	Cefazolin
+T5	Bacteria 200 220	Serratia  marcescens
+T6	Antibiotic 117 128	ceftizoxime
+T7	Antibiotic 90 100	Apalcillin
+T8	Antibiotic 1196 1212	benzylpenicillin
+T9	Antibiotic 1154 1165	 apalcillin
+T10	Antibiotic 1118 1127	cefazolin
+T11	Antibiotic 1078 1089	ceftizoxime
+T12	Antibiotic 940 951	ceftizoxime
+T13	Antibiotic 923 934	 apalcillin
+T14	Antibiotic 905 921	benzylpenicillin
+T15	Antibiotic 835 844	Cefazolin
+T16	Antibiotic 817 833	benzylpenicillin
+T17	Antibiotic 558 574	benzylpenicillin
+T18	Antibiotic 579 588	cefazolin
+T19	Antibiotic 608 618	apalcillin
+T20	Antibiotic 623 634	ceftizoxime
+T21	Antibiotic 274 290	benzylpenicillin
+T22	Antibiotic 293 303	apalcillin
+T23	Antibiotic 305 314	cefazolin
+T24	Antibiotic 320 331	ceftizoxime

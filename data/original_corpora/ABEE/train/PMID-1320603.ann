@@ -1,0 +1,13 @@
+T1	Antibiotic 38 47	quinolone
+T2	Antibiotic 181 194	ciprofloxacin
+T3	Bacteria 372 390	Enterobacteriaceae
+T4	Antibiotic 476 489	ciprofloxacin
+T5	Antibiotic 548 561	ciprofloxacin
+T6	Bacteria 570 592	Pseudomonas aeruginosa
+T7	Antibiotic 686 699	ciprofloxacin
+T8	Bacteria 728 749	Staphylococcus aureus
+T9	Bacteria 754 778	Streptococcus pneumoniae
+T10	Bacteria 837 851	Neisseria spp.
+T11	Bacteria 853 876	Haemophilus  influenzae
+T12	Bacteria 881 902	Moraxella catarrhalis
+T13	Antibiotic 1000 1010	quinolones

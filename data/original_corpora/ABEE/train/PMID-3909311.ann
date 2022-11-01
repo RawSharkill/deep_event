@@ -1,0 +1,3 @@
+T1	Bacteria 50 72	gram-negative bacteria
+T2	Antibiotic_inactivation 454 477	antibiotic-inactivating
+E1	Antibiotic_inactivation:T2 Theme:T1

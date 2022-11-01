@@ -1,0 +1,35 @@
+T1	Gene 1619 1623	gyrA
+T2	Gene 816 820	gyrA
+T3	Antibiotic 645 653	imipenem
+T4	Antibiotic 755 773	imipenem-resistant
+T5	Bacteria 537 551	P.  aeruginosa
+T6	Antibiotic 494 510	fluoroquinolones
+T7	Antibiotic 565 578	ciprofloxacin
+T8	Bacteria 69 93	Pseudomonas   aeruginosa
+T9	Antibiotic 122 130	imipenem
+T10	Antibiotic 41 54	ciprofloxacin
+T11	Antibiotic_target_alteration 8 17	mutations
+E1	Antibiotic_target_alteration:T11 Cause:T10 Theme:T8
+T12	Bacteria 136 158	Pseudomonas aeruginosa
+T13	Antibiotic 174 182	imipenem
+T14	Protein 224 228	OprD
+T15	Antibiotic 247 263	fluoroquinolones
+T16	Antibiotic_target_alteration 285 296	alterations
+E2	Antibiotic_target_alteration:T16 Cause:T15 Theme:T12
+T17	Protein 705 709	OprD
+T18	Bacteria 863 879	Escherichia coli
+T19	Gene 839 843	gyrB
+T20	Antibiotic 1004 1017	ciprofloxacin
+T21	Antibiotic 940 949	 imipenem
+T22	Antibiotic 1024 1036	sparfloxacin
+T23	Antibiotic 1153 1161	imipenem
+T24	Antibiotic 1547 1563	fluoroquinolones
+T25	Bacteria 1717 1730	P. aeruginosa
+T26	Antibiotic 1746 1754	imipenem
+T27	Protein 1767 1771	OprD
+T28	Antibiotic 1677 1693	fluoroquinolones
+T29	Antibiotic 1299 1311	sparfloxacin
+T30	Antibiotic 1281 1294	ciprofloxacin
+T31	Antibiotic 427 443	fluoroquinolones
+T32	Antibiotic 371 381	imipenem  
+T33	Antibiotic 350 366	fluoroquinolones

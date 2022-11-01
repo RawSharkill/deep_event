@@ -1,0 +1,33 @@
+T1	Antibiotic 15 25	gentamicin
+T3	Antibiotic 134 144	gentamicin
+T4	Antibiotic 302 312	gentamicin
+T5	Bacteria 340 363	Pseudomonas  aeruginosa
+T6	Bacteria 365 375	Klebsiella
+T7	Bacteria 402 417	Proteus species
+T8	Bacteria 431 447	Proteus rettgeri
+T9	Antibiotic 622 632	gentamicin
+T10	Antibiotic 689 699	gentamicin
+T11	Antibiotic 908 918	gentamicin
+T12	Antibiotic 966 976	gentamicin
+T14	Antibiotic 1178 1188	gentamicin
+T15	Antibiotic 1190 1200	netilmicin
+T16	Antibiotic 1202 1212	tobramycin
+T17	Antibiotic 1217 1225	amikacin
+T19	Antibiotic 1868 1882	aminoglycoside
+T20	Antibiotic 1830 1838	Amikacin
+T2	Bacteria 377 389	Enterobacter
+T13	Bacteria 40 62	gram-negative bacteria
+T18	Antibiotic 471 481	gentamicin
+T21	Antibiotic 1063 1073	gentamicin
+T22	Bacteria 1084 1105	Gram-negative strains
+T23	Antibiotic 1802 1812	netilmicin
+T24	Antibiotic 1780 1790	tobramycin
+T25	Antibiotic 1726 1736	gentamicin
+T26	Bacteria 1747 1768	Gram-negative strains
+T27	Protein 1275 1278	AAC
+T28	Protein 1307 1310	ANT
+T29	Protein 1378 1384	AAC(3)
+T30	Protein 1415 1422	ANT(2")
+T31	Protein 1284 1306	adenylyltransferases  
+T32	Protein 1255 1273	acetyltransferases
+T33	Protein 1519 1526	AAC(6')

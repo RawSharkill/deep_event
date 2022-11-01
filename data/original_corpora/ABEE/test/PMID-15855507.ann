@@ -1,0 +1,28 @@
+T1	Bacteria 24 45	Staphylococcus aureus
+T4	Antibiotic_efflux 117 126	transport
+E3	Antibiotic_efflux:T4 Theme:T1
+T5	Bacteria 376 397	Staphylococcus aureus
+T7	Antibiotic_efflux 451 465	efflux-related
+E4	Antibiotic_efflux:T7 Theme:T6
+T6	Bacteria 425 442	S. aureus mutants
+T8	Antibiotic 1063 1078	fluoroquinolone
+T9	Antibiotic 1101 1112	norfloxacin
+T10	Antibiotic 1117 1130	ciprofloxacin
+*	Equiv T6 T1
+T2	Antibiotic_efflux 309 315	efflux
+E1	Antibiotic_efflux:T2 Theme:T5
+T3	Protein 111 115	MATE
+T11	Protein 250 254	MATE
+T12	Protein 624 628	MATE
+T13	Gene 582 586	mepA
+T14	Gene 736 740	mepA
+T15	Protein 776 780	MarR
+T16	Gene 797 801	mepR
+T17	Gene 815 819	mepA
+T18	Gene 858 862	mepB
+T19	Gene 898 902	mepA
+T20	Protein 1148 1152	MepB
+T21	Protein 1223 1227	MepA
+T22	Protein 1229 1233	MepR
+T23	Gene 1308 1312	mepA
+T24	Gene 1387 1393	mepRAB

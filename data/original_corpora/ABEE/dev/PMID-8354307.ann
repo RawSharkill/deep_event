@@ -1,0 +1,32 @@
+T1	Antibiotic 1094 1103	oxacillin
+T2	Bacteria 1114 1133	Staphylococcus spp.
+T3	Bacteria 1138 1156	Enterococcus  spp.
+T4	Bacteria 867 889	gram-positive bacteria
+T5	Bacteria 743 766	Pseudomonas  aeruginosa
+T6	Bacteria 626 644	Enterobacteriaceae
+T7	Antibiotic 675 683	biapenem
+T8	Protein 221 248	broad-spectrum beta-lactams
+T9	Protein 97 123	broad-spectrum beta-lactam
+T10	Antibiotic 77 86	meropenem
+T11	Antibiotic 66 74	imipenem
+T12	Antibiotic 157 165	biapenem
+T13	Antibiotic 190 198	imipenem
+T14	Antibiotic 200 209	meropenem
+T15	Bacteria 514 533	 Enterobacteriaceae
+T16	Antibiotic 698 707	meropenem
+T17	Antibiotic 685 693	Biapenem
+T18	Antibiotic 793 801	Biapenem
+T19	Antibiotic 898 906	Biapenem
+T20	Bacteria 943 960	naerobic bacteria
+T21	Bacteria 972 992	Bacteroides fragilis
+T22	Antibiotic 925 933	imipenem
+T23	Bacteria 1068 1092	 Xanthomonas maltophilia
+T24	Antibiotic 1209 1220	carbapenems
+T25	Antibiotic 1248 1262	cephalosporins
+T26	Antibiotic 1350 1358	biapenem
+T27	Antibiotic 1037 1045	biapenem
+T28	Antibiotic 823 834	ceftazidime
+T29	Antibiotic 551 559	biapenem
+T30	Antibiotic 583 591	imipenem
+T31	Antibiotic 45 53	biapenem
+T32	Antibiotic 35 44	arbapenem

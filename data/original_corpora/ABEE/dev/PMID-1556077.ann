@@ -1,0 +1,23 @@
+T1	Bacteria 111 138	Enterococcus faecium BM4147
+T2	Bacteria 160 187	Enterococcus faecium BM4147
+T3	Antibiotic 221 231	vancomycin
+T4	Antibiotic 519 529	vancomycin
+T5	Protein 600 606	enzyme
+T6	Protein 677 684	enzymes
+T7	Gene 915 919	VanS
+T8	Gene 824 828	VanR
+T9	Gene 576 580	VanH
+T10	Gene 582 586	VanA
+T11	Gene 932 936	VanR
+T12	Gene 1301 1305	vanX
+T13	Gene 1291 1295	vanA
+T14	Gene 1285 1289	vanH
+T15	Gene 4 8	VanS
+T16	Gene 9 13	VanR
+T17	Gene 248 252	VanH
+T18	Gene 275 279	VanA
+T19	Gene 608 612	VanX
+T20	Gene 736 740	VanS
+T21	Gene 741 745	VanR
+T22	Gene 1188 1192	VanR
+T23	Gene 1193 1197	VanS

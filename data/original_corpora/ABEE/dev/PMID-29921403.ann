@@ -1,0 +1,28 @@
+T1	Bacteria 23 49	mycobacterium tuberculosis
+T2	Antibiotic 106 118	Pyrazinamide
+T3	Antibiotic 120 123	PZA
+*	Equiv T3 T2
+T4	Antibiotic 268 271	PZA
+T5	Antibiotic 449 452	PZA
+T6	Bacteria 631 658	Mycobacterium  tuberculosis
+T7	Bacteria 660 663	MTB
+*	Equiv T7 T6
+T8	Antibiotic 605 608	PZA
+T9	Antibiotic_target_alteration 551 560	mutations
+E1	Antibiotic_target_alteration:T9 Cause:T8 Theme:T6
+T10	Antibiotic 755 758	PZA
+T11	Antibiotic 1055 1058	PZA
+T12	Gene 1069 1073	rpsA
+T13	Antibiotic 1172 1176	 PZA
+T14	Bacteria 1122 1134	H37Rv strain
+T15	Gene 1351 1355	rpsA
+T16	Antibiotic 1562 1565	PZA
+T17	Gene 1532 1536	rpsA
+T18	Antibiotic_target_alteration 1519 1528	Mutations
+E2	Antibiotic_target_alteration:T18 Cause:T16
+T19	Gene 924 928	panD
+T20	Gene 915 919	rpsA
+T21	Antibiotic_target_alteration 881 890	mutations
+E3	Antibiotic_target_alteration:T21 Cause:T10
+T22	Gene 88 92	rpsA
+T23	Antibiotic 0 12	Pyrazinamide

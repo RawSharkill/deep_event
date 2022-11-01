@@ -1,0 +1,12 @@
+T1	Antibiotic 195 207	tetracycline
+T2	Antibiotic 209 224	chloramphenicol
+T3	Antibiotic 226 238	trimethoprim
+T4	Antibiotic 240 253	sulphonamides
+T5	Antibiotic 258 275	mercuric chloride
+T6	Antibiotic 890 902	tetracycline
+T7	Antibiotic 907 922	chloramphenicol
+T8	Bacteria 1237 1254	Proteus mirabilis
+T9	Bacteria 1376 1398	Pseudomonas aeruginosa
+T10	Bacteria 1402 1430	Acinetobacter  calcoaceticus
+T11	Gene 87 91	recA
+T12	Gene 753 757	recA

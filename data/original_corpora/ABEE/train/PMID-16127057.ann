@@ -1,0 +1,32 @@
+T1	Antibiotic 99 109	novobiocin
+T2	Bacteria 113 134	Staphylococcus aureus
+T3	Bacteria 168 189	Staphylococcus aureus
+T4	Antibiotic 234 244	novobiocin
+T5	Antibiotic 682 692	novobiocin
+T6	Antibiotic 820 830	novobiocin
+T7	Bacteria 834 843	S. aureus
+*	Equiv T7 T3
+T8	Antibiotic 991 1001	novobiocin
+T9	Antibiotic 1013 1027	coumermycin A1
+T10	Antibiotic 1066 1076	novobiocin
+T11	Antibiotic 1081 1095	coumermycin A1
+T12	Gene 43 47	parE
+T13	Gene 34 38	gyrB
+T14	Antibiotic_target_alteration 16 25	mutations
+E1	Antibiotic_target_alteration:T14 Cause:T1 Theme:T2
+T15	Antibiotic_target_alteration 157 164	mutants
+E2	Antibiotic_target_alteration:T15 Theme:T3 Cause:T4
+T16	Gene 302 306	gyrB
+T17	Gene 311 315	parE
+T18	Gene 495 499	parE
+T19	Gene 551 555	gyrB
+T20	Gene 447 451	gyrB
+T21	Antibiotic 138 146	Coumarin
+T22	Gene 764 768	parE
+T23	Gene 751 755	gyrB
+T24	Antibiotic_target_alteration 729 738	mutations
+E3	Antibiotic_target_alteration:T24 Cause:T6 Theme:T7
+T25	Protein 882 892	amino acid
+T26	Gene 952 956	GyrB
+T27	Gene 1101 1105	GyrB
+T28	Protein 594 604	DNA gyrase

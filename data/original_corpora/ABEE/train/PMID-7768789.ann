@@ -1,0 +1,17 @@
+T1	Bacteria 84 121	Staphylococcus epidermidis ATCC 14990
+T2	Bacteria 178 199	Staphylococcus aureus
+T3	Bacteria 277 314	Staphylococcus epidermidis ATCC 14990
+T4	Bacteria 699 713	S. epidermidis
+T5	Antibiotic 1105 1117	trimethoprim
+T6	Protein 539 550	amino acids
+T7	Protein 49 72	dihydrofolate reductase
+T8	Protein 74 78	DHFR
+T9	Protein 168 172	DHFR
+T10	Antibiotic 142 154	trimethoprim
+T11	Antibiotic 608 620	trimethoprim
+T12	Protein 641 645	DHFR
+T13	Protein 242 265	dihydrofolate reductase
+T14	Protein 267 271	DHFR
+T15	Protein 944 948	DHFR
+T16	Protein 502 506	DHFR
+T17	Protein 509 515	SeDHFR

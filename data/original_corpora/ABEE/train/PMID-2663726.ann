@@ -1,0 +1,5 @@
+T1	Bacteria 616 635	Mycobacterium phlei
+T2	Bacteria 1258 1279	Klebsiella pneumoniae
+T3	Bacteria 1314 1327	K. pneumoniae
+*	Equiv T3 T2
+T4	Bacteria 1395 1408	K. pneumoniae

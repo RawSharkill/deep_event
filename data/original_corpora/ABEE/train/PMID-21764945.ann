@@ -1,0 +1,12 @@
+T1	Antibiotic 19 30	sulfonamide
+T2	Antibiotic 35 47	trimethoprim
+T3	Bacteria 79 88	Aeromonas
+T4	Bacteria 136 157	Aeromonas salmonicida
+T5	Bacteria 169 184	Aeromonas  spp.
+T6	Antibiotic 285 297	trimethoprim
+T7	Gene 360 364	dfrA
+T8	Gene 369 373	dfrB
+T9	Gene 342 348	dfrA28
+T10	Gene 238 242	sul1
+T11	Antibiotic 101 112	Sulfonamide
+T12	Antibiotic 113 125	trimethoprim

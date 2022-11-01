@@ -1,0 +1,5 @@
+T1	Bacteria 48 69	Neisseria gonorrhoeae
+T2	Bacteria 136 158	Neisseria  gonorrhoeae
+T3	Bacteria 171 216	penicillinase-producing Neisseria gonorrhoeae
+T4	Bacteria 218 222	PPNG
+*	Equiv T4 T3

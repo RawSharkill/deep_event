@@ -1,0 +1,7 @@
+T1	Bacteria 33 55	Pseudomonas aeruginosa
+T2	Antibiotic 238 262	beta-lactam  antibiotics
+T3	Bacteria 266 288	Pseudomonas aeruginosa
+T4	Antibiotic 740 762	beta-lactam antibiotic
+T5	Bacteria 796 809	P. aeruginosa
+*	Equiv T5 T1
+T6	Bacteria 1376 1389	P. aeruginosa

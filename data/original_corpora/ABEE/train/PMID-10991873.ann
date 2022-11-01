@@ -1,0 +1,15 @@
+T1	Antibiotic 17 28	florfenicol
+T3	Bacteria 68 85	Escherichia  coli
+T4	Antibiotic 112 123	florfenicol
+T7	Bacteria 258 285	Escherichia   coli isolates
+T6	Bacteria 168 214	Salmonella enterica  serovar Typhimurium DT104
+T8	Bacteria 429 467	S.  enterica serovar Typhimurium DT104
+T9	Antibiotic_efflux 124 134	resistance
+E4	Antibiotic_efflux:T9 Theme:T6 Cause:T4
+*	Equiv T8 T6
+T2	Gene 160 164	floR
+T5	Gene 55 59	floR
+E1	Antibiotic_efflux:T9 Cause:T4 Theme:T7
+T10	Gene 320 324	floR
+T11	Antibiotic_efflux 8 16	mediated
+E2	Antibiotic_efflux:T11 Cause:T1 Theme:T3

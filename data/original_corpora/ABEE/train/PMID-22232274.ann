@@ -1,0 +1,34 @@
+T1	Antibiotic 57 68	teicoplanin
+T2	Antibiotic 124 135	teicoplanin
+T3	Antibiotic 204 214	vancomycin
+T4	Bacteria 337 360	Streptomyces coelicolor
+T5	Antibiotic 445 455	vancomycin
+T6	Antibiotic 461 472	teicoplanin
+T7	Antibiotic 492 502	vancomycin
+T8	Antibiotic 695 719	glycopeptide antibiotics
+T9	Antibiotic 778 789	teicoplanin
+T10	Bacteria 804 817	S. coelicolor
+*	Equiv T10 T4
+T11	Antibiotic 1052 1062	ristocetin
+T12	Antibiotic 1113 1124	teicoplanin
+T13	Bacteria 1277 1291	streptomycetes
+T14	Bacteria 1318 1350	Streptomyces  toyocaensis A47934
+T15	Antibiotic 1437 1448	teicoplanin
+T16	Antibiotic 1862 1873	teicoplanin
+T17	Gene 26 30	VanJ
+T18	Gene 373 383	vanRSJKHAX
+T19	Protein 522 529	enzymes
+T20	Protein 568 574	vanHAX
+T21	Gene 740 747	vanKHAX
+T22	Gene 542 549	vanKHAX
+T23	Gene 562 566	vanJ
+T24	Antibiotic 1023 1034	teicoplanin
+T25	Gene 1478 1482	vanJ
+T26	Gene 1234 1238	vanJ
+T27	Gene 856 860	vanJ
+T28	Gene 862 866	vanJ
+T29	Gene 986 990	VanJ
+T30	Antibiotic 1206 1216	vancomycin
+T31	Gene 1304 1308	staP
+T32	Gene 1541 1545	vanJ
+T33	Gene 1550 1554	staP

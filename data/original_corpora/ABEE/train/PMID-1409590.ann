@@ -1,0 +1,26 @@
+T1	Bacteria 8 24	Escherichia coli
+T2	Antibiotic 159 198	carbonylcyanide m-chlorophenylhydrazone
+T3	Antibiotic 200 214	nalidixic acid
+T4	Bacteria 62 78	Escherichia coli
+T6	Bacteria 567 588	Staphylococcus aureus
+T9	Bacteria 666 688	Gram-positive bacteria
+T10	Bacteria 724 731	E. coli
+T11	Antibiotic_efflux 711 720	symporter
+E4	Antibiotic_efflux:T11 Cause2:T12 Theme:T10
+T12	Antibiotic 698 707	galactose
+T14	Antibiotic 1006 1016	uncouplers
+T16	Antibiotic 1043 1052	uncoupler
+*	Equiv T10 T1
+T5	Gene 370 374	emrA
+T7	Gene 380 384	emrB
+T8	Gene 386 390	emrB
+T13	Protein 528 532	QacA
+T15	Antibiotic 634 646	tetracycline
+T17	Antibiotic_efflux 657 662	pumps
+E1	Antibiotic_efflux:T17 Cause:T15 Theme:T9
+T18	Antibiotic_efflux 557 561	pump
+E2	Antibiotic_efflux:T18 Theme:T6
+T19	Protein 910 914	EmrA
+T20	Gene 953 957	emrB
+T21	Gene 1091 1095	emrB
+T22	Gene 1139 1143	emrB

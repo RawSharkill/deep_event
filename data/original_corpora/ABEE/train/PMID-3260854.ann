@@ -1,0 +1,19 @@
+T1	Antibiotic 31 42	beta-lactam
+T2	Bacteria 146 168	non-fastidious bacilli
+T3	Antibiotic 302 313	beta-lactam
+T4	Antibiotic 556 579	beta-lactam antibiotics
+T5	Antibiotic 680 691	beta-lactam
+T6	Antibiotic 1087 1103	beta-lactam drug
+T7	Antibiotic 1141 1150	cefpirome
+T8	Antibiotic 1154 1163	BMY 28142
+T9	Antibiotic 1165 1174	SCH 34343
+T10	Antibiotic 1179 1187	imipenem
+T11	Antibiotic 1310 1328	beta-lactam agents
+T12	Antibiotic 1376 1391	aminoglycosides
+T13	Antibiotic 1396 1406	quinolones
+T14	Bacteria 54 67	gram-negative
+T15	Bacteria 131 144	Gram-negative
+T16	Protein 953 980	penicillin-binding proteins
+T17	Protein 982 986	PBPs
+T18	Antibiotic_target_alteration 945 952	altered
+E1	Antibiotic_target_alteration:T18 Cause:T5 Theme:T14

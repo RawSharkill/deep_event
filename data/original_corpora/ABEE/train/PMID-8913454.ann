@@ -1,0 +1,31 @@
+T1	Antibiotic 52 67	fluoroquinolone
+T2	Bacteria 94 118	Streptococcus pneumoniae
+T3	Antibiotic 223 232	quinolone
+T4	Bacteria 330 354	Streptococcus pneumoniae
+T5	Bacteria 584 605	Staphylococcus aureus
+T6	Antibiotic 784 799	fluoroquinolone
+T7	Bacteria 1031 1051	S. pneumoniae CP1000
+T8	Antibiotic 1068 1084	fluoroquinolones
+T9	Bacteria 1468 1474	CP1000
+T10	Antibiotic 1735 1751	fluoroquinolones
+T11	Bacteria 1755 1768	S. pneumoniae
+*	Equiv T11 T5
+*	Equiv T9 T7
+T12	Antibiotic_target_alteration 206 215	mutations
+E1	Antibiotic_target_alteration:T12 
+T13	Gene 273 277	gyrA
+T14	Gene 279 283	gyrB
+T15	Gene 289 293	parC
+T16	Antibiotic 303 319	 fluoroquinolone
+T17	Antibiotic_target_alteration 355 362	mutants
+E2	Antibiotic_target_alteration:T17 Cause:T16 Theme:T4
+T18	Protein 439 443	ParC
+T19	Gene 833 837	gyrA
+T20	Gene 1094 1098	parC
+T21	Gene 1428 1432	gyrA
+T22	Gene 1525 1529	parC
+T23	Gene 1572 1576	gyrA
+T24	Protein 1703 1707	ParC
+T25	Gene 1895 1899	gyrA
+T26	Antibiotic_target_alteration 1865 1874	mutations
+E3	Antibiotic_target_alteration:T26 Cause:T10 Theme:T11

@@ -1,0 +1,19 @@
+T1	Bacteria 54 75	Neisseria gonorrhoeae
+T2	Bacteria 175 196	Neisseria gonorrhoeae
+T3	Bacteria 931 940	gonococci
+T4	Bacteria 1322 1331	gonococci
+T5	Bacteria 1549 1558	gonococci
+T6	Antibiotic_efflux 227 233	efflux
+E1	Antibiotic_efflux:T6 Theme:T2
+T7	Antibiotic_efflux 32 38	efflux
+E2	Antibiotic_efflux:T7 Theme:T1
+T8	Gene 120 123	mtr
+T10	Gene 828 832	MtrR
+T11	Gene 1057 1061	XylS
+T12	Gene 1052 1056	AraC
+T13	Protein 1129 1133	MtrA
+T14	Protein 86 90	MtrA
+T9	Gene 775 781	mtrCDE
+T15	Gene 870 876	mtrCDE
+T16	Gene 1183 1189	mtrCDE
+T17	Gene 1281 1287	mtrCDE

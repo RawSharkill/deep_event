@@ -1,0 +1,10 @@
+T1	Bacteria 89 105	Escherichia coli
+T2	Antibiotic_efflux 155 166	transporter
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 354 361	E. coli
+*	Equiv T3 T1
+T4	Protein 73 77	EmrE
+T5	Protein 149 152	SMR
+T6	Protein 81 85	EmrE
+T7	Protein 338 342	EmrE
+T8	Protein 438 442	P55C

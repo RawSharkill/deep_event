@@ -1,0 +1,5 @@
+T1	Antibiotic 185 197	lincosamides
+T2	Antibiotic 202 217	streptogramin A
+T3	Bacteria 231 244	staphylococci
+T4	Antibiotic 425 435	lincomycin
+T5	Gene 441 448	vga(A)v

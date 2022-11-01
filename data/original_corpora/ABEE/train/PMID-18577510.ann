@@ -1,0 +1,10 @@
+T1	Bacteria 42 81	Salmonella enterica serovar Typhimurium
+T2	Bacteria 130 169	Salmonella enterica serovar Typhimurium
+T3	Bacteria 360 376	Escherichia coli
+T4	Bacteria 424 434	Salmonella
+T5	Bacteria 720 730	Salmonella
+T6	Bacteria 1115 1125	Salmonella
+T7	Antibiotic_efflux 198 204	efflux
+E1	Antibiotic_efflux:T7 Theme:T2
+T8	Antibiotic_efflux 16 22	efflux
+E2	Antibiotic_efflux:T8 Theme:T1

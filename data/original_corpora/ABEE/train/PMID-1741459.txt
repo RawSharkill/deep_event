@@ -1,0 +1,3 @@
+Copper resistance determinants in bacteria.
+
+Copper is an essential trace element that is utilized in a number of oxygenases  and electron transport proteins, but it is also a highly toxic heavy metal,  against which all organisms must protect themselves. Known bacterial determinants  of copper resistance are plasmid-encoded. The mechanisms which confer resistance   must be integrated with the normal metabolism of copper. Different bacteria have   adopted diverse strategies for copper resistance, and this review outlines what  is known about bacterial copper resistance mechanisms and their genetic  regulation.

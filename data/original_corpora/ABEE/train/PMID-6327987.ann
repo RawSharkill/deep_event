@@ -1,0 +1,16 @@
+T1	Antibiotic 14 25	beta-lactam
+T2	Bacteria 60 83	Pseudomonas  aeruginosa
+T3	Antibiotic 118 141	beta-lactam antibiotics
+T4	Bacteria 162 184	Pseudomonas aeruginosa
+T5	Antibiotic 426 439	carbenicillin
+T6	Antibiotic 496 506	cefotaxime
+T7	Antibiotic 537 550	carbenicillin
+T8	Antibiotic 667 680	carbenicillin
+T9	Antibiotic 888 898	cefotaxime
+T10	Antibiotic 928 941	carbenicillin
+T11	Antibiotic 1206 1218	beta-lactams
+T12	Antibiotic 560 573	carbenicillin
+T13	Protein 624 639	beta-lactamases
+T14	Protein 709 724	beta-lactamases
+T15	Protein 781 795	beta-lactamase
+T16	Protein 1011 1047	Sabath and Abrahams ' beta-lactamase

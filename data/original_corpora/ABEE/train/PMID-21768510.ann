@@ -1,0 +1,15 @@
+T2	Bacteria 47 74	Staphylococcus aureus ST398
+T3	Antibiotic 101 116	streptogramin A
+T4	Antibiotic 118 131	pleuromutilin
+T5	Antibiotic 137 148	lincosamide
+T6	Antibiotic 177 192	streptogramin A
+T7	Antibiotic 194 207	pleuromutilin
+T8	Antibiotic 213 224	lincosamide
+T9	Bacteria 306 327	Staphylococcus aureus
+T10	Antibiotic 284 295	methicillin
+T11	Gene 347 353	vga(E)
+T1	Antibiotic 25 36	methicillin
+T12	Protein 85 91	vga(E)
+T13	Protein 249 256	 Vga(E)
+T14	Protein 373 383	amino-acid
+T15	Protein 592 598	vga(E)

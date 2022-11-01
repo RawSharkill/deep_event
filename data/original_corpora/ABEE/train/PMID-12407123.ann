@@ -1,0 +1,28 @@
+T2	Bacteria 550 591	Salmonella   enterica serovar Typhimurium
+T3	Bacteria 723 745	Xanthomonas campestris
+T4	Bacteria 891 907	Escherichia coli
+T5	Bacteria 912 925	P. aeruginosa
+T6	Antibiotic 929 940	ceftazidime
+T1	Bacteria 248 287	Pseudomonas aeruginosa strain 48-1997 A
+T8	Protein 1111 1133	metallo-beta-lactamase
+T9	Protein 1208 1231	metallo-beta-lactamases
+T10	Gene 981 1003	metallo-beta-lactamase
+T11	Protein 45 67	metallo-beta-lactamase
+T12	Protein 181 209	metallo-beta-lactamase SPM-1
+T13	Gene 831 836	spm-1
+T14	Gene 953 958	SPM-1
+T15	Gene 1079 1084	SPM-1
+T16	Protein 1072 1077	IMP-1
+T17	Protein 1148 1151	IMP
+T18	Protein 1140 1143	VIM
+T19	Gene 1365 1370	SPM-1
+T20	Protein 1329 1332	IMP
+T21	Protein 1348 1351	VIM
+T22	Gene 309 314	spm-1
+T23	Gene 409 414	spm-1
+T24	Gene 608 613	spm-1
+T25	Gene 820 825	spm-1
+T26	Protein 532 536	LysR
+T7	Gene 30 35	SPM-1
+T27	Bacteria 376 387	Pseudomonas
+T28	Protein 487 491	LysR

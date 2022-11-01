@@ -1,0 +1,14 @@
+T1	Bacteria 54 77	Escherichia coli strain
+T2	Bacteria 180 204	Escherichia coli isolate
+T3	Protein 108 130	metallo-beta-lactamase
+T4	Protein 132 137	NDM-8
+T5	Protein 6 28	metallo-beta-lactamase
+T6	Protein 0 5	NDM-8
+T7	Protein 408 413	NDM-8
+T8	Protein 484 489	NDM-1
+T9	Protein 401 406	NDM-1
+T10	Protein 311 316	NDM-8
+T11	Protein 288 298	amino acid
+T12	Antibiotic 451 463	beta-lactams
+T13	Antibiotic_inactivation 443 450	against
+E1	Antibiotic_inactivation:T13 Cause:T12 Theme:T2

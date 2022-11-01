@@ -1,0 +1,23 @@
+T1	Antibiotic 14 26	streptomycin
+T3	Antibiotic 132 144	streptomycin
+T4	Antibiotic 364 376	streptomycin
+T5	Antibiotic 1079 1091	streptomycin
+T6	Antibiotic 1287 1299	streptomycin
+T7	Antibiotic 1256 1268	streptomycin
+T8	Antibiotic 1150 1162	streptomycin
+T9	Bacteria 524 552	Mycobacterium smegmatis rrnB
+T10	Bacteria 554 575	M. smegmatis rpsL(3+)
+T11	Bacteria 581 608	M.  smegmatis rrnB rpsL(3+)
+T12	Bacteria 610 627	M. smegmatis rrnB
+T13	Bacteria 750 771	M. smegmatis rpsL(3+)
+T14	Bacteria 868 894	M. smegmatis rrnB rpsL(3+)
+T15	Bacteria 1188 1214	M. smegmatis rrnB rpsL(3+)
+T22	Bacteria 1714 1733	M. smegmatis strain
+T23	Antibiotic_target_alteration 431 440	mutations
+E8	Antibiotic_target_alteration:T23 
+T25	Antibiotic_target_alteration 177 186	mutations
+E10	Antibiotic_target_alteration:T25 
+T26	Antibiotic_target_alteration 1050 1059	mutations
+E11	Antibiotic_target_alteration:T26 Theme:T15
+T16	Antibiotic_target_alteration 387 394	mutants
+E2	Antibiotic_target_alteration:T16 Cause:T4

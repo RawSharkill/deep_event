@@ -1,0 +1,18 @@
+T1	Bacteria 670 682	Enterobacter
+T2	Protein 0 26	Broad-spectrum beta-lactam
+T3	Bacteria 41 53	Enterobacter
+T4	Antibiotic 261 272	cefamandole
+T5	Antibiotic 295 309	cephalosporins
+T6	Antibiotic 600 609	latamoxef
+T7	Antibiotic 742 753	cefamandole
+T8	Antibiotic 806 819	cephalosporin
+T9	Bacteria 137 149	Enterobacter
+T10	Antibiotic_inactivation 459 469	hydrolysis
+E1	Antibiotic_inactivation:T10 Cause:T12
+T11	Antibiotic 473 484	cephalothin
+T12	Antibiotic 489 500	cefamandole
+T13	Antibiotic 535 545	cefotaxime
+E2	Antibiotic_inactivation:T10 Cause:T11
+T14	Antibiotic 377 388	cephalothin
+T15	Antibiotic_inactivation 363 373	hydrolysis
+E3	Antibiotic_inactivation:T15 Cause:T14

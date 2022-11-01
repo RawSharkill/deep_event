@@ -1,0 +1,24 @@
+T1	Antibiotic 13 25	moxifloxacin
+T2	Bacteria 86 133	ribotype ARU 027 Clostridium difficile diarrhea
+T3	Antibiotic 181 193	moxifloxacin
+T4	Bacteria 212 233	Clostridium difficile
+T5	Bacteria 467 479	C. difficile
+*	Equiv T5 T4
+T6	Antibiotic 483 495	moxifloxacin
+T7	Antibiotic 743 755	moxifloxacin
+T8	Antibiotic 976 985	quinolone
+T9	Bacteria 1506 1513	ARU 027
+*	Equiv T9 T2
+T10	Gene 612 616	tcdA
+T11	Gene 618 622	tcdB
+T12	Gene 624 628	tcdC
+T13	Gene 630 634	cdtA
+T14	Gene 639 643	cdtB
+T15	Gene 1021 1025	gyrA
+T16	Gene 1048 1052	gyrB
+T17	Gene 1426 1430	gyrA
+T18	Antibiotic_target_alteration 1419 1425	mutant
+E1	Antibiotic_target_alteration:T18 Theme:T9
+T19	Gene 1762 1766	gyrA
+T20	Gene 1827 1831	gyrB
+T21	Gene 581 584	gdh

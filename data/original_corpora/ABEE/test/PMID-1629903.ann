@@ -1,0 +1,23 @@
+T1	Bacteria 112 132	Enterobacter cloacae
+T2	Antibiotic 176 186	cefotaxime
+T3	Antibiotic 188 191	Ctx
+*	Equiv T3 T2
+T4	Antibiotic 197 208	ceftazidime
+T5	Antibiotic 210 213	Caz
+*	Equiv T5 T4
+T6	Bacteria 265 285	Enterobacter cloacae
+T7	Antibiotic 393 402	cefoxitin
+T8	Antibiotic 438 451	cephaloridine
+T9	Antibiotic 572 581	cefoxitin
+T10	Antibiotic_inactivation 650 662	derepression
+E1	Antibiotic_inactivation:T10 Cause:T8 Theme:T1
+T11	Protein 1051 1054	TEM
+T12	Protein 1059 1062	PSE
+T13	Bacteria 1181 1191	E. cloacae
+*	Equiv T13 T6
+T14	Antibiotic 1399 1414	aminoglycosides
+T15	Antibiotic 1163 1166	Ctx
+T16	Antibiotic 1167 1170	Caz
+T17	Antibiotic_inactivation 1259 1266	mutants
+E2	Antibiotic_inactivation:T17 Theme:T13 Cause:T15
+E3	Antibiotic_inactivation:T17 Cause:T16 Theme:T13

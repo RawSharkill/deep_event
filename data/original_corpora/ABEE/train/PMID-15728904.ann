@@ -1,0 +1,30 @@
+T1	Antibiotic_efflux 64 70	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 87 107	Campylobacter jejuni
+T3	Bacteria 195 208	Campylobacter
+T4	Antibiotic_efflux 166 172	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T6	Bacteria 291 304	Campylobacter
+T9	Bacteria 414 427	Campylobacter
+T5	Protein 0 4	CmeR
+T7	Protein 77 83	CmeABC
+T8	Protein 111 117	CmeABC
+T10	Protein 467 473	CmeABC
+T11	Protein 595 601	CmeABC
+T12	Gene 630 634	cmeR
+T13	Gene 687 693	cmeABC
+T14	Gene 732 738	cmeABC
+T15	Gene 785 791	cmeABC
+T16	Gene 792 796	lacZ
+T17	Protein 825 831	CmeABC
+T18	Gene 962 966	cmeR
+T19	Protein 1024 1028	CmeR
+T20	Gene 1075 1081	cmeABC
+T21	Gene 1134 1142	cmeABC  
+T22	Protein 1253 1257	CmeR
+T23	Gene 1326 1332	cmeABC
+T24	Gene 1373 1377	cmeR
+T25	Gene 1448 1454	cmeABC
+T26	Gene 1497 1503	cmeABC
+T27	Protein 1524 1528	CmeR
+T28	Protein 1619 1622	MDR

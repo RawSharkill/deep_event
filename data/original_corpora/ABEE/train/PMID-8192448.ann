@@ -1,0 +1,11 @@
+T1	Bacteria 46 72	Mycobacterium tuberculosis
+T2	Antibiotic 182 194	streptomycin
+T3	Bacteria 210 236	Mycobacterium tuberculosis
+T4	Bacteria 584 601	Escherichia  coli
+T5	Antibiotic 683 695	streptomycin
+T6	Antibiotic_target_alteration 156 165	mutations
+E1	Antibiotic_target_alteration:T6 Cause:T2 Theme:T3
+T7	Antibiotic 23 35	streptomycin
+T8	Antibiotic_target_alteration 8 19	alterations
+E2	Antibiotic_target_alteration:T8 Cause:T7 Theme:T1
+T9	Antibiotic 708 720	streptomycin

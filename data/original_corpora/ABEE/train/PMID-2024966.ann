@@ -1,0 +1,37 @@
+T1	Antibiotic 23 66	catechol-substituted cephalosporin, GR69153
+T2	Antibiotic 94 101	GR69153
+*	Equiv T2 T1
+T3	Antibiotic 130 143	cephalosporin
+T4	Antibiotic 173 184	ceftazidime
+T5	Antibiotic 186 194	imipenem
+T6	Antibiotic 196 205	meropenem
+T7	Antibiotic 211 222	ceftriaxone
+T8	Antibiotic 330 337	GR69153
+T9	Bacteria 376 394	Enterobacteriaceae
+T10	Bacteria 470 483	Serratia spp.
+T11	Bacteria 503 519	Citrobacter spp.
+T12	Bacteria 544 561	Enterobacter spp.
+T13	Bacteria 599 621	Pseudomonas aeruginosa
+T14	Antibiotic 689 696	GR69153
+T15	Antibiotic 728 739	methicillin
+T16	Bacteria 766 787	Staphylococcus aureus
+T17	Antibiotic 861 870	GR69153  
+T18	Antibiotic 910 921	ceftazidime
+T19	Antibiotic 926 937	ceftriaxone
+T20	Bacteria 974 996	Haemophilus influenzae
+T21	Bacteria 998 1021	Branhamella catarrhalis
+T22	Bacteria 1023 1038	Neisseria  spp.
+T23	Bacteria 1044 1068	Streptococcus pneumoniae
+T24	Antibiotic 1070 1080	penicillin
+T25	Antibiotic 1192 1199	GR69153
+T26	Protein 1232 1237	TEM-1
+T27	Protein 1242 1247	TEM-5
+T28	Protein 1249 1254	SHV-1
+T29	Protein 1260 1265	SHV-2
+T30	Protein 1271 1289	K1 beta-lactamases
+T31	Protein 1337 1342	TEM-3
+T32	Protein 1344 1349	TEM-9
+T33	Protein 1355 1366	P99 enzymes
+T34	Antibiotic_inactivation 1214 1224	hydrolysis
+E1	Antibiotic_inactivation:T34 Cause:T25
+T35	Antibiotic 1414 1421	GR69153

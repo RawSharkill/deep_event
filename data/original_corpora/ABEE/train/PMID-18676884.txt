@@ -1,0 +1,3 @@
+Macrolide antibiotic-mediated downregulation of MexAB-OprM efflux pump expression  in Pseudomonas aeruginosa. 
+
+Macrolide antibiotics modulate the quorum-sensing system of Pseudomonas  aeruginosa. We tested the effect of macrolide antibiotics on the cell  density-dependent expression of the MexAB-OprM efflux pump and found that 1.0  mug/ml (MIC/6.25) of azithromycin suppressed the expression of MexAB-OprM by  about 70%, with the result that the cells became two- to fourfold more  susceptible to antibiotics such as aztreonam, tetracycline, carbenicillin,  chloramphenicol, and novobiocin.

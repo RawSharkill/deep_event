@@ -1,0 +1,51 @@
+T1	Bacteria 148 170	Klebsiella  pneumoniae
+T3	Bacteria 427 449	Klebsiella  pneumoniae
+T2	Bacteria 340 369	Klebsiella pneumoniae  strain
+T4	Antibiotic 1321 1337	fluoroquinolones
+T5	Antibiotic 1342 1350	colistin
+T6	Antibiotic 1742 1751	aztreonam
+T7	Antibiotic 1813 1827	cephalosporins
+T8	Antibiotic 1844 1854	cefuroxime
+T9	Antibiotic 1856 1866	cefotaxime
+T10	Antibiotic 1872 1883	cephalothin
+T11	Antibiotic 1886 1895	cefalotin
+*	Equiv T11 T10
+T12	Antibiotic 1914 1925	penicillins
+T13	Antibiotic 1954 1965	carbapenems
+T14	Antibiotic 2016 2027	carbapenems
+T15	Bacteria 2081 2101	K. pneumoniae 05-506
+*	Equiv T15 T3
+T16	Bacteria 2151 2167	Escherichia coli
+T17	Gene 55 65	bla(NDM-1)
+T18	Gene 80 101	erythromycin esterase
+T19	Antibiotic 319 329	carbapenem
+T20	Gene 682 692	bla(CMY-4)
+T21	Gene 481 509	metallo-beta-lactamase (MBL)
+T22	Gene 1551 1556	NDM-1
+T23	Gene 1927 1932	NDM-1
+T24	Gene 2059 2064	VIM-2
+T25	Gene 2103 2113	bla(NDM-1)
+T26	Gene 937 940	qac
+T27	Gene 941 944	sul
+T28	Gene 1010 1020	bla(NDM-1)
+T29	Gene 989 992	MBL
+T30	Gene 1352 1357	NDM-1
+T31	Gene 1641 1645	MBLs
+T32	Gene 549 552	MBL
+T33	Gene 852 856	ereC
+T34	Gene 858 863	aadA1
+T35	Gene 869 874	cmlA7
+T36	Gene 810 815	arr-2
+T37	Protein 1426 1430	MBLs
+T38	Protein 1398 1402	MBLs
+T39	Protein 26 48	metallo-beta-lactamase
+T40	Gene 1437 1442	VIM-1
+T41	Gene 1443 1448	VIM-2
+T42	Gene 1765 1770	VIM-2
+T43	Gene 1772 1777	NDM-1
+T44	Gene 1982 1987	IMP-1
+T45	Gene 1991 1996	VIM-2
+T46	Gene 1647 1652	NDM-1
+T47	Antibiotic_inactivation 1707 1716	hydrolyze
+E1	Antibiotic_inactivation:T47 Cause:T48
+T48	Antibiotic 1722 1734	beta-lactams

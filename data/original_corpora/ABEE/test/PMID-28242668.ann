@@ -1,0 +1,34 @@
+T1	Bacteria 109 125	Escherichia coli
+T2	Bacteria 136 175	Carbapenem-resistant Enterobacteriaceae
+T3	Bacteria 177 180	CRE
+*	Equiv T3 T2
+T4	Bacteria 328 331	CRE
+T5	Bacteria 387 405	Enterobacteriaceae
+T6	Bacteria 699 715	Escherichia coli
+T7	Antibiotic 1031 1041	carbapenem
+T8	Bacteria 1199 1217	E. coli strain J53
+T9	Antibiotic 1390 1399	aztreonam
+T10	Gene 23 32	blaNDM-17
+T11	Gene 1292 1301	blaNDM-17
+T14	Protein 953 963	amino acid
+T15	Protein 803 813	amino acid
+T16	Protein 252 284	New Delhi metallo-beta-lactamase
+T17	Protein 286 289	NDM
+T18	Protein 374 377	NDM
+T19	Protein 476 479	NDM
+T20	Protein 604 607	NDM
+T12	Protein 1515 1518	NDM
+T13	Gene 1109 1117	blaNDM-1
+T21	Protein 627 633	NDM-17
+T22	Protein 49 62	Carbapenemase
+T23	Protein 304 317	carbapenemase
+T24	Protein 779 784	NDM-1
+T25	Protein 786 792	NDM-17
+T26	Protein 926 931	NDM-5
+T27	Protein 933 939	NDM-17
+T28	Gene 1101 1107	NDM-17
+T29	Gene 1331 1337	NDM-17
+T30	Gene 1479 1484	NDM-5
+T31	Protein 1610 1623	carbapenemase
+T32	Antibiotic_inactivation 1344 1353	hydrolyze
+E1	Antibiotic_inactivation:T32 

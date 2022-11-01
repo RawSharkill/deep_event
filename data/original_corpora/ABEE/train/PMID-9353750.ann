@@ -1,0 +1,18 @@
+T1	Bacteria 30 49	Serratia marcescens
+T2	Bacteria 118 137	Serratia marcescens
+T3	Bacteria 352 368	Escherichia coli
+T4	Bacteria 541 557	Escherichia coli
+T5	Bacteria 657 676	Serratia marcescens
+T6	Antibiotic 680 703	beta-lactam antibiotics
+T8	Antibiotic_inactivation 596 610	beta-lactamase
+E2	Antibiotic_inactivation:T8 Theme:T5 Cause:T6
+T9	Antibiotic 914 925	beta-lactam
+T7	Protein 171 175	Omp1
+T10	Protein 177 181	Omp2
+T11	Protein 186 190	Omp3
+T12	Protein 257 261	Omp2
+T13	Protein 266 270	Omp3
+T14	Protein 335 339	OmpC
+T15	Protein 344 348	OmpF
+T16	Antibiotic_inactivation 945 959	beta-lactamase
+E1	Antibiotic_inactivation:T16 Cause:T9

@@ -1,0 +1,41 @@
+T1	Bacteria 24 43	Helicobacter pylori
+T2	Bacteria 155 183	Helicobacter pylori isolates
+T3	Antibiotic 453 466	metronidazole
+T4	Antibiotic 477 491	clarithromycin
+T5	Antibiotic 496 508	azithromycin
+T6	Antibiotic 518 529	clindamycin
+T7	Antibiotic 539 550	amoxicillin
+T8	Antibiotic 563 575	tetracycline
+T9	Antibiotic 588 601	ciprofloxacin
+T11	Antibiotic 643 656	metronidazole
+T12	Antibiotic 664 678	clarithromycin
+T13	Antibiotic 686 698	azithromycin
+T14	Antibiotic 706 717	clindamycin
+T15	Antibiotic 727 738	amoxicillin
+T17	Antibiotic 743 756	metronidazole
+T18	Antibiotic 780 793	ciprofloxacin
+T21	Antibiotic 801 814	metronidazole
+T22	Antibiotic 854 866	tetracycline
+T24	Antibiotic 877 890	metronidazole
+T26	Antibiotic 1091 1103	azithromycin
+T27	Antibiotic 1119 1133	clarithromycin
+T29	Antibiotic 1194 1207	metronidazole
+T31	Bacteria 1228 1237	H. pylori
+T33	Antibiotic 1258 1271	metronidazole
+T34	Antibiotic 1274 1288	clarithromycin
+T35	Antibiotic 1410 1421	amoxicillin
+T36	Antibiotic 1449 1459	macrolides
+T37	Antibiotic 1464 1477	tetracyclines
+T38	Bacteria 1627 1636	H. pylori
+T39	Antibiotic 1701 1714	metronidazole
+T41	Antibiotic 1748 1758	macrolides
+T42	Antibiotic 1760 1773	metronidazole
+T43	Antibiotic 1778 1791	ciprofloxacin
+T44	Antibiotic 1834 1845	amoxicillin
+*	Equiv T31 T1
+T16	Antibiotic 1141 1154	metronidazole
+T10	Antibiotic 1017 1026	macrolide
+T19	Antibiotic 759 773	clarithromycin
+T20	Antibiotic 817 831	clarithromycin
+T23	Antibiotic 834 847	ciprofloxacin
+T25	Antibiotic 893 906	ciprofloxacin

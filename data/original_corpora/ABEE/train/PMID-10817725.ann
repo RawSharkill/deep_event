@@ -1,0 +1,21 @@
+T1	Antibiotic 16 26	vancomycin
+T3	Bacteria 37 67	Enterococcus gallinarum BM4174
+T4	Bacteria 94 105	enterococci
+T5	Bacteria 278 309	Enterococcus  gallinarum BM4174
+T6	Antibiotic_target_alteration 181 189	assembly
+E2	Antibiotic_target_alteration:T6 Theme:T4
+T7	Antibiotic_target_alteration 230 240	precursors
+E3	Antibiotic_target_alteration:T7 Theme:T4
+T10	Antibiotic 71 83	Glycopeptide
+T11	Gene 334 340	vanC-1
+T12	Gene 342 350	vanXY(C)
+T13	Gene 352 356	vanT
+T14	Gene 358 365	vanR(C)
+T15	Gene 372 379	vanS(C)
+T16	Gene 262 266	vanC
+T8	Gene 113 117	VanC
+T2	Gene 0 4	vanC
+T9	Protein 1070 1079	mino acid
+T17	Protein 1216 1227	amino acids
+T18	Protein 1249 1256	VanS(B)
+T19	Protein 1152 1159	VanR(B)

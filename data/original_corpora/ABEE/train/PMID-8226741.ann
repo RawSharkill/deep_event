@@ -1,0 +1,9 @@
+T1	Antibiotic 14 26	camptothecin
+T2	Antibiotic 911 923	camptothecin
+T3	Antibiotic 708 722	camptothecin  
+T4	Protein 369 379	amino acid
+T5	Antibiotic 482 494	camptothecin
+T6	Bacteria 550 567	Escherichia  coli
+T7	Antibiotic_target_alteration 521 527	mutant
+E1	Antibiotic_target_alteration:T7 Cause:T5 Theme:T6
+T8	Antibiotic 1148 1160	camptothecin

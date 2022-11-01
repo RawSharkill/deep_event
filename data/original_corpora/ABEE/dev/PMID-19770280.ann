@@ -1,0 +1,19 @@
+T1	Bacteria 111 134	Acinetobacter baumannii
+T2	Antibiotic_efflux 22 28	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 272 295	Acinetobacter baumannii
+T4	Antibiotic_efflux 191 197	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Bacteria 421 448	Escherichia coli host KAM32
+T6	Bacteria 584 596	A. baumannii
+*	Equiv T6 T1
+T7	Protein 8 12	AbeS
+T8	Protein 41 44	SMR
+T9	Protein 210 215	SMR  
+T10	Protein 229 233	AbeS
+T11	Gene 393 397	abeS
+T12	Gene 571 575	abeS
+T13	Resistance_by_absence 555 563	Deletion
+E3	Resistance_by_absence:T13 Theme:T6
+T14	Antibiotic_efflux 367 377	Expression
+E4	Antibiotic_efflux:T14 Theme:T5

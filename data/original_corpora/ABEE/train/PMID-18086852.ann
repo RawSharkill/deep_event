@@ -1,0 +1,89 @@
+T1	Bacteria 86 109	Acinetobacter baumannii
+T2	Antibiotic_efflux 51 60	effluxing
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 230 260	Acinetobacter baumannii BM4454
+T4	Antibiotic_efflux 188 200	efflux  pump
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Bacteria 456 472	Escherichia coli
+T6	Bacteria 650 657	E. coli
+T7	Bacteria 662 675	Acinetobacter
+T8	Bacteria 738 750	A. baumannii
+T9	Bacteria 896 909	Acinetobacter
+T10	Bacteria 1002 1008	BM4454
+T11	Bacteria 1027 1040	strain BM4579
+T12	Bacteria 1051 1064	strain BM4561
+T13	Bacteria 1093 1106	strain BM4652
+T14	Resistance_by_absence 1128 1146	deletion-insertion
+E3	Resistance_by_absence:T14 Theme:T13
+E4	Resistance_by_absence:T14 Theme:T12
+E5	Resistance_by_absence:T14 Theme:T11
+E6	Resistance_by_absence:T14 Theme:T10
+T15	Bacteria 1220 1226	BM4652
+T16	Bacteria 1231 1237	BM4579
+T17	Antibiotic 1351 1363	beta-lactams
+T18	Antibiotic 1365 1380	chloramphenicol
+T19	Antibiotic 1382 1394	tetracycline
+T20	Antibiotic 1396 1408	erythromycin
+T21	Antibiotic 1411 1423	lincosamides
+T22	Antibiotic 1425 1441	fluoroquinolones
+T23	Antibiotic 1443 1455	fusidic acid
+T24	Antibiotic 1457 1467	novobiocin
+T25	Antibiotic 1469 1477	rifampin
+T26	Antibiotic 1479 1491	trimethoprim
+T27	Antibiotic 1494 1502	acridine
+T28	Antibiotic 1504 1512	safranin
+T29	Antibiotic 1514 1522	pyronine
+T30	Antibiotic 1528 1550	sodium dodecyl sulfate
+T31	Antibiotic_efflux 1316 1320	pump
+E7	Antibiotic_efflux:T31 Theme:T16 Cause:T17
+E8	Antibiotic_efflux:T31 Theme:T15 Cause:T17
+T33	Antibiotic 1748 1759	tigecycline
+T35	Antibiotic_efflux 1685 1699	efflux systems
+E38	Antibiotic_efflux:T35 Theme:T1 Cause:T33
+*	Equiv T6 T5
+*	Equiv T10 T3
+T32	Protein 0 6	AdeIJK
+T34	Protein 202 208	AdeIJK
+T36	Gene 266 270	adeI
+T37	Gene 272 276	adeJ
+T38	Gene 283 287	adeK
+T39	Protein 178 181	RND
+T40	Protein 337 340	RND
+T41	Protein 386 390	AdeJ
+T42	Protein 406 410	AcrB
+T43	Protein 446 450	AcrB
+T44	Gene 618 624	adeIJK
+T45	Gene 681 687	adeIJK
+T46	Protein 805 811	AdeIJK
+T47	Gene 1019 1025	adeIJK
+T48	Gene 1043 1049	adeABC
+T49	Gene 1253 1259	adeIJK
+T50	Protein 1309 1315	AdeIJK
+E9	Antibiotic_efflux:T31 Theme:T15 Cause:T18
+E10	Antibiotic_efflux:T31 Theme:T15 Cause:T19
+E11	Antibiotic_efflux:T31 Theme:T15 Cause:T20
+E12	Antibiotic_efflux:T31 Theme:T15 Cause:T21
+E13	Antibiotic_efflux:T31 Theme:T15 Cause:T22
+E14	Antibiotic_efflux:T31 Theme:T15 Cause:T23
+E15	Antibiotic_efflux:T31 Theme:T15 Cause:T26
+E16	Antibiotic_efflux:T31 Theme:T15 Cause:T27
+E17	Antibiotic_efflux:T31 Cause:T26 Theme:T15
+E18	Antibiotic_efflux:T31 Cause:T27 Theme:T15
+E19	Antibiotic_efflux:T31 Cause:T28 Theme:T15
+E20	Antibiotic_efflux:T31 Cause:T29 Theme:T15
+E21	Antibiotic_efflux:T31 Cause:T30 Theme:T15
+E22	Antibiotic_efflux:T31 Cause:T18 Theme:T16
+E23	Antibiotic_efflux:T31 Cause:T19 Theme:T16
+E24	Antibiotic_efflux:T31 Theme:T16 Cause:T20
+E25	Antibiotic_efflux:T31 Theme:T16 Cause:T21
+E26	Antibiotic_efflux:T31 Theme:T16 Cause:T22
+E27	Antibiotic_efflux:T31 Theme:T16 Cause:T23
+E28	Antibiotic_efflux:T31 Theme:T16 Cause:T24
+E29	Antibiotic_efflux:T31 Cause:T24 Theme:T16
+E30	Antibiotic_efflux:T31 Theme:T16 Cause:T25
+E31	Antibiotic_efflux:T31 Theme:T16 Cause:T25
+E32	Antibiotic_efflux:T31 Theme:T16 Cause:T28
+E33	Antibiotic_efflux:T31 Theme:T16 Cause:T29
+E34	Antibiotic_efflux:T31 Theme:T16 Cause:T30
+T51	Protein 1667 1673	AdeABC
+T52	Protein 1678 1684	AdeIJK

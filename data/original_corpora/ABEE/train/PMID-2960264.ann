@@ -1,0 +1,17 @@
+T1	Bacteria 66 83	genus  Salmonella
+T2	Antibiotic 141 153	streptomycin
+T3	Antibiotic 155 164	kanamycin
+T4	Antibiotic 167 182	chloramphenicol
+T5	Antibiotic 184 196	tetracycline
+T6	Antibiotic 198 212	sulfanilamides
+T7	Antibiotic 217 229	trimethoprim
+T8	Bacteria 245 255	Salmonella
+T9	Antibiotic 505 517	Tetracycline
+T10	Antibiotic 566 586	class B tetracycline
+T11	Bacteria 755 765	Salmonella
+T12	Bacteria 939 954	S.  typhimurium
+T13	Bacteria 989 1007	Salmonella strains
+T14	Protein 339 375	aminoglycoside-3"-phosphotransferase
+T15	Protein 377 421	type I  aminoglycoside-3'-phosphotransferase
+T16	Protein 423 463	type I chloramphenicol acetyltransferase
+T17	Protein 469 503	type II dihydropteroate synthetase

@@ -1,0 +1,29 @@
+T1	Bacteria 55 67	mycobacteria
+T2	Antibiotic 27 38	ethionamide
+T3	Antibiotic 98 109	ethionamide
+T4	Antibiotic 111 114	ETH
+*	Equiv T4 T3
+T5	Antibiotic 150 159	isoniazid
+T6	Antibiotic 161 164	INH
+*	Equiv T6 T5
+T7	Bacteria 223 249	Mycobacterium tuberculosis
+T8	Antibiotic 302 305	INH
+T9	Antibiotic 360 363	ETH
+T10	Antibiotic 550 553	INH
+T11	Antibiotic 558 561	ETH
+T13	Antibiotic_target_alteration 365 374	Mutations
+E2	Antibiotic_target_alteration:T13 Theme:T7 Cause:T10
+T14	Antibiotic 773 776	INH
+T15	Antibiotic 832 835	ETH
+T16	Antibiotic 915 918	ETH
+T17	Antibiotic 924 927	ETH
+T18	Antibiotic 1043 1046	ETH
+T19	Bacteria 1082 1094	mycobacteria
+T20	Antibiotic 1241 1244	ETH
+T23	Antibiotic 1353 1356	ETH
+T24	Antibiotic 1521 1524	ETH
+T25	Antibiotic 1583 1586	ETH
+T26	Bacteria 1601 1613	mycobacteria
+T27	Antibiotic 1660 1663	ETH
+T12	Gene 1221 1225	tetR
+E1	Antibiotic_target_alteration:T13 Cause:T10

@@ -1,0 +1,19 @@
+T1	Gene 95 99	mdr1
+T2	Gene 184 188	mdr1
+T3	Gene 369 373	mdr1
+T4	Antibiotic 551 564	actinomycin D
+T5	Antibiotic 619 630	doxorubicin
+T6	Antibiotic 679 689	colchicine
+T7	Antibiotic 755 767	trimetrexate
+T8	Antibiotic 769 781	cis-platinum
+T9	Antibiotic 783 794	mitomycin C
+T10	Antibiotic 796 829	1-beta-D-arabinofuranosylcytosine
+T11	Antibiotic 832 841	bleomycin
+T12	Antibiotic 843 847	G418
+T13	Antibiotic 1082 1095	cyclosporin A
+T14	Antibiotic 1180 1192	Gramicidin D
+T15	Antibiotic 485 497	gramicidin D
+T16	Antibiotic_efflux 1348 1359	transported
+E1	Antibiotic_efflux:T16 Cause:T14
+T17	Gene 1500 1504	mdr1
+T18	Antibiotic 1585 1595	colchicine

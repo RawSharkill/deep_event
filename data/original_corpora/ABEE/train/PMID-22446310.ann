@@ -1,0 +1,21 @@
+T4	Bacteria 577 616	Photobacterium damselae subsp. damselae
+T1	Bacteria 76 115	Photobacterium damselae subsp. damselae
+T5	Bacteria 782 798	Escherichia coli
+T6	Bacteria 1588 1606	Enterobacteriaceae
+T7	Bacteria 1611 1623	Vibrionaceae
+T2	Antibiotic 544 556	tetracycline
+T3	Gene 980 984	repA
+T8	Gene 1075 1079	floR
+T9	Gene 1057 1068	bla(CARB-9)
+T10	Gene 1095 1101	mef(A)
+T11	Gene 1108 1112	sul2
+T12	Gene 1114 1120	tet(M)
+T13	Gene 1125 1131	tet(B)
+T14	Gene 1260 1264	traA
+T15	Protein 1542 1545	SXT
+T16	Protein 1546 1550	R391
+T17	Protein 1438 1441	MOB
+T18	Protein 1442 1445	H12
+T19	Protein 1467 1470	MOB
+T20	Protein 1471 1472	H
+T21	Protein 1514 1520	IncA/C

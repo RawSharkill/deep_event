@@ -1,0 +1,9 @@
+T1	Bacteria 11 31	Bacteroides fragilis
+T2	Bacteria 111 127	Escherichia coli
+T3	Bacteria 256 276	Bacteroides fragilis
+T4	Bacteria 319 335	Escherichia coli
+T5	Bacteria 348 364	B. fragilis Bf-2
+*	Equiv T5 T1
+T6	Bacteria 422 436	E. coli AB1157
+T7	Gene 441 445	uvrA
+T8	Bacteria 755 772	B. fragilis  Bf-2

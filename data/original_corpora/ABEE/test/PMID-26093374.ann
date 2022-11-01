@@ -1,0 +1,36 @@
+T1	Bacteria 166 212	pandemic Pseudomonas aeruginosa clone SP/ST277
+T3	Bacteria 342 390	pandemic Pseudomonas aeruginosa clone   SP/ST277
+T4	Bacteria 408 430	clone SP/ST277 strains
+*	Equiv T4 T1 T5
+T5	Bacteria 796 843	pandemic Brazilian P. aeruginosa clone SP/ST277
+T6	Bacteria 640 653	P. aeruginosa
+T7	Antibiotic 1098 1108	carbapenem
+T2	Bacteria 1738 1752	clone SP/ST277
+T8	Bacteria 1831 1846	clone SP/ST277,
+T9	Bacteria 1796 1810	P.  aeruginosa
+T10	Bacteria 2088 2105	pandemic SP/ST277
+T11	Antibiotic 116 128	bicyclomycin
+T12	Gene 102 111	bla SPM-1
+T13	Gene 129 133	bcr1
+T14	Gene 288 297	bla SPM-1
+T15	Gene 518 527	bla SPM-1
+T16	Gene 612 621	bla SPM-1
+T17	Gene 756 765	bla SPM-1
+T18	Gene 937 947	bla  SPM-1
+T19	Gene 909 915	Tn4371
+T20	Gene 884 887	CR4
+T21	Gene 1136 1145	bla SPM-1
+T22	Gene 1178 1181	CR4
+T23	Gene 1182 1187	groEL
+T24	Gene 1188 1197	bla SPM-1
+T25	Gene 1198 1201	CR4
+T26	Gene 1202 1207	groEL
+T27	Gene 1435 1439	bcr1
+T28	Gene 1249 1252	ICE
+T29	Gene 1279 1285	Tn4371
+T30	Antibiotic 1411 1423	bicyclomycin
+T31	Gene 1627 1636	bla SPM-1
+T32	Gene 1876 1886	bla  SPM-1
+T33	Gene 1946 1955	bla SPM-1
+T34	Gene 2115 2124	bla SPM-1
+T35	Gene 2148 2151	ICE

@@ -1,0 +1,30 @@
+T1	Bacteria 536 552	Escherichia coli
+T2	Bacteria 954 970	Sphingomonas sp.
+T3	Bacteria 1042 1058	Chryseobacterium
+T4	Antibiotic 1596 1606	ampicillin
+T5	Antibiotic 1608 1619	ceftazidime
+T6	Antibiotic 1621 1632	cefpodoxime
+T7	Antibiotic 1634 1643	cefoxitin
+T8	Antibiotic 1649 1658	meropenem
+T9	Bacteria 1967 1986	pathogenic bacteria
+T10	Protein 132 178	carbapenem-hydrolyzing metallo-beta-lactamases
+T11	Protein 180 184	MBLs
+T12	Protein 747 751	MBLs
+T13	Bacteria 1551 1558	E. coli
+T14	Protein 1854 1858	MBLs
+T15	Protein 1796 1800	MBLs
+T16	Protein 1682 1685	MBL
+T17	Protein 1786 1790	MBLs
+T18	Protein 586 589	MBL
+T19	Protein 314 318	MBLs
+T20	Protein 43 81	Carbapenem-Hydrolyzing beta-Lactamases
+T21	Protein 514 517	MBL
+T22	Protein 623 636	Carbapenemase
+T23	Protein 981 994	Carbapenemase
+T24	Protein 1361 1371	amino acid
+T25	Protein 1283 1287	MBLs
+T26	Protein 1402 1405	MBL
+T27	Protein 1163 1173	amino acid
+T28	Protein 1186 1190	MBLs
+T29	Gene 1340 1346	PEDO-1
+T30	Protein 1468 1486	OXA beta-lactamase

@@ -1,0 +1,22 @@
+T1	Bacteria 70 94	Streptococcus pneumoniae
+T2	Bacteria 161 185	Streptococcus pneumoniae
+T3	Antibiotic 219 231	tetracycline
+T4	Bacteria 1002 1023	Enterococcus faecalis
+T5	Bacteria 1028 1041	S. pneumoniae
+*	Equiv T5 T2
+T6	Gene 20 24	tetO
+T7	Antibiotic 46 58	tetracycline
+T8	Antibiotic 138 150	tetracycline
+T9	Gene 259 263	tetO
+T10	Gene 250 254	tetM
+T11	Gene 606 610	tetM
+T12	Gene 615 619	tetO
+T13	Gene 697 701	tetM
+T14	Gene 740 745	 tetO
+T15	Protein 863 873	amino acid
+T16	Protein 902 913	amino acids
+T17	Gene 951 955	tetM
+T18	Gene 942 946	tetO
+T19	Gene 1067 1071	tetO
+T20	Gene 1118 1122	tetO
+T21	Gene 420 424	tetO

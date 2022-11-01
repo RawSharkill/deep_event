@@ -1,0 +1,10 @@
+T2	Bacteria 66 93	Mycobacterium  tuberculosis
+T4	Bacteria 165 191	Mycobacterium tuberculosis
+T5	Antibiotic 146 155	isoniazid
+T6	Antibiotic 157 160	INH
+*	Equiv T6 T5
+T9	Antibiotic 652 655	INH
+T10	Antibiotic_target_alteration 251 260	Mutations
+E5	Antibiotic_target_alteration:T10 Theme:T4
+T12	Antibiotic 573 576	INH
+T1	Antibiotic 46 65	isoniazid-resistant

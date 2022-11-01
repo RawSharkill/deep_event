@@ -1,0 +1,45 @@
+T1	Antibiotic 29 43	aminoglycoside
+T2	Antibiotic 75 89	Aminoglycoside
+T3	Antibiotic 159 169	Gentamicin
+T4	Bacteria 282 298	Escherichia coli
+T5	Bacteria 350 362	Klebsielleae
+T6	Bacteria 500 516	Serratia species
+T7	Antibiotic 547 557	gentamicin
+T8	Bacteria 704 715	Providencia
+T9	Bacteria 795 813	Enterobacteriaceae
+T10	Antibiotic 854 864	gentamicin
+T11	Bacteria 946 977	Pseudomonas aeruginosa isolates
+T12	Antibiotic 996 1006	gentamicin
+T13	Bacteria 1048 1061	Acinetobacter
+T14	Antibiotic 1080 1090	gentamicin
+T15	Antibiotic 1173 1183	gentamicin
+T16	Antibiotic 1265 1275	tobramycin
+T17	Antibiotic 1300 1310	gentamicin
+T18	Bacteria 1372 1393	Klebsielleae isolates
+T19	Antibiotic 1426 1436	tobramycin
+T20	Bacteria 1484 1497	Acinetobacter
+T21	Bacteria 1502 1515	P. aeruginosa
+*	Equiv T21 T11
+T22	Antibiotic 1517 1525	Amikacin
+T23	Bacteria 1593 1627	non-aeruginosa Pseudomonas species
+T24	Bacteria 1675 1693	Enterobacteriaceae
+T25	Bacteria 1774 1785	Providencia
+T26	Bacteria 1832 1839	E. coli
+*	Equiv T26 T4
+T27	Bacteria 2000 2013	P. aeruginosa
+T28	Antibiotic 2168 2178	Gentamicin
+T29	Bacteria 2209 2230	Staphylococcus aureus
+T30	Antibiotic 329 339	Gentamicin
+T31	Antibiotic 745 755	gentamicin
+T32	Antibiotic 1450 1460	gentamicin
+T33	Antibiotic 1351 1361	gentamicin
+T34	Protein 1714 1722	AAC(3)-I
+T35	Protein 1752 1759	AAC(2')
+T36	Protein 1865 1874	AAC(3)-II
+T37	Protein 1879 1887	AAD(2'')
+T38	Antibiotic 1967 1977	gentamicin
+T39	Protein 2136 2144	AAC(3)-I
+T40	Protein 2146 2153	AAC(6')
+T41	Protein 2158 2166	AAD(2'')
+T42	Protein 2378 2385	AAC(6')
+T43	Protein 2390 2398	APH(2'')

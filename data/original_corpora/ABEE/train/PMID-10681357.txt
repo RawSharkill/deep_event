@@ -1,0 +1,3 @@
+Occurrence of the new tetracycline resistance gene tet(W) in bacteria from the  human gut. 
+
+Members of our group recently identified a new tetracycline resistance gene,  tet(W), in three genera of rumen obligate anaerobes. Here, we show that tet(W) is  also present in bacteria isolated from human feces. The tet(W) genes found in  human Fusobacterium prausnitzii and Bifidobacterium longum isolates were more  than 99.9% identical to those from a rumen isolate of Butyrivibrio fibrisolvens.

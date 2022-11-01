@@ -1,0 +1,3 @@
+Biochemical characterization of IMP-30, a metallo-beta-lactamase with enhanced  activity toward ceftazidime. 
+
+IMP-type enzymes constitute a clinically important family of  metallo-beta-lactamases that has grown dramatically in the past decade to its  current 45 known members. Here, we report the biochemical characterization of  IMP-30 in comparison to IMP-1, from which it deviates by a single E59K mutation.   Kinetics, MIC assays, docking, and molecular dynamics simulations support a  scenario in which Lys59 interacts with the ceftazidime R1 group, resulting in  increased water access and enhanced turnover and MIC of ceftazidime.

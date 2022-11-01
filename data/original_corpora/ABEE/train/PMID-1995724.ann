@@ -1,0 +1,21 @@
+T1	Antibiotic 0 11	Beta-lactam
+T3	Bacteria 37 80	methicillin-resistant Staphylococcus aureus
+T4	Antibiotic 116 127	amoxicillin
+T5	Antibiotic 132 144	penicillin G
+T7	Bacteria 253 296	methicillin-resistant Staphylococcus aureus
+T8	Antibiotic 441 452	amoxicillin
+T9	Antibiotic 457 469	penicillin G
+T10	Antibiotic 588 599	cloxacillin
+T11	Antibiotic 572 583	methicillin
+T12	Antibiotic 781 792	amoxicillin
+T13	Antibiotic 798 810	penicillin G
+T14	Antibiotic 819 830	methicillin
+T15	Antibiotic 878 889	amoxicillin
+T6	Bacteria 298 302	MRSA
+*	Equiv T6 T7
+T2	Bacteria 961 965	MRSA
+T16	Antibiotic 980 991	cloxacillin
+T17	Antibiotic 1044 1055	Amoxicillin
+T18	Bacteria 1114 1118	MRSA
+T19	Antibiotic 1188 1212	beta-lactam  antibiotics
+T20	Bacteria 1293 1297	MRSA

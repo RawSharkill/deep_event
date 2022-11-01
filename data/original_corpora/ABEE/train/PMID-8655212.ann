@@ -1,0 +1,19 @@
+T1	Bacteria 975 987	E. aerogenes
+T2	Bacteria 578 600	Enterobacter aerogenes
+T3	Bacteria 556 576	Enterobacter cloacae
+T4	Bacteria 514 531	Escherichia  coli
+T5	Bacteria 533 554	Klebsiella pneumoniae
+T6	Bacteria 605 625	 Serratia marcescens
+T7	Bacteria 223 237	enterobacteria
+T8	Antibiotic 201 216	 cephalosporins
+T9	Antibiotic 341 358	cephalosporinases
+T10	Bacteria 498 512	enterobacteria
+T11	Antibiotic 468 477	cefpirome
+T12	Antibiotic 684 693	Cefpirome
+T13	Antibiotic_inactivation 901 911	hydrolysis
+E1	Antibiotic_inactivation:T13 Cause:T12
+T14	Antibiotic 1029 1037	imipenem
+T15	Antibiotic 933 942	cefpirome
+T16	Antibiotic_inactivation 967 974	against
+E2	Antibiotic_inactivation:T16 Cause:T15 Theme:T1
+T17	Antibiotic 21 30	cefpirome

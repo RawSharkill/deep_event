@@ -1,0 +1,17 @@
+T1	Bacteria 13 43	Pseudomonas aeruginosa strains
+T2	Antibiotic 90 101	beta-lactam
+T3	Antibiotic 106 132	aminoglycoside antibiotics
+T4	Antibiotic 223 237	aminoglycoside
+T5	Antibiotic 243 265	beta-lactam antibiotic
+T6	Bacteria 280 302	Pseudomonas aeruginosa
+T7	Bacteria 456 469	P. aeruginosa
+*	Equiv T7 T1
+T8	Antibiotic 729 740	beta-lactam
+T9	Antibiotic 814 826	beta-lactams
+T10	Antibiotic 876 888	beta-lactams
+T11	Protein 781 808	penicillin-binding proteins
+T12	Antibiotic_target_alteration 769 777	affinity
+E1	Antibiotic_target_alteration:T12 Cause:T9
+T13	Reduced_permeability_to_antibiotic 860 872	permeability
+E2	Reduced_permeability_to_antibiotic:T13 Cause:T10
+T14	Antibiotic 929 943	Aminoglycoside

@@ -1,0 +1,9 @@
+T1	Bacteria 90 106	Escherichia coli
+T2	Protein 71 75	SdiA
+T3	Protein 79 83	SdiA
+T4	Protein 216 220	SdiA
+T5	Antibiotic_efflux 31 37	efflux
+E1	Antibiotic_efflux:T5 Theme:T1
+T6	Protein 338 342	SdiA
+T7	Protein 492 496	AcrB
+T8	Gene 416 420	sdiA

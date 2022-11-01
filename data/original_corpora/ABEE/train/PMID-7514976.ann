@@ -1,0 +1,28 @@
+T1	Bacteria 282 312	Gram-positive aerobic bacteria
+T2	Antibiotic 584 598	cephalosporins
+T3	Bacteria 787 798	bacteraemia
+T4	Antibiotic 975 986	mezlocillin
+T5	Antibiotic 959 971	piperacillin
+T6	Antibiotic 942 953	ceftazidime
+T7	Antibiotic 913 921	cefepime
+T8	Antibiotic 1270 1278	cefepime
+T9	Antibiotic 1340 1353	metronidazole
+T10	Antibiotic 1007 1017	gentamicin
+T11	Antibiotic 1376 1386	gentamicin
+T12	Antibiotic 1407 1418	mezlocillin
+T13	Antibiotic 1422 1433	clindamycin
+T14	Antibiotic 1498 1506	Cefepime
+T15	Antibiotic 1662 1670	Cefepime
+T16	Antibiotic 1735 1749	cephalosporins
+T17	Antibiotic 2156 2171	 cephalosporins
+T18	Antibiotic 2255 2266	ceftazidime
+T19	Antibiotic 2271 2281	cefotaxime
+T20	Antibiotic 2199 2207	cefepime
+T21	Antibiotic 2522 2530	cefepime
+T22	Antibiotic 328 336	cefepime
+T23	Antibiotic_inactivation 351 361	hydrolysis
+E1	Antibiotic_inactivation:T23 Cause:T22
+T24	Antibiotic 511 519	cefepime
+T25	Antibiotic 101 109	Cefepime
+T26	Antibiotic 135 148	cephalosporin
+T27	Antibiotic 230 243	cephalosporin

@@ -1,0 +1,22 @@
+T1	Bacteria 37 59	Haemophilus influenzae
+T2	Bacteria 125 146	Haemophilus influenza
+T3	Antibiotic 387 397	ampicillin
+T4	Antibiotic 432 447	chloramphenicol
+T5	Antibiotic 449 478	trimethoprim/sulfamethoxazole
+T7	Antibiotic 485 497	tetracycline
+T8	Antibiotic 598 621	amoxicillin/clavulanate
+T10	Antibiotic 627 686	second generation   cephalosporins cefuroxime and cefonicid
+T11	Antibiotic 696 740	third generation cephalosporins   cefotaxime
+T12	Antibiotic 742 753	ceftizoxime
+T13	Antibiotic 755 766	ceftriaxone
+T14	Antibiotic 768 779	ceftazidime
+T15	Antibiotic 781 791	moxalactam
+T16	Antibiotic 797 805	cefixime
+T6	Antibiotic 936 946	ampicillin
+T9	Antibiotic 1035 1058	amoxicillin/clavulanate
+T17	Antibiotic 1096 1129	second generation  cephalosporins
+T18	Antibiotic 1211 1242	third generation cephalosporins
+T19	Antibiotic 1289 1299	ampicillin
+T20	Antibiotic 1499 1509	quinolones
+T21	Antibiotic 1510 1523	ciprofloxacin
+T22	Antibiotic 1528 1538	pefloxacin

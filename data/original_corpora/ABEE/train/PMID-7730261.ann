@@ -1,0 +1,31 @@
+T1	Bacteria 36 52	Escherichia coli
+T2	Bacteria 108 124	Escherichia coli
+T3	Antibiotic 354 380	antibiotics nalidixic acid
+T4	Antibiotic 385 399	thiolactomycin
+T5	Antibiotic 1228 1242	nalidixic acid
+T6	Antibiotic 319 345	tetrachlorosalicyl anilide
+T7	Protein 80 85	EmrAB
+T8	Protein 0 4	EmrR
+T9	Antibiotic_efflux 74 80	pump  
+E1	Antibiotic_efflux:T9 Theme:T1
+T10	Gene 93 98	emrAB
+T11	Antibiotic_efflux 156 160	pump
+E2	Antibiotic_efflux:T11 Theme:T2 Cause:T6
+E3	Antibiotic_efflux:T11 Theme:T2 Cause:T3
+E4	Antibiotic_efflux:T11 Theme:T2 Cause:T4
+T12	Gene 406 410	mprA
+T13	Gene 673 677	mprA
+T14	Gene 682 686	emrA
+T15	Gene 736 740	lacZ
+T16	Gene 842 846	mprA
+T17	Gene 879 883	mprA
+T18	Gene 958 962	emrR
+T19	Protein 987 991	EmrR
+T20	Gene 1048 1052	emrR
+T21	Gene 1091 1094	emr
+T22	Gene 1120 1124	emrR
+T23	Protein 1160 1165	EmrAB
+T24	Gene 1326 1329	emr
+T25	Protein 1364 1368	EmrR
+T26	Gene 1388 1394	emrRAB
+T27	Protein 1431 1435	EmrR

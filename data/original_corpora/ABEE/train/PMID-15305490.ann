@@ -1,0 +1,11 @@
+T1	Bacteria 53 79	Mycobacterium tuberculosis
+T2	Bacteria 138 164	Mycobacterium tuberculosis
+T3	Antibiotic 305 317	streptomycin
+T4	Antibiotic 347 356	isoniazid
+T5	Antibiotic 360 370	rifampicin
+T7	Antibiotic 413 425	streptomycin
+T6	Antibiotic 30 42	streptomycin
+T8	Antibiotic 378 388	ethambutol
+T9	Gene 741 744	rrs
+T10	Gene 733 737	rpsL
+T11	Gene 602 606	rpsL

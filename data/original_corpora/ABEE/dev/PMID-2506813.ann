@@ -1,0 +1,23 @@
+T1	Antibiotic 27 48	benzalkonium chloride
+T2	Bacteria 52 74	Pseudomonas aeruginosa
+T3	Bacteria 109 131	Pseudomonas aeruginosa
+T4	Antibiotic 135 156	benzalkonium chloride
+T5	Antibiotic 159 161	BC
+*	Equiv T5 T4
+T6	Bacteria 239 252	P. aeruginosa
+*	Equiv T6 T2
+T7	Bacteria 291 304	P. aeruginosa
+T8	Bacteria 382 407	Escherichia coli  NIHJC-2
+T10	Antibiotic 649 651	BC
+T11	Bacteria 547 560	P. aeruginosa
+T12	Bacteria 618 631	P. aeruginosa
+T13	Bacteria 705 718	P. aeruginosa
+T14	Bacteria 762 775	P. aeruginosa
+T15	Antibiotic 924 926	BC
+T16	Bacteria 1064 1077	P. aeruginosa
+T17	Antibiotic 1081 1083	BC
+T18	Bacteria 1161 1174	P. aeruginosa
+T19	Antibiotic 1207 1209	BC
+T9	Bacteria 414 432	spheroplast strain
+T20	Antibiotic 747 749	BC
+T21	Antibiotic 692 694	BC

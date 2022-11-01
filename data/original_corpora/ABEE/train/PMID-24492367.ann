@@ -1,0 +1,36 @@
+T1	Antibiotic 19 31	trimethoprim
+T2	Bacteria 46 68	Streptococcus pyogenes
+T3	Antibiotic 83 95	trimethoprim
+T4	Bacteria 112 134	Streptococcus pyogenes
+T5	Antibiotic 324 336	trimethoprim
+T6	Bacteria 351 362	S. pyogenes
+*	Equiv T6 T4
+T7	Antibiotic 510 522	trimethoprim
+T8	Antibiotic 527 556	trimethoprim-sulfamethoxazole
+T9	Antibiotic 558 561	SXT
+*	Equiv T9 T8
+T10	Antibiotic 975 987	trimethoprim
+T11	Antibiotic 1238 1250	trimethoprim
+T12	Bacteria 1481 1505	Streptococcus pneumoniae
+T13	Bacteria 1530 1542	S.  pyogenes
+T14	Antibiotic 1617 1629	Trimethoprim
+T15	Bacteria 1665 1676	S. pyogenes
+T16	Bacteria 1815 1826	S. pyogenes
+T17	Antibiotic 1166 1179	SXT-resistant
+T18	Gene 1119 1123	dfrF
+T19	Gene 1274 1278	dfrF
+T20	Gene 1043 1047	dfrF
+T21	Gene 1079 1083	dfrG
+T22	Gene 715 719	dfrG
+T23	Gene 721 725	dfrF
+T24	Gene 727 731	dfrA
+T25	Gene 733 737	dfrD
+T26	Gene 743 747	dfrK
+T27	Gene 678 702	 dihydrofolate reductase
+T28	Protein 1380 1391	 amino acid
+T29	Protein 1422 1445	dihydrofolate reductase
+T30	Antibiotic_target_replacement 1392 1404	substitution
+E1	Antibiotic_target_replacement:T30 Theme:T13 Cause:T31
+T31	Antibiotic 1458 1480	trimethoprim-resistant
+E2	Antibiotic_target_replacement:T30 Cause:T31 Theme:T12
+T32	Gene 1605 1608	dfr

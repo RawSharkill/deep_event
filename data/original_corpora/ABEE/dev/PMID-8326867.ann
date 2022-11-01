@@ -1,0 +1,23 @@
+T1	Bacteria 0 25	Streptomyces antibioticus
+T2	Antibiotic 271 283	oleandomycin
+T3	Bacteria 343 364	Streptomyces lividans
+T4	Bacteria 372 390	Streptomyces albus
+T5	Antibiotic 399 411	oleandomycin
+T6	Gene 455 459	oleA
+T7	Gene 470 474	oleB
+T8	Gene 489 493	oleC
+T9	Gene 504 508	oleA
+T10	Gene 513 517	oleC
+T11	Gene 675 679	oleC
+T12	Antibiotic 1746 1758	oleandomycin
+T13	Antibiotic 50 62	oleandomycin
+T14	Antibiotic_efflux 144 155	transporter
+E1	Antibiotic_efflux:T14 Cause:T13 Theme:T1
+T15	Protein 140 143	ABC
+T17	Gene 1772 1776	oleC
+T18	Antibiotic_efflux 1806 1812	efflux
+E2	Antibiotic_efflux:T18 Cause:T12
+T19	Antibiotic 209 221	oleandomycin
+T16	Bacteria 232 258	Streptomyces  antibioticus
+T20	Antibiotic_efflux 260 270	conferring
+E3	Antibiotic_efflux:T20 Theme:T16 Cause:T2

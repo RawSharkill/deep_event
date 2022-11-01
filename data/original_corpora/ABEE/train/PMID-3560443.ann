@@ -1,0 +1,12 @@
+T1	Antibiotic 24 34	isepamicin
+T2	Antibiotic 36 42	HAPA-B
+*	Equiv T2 T1
+T3	Antibiotic 79 89	isepamicin
+T4	Antibiotic 91 97	HAPA-B
+*	Equiv T4 T3
+T5	Antibiotic 106 132	aminoglycoside  antibiotic
+T6	Bacteria 329 346	Bacillus subtilis
+T7	Antibiotic 588 594	HAPA-B
+T8	Bacteria 630 645	Ames Salmonella
+T9	Antibiotic 880 886	HAPA-B
+T10	Antibiotic 1281 1287	HAPA-B

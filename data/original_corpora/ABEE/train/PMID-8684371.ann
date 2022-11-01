@@ -1,0 +1,32 @@
+T1	Bacteria 946 961	M. tuberculosis
+T2	Gene 14 18	inhA
+T3	Bacteria 547 561	INH-S isolates
+T4	Antibiotic 170 173	INH
+T5	Gene 136 140	katG
+T6	Gene 154 158	inhA
+T7	Bacteria 477 491	INH-R isolates
+T8	Protein 436 446	amino acid
+T9	Bacteria 235 250	M. tuberculosis
+T10	Bacteria 94 120	Mycobacterium tuberculosis
+T11	Antibiotic 59 68	isoniazid
+T12	Antibiotic 199 202	INH
+T13	Antibiotic 371 374	INH
+T14	Gene 393 397	katG
+T15	Gene 416 420	inhA
+T16	Gene 518 522	katG
+T17	Gene 766 770	inhA
+T18	Gene 1015 1019	inhA
+T19	Gene 991 995	katG
+T20	Gene 884 888	inhA
+T21	Protein 835 845	amino acid
+T22	Bacteria 1068 1082	INH-R isolates
+T23	Antibiotic_target_alteration 1026 1035	mutations
+E1	Antibiotic_target_alteration:T23 Theme:T22
+T24	Antibiotic 927 930	INH
+T25	Antibiotic_target_alteration 894 903	mutations
+E2	Antibiotic_target_alteration:T25 Cause:T24 Theme:T1
+T26	Antibiotic 687 690	INH
+T27	Gene 631 635	katG
+T28	Gene 659 663	katG
+T29	Antibiotic 216 219	INH
+T30	Antibiotic 185 188	INH

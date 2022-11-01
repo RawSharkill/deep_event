@@ -1,0 +1,52 @@
+T1	Bacteria 57 79	Pseudomonas aeruginosa
+T2	Antibiotic_efflux 31 37	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Antibiotic_target_alteration 108 115	mutants
+E2	Antibiotic_target_alteration:T3 Theme:T4
+T4	Bacteria 119 141	Pseudomonas aeruginosa
+T5	Antibiotic_efflux 196 202	efflux
+E3	Antibiotic_efflux:T5 Theme:T4
+T6	Gene 83 87	nalC
+T7	Gene 175 180	mexAB
+T8	Gene 181 185	oprM
+T9	Gene 253 255	ca
+T10	Protein 275 281	PA3719
+T11	Protein 339 345	PA3719
+T12	Protein 381 385	MexR
+T13	Gene 403 408	mexAB
+T14	Gene 409 413	oprM
+T15	Protein 590 594	MexR
+T16	Protein 605 611	PA3719
+T17	Protein 656 660	MexR
+T18	Gene 766 771	mexAB
+T19	Gene 772 776	oprM
+T20	Gene 796 800	nalC
+T21	Protein 823 829	PA3719
+T22	Protein 844 848	MexR
+T23	Protein 892 896	MexR
+T24	Gene 911 915	mexA
+T25	Protein 984 990	PA3719
+T26	Protein 1005 1009	MexR
+T27	Protein 1045 1051	PA3719
+T28	Protein 1180 1186	PA3719
+T29	Protein 1209 1213	MexR
+T30	Protein 1302 1308	PA3719
+T31	Protein 1329 1333	MexR
+T32	Gene 1390 1394	nalC
+T33	Protein 1412 1418	PA3719
+T34	Protein 1454 1460	PA3719
+T35	Protein 1478 1482	MexR
+T36	Protein 1510 1514	MexR
+T37	Gene 1583 1587	armR
+T38	Protein 1608 1612	MexR
+T39	Protein 1554 1560	PA3719
+T40	Protein 1656 1660	MexR
+T41	Protein 1672 1676	MexR
+T42	Protein 1731 1737	PA3719
+T43	Protein 1830 1834	MexR
+T44	Protein 1946 1952	PA3719
+T45	Protein 1997 2001	ArmR
+T46	Protein 1978 1982	L36P
+T47	Protein 1988 1992	W45A
+T48	Protein 2036 2040	MexR
+T49	Protein 2171 2175	MexR

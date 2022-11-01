@@ -1,0 +1,8 @@
+T1	Antibiotic 41 64	beta-lactam antibiotics
+T3	Antibiotic 223 262	"enzyme stable" beta-lactam antibiotics
+T4	Antibiotic 634 645	beta-lactam
+T5	Antibiotic 892 903	beta-lactam
+T6	Antibiotic 904 918	aminoglycoside
+T2	Reduced_permeability_to_antibiotic 968 980	permeability
+E1	Reduced_permeability_to_antibiotic:T2 Cause:T6
+E2	Reduced_permeability_to_antibiotic:T2 Cause:T5

@@ -1,0 +1,13 @@
+T1	Antibiotic_efflux 0 6	Efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 40 57	Bacillus subtilis
+T3	Bacteria 122 139	Bacillus subtilis
+T5	Antibiotic 179 191	rhodamine 6G
+T6	Antibiotic 847 859	tetracycline
+T7	Antibiotic_efflux 860 866	efflux
+E3	Antibiotic_efflux:T7 Cause:T6
+T4	Protein 535 549	P-glycoprotein
+T8	Protein 618 632	P-glycoprotein
+T9	Protein 794 808	P-glycoprotein
+T10	Antibiotic_efflux 353 359	efflux
+E2	Antibiotic_efflux:T10 Theme:T3 Cause:T5

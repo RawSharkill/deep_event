@@ -1,0 +1,14 @@
+T1	Bacteria 40 61	Klebsiella pneumoniae
+T2	Bacteria 344 365	Klebsiella pneumoniae
+T3	Bacteria 1660 1686	beta-lactam-beta-lactamase
+T4	Bacteria 1712 1726	K.  pneumoniae
+*	Equiv T4 T2
+T5	Antibiotic 14 26	cefoperazone
+T6	Antibiotic 380 392	cefoperazone
+T7	Antibiotic 687 699	cefoperazone
+T8	Antibiotic 27 36	sulbactam
+T9	Antibiotic 398 420	cefoperazone-sulbactam
+T10	Antibiotic 704 727	 cefoperazone-sulbactam
+T11	Antibiotic 966 978	cefoperazone
+T12	Antibiotic 1265 1287	cefoperazone-sulbactam
+T13	Antibiotic 1005 1028	 cefoperazone-sulbactam

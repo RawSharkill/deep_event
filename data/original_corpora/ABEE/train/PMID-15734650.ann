@@ -1,0 +1,19 @@
+T1	Antibiotic 60 73	streptogramin
+T3	Antibiotic 89 102	Streptogramin
+T4	Antibiotic 256 277	type B streptogramins
+T5	Antibiotic 552 574	type B  streptogramins
+T7	Bacteria 722 744	gram-positive bacteria
+T8	Antibiotic 610 620	tyrocidine
+T2	Antibiotic_inactivation 713 720	against
+E1	Antibiotic_inactivation:T2 Theme:T7
+T9	Antibiotic 989 1009	type B streptogramin
+T10	Antibiotic 9 22	streptogramin
+T6	Antibiotic_inactivation 626 631	evade
+E2	Antibiotic_inactivation:T6 Cause:T5
+T11	Antibiotic_inactivation 983 988	evade
+E3	Antibiotic_inactivation:T11 Cause:T9
+T12	Protein 338 341	Vgb
+E4	Antibiotic_inactivation:T6 Cause:T8
+T13	Antibiotic 23 33	tyrocidine
+T14	Antibiotic_target_alteration 355 367	modification
+E5	Antibiotic_target_alteration:T14 Cause:T4

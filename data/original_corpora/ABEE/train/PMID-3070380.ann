@@ -1,0 +1,8 @@
+T3	Antibiotic 319 332	tetracyclines
+T4	Antibiotic 334 349	chloramphenicol
+T5	Antibiotic 350 365	aminoglycosides
+T6	Antibiotic 367 390	beta-lactam antibiotics
+T1	Bacteria 50 72	gram negative bacteria
+T2	Bacteria 216 238	gram-negative bacteria
+T7	Antibiotic 288 301	trimethoprime
+T8	Antibiotic 303 316	sulphonamides

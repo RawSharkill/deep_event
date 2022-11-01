@@ -1,0 +1,10 @@
+T1	Bacteria 14 35	Enterococcus faecalis
+T2	Antibiotic 39 49	daptomycin
+T3	Antibiotic 828 838	daptomycin
+T4	Antibiotic 840 843	DAP
+*	Equiv T4 T3
+T5	Bacteria 903 929	Enterococcus faecalis S613
+T6	Antibiotic 1429 1432	DAP
+T7	Antibiotic 863 873	vancomycin
+T8	Antibiotic_target_alteration 1398 1407	mutations
+E1	Antibiotic_target_alteration:T8 Cause:T6

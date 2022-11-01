@@ -1,0 +1,11 @@
+T1	Bacteria 605 618	P. gingivalis
+T2	Bacteria 496 511	P.   gingivalis
+T3	Antibiotic 83 96	chlorhexidine
+T4	Bacteria 321 334	P. gingivalis
+T5	Bacteria 0 24	Porphyromonas gingivalis
+T6	Bacteria 99 123	Porphyromonas gingivalis
+T7	Antibiotic 548 561	chlorhexidine
+T8	Antibiotic 628 641	chlorhexidine
+T9	Antibiotic_target_protection 658 668	protection
+E1	Antibiotic_target_protection:T9 Cause:T8 Theme:T1
+T10	Antibiotic 826 839	chlorhexidine

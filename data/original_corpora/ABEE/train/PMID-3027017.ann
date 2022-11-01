@@ -1,0 +1,9 @@
+T1	Antibiotic 31 54	beta-lactam antibiotics
+T3	Bacteria 492 503	Haemophilus
+T4	Bacteria 508 525	Neisseria species
+T5	Bacteria 789 798	Neisseria
+T6	Bacteria 803 814	Haemophilus
+T2	Bacteria 58 80	gram-negative bacteria
+T7	Protein 450 453	Tn3
+T8	Protein 908 911	Tn3
+T9	Antibiotic 1139 1149	ampicillin

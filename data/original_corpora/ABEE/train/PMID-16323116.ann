@@ -1,0 +1,11 @@
+T1	Antibiotic 0 10	Vancomycin
+T2	Bacteria 100 120	Enterococcus species
+T3	Bacteria 278 289	enterococci
+T4	Antibiotic 471 484	glycopeptides
+T5	Bacteria 583 594	enterococci
+T6	Bacteria 686 707	Staphylococcus aureus
+T7	Bacteria 25 44	gram-positive cocci
+T8	Antibiotic 58 68	vancomycin
+T9	Antibiotic 257 267	vancomycin
+T10	Gene 508 512	VanA
+T11	Antibiotic 663 674	methicillin

@@ -1,0 +1,19 @@
+T1	Antibiotic 31 42	sulfonamide
+T2	Antibiotic 830 842	beta-lactams
+T3	Antibiotic 813 828	aminoglycosides
+T4	Antibiotic 844 856	trimethoprim
+T5	Antibiotic 859 869	rifampicin
+T6	Antibiotic 875 890	chloramphenicol
+T7	Antibiotic 968 979	carbapenems
+T8	Antibiotic 1082 1093	sulfonamide
+T9	Bacteria 1170 1186	Escherichia coli
+T10	Antibiotic 1246 1257	sulfonamide
+T11	Bacteria 1477 1488	Chloroflexi
+T12	Antibiotic 1949 1960	sulfonamide
+T13	Antibiotic 2026 2037	sulfonamide
+T14	Gene 1219 1223	sul4
+T15	Gene 1336 1340	sul4
+T16	Gene 1652 1656	sul4
+T17	Gene 1113 1119	sul1-3
+T18	Protein 1036 1046	amino acid
+T19	Gene 985 1009	dihydropteroate synthase

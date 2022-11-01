@@ -1,0 +1,8 @@
+T1	Bacteria 103 124	Staphylococcus aureus
+T2	Bacteria 664 673	S. aureus
+*	Equiv T2 T1
+T3	Bacteria 1134 1165	methicillin-resistant S. aureus
+T4	Bacteria 1167 1171	MRSA
+*	Equiv T4 T3
+T5	Protein 583 587	Ssls
+T6	Protein 554 581	superantigen-like  proteins

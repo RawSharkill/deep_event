@@ -1,0 +1,31 @@
+T1	Antibiotic 84 99	fluoroquinolone
+T3	Bacteria 135 159	Streptococcus pneumoniae
+T4	Antibiotic_efflux 50 62	transporters
+E2	Antibiotic_efflux:T4 Theme:T3 Cause:T1
+T5	Bacteria 196 220	Streptococcus pneumoniae
+T7	Antibiotic 292 322	fluoroquinolones ciprofloxacin
+T8	Antibiotic 329 340	norfloxacin
+T10	Antibiotic 625 641	fluoroquinolones
+T12	Antibiotic 694 710	fluoroquinolones
+T13	Antibiotic 1082 1095	ciprofloxacin
+T16	Antibiotic 1332 1347	fluoroquinolone
+T2	Gene 18 22	patA
+T6	Gene 27 31	patB
+T9	Protein 46 49	ABC
+T11	Gene 486 490	patA
+T14	Gene 496 500	patB
+T15	Protein 524 527	ABC
+T17	Gene 742 746	patA
+T18	Gene 751 755	patB
+T19	Protein 866 870	PatA
+T20	Protein 875 879	PatB
+T21	Protein 921 925	patA
+T22	Protein 930 934	patB
+T23	Antibiotic 1001 1017	ethidium bromide
+T24	Antibiotic 1022 1033	acriflavine
+T25	Resistance_by_absence 905 917	Inactivation
+E1	Resistance_by_absence:T25 Cause:T13
+T26	Gene 1232 1236	patA
+T27	Gene 1241 1245	patB
+T28	Protein 1281 1285	PatA
+T29	Protein 1290 1294	PatB

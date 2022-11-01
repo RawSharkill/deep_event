@@ -1,0 +1,18 @@
+T1	Antibiotic 9 20	penicillins
+T2	Antibiotic 63 75	beta-lactams
+T3	Antibiotic 118 130	beta-lactams
+T4	Antibiotic 162 177	clavulanic acid
+T5	Antibiotic 182 191	sulbactam
+T6	Antibiotic 268 285	ureodopenicillins
+T7	Antibiotic 287 298	mezlocillin
+T8	Antibiotic 300 310	azlocillin
+T9	Antibiotic 312 324	piperacillin
+T10	Antibiotic 328 346	amidinopenicillins
+T11	Antibiotic 348 358	mecillinam
+T12	Antibiotic 360 373	pivmecillinam
+T13	Antibiotic 376 386	monobactam
+T14	Antibiotic 388 397	aztreonam
+T15	Antibiotic 403 409	penems
+T16	Antibiotic 412 420	imipenem
+T17	Antibiotic 491 503	beta-lactams
+T18	Bacteria 877 899	Pseudomonas aeruginosa

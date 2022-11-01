@@ -1,0 +1,10 @@
+T1	Antibiotic 126 138	beta-lactams
+T2	Antibiotic 140 151	penicillins
+T3	Antibiotic 156 170	cephalosporins
+T4	Antibiotic 173 186	tetracyclines
+T5	Antibiotic 188 198	macrolides
+T6	Antibiotic 204 214	quinolones
+T7	Antibiotic 234 245	clindamycin
+T8	Antibiotic 247 276	trimethoprim-sulfamethoxazole
+T9	Antibiotic 279 287	rifampin
+T10	Antibiotic 293 306	metronidazole

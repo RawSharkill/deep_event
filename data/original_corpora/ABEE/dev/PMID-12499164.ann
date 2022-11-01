@@ -1,0 +1,38 @@
+T2	Bacteria 76 98	Pseudomonas aeruginosa
+T3	Antibiotic 102 117	aminoglycosides
+T5	Bacteria 203 225	Pseudomonas aeruginosa
+T6	Bacteria 358 374	Escherichia coli
+T7	Antibiotic_efflux 335 341	efflux
+E3	Antibiotic_efflux:T7 Theme:T6
+T9	Bacteria 468 481	P. aeruginosa
+T11	Bacteria 646 659	P. aeruginosa
+T14	Antibiotic 866 877	acriflavine
+T15	Antibiotic 890 905	aminoglycosides
+T16	Antibiotic 987 1001	aminoglycoside
+T17	Antibiotic_efflux 1036 1042	efflux
+E9	Antibiotic_efflux:T17 Cause:T16
+T18	Antibiotic 1044 1058	Aminoglycoside
+*	Equiv T9 T2 T11
+T13	Antibiotic 845 861	ethidium bromide
+T1	Protein 178 181	SMR
+T4	Gene 252 258	PA4990
+T8	Protein 330 334	EmrE
+T10	Protein 35 39	EmrE
+T12	Gene 265 269	emrE
+T19	Gene 270 273	Pae
+T20	Gene 430 434	emrE
+T21	Gene 435 438	Pae
+T22	Gene 498 502	emrE
+T23	Gene 503 506	Pae
+T24	Gene 529 533	mexB
+T25	Protein 577 581	EmrE
+T26	Antibiotic_efflux 610 616	efflux
+E1	Antibiotic_efflux:T26 Theme:T11
+T27	Antibiotic_efflux 0 13	Contributions
+E2	Antibiotic_efflux:T27 Theme:T2 Cause:T3
+T29	Protein 786 790	EmrE
+T30	Protein 791 794	Pae
+T31	Antibiotic_efflux 796 807	contributed
+E5	Antibiotic_efflux:T31 Cause:T13 Theme:T11
+E6	Antibiotic_efflux:T31 Cause:T14 Theme:T11
+E7	Antibiotic_efflux:T31 Cause:T15 Theme:T11

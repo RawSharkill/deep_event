@@ -1,0 +1,8 @@
+T1	Antibiotic 110 120	vancomycin
+T2	Bacteria 135 165	Enterococcus faecalis   BM4281
+T3	Bacteria 300 328	Enterococcus faecalis BM4281
+T4	Bacteria 1380 1391	enterococci
+T5	Antibiotic 210 220	vancomycin
+T6	Gene 447 450	VmR
+T7	Protein 1351 1355	VanB
+T8	Gene 1571 1574	VmR

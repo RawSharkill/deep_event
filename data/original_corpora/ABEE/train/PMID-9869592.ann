@@ -1,0 +1,9 @@
+T1	Antibiotic 61 76	fluoroquinolone
+T2	Bacteria 92 116	Streptococcus pneumoniae
+T3	Bacteria 212 250	fluoroquinolone-resistant pneumococcus
+T4	Gene 39 43	pmrA
+T5	Antibiotic_efflux 21 27	efflux
+E1	Antibiotic_efflux:T5 Cause:T1 Theme:T2
+T6	Gene 162 166	norA
+T7	Protein 397 401	NorA
+T8	Protein 406 409	Bmr

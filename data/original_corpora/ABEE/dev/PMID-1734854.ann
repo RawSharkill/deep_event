@@ -1,0 +1,16 @@
+T1	Bacteria 337 360	gram-negative organisms
+T2	Antibiotic 1235 1246	ticarcillin
+T3	Antibiotic 1194 1203	cefoxitin
+T4	Antibiotic 1205 1214	cefotetan
+T5	Antibiotic 1219 1230	cefmetazole
+T6	Antibiotic 1334 1345	carbapenems
+T7	Antibiotic 1347 1355	imipenem
+T8	Antibiotic 1356 1366	cilastatin
+T9	Antibiotic 1423 1436	cephalosporin
+T10	Antibiotic 1440 1450	monobactam
+T11	Antibiotic 1452 1461	aztreonam
+T12	Antibiotic 1471 1485	aminoglycoside
+T13	Antibiotic 1491 1502	clindamycin
+T14	Antibiotic 1506 1519	metronidazole
+T15	Bacteria 1581 1611	facultative gram-negative rods
+T16	Bacteria 1615 1644	anaerobic  gram-negative rods

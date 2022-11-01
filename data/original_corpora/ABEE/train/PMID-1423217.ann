@@ -1,0 +1,23 @@
+T1	Antibiotic 24 36	tetracycline
+T2	Antibiotic 89 101	Tetracycline
+T3	Antibiotic 419 431	tetracycline
+T4	Antibiotic 499 511	tetracycline
+T5	Antibiotic 602 614	tetracycline
+T6	Antibiotic 767 779	tetracycline
+T7	Antibiotic 968 980	Tetracycline
+T8	Bacteria 1349 1361	streptococci
+T9	Antibiotic 1657 1669	tetracycline
+T10	Antibiotic 1678 1690	tetracycline
+T11	Antibiotic 303 315	tetracycline
+T12	Antibiotic_efflux 432 438	efflux
+E1	Antibiotic_efflux:T12 Cause:T3
+T13	Antibiotic_target_protection 453 463	protection
+E2	Antibiotic_target_protection:T13 Cause:T3
+T14	Bacteria 684 714	gram-negative enteric bacteria
+T15	Antibiotic_efflux 662 668	efflux
+E3	Antibiotic_efflux:T15 Theme:T14 Cause:T6
+T16	Bacteria 1309 1321	streptococci
+T17	Bacteria 1406 1428	gram-positive bacteria
+T18	Bacteria 1432 1454	gram-negative bacteria
+T19	Bacteria 1537 1548	Bacteroides
+T20	Bacteria 1582 1593	Bacteroides

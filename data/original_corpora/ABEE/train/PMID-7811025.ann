@@ -1,0 +1,41 @@
+T1	Antibiotic 29 45	fluoroquinolones
+T2	Bacteria 84 97	staphylococci
+T3	Bacteria 99 110	enterococci
+T4	Bacteria 112 137	Streptococcus  pneumoniae
+T5	Bacteria 161 179	Enterobacteriaceae
+T6	Bacteria 202 223	gram-negative bacilli
+T7	Antibiotic 290 300	quinolones
+T8	Antibiotic 309 321	nonquinolone
+T9	Bacteria 352 371	 Enterobacteriaceae
+T10	Bacteria 376 389	staphylococci
+T11	Antibiotic 438 451	ciprofloxacin
+T12	Antibiotic 523 532	ofloxacin
+T13	Antibiotic 538 550	temafloxacin
+T14	Antibiotic 731 744	ciprofloxacin
+T15	Antibiotic 817 826	quinolone
+T16	Antibiotic 907 920	ciprofloxacin
+T17	Antibiotic 577 587	quinolones
+T18	Bacteria 991 1004	staphylococci
+T19	Antibiotic 1598 1611	ciprofloxacin
+T20	Antibiotic_target_alteration 1533 1540	mutants
+E1	Antibiotic_target_alteration:T20 Cause:T19
+T21	Bacteria 1684 1697	staphylococci
+T22	Antibiotic 1701 1718	 fluoroquinolones
+T23	Bacteria 1803 1816	staphylococci
+T24	Antibiotic 1871 1881	quinolones
+T25	Antibiotic 1516 1526	quinolones
+T26	Antibiotic 1090 1103	ciprofloxacin
+T27	Bacteria 931 944	staphylococci
+T28	Antibiotic 615 628	ciprofloxacin
+T29	Antibiotic 680 692	temafloxacin
+T30	Antibiotic 512 521	OPC-17116
+T31	Antibiotic 1160 1169	OPC-17116
+T32	Antibiotic 1193 1206	ciprofloxacin
+T33	Antibiotic 1112 1121	OPC-17116
+T34	Antibiotic 1031 1040	OPC-17116
+T35	Antibiotic 881 890	OPC-17116
+T36	Antibiotic 1413 1422	OPC-17116
+T37	Antibiotic 653 662	OPC-17116
+T38	Antibiotic 665 674	ofloxacin
+T39	Antibiotic_target_alteration 1305 1315	mutational
+E2	Antibiotic_target_alteration:T39 Cause:T36

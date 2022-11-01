@@ -1,0 +1,14 @@
+T1	Antibiotic 18 28	carbapenem
+T2	Antibiotic 41 50	meropenem
+T3	Bacteria 60 83	Haemophilus  influenzae
+T4	Antibiotic 152 162	ampicillin
+T5	Bacteria 291 313	Haemophilus influenzae
+T6	Antibiotic 362 372	ampicillin
+T7	Antibiotic 504 513	meropenem
+T8	Antibiotic 526 534	imipenem
+T9	Antibiotic 545 559	cephalosporins
+T10	Antibiotic 565 576	amoxicillin
+T11	Antibiotic 577 588	clavulanate
+T12	Antibiotic 679 688	meropenem
+T13	Antibiotic 736 744	imipenem
+T14	Antibiotic 780 790	cefotaxime

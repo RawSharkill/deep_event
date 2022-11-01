@@ -1,0 +1,35 @@
+T1	Bacteria 67 107	Salmonella  enterica serovar Typhimurium
+T2	Antibiotic_efflux 49 55	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 300 318	Salmonella mutants
+T4	Bacteria 644 654	Salmonella
+T5	Antibiotic_efflux 598 610	transporters
+E2	Antibiotic_efflux:T5 Theme:T4
+T6	Bacteria 1007 1023	Escherichia coli
+T7	Antibiotic_efflux 1072 1084	transporters
+E3	Antibiotic_efflux:T7 Theme:T8
+T8	Bacteria 1061 1071	Salmonella
+T9	Bacteria 1133 1140	E. coli
+T10	Antibiotic_efflux 1142 1154	transporters
+E4	Antibiotic_efflux:T10 Theme:T9
+T11	Bacteria 212 233	Gram negative species
+*	Equiv T9 T6
+T12	Bacteria 917 927	Salmonella
+T13	Protein 505 509	MATE
+T14	Protein 457 460	MFS
+T15	Protein 538 541	ABC
+T16	Bacteria 675 685	Salmonella
+T17	Protein 817 821	MdsC
+T18	Protein 864 868	TolC
+T19	Protein 928 933	EmrAB
+T20	Protein 935 939	MdfA
+T21	Protein 944 948	MdtK
+T22	Gene 1172 1177	macAB
+T23	Gene 1349 1354	macAB
+T24	Protein 1432 1436	PhoP
+T25	Gene 1466 1471	macAB
+T26	Protein 1491 1495	PhoP
+T27	Protein 1496 1500	PhoQ
+T28	Bacteria 1547 1557	Salmonella
+T29	Antibiotic_efflux 1617 1623	efflux
+E5	Antibiotic_efflux:T29 Theme:T28

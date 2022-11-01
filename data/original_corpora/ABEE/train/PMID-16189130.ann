@@ -1,0 +1,19 @@
+T1	Antibiotic 74 87	ciprofloxacin
+T2	Bacteria 126 151	Escherichia coli isolates
+T3	Bacteria 180 205	Escherichia coli isolates
+T4	Antibiotic 369 382	ciprofloxacin
+T5	Antibiotic 475 488	ciprofloxacin
+T6	Antibiotic 154 169	Fluoroquinolone
+T7	Protein 45 49	AcrR
+T8	Protein 53 57	acrB
+T9	Antibiotic_target_alteration 16 24	mutation
+E1	Antibiotic_target_alteration:T9 Cause:T1 Theme:T2
+T10	Gene 226 230	acrB
+T11	Protein 276 280	AcrR
+T12	Protein 259 269	amino acid
+T13	Protein 28 38	amino acid
+T14	Gene 315 319	acrR
+T15	Protein 437 447	amino acid
+T16	Protein 454 458	AcrR
+T17	Antibiotic_target_alteration 425 433	mutation
+E2	Antibiotic_target_alteration:T17 Cause:T5

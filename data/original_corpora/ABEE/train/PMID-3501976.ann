@@ -1,0 +1,31 @@
+T2	Antibiotic 38 80	aminothiazolyl methoxyimino cephalosporins
+T3	Antibiotic 162 204	aminothiazolyl methoxyimino cephalosporins
+T4	Antibiotic 206 217	ceftizoxime
+T5	Antibiotic 219 230	ceftriaxone
+T6	Antibiotic 237 247	cefotaxime
+T7	Bacteria 445 472	Bacteroides fragilis  group
+T8	Antibiotic 545 556	ceftizoxime
+T9	Antibiotic 565 596	cefotaxime/desacetyl-cefotaxime
+T10	Antibiotic 671 682	Ceftriaxone
+T11	Antibiotic 942 952	Cefotaxime
+T12	Antibiotic 954 965	ceftizoxime
+T13	Antibiotic 971 982	ceftriaxone
+T14	Antibiotic 1113 1122	Cefoxitin
+T15	Antibiotic 1275 1284	cefoxitin
+T16	Bacteria 1306 1332	B. fragilis group  strains
+*	Equiv T16 T7
+T17	Antibiotic 1334 1343	Cefoxitin
+T18	Antibiotic 1429 1440	ceftriaxone
+T19	Antibiotic 1451 1473	aminothiazolyl cephems
+T21	Antibiotic 1579 1590	cephamycins
+T22	Antibiotic 1595 1609	cephalosporins
+T23	Antibiotic 1640 1651	beta-lactam
+T1	Antibiotic 514 533	cefoxitin-resistant
+T20	Antibiotic 723 744	cefoxitin-susceptible
+T24	Antibiotic_inactivation 1479 1490	 hydrolyzed
+E1	Antibiotic_inactivation:T24 Cause:T19
+T25	Antibiotic_inactivation 1480 1490	hydrolyzed
+E2	Antibiotic_inactivation:T25 Cause:T18
+T26	Bacteria 91 109	anaerobic bacteria
+T27	Antibiotic 125 144	cefoxitin-resistant
+T28	Bacteria 745 754	anaerobes

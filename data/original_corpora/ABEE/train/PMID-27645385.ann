@@ -1,0 +1,39 @@
+T1	Bacteria 0 21	Klebsiella pneumoniae
+T2	Bacteria 112 128	Escherichia coli
+T3	Bacteria 155 176	Klebsiella pneumoniae
+T5	Antibiotic 332 346	cephalosporins
+T6	Antibiotic 398 409	carbapenems
+T7	Bacteria 736 749	K. pneumoniae
+*	Equiv T7 T3
+T8	Bacteria 829 842	K. pneumoniae
+T9	Bacteria 1051 1067	Escherichia coli
+T10	Antibiotic 1192 1208	benzylpenicillin
+T11	Antibiotic 1221 1229	cefepime
+T12	Bacteria 1312 1327	E. coli  strain
+T13	Bacteria 1452 1465	K. pneumoniae
+T14	Resistance_by_absence 1509 1513	loss
+E3	Resistance_by_absence:T14 Theme:T13 Cause:T21
+T15	Antibiotic_inactivation 1639 1649	hydrolysis
+E4	Antibiotic_inactivation:T15 Theme:T13 Cause:T21
+T16	Bacteria 2126 2147	Klebsiella pneumoniae
+T17	Bacteria 2263 2280	Escherichia  coli
+T18	Bacteria 2318 2339	K. pneumoniae strains
+T19	Antibiotic 2434 2448	cephalosporins
+T20	Antibiotic 943 955	beta-lactams
+T21	Antibiotic 1783 1795	beta-lactams
+T4	Protein 35 41	OmpK35
+T22	Protein 46 52	OmpK36
+T23	Antibiotic 88 100	beta-Lactams
+T24	Protein 138 142	OmpF
+T25	Protein 147 151	OmpC
+T27	Gene 856 862	ompK35
+T28	Gene 867 873	ompK36
+T29	Protein 981 987	OmpK35
+T30	Protein 992 998	OmpK36
+T31	Protein 1077 1081	OmpF
+T32	Protein 1087 1091	OmpC
+T33	Protein 1093 1099	OmpK35
+T34	Protein 1540 1546	OmpK35
+T36	Bacteria 1845 1867	Gram-negative bacteria
+T37	Protein 2206 2212	OmpK35
+T38	Protein 2290 2294	OmpF

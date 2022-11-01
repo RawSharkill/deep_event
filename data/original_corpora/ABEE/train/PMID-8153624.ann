@@ -1,0 +1,7 @@
+T1	Antibiotic 391 402	penicillins
+T2	Antibiotic 361 375	aminoglycoside
+T3	Antibiotic 407 421	cephalosporins
+T4	Antibiotic_inactivation 473 485	inactivation
+E1	Antibiotic_inactivation:T4 Cause:T3
+E2	Antibiotic_inactivation:T4 Cause:T1
+E3	Antibiotic_inactivation:T4 Cause:T2

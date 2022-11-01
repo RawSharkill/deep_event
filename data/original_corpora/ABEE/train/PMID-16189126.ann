@@ -1,0 +1,20 @@
+T1	Antibiotic_efflux 72 78	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 90 112	Pseudomonas aeruginosa
+T3	Bacteria 500 552	MexB(T578I)-expressing Pseudomonas aeruginosa strain
+T4	Protein 19 23	MexA
+T5	Protein 184 188	MexB
+T6	Protein 51 56	MexAB
+T7	Protein 57 61	OprM
+T8	Protein 132 136	MexA
+T9	Protein 212 216	MexB
+T10	Protein 331 335	MexA
+T11	Protein 410 414	MexA
+T12	Protein 568 574	MexA  
+T13	Protein 591 595	MexB
+T14	Antibiotic_target_alteration 337 346	Mutations
+E2	Antibiotic_target_alteration:T14 Theme:T3
+T15	Protein 645 649	MexA
+T16	Protein 749 753	MexB
+T17	Protein 757 761	MexA
+T18	Protein 672 676	MexB

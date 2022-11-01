@@ -1,0 +1,34 @@
+T1	Antibiotic 21 34	cephalosporin
+T2	Antibiotic 39 49	carbapenem
+T4	Bacteria 64 90	Burkholderia  pseudomallei
+T5	Bacteria 106 131	Burkholderia pseudomallei
+T6	Bacteria 133 136	Bps
+*	Equiv T6 T5 T24
+T7	Bacteria 289 292	Bps
+T8	Reduced_permeability_to_antibiotic 392 404	permeability
+E3	Reduced_permeability_to_antibiotic:T8 Theme:T7
+T9	Antibiotic 597 608	ceftazidime
+T10	Antibiotic 613 622	meropenem
+T11	Bacteria 520 523	Bps
+T12	Bacteria 627 641	E. coli strain
+T14	Reduced_permeability_to_antibiotic 1049 1058	inhibited
+E5	Reduced_permeability_to_antibiotic:T14 Theme:T12
+T15	Reduced_permeability_to_antibiotic 1365 1377	introduction
+E6	Reduced_permeability_to_antibiotic:T15 Theme:T12
+T16	Bacteria 1588 1591	Bps
+T17	Antibiotic 1606 1615	cefoxitin
+T18	Antibiotic 1618 1626	cefepime
+T19	Antibiotic 1632 1641	doripenem
+T21	Antibiotic 1678 1689	ceftazidime
+T22	Antibiotic 1695 1704	meropenem
+T23	Bacteria 1747 1750	Bps
+T24	Bacteria 2002 2017	B. pseudomallei
+T25	Antibiotic 2033 2044	carbapenems
+T26	Antibiotic 2049 2063	cephalosporins
+T3	Bacteria 143 166	Gram-negative bacterium
+T13	Reduced_permeability_to_antibiotic 1514 1524	permeation
+E1	Reduced_permeability_to_antibiotic:T13 Theme:T16 Cause:T17
+E2	Reduced_permeability_to_antibiotic:T13 Theme:T16 Cause:T18
+T20	Reduced_permeability_to_antibiotic 1871 1883	permeability
+E4	Reduced_permeability_to_antibiotic:T20 Theme:T24 Cause:T25
+E7	Reduced_permeability_to_antibiotic:T20 Theme:T24 Cause:T26

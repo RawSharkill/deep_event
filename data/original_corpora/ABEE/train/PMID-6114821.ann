@@ -1,0 +1,13 @@
+T1	Bacteria 142 164	Streptococcus pyogenes
+T2	Bacteria 169 185	Escherichia coli
+T4	Antibiotic 226 238	penicillin G
+T5	Bacteria 402 408	E coli
+*	Equiv T5 T2
+T6	Antibiotic 437 447	penicillin
+T7	Bacteria 569 581	streptococci
+T8	Bacteria 583 589	E coli
+T9	Antibiotic 687 699	Streptomycin
+T10	Bacteria 857 864	E. coli
+T11	Antibiotic 936 948	streptomycin
+T12	Antibiotic 1034 1046	streptomycin
+T14	Antibiotic 1270 1282	streptomycin

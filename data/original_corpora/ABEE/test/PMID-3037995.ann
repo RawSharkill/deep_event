@@ -1,0 +1,13 @@
+T1	Bacteria 54 74	Pseudomonas bacteria
+T2	Bacteria 134 145	Pseudomonas
+T3	Antibiotic 767 779	streptomycin
+T4	Antibiotic 1235 1247	tetracycline
+T5	Antibiotic 1373 1385	tetracycline
+T6	Antibiotic 1477 1489	tetracycline
+T7	Protein 423 459	aminoglycoside-3'-phosphotransferase
+T8	Protein 462 500	aminoglycoside-3'-adenilyl transferase
+T9	Protein 502 535	type I dihydropteroate synthetase
+T10	Protein 537 544	DHPS  I
+T11	Protein 550 557	DHPS II
+T12	Protein 930 969	aminoglycoside-3'-phosphotransferase II
+T13	Protein 1651 1683	type II  dihydrofolate reductase

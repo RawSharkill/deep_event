@@ -1,0 +1,28 @@
+T1	Bacteria 61 77	Escherichia coli
+T2	Bacteria 411 427	Escherichia coli
+T3	Antibiotic_efflux 567 575	exporter
+E1	Antibiotic_efflux:T3 Theme:T2 Cause:T5
+T4	Antibiotic 771 783	rhodamine 6G
+T5	Antibiotic 750 766	ethidium bromide
+T6	Protein 29 33	H-NS
+T7	Protein 106 110	H-NS
+T9	Protein 303 307	H-NS
+T10	Gene 328 331	hns
+T11	Protein 378 382	H-NS
+T12	Protein 482 486	H-NS
+T13	Gene 599 602	hns
+T14	Gene 791 794	hns
+T15	Gene 1116 1120	tolC
+T16	Protein 1168 1172	TolC
+T17	Gene 1232 1237	acrEF
+T18	Gene 1239 1244	mdtEF
+T19	Gene 1250 1255	emrKY
+T20	Gene 1497 1502	acrEF
+T21	Protein 1755 1760	MdtEF
+T22	Gene 1794 1799	mdtEF
+T23	Gene 1804 1809	acrEF
+T24	Gene 1965 1970	acrEF
+T25	Gene 1976 1981	mdtEF
+T26	Protein 1465 1470	AcrEF
+E2	Antibiotic_efflux:T3 Theme:T2 Cause:T4
+T27	Gene 1012 1015	hns

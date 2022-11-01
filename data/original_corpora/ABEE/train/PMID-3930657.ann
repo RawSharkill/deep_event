@@ -1,0 +1,6 @@
+T1	Bacteria 23 47	Streptococcus lactis ME2
+T2	Bacteria 252 276	Streptococcus lactis ME2
+T3	Bacteria 613 626	S. lactis ME2
+*	Equiv T3 T1
+T4	Bacteria 828 841	S. lactis ME2
+T5	Bacteria 847 863	S. lactis LM0230

@@ -1,0 +1,21 @@
+T1	Antibiotic 6 21	chloramphenicol
+T2	Antibiotic 26 37	florfenicol
+T4	Antibiotic 131 146	chloramphenicol
+T6	Antibiotic 246 257	florfenicol
+T9	Antibiotic 481 493	tetracycline
+T3	Bacteria 93 121	Salmonella typhimurium DT104
+T5	Bacteria 168 196	Salmonella typhimurium DT104
+T10	Bacteria 929 965	DT104 Salmonella typhimurium strains
+T7	Antibiotic_efflux 221 231	conferring
+E1	Antibiotic_efflux:T7 Theme:T5 Cause:T6
+T8	Gene 426 430	floR
+T11	Gene 601 606	aadA2
+T12	Gene 621 625	sulI
+T13	Gene 467 471	tetR
+T14	Gene 476 480	tetA
+T15	Gene 693 697	pse1
+T16	Gene 713 717	sulI
+T17	Gene 734 738	floR
+T18	Gene 210 214	floR
+E2	Antibiotic_efflux:T7 Theme:T5 Cause:T4
+T19	Protein 312 316	FloR

@@ -1,0 +1,32 @@
+T1	Antibiotic_target_alteration 0 9	Mutations
+E1	Antibiotic_target_alteration:T1 Theme:T2
+T2	Bacteria 35 54	Helicobacter pylori
+T4	Antibiotic 78 90	tetracycline
+T5	Bacteria 129 148	Helicobacter pylori
+T6	Antibiotic 209 221	tetracycline
+T7	Bacteria 276 285	H. pylori
+T8	Antibiotic 237 249	tetracycline
+T10	Antibiotic 323 335	tetracycline
+T12	Bacteria 432 441	H. pylori
+T13	Antibiotic 653 665	tetracycline
+T14	Bacteria 937 952	H. pylori 26695
+T15	Antibiotic 910 922	tetracycline
+T17	Antibiotic_target_alteration 865 873	mutation
+E6	Antibiotic_target_alteration:T17 Theme:T14
+T18	Antibiotic 967 979	tetracycline
+T19	Antibiotic 1169 1181	tetracycline
+T20	Antibiotic 1106 1119	metronidazole
+T24	Antibiotic 1282 1294	tetracycline
+T25	Antibiotic 1348 1360	tetracycline
+T27	Antibiotic 1527 1539	tetracycline
+T28	Bacteria 1554 1563	H. pylori
+T30	Antibiotic_target_alteration 1472 1481	mutations
+E11	Antibiotic_target_alteration:T30 Theme:T28
+T23	Bacteria 1231 1248	H. pylori strains
+T3	Antibiotic_target_alteration 1303 1310	mutants
+E2	Antibiotic_target_alteration:T3 Theme:T23 Cause:T24
+T9	Gene 17 31	16S rRNA genes
+T11	Gene 291 304	16S rRNA gene
+T16	Gene 598 612	16S rRNA genes
+T21	Gene 701 715	16S rRNA genes
+T22	Gene 829 842	16S rRNA gene

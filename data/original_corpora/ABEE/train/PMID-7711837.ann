@@ -1,0 +1,15 @@
+T1	Protein 123 131	TetA (C)
+T2	Protein 1764 1771	TetA(C)
+T3	Bacteria 1416 1423	E. coli
+T4	Gene 790 797	tetA(C)
+T5	Bacteria 220 236	Escherichia coli
+T6	Protein 174 181	TetA(C)
+T7	Antibiotic 853 866	 tetracycline
+T8	Protein 1336 1343	TetA(C)
+T9	Protein 1807 1814	TetA(C)
+T10	Antibiotic 637 651	aminoglycoside
+T11	Antibiotic 1171 1187	 aminoglycosides
+T12	Antibiotic 1148 1157	bleomycin
+T13	Antibiotic 566 575	bleomycin
+T14	Antibiotic 896 903	cadmium
+T15	Protein 1583 1590	TetA(C)

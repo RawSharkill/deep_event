@@ -1,0 +1,18 @@
+T1	Bacteria 72 101	Corynebacterium striatum M82B
+T2	Bacteria 288 360	gram-positive opportunistic human pathogen Corynebacterium striatum M82B
+T3	Antibiotic 721 733	erythromycin
+T5	Bacteria 761 804	human pathogen  Corynebacterium diphtheriae
+T6	Antibiotic 891 906	chloramphenicol
+T8	Bacteria 935 976	soil bacterium Corynebacterium glutamicum
+T9	Bacteria 1010 1051	phytopathogenic gram-negative Pseudomonas
+T10	Bacteria 1053 1064	Xanthomonas
+T11	Bacteria 1069 1084	Erwinia species
+T12	Antibiotic 1113 1127	aminoglycoside
+T14	Bacteria 1155 1205	gram-negative  fish pathogen Pasteurella piscicida
+T4	Gene 24 29	pTP10
+T7	Gene 272 277	pTP10
+T13	Gene 500 505	pTP10
+T15	Gene 670 675	pTP10
+T16	Bacteria 840 867	Mycobacterium  tuberculosis
+T17	Gene 1236 1241	pTP10
+T18	Gene 1417 1422	pTP10

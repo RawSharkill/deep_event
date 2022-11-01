@@ -1,0 +1,32 @@
+T1	Antibiotic 73 81	cefepime
+T2	Antibiotic 87 102	chloramphenicol
+T4	Bacteria 117 149	Klebsiella pneumoniae NTUH-K2044
+T5	Bacteria 165 186	Klebsiella pneumoniae
+T6	Bacteria 326 347	phylum Proteobacteria
+R1	Member-of Arg1:T5 Arg2:T6	
+T7	Bacteria 369 382	K. pneumoniae
+T8	Bacteria 963 1012	hyper mucoidal K1 strain K. pneumoniae NTUH-K2044
+T10	Antibiotic 1275 1287	beta-lactams
+T11	Antibiotic 1292 1307	chloramphenicol
+T12	Bacteria 2238 2289	hyper virulent K1 serotype K. pneumoniae NTUH-K2044
+*	Equiv T7 T5
+T3	Protein 53 58	CpxAR
+T9	Antibiotic_efflux 33 45	transduction
+E1	Antibiotic_efflux:T9 Theme:T4 Cause:T2
+E2	Antibiotic_efflux:T9 Cause:T1 Theme:T4
+T13	Bacteria 291 311	gamma-Proteobacteria
+T14	Gene 798 803	cpxAR
+T15	Protein 925 929	CpxA
+T16	Protein 930 934	CpxR
+T17	Gene 1427 1431	acrB
+T18	Gene 1433 1437	acrD
+T19	Gene 1439 1443	eefB
+T20	Gene 1475 1480	cpxAR
+T21	Protein 1674 1678	CpxR
+T22	Protein 1679 1681	KP
+T23	Gene 1705 1709	ompC
+T24	Protein 1710 1712	KP
+T25	Antibiotic_target_alteration 1852 1863	alterations
+E3	Antibiotic_target_alteration:T25 Theme:T12
+T26	Protein 1786 1789	Cpx
+T27	Protein 2169 2174	CpxAR

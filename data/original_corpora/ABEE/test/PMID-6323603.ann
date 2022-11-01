@@ -1,0 +1,5 @@
+T1	Bacteria 473 507	bacterium Listeria   monocytogenes
+T2	Bacteria 589 618	yeast Cryptococcus neoformans
+T3	Bacteria 908 924	L. monocytogenes
+*	Equiv T3 T1
+T4	Bacteria 1318 1331	C. neoformans

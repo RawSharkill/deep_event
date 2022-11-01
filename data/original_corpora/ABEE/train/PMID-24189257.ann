@@ -1,0 +1,9 @@
+T1	Antibiotic 43 51	colistin
+T2	Bacteria 97 120	Acinetobacter baumannii
+T3	Antibiotic 156 164	colistin
+T4	Bacteria 188 212	Acinetobacter  baumannii
+T5	Bacteria 501 526	A. baumannii   ATCC 19606
+T6	Bacteria 1395 1407	A. baumannii
+*	Equiv T6 T4
+T7	Antibiotic 1684 1692	colistin
+T8	Antibiotic 1811 1819	colistin

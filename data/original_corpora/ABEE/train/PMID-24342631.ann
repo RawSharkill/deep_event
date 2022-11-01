@@ -1,0 +1,8 @@
+T1	Bacteria 60 76	Rhodococcus equi
+T2	Antibiotic 12 24	glycopeptide
+T3	Antibiotic 151 163	glycopeptide
+T4	Bacteria 193 209	Rhodococcus equi
+T5	Antibiotic 501 514	glycopeptides
+T6	Bacteria 533 540	R. equi
+*	Equiv T6 T4
+T7	Gene 0 4	vanO

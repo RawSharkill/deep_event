@@ -1,0 +1,33 @@
+T1	Antibiotic 14 24	macrolides
+T2	Antibiotic 26 38	lincosamides
+T3	Antibiotic 43 56	streptogramin
+T4	Bacteria 116 140	Streptomyces ambofaciens
+T5	Bacteria 144 168	Streptomyces ambofaciens
+T6	Antibiotic 178 188	spiramycin
+T7	Antibiotic 255 265	macrolides
+T8	Antibiotic 267 279	lincosamides
+T9	Antibiotic 284 299	streptogramin B
+T10	Bacteria 337 350	S.ambofaciens
+*	Equiv T10 T5
+T11	Bacteria 502 523	Streptomyces lividans
+T12	Bacteria 790 806	Escherichia coli
+T13	Bacteria 838 851	S.ambofaciens
+T14	Bacteria 1027 1040	S.ambofaciens
+T15	Bacteria 1095 1107	Streptomyces
+T16	Antibiotic 1204 1207	MLS
+T17	Protein 192 201	macrolide
+T18	Antibiotic 377 380	MLS
+T19	Antibiotic 314 317	MLS
+T20	Antibiotic_target_alteration 327 333	mutant
+E1	Antibiotic_target_alteration:T20 Theme:T10 Cause:T18
+T21	Antibiotic_target_alteration 880 888	mutation
+E2	Antibiotic_target_alteration:T21 Theme:T13
+T22	Antibiotic 705 708	MLS
+T23	Antibiotic_target_alteration 683 692	mutations
+E3	Antibiotic_target_alteration:T23 Cause:T22 Theme:T12
+T24	Protein 807 815	23S rRNA
+T25	Gene 648 652	rRNA
+T26	Antibiotic_target_alteration 86 94	mutation
+E4	Antibiotic_target_alteration:T26 Cause:T3 Theme:T4
+E5	Antibiotic_target_alteration:T26 Cause:T2 Theme:T4
+E6	Antibiotic_target_alteration:T26 Cause:T1 Theme:T4

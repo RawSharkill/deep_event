@@ -1,0 +1,16 @@
+T1	Antibiotic 0 10	Ampicillin
+T2	Bacteria 25 47	Haemophilus influenzae
+T3	Antibiotic 124 134	ampicillin
+T4	Bacteria 219 241	Haemophilus influenzae
+T5	Antibiotic 1318 1328	ampicillin
+T6	Bacteria 1343 1356	H. influenzae
+*	Equiv T6 T2
+T7	Antibiotic 297 307	ampicillin
+T8	Protein 672 704	penicillin-binding protein (PBP)
+T9	Antibiotic 777 787	ampicillin
+T10	Antibiotic 836 846	ampicillin
+T11	Protein 878 881	PBP
+T12	Antibiotic 952 962	ampicillin
+T13	Antibiotic_target_alteration 1002 1009	altered
+E1	Antibiotic_target_alteration:T13 Cause:T12
+T14	Antibiotic 1133 1143	ampicillin

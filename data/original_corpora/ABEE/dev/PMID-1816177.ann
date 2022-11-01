@@ -1,0 +1,18 @@
+T1	Antibiotic 28 51	beta-lactam antibiotics
+T2	Bacteria 55 83	Acinetobacter  calcoaceticus
+T3	Bacteria 115 142	Acinetobacter calcoaceticus
+T4	Antibiotic 251 260	cefoxitin
+T5	Antibiotic 262 274	cefoperazone
+T6	Antibiotic 278 289	ceftazidime
+T7	Antibiotic 440 450	penicillin
+T8	Antibiotic 513 525	beta-lactams
+T9	Antibiotic_target_alteration 474 481	altered
+E1	Antibiotic_target_alteration:T9 Cause:T8 Theme:T2
+T10	Antibiotic 793 805	beta-lactams
+T11	Bacteria 813 829	A. calcoaceticus
+*	Equiv T11 T2
+T12	Antibiotic 888 898	penicillin
+T13	Antibiotic_target_alteration 880 887	altered
+E2	Antibiotic_target_alteration:T13 Cause:T10 Theme:T11
+T14	Reduced_permeability_to_antibiotic 948 960	permeability
+E3	Reduced_permeability_to_antibiotic:T14 Cause:T10 Theme:T11

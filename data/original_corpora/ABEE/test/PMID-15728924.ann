@@ -1,0 +1,10 @@
+T1	Antibiotic 51 67	fluoroquinolones
+T2	Bacteria 71 93	Mycoplasma  pneumoniae
+T3	Bacteria 98 116	Mycoplasma hominis
+T4	Antibiotic 249 265	fluoroquinolones
+T5	Bacteria 312 333	Mycoplasma pneumoniae
+T6	Bacteria 338 356	Mycoplasma hominis
+T7	Antibiotic 377 393	fluoroquinolones
+T8	Antibiotic_target_alteration 157 164	mutants
+E1	Antibiotic_target_alteration:T8 Cause:T4 Theme:T5
+E2	Antibiotic_target_alteration:T8 Theme:T6 Cause:T4

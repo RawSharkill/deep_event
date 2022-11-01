@@ -1,0 +1,31 @@
+T2	Antibiotic 140 150	Carbapenem
+T1	Bacteria 84 107	Acinetobacter baumannii
+T4	Bacteria 274 297	Pseudomonas  aeruginosa
+T5	Bacteria 302 320	Acinetobacter spp.
+T6	Bacteria 378 394	Pseudomonas spp.
+T8	Bacteria 399 417	Acinetobacter spp.
+T9	Bacteria 620 643	Acinetobacter baumannii
+T10	Antibiotic 939 947	imipenem
+T11	Antibiotic 952 961	meropenem
+T12	Bacteria 1076 1092	Escherichia coli
+T13	Antibiotic 1194 1205	penicillins
+T14	Antibiotic 1238 1252	cephalosporins
+T15	Antibiotic 1258 1269	carbapenems
+T16	Protein 15 37	metallo-beta-lactamase
+T17	Gene 44 54	bla(SIM-1)
+T18	Gene 1275 1285	bla(SIM-1)
+T19	Gene 1056 1066	bla(SIM-1)
+T20	Protein 887 892	SIM-1
+T21	Gene 681 684	MBL
+T22	Gene 712 722	bla(SIM-1)
+T23	Protein 502 524	metallo-beta-lactamase
+T7	Antibiotic 358 367	arbapenem
+T24	Protein 526 529	MBL
+T25	Gene 183 196	carbapenemase
+T3	Gene 567 577	bla(IMP-1)
+T26	Gene 582 592	bla(VIM-2)
+T27	Gene 1419 1424	aadA1
+T28	Gene 1408 1413	catB3
+T29	Gene 1401 1406	arr-3
+T30	Protein 728 733	SIM-1
+T31	Protein 844 848	MBLs

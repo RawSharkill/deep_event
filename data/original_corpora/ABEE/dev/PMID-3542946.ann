@@ -1,0 +1,21 @@
+T1	Antibiotic 22 34	4-quinolones
+T2	Antibiotic 314 340	4-quinolone antimicrobials
+T3	Antibiotic 346 358	4-quinolones
+T4	Antibiotic 383 396	ciprofloxacin
+T5	Antibiotic 398 409	norfloxacin
+T6	Antibiotic 414 423	ofloxacin
+T7	Bacteria 603 625	Escherichia coli KL 16
+T8	Antibiotic 665 675	quinolones
+T9	Antibiotic 717 727	quinolones
+T10	Antibiotic 824 837	ciprofloxacin
+T11	Antibiotic 839 850	norfloxacin
+T12	Antibiotic 854 863	ofloxacin
+T13	Antibiotic 929 940	acrosoxacin
+T14	Antibiotic 943 953	flumequine
+T15	Antibiotic 955 963	enoxacin
+T16	Antibiotic 965 978	oxolinic acid
+T17	Antibiotic 982 996	pipemidic acid
+T18	Antibiotic 1076 1088	4-quinolones
+T19	Bacteria 1092 1099	E. coli
+T20	Antibiotic_target_alteration 998 1008	Mutational
+E1	Antibiotic_target_alteration:T20 Cause:T18 Theme:T19

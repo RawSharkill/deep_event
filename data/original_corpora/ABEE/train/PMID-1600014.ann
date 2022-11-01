@@ -1,0 +1,16 @@
+T1	Bacteria 67 90	Haemophilus  influenzae
+T2	Bacteria 182 204	Haemophilus influenzae
+T3	Antibiotic 589 604	chloramphenicol
+T4	Antibiotic 606 618	tetracycline
+T5	Antibiotic 621 633	trimethoprim
+T6	Antibiotic 634 650	sulfamethoxazole
+T7	Antibiotic 652 660	rifampin
+T8	Antibiotic 662 674	erythromycin
+T9	Antibiotic 695 709	cephalosporins
+T10	Antibiotic 971 986	chloramphenicol
+T11	Antibiotic 991 1003	tetracycline
+T12	Bacteria 1061 1074	H. influenzae
+*	Equiv T12 T2
+T13	Bacteria 1242 1255	H. influenzae
+T14	Antibiotic 1337 1351	cephalosporins
+T15	Antibiotic 1355 1371	fluoroquinolones

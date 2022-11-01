@@ -1,0 +1,32 @@
+T1	Bacteria 129 151	Pseudomonas aeruginosa
+T2	Bacteria 155 177	Pseudomonas aeruginosa
+T3	Bacteria 524 546	P. aeruginosa isolates
+*	Equiv T3 T1
+T4	Antibiotic 640 649	aztreonam
+T5	Antibiotic 704 713	aztreonam
+T6	Antibiotic 1165 1174	aztreonam
+T7	Antibiotic 1382 1391	aztreonam
+T8	Bacteria 1406 1443	P. aeruginosa  environmental isolates
+T9	Protein 13 17	NalC
+T10	Protein 25 35	MexAB-OprM
+T11	Antibiotic 79 88	aztreonam
+T12	Antibiotic_efflux 36 50	overexpression
+E1	Antibiotic_efflux:T12 Cause:T11 Theme:T1
+T13	Protein 296 306	MexAB-OprM
+T14	Protein 420 424	MexR
+T15	Protein 426 430	NalC
+T16	Protein 435 439	NalD
+T17	Protein 457 467	MexAB-OprM
+T18	Gene 788 792	mexR
+T19	Gene 794 798	nalC
+T20	Gene 803 807	nalD
+T21	Protein 879 883	NalC
+T22	Protein 944 948	MexR
+T23	Protein 961 965	NalD
+T24	Gene 1008 1012	mexA
+T25	Protein 1095 1099	NalC
+T26	Gene 1193 1197	mexA
+T27	Protein 1289 1293	NalC
+T28	Protein 1348 1358	MexAB-OprM
+T29	Antibiotic_efflux 1359 1373	overexpression
+E2	Antibiotic_efflux:T29 Cause:T7 Theme:T8

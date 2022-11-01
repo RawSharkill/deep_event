@@ -1,0 +1,31 @@
+T2	Bacteria 101 123	Gram-negative bacteria
+T3	Antibiotic_efflux 179 185	efflux
+E1	Antibiotic_efflux:T3 Theme:T2
+T4	Antibiotic_efflux 569 575	efflux
+E2	Antibiotic_efflux:T4 Theme:T5
+T5	Bacteria 584 600	Escherichia coli
+T7	Bacteria 797 804	E. coli
+T8	Bacteria 847 884	Actinobacillus  actinomycetemcomitans
+*	Equiv T7 T5
+T1	Protein 236 239	MFP
+T6	Protein 269 273	MFPs
+T9	Protein 422 425	MFP
+T10	Protein 426 430	AcrA
+T11	Protein 466 470	TolC
+T12	Protein 376 380	MFPs
+T13	Protein 535 539	AcrB
+T14	Protein 602 606	MacA
+T15	Protein 626 629	MFP
+T16	Protein 638 643	MacAB
+T17	Protein 644 648	TolC
+T18	Protein 661 665	MacB
+T19	Protein 805 809	MacA
+T20	Protein 885 889	MacA
+T21	Protein 928 932	MacA
+T22	Protein 957 961	AcrA
+T23	Protein 996 1000	MacA
+T24	Protein 1124 1128	MacA
+T25	Protein 1256 1260	MacA
+T26	Antibiotic 63 72	macrolide
+T27	Antibiotic_efflux 83 89	efflux
+E3	Antibiotic_efflux:T27 Cause:T26

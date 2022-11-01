@@ -1,0 +1,22 @@
+T1	Antibiotic 40 49	quinolone
+T3	Antibiotic 89 98	quinolone
+T5	Bacteria 201 230	Klebsiella pneumoniae  strain
+T7	Antibiotic 515 525	quinolones
+T8	Antibiotic 779 792	ciprofloxacin
+T9	Antibiotic_target_protection 703 712	protected
+E4	Antibiotic_target_protection:T9 Theme:T5
+T11	Bacteria 837 855	Citrobacter koseri
+T12	Bacteria 858 878	Enterobacter cloacae
+T13	Bacteria 884 900	Escherichia coli
+T2	Gene 325 329	qnrA
+T4	Gene 316 319	qnr
+T6	Protein 722 732	DNA gyrase
+T10	Antibiotic 1045 1050	QnrB1
+T14	Gene 1065 1069	qnrB
+T15	Gene 692 701	QnrB-His6
+T16	Gene 116 120	qnrB
+T17	Gene 0 4	qnrB
+T18	Protein 170 193	CTX-M-15 beta-lactamase
+T19	Gene 811 815	qnrB
+T20	Protein 1010 1023	amino   acids
+T21	Protein 945 966	SHV-12 beta-lactamase

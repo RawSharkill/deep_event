@@ -1,0 +1,11 @@
+T1	Bacteria 95 115	Bacteroides fragilis
+T2	Bacteria 129 149	Bacteroides fragilis
+T3	Antibiotic 163 174	mitomycin C
+T5	Antibiotic 285 296	mitomycin C
+T7	Antibiotic 435 446	mitomycin C
+T16	Bacteria 1002 1013	B. fragilis
+*	Equiv T16 T1
+T4	Antibiotic 48 60	mitomycin  C
+T6	Antibiotic 959 970	mitomycin C
+T8	Antibiotic_target_alteration 866 873	mutants
+E1	Antibiotic_target_alteration:T8 Cause:T6 Theme:T16

@@ -1,0 +1,20 @@
+T1	Bacteria 18 41	Xanthomonas maltophilia
+T2	Antibiotic 49 59	quinolones
+T3	Antibiotic_target_alteration 111 118	mutants
+E1	Antibiotic_target_alteration:T3 Cause:T2 Theme:T1
+T4	Bacteria 196 219	Xanthomonas maltophilia
+T5	Antibiotic 246 262	fluoroquinolones
+T6	Antibiotic 264 273	latamoxef
+T7	Antibiotic 279 290	doxycycline
+T8	Antibiotic 625 641	fluoroquinolones
+T9	Antibiotic_target_alteration 519 526	mutants
+E2	Antibiotic_target_alteration:T9 Cause:T8 Theme:T4
+T10	Antibiotic 777 792	chloramphenicol
+T11	Antibiotic 728 744	fluoroquinolones
+T12	Antibiotic_target_alteration 691 700	mutants  
+E3	Antibiotic_target_alteration:T12 Cause:T11 Theme:T4
+T13	Antibiotic 826 837	doxycycline
+T14	Bacteria 1007 1022	X.  maltophilia
+T15	Antibiotic 983 992	quinolone
+T16	Antibiotic_target_alteration 871 882	alterations
+E4	Antibiotic_target_alteration:T16 Cause:T15 Theme:T14

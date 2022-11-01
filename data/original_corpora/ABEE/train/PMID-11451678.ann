@@ -1,0 +1,43 @@
+T2	Bacteria 172 183	Pseudomonas
+T3	Bacteria 189 211	Pseudomonas aeruginosa
+T4	Bacteria 217 226	P. putida
+T5	Bacteria 230 241	P. stutzeri
+T6	Bacteria 249 272	P. fluorescens isolates
+T8	Antibiotic 308 316	imipenem
+T9	Antibiotic 324 335	ceftazidime
+T10	Bacteria 626 635	P. putida
+T12	Bacteria 732 741	P. putida
+T14	Bacteria 824 837	P. aeruginosa
+T15	Bacteria 1139 1150	Pseudomonas
+T1	Bacteria 36 56	Pseudomonas isolates
+T11	Bacteria 646 666	P. stutzeri isolates
+T13	Bacteria 750 771	P. stutzeri  isolates
+T17	Bacteria 1423 1445	P. aeruginosa isolates
+T16	Bacteria 1293 1311	P. putida isolates
+T18	Bacteria 1470 1491	P.  stutzeri isolates
+T7	Protein 0 23	Metallo-beta-lactamases
+T19	Protein 482 505	metallo-beta-lactamases
+T20	Gene 1335 1338	MBL
+T21	Gene 1555 1557	MB
+T22	Gene 392 402	bla(IMP-1)
+T23	Protein 507 511	MBLs
+T24	Gene 404 414	bla(IMP-2)
+T25	Gene 416 426	bla(VIM-1)
+T26	Gene 432 442	bla(VIM-2)
+T27	Protein 90 95	VIM-3
+T28	Protein 120 125	VIM-2
+T29	Gene 687 698	 bla(IMP-1)
+T30	Gene 781 791	bla(VIM-2)
+T31	Gene 887 897	bla(VIM-2)
+T32	Gene 910 920	bla(VIM-3)
+T33	Protein 1277 1282	VIM-2
+T34	Gene 1225 1237	bla(IMP-1  )
+T35	Gene 1208 1218	bla(VIM-3)
+T36	Gene 973 983	bla(VIM-2)
+T37	Gene 988 998	bla(VIM-3)
+T38	Protein 1016 1026	amino acid
+T39	Protein 1067 1072	VIM-2
+T40	Gene 1195 1205	bla(VIM-2)
+T41	Protein 1407 1412	VIM-3
+T42	Protein 1454 1459	IMP-1
+T43	Protein 1121 1135	metalloenzymes

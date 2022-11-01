@@ -1,0 +1,30 @@
+T1	Gene 570 574	katG
+T2	Bacteria 48 74	Mycobacterium tuberculosis
+T3	Bacteria 80 99	Mycobacterium bovis
+T4	Bacteria 222 248	Mycobacterium tuberculosis
+T5	Bacteria 413 429	M.  tuberculosis
+T6	Bacteria 389 408	Mycobacterium bovis
+T7	Bacteria 364 387	M. tuberculosis complex
+*	Equiv T5 T4
+T8	Antibiotic 209 218	isoniazid
+T9	Antibiotic_target_alteration 164 171	reduced
+E1	Antibiotic_target_alteration:T9 Cause:T8 Theme:T4
+T10	Antibiotic 465 474	isoniazid
+T11	Antibiotic 674 683	isoniazid
+T12	Bacteria 795 827	M. tuberculosis  complex strains
+T13	Antibiotic 775 784	isoniazid
+T14	Gene 730 734	katG
+T15	Gene 913 917	katG
+T16	Gene 1020 1024	katG
+T17	Gene 1306 1310	katG
+T18	Antibiotic 1398 1407	isoniazid
+T19	Antibiotic 1591 1600	isoniazid
+T20	Antibiotic_target_alteration 1457 1468	alterations
+E2	Antibiotic_target_alteration:T20 Cause:T19
+T21	Gene 1476 1480	katG
+T22	Antibiotic_target_alteration 1290 1298	mutation
+E3	Antibiotic_target_alteration:T22 Cause:T18
+T23	Antibiotic_target_alteration 714 722	deletion
+E4	Antibiotic_target_alteration:T23 Cause:T13 Theme:T12
+T24	Antibiotic 320 329	isoniazid
+T25	Antibiotic 24 33	isoniazid

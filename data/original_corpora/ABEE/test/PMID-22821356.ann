@@ -1,0 +1,27 @@
+T1	Bacteria 68 91	Pseudomonas  aeruginosa
+T2	Bacteria 146 168	Pseudomonas aeruginosa
+T3	Antibiotic 183 199	fluoroquinolones
+T4	Antibiotic 297 313	fluoroquinolones
+T5	Bacteria 584 597	P. aeruginosa
+*	Equiv T5 T2
+T6	Antibiotic 654 670	fluoroquinolones
+T7	Antibiotic 992 1005	ciprofloxacin
+T8	Antibiotic 1470 1483	ciprofloxacin
+T9	Gene 0 4	gyrA
+T10	Gene 9 13	parC
+T11	Antibiotic 27 36	quinolone
+T12	Protein 367 373	gyrase
+T13	Antibiotic 487 496	quinolone
+T14	Gene 537 541	gyrA
+T15	Gene 546 550	parC
+T16	Gene 1071 1075	gyrA
+T17	Gene 1201 1205	parC
+T18	Antibiotic 1328 1341	ciprofloxacin
+T19	Gene 1577 1581	parC
+T20	Gene 1506 1510	gyrA
+T21	Antibiotic_target_alteration 1367 1376	mutations
+E1	Antibiotic_target_alteration:T21 Cause:T18
+T22	Antibiotic_target_alteration 470 479	mutations
+E2	Antibiotic_target_alteration:T22 Cause:T13
+T23	Antibiotic_target_alteration 14 23	mutations
+E3	Antibiotic_target_alteration:T23 Cause:T11 Theme:T1

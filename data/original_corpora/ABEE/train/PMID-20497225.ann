@@ -1,0 +1,24 @@
+T1	Bacteria 126 142	Escherichia coli
+T2	Bacteria 157 167	Salmonella
+T4	Antibiotic 611 626	chloramphenicol
+T6	Antibiotic 836 852	fluoroquinolones
+T7	Antibiotic 854 869	chloramphenicol
+T8	Antibiotic 875 883	biocides
+T5	Antibiotic_efflux 753 765	transporters
+E2	Antibiotic_efflux:T5 Theme:T1 Cause:T6
+T3	Protein 115 122	CusCFBA
+T9	Protein 147 153	GesABC
+T11	Protein 206 209	RND
+T12	Protein 463 466	Ges
+E1	Antibiotic_efflux:T5 Theme:T2 Cause:T6
+T10	Protein 705 709	GesB
+T13	Antibiotic_efflux 508 514	efflux
+E3	Antibiotic_efflux:T13 Cause:T4 Theme:T1
+T14	Protein 776 780	MexF
+E4	Antibiotic_efflux:T5 Cause:T7 Theme:T1
+E5	Antibiotic_efflux:T5 Cause:T7 Theme:T2
+E6	Antibiotic_efflux:T5 Cause:T8 Theme:T1
+E7	Antibiotic_efflux:T5 Cause:T8 Theme:T2
+T15	Protein 927 933	GesABC
+T16	Protein 1024 1031	CusCFBA
+E8	Antibiotic_efflux:T13 Cause:T4 Theme:T2

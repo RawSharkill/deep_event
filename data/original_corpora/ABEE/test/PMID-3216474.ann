@@ -1,0 +1,30 @@
+T1	Antibiotic 43 69	aminoglycoside antibiotics
+T2	Bacteria 74 124	methicillin-cephem-resistant Staphylococcus aureus
+T3	Antibiotic 182 208	aminoglycoside antibiotics
+T4	Bacteria 214 264	methicillin-cephem-resistant Staphylococcus aureus
+T5	Bacteria 265 271	(MRSA)
+*	Equiv T5 T4
+T6	Bacteria 370 374	MRSA
+T7	Antibiotic 482 492	gentamicin
+T8	Antibiotic 502 512	tobramycin
+T9	Antibiotic 494 496	GM
+T10	Antibiotic 514 517	TOB
+*	Equiv T9 T7
+*	Equiv T10 T8
+T11	Antibiotic 625 627	GM
+T12	Antibiotic 657 660	TOB
+T13	Antibiotic 770 772	GM
+T14	Antibiotic 777 780	TOB
+T15	Antibiotic 810 819	kanamycin
+T16	Antibiotic 888 897	Arbekacin
+T17	Antibiotic 899 902	HBK
+*	Equiv T17 T16
+T18	Bacteria 983 987	MRSA
+T19	Bacteria 998 1002	MRSA
+T20	Antibiotic 1021 1024	HBK
+T21	Antibiotic 835 853	3'-aminoglycosides
+T22	Antibiotic_target_alteration 854 872	phosphotransferase
+E1	Antibiotic_target_alteration:T22 Cause:T21
+T23	Antibiotic 676 694	4'-aminoglycosides
+T24	Antibiotic_inactivation 950 962	inactivating
+E2	Antibiotic_inactivation:T24 Theme:T18 Cause:T17

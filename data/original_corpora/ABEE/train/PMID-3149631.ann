@@ -1,0 +1,41 @@
+T1	Antibiotic 12 21	cefpirome
+T2	Antibiotic 23 28	HR810
+*	Equiv T2 T1
+T3	Bacteria 38 68	Pseudomonas aeruginosa strains
+T4	Antibiotic 114 137	beta-lactam antibiotics
+T5	Antibiotic 158 167	cefpirome
+T6	Antibiotic 169 179	cefotaxime
+T7	Antibiotic 181 192	ceftazidime
+T8	Antibiotic 197 208	ceftriaxone
+T9	Bacteria 267 289	Pseudomonas aeruginosa
+T10	Antibiotic 406 415	cefpirome
+T11	Antibiotic 437 447	cefotaxime
+T12	Antibiotic 454 465	ceftriaxone
+T13	Antibiotic 488 499	ceftazidime
+T14	Antibiotic 527 541	cephalosporins
+T15	Antibiotic 637 650	carbenicillin
+T16	Antibiotic 672 681	cefpirome
+T17	Antibiotic 687 698	ceftazidime
+T18	Antibiotic 796 806	cefotaxime
+T19	Antibiotic 811 822	ceftriaxone
+T20	Antibiotic 849 858	Cefpirome
+T21	Antibiotic 963 977	cephalosporins
+T22	Bacteria 1061 1074	P. aeruginosa
+T23	Antibiotic 1084 1093	cefpirome
+*	Equiv T22 T3
+T24	Antibiotic 1192 1202	cefotaxime
+T25	Antibiotic 1207 1218	ceftriaxone
+T26	Antibiotic 1323 1332	cefpirome
+T27	Antibiotic 1337 1348	ceftazidime
+T28	Antibiotic 1457 1466	cefpirome
+T29	Bacteria 1497 1510	P. aeruginosa
+T30	Antibiotic 1618 1627	cefpirome
+T31	Antibiotic 1648 1662	cephalosporins
+T32	Antibiotic 1671 1680	Cefpirome
+T33	Antibiotic 1749 1758	cefpirome
+T34	Antibiotic 1780 1791	ceftazidime
+T35	Bacteria 1815 1828	P. aeruginosa
+T36	Antibiotic 370 384	 carbenicillin
+T37	Antibiotic_target_protection 1599 1609	protection
+E1	Antibiotic_target_protection:T37 Theme:T29 Cause:T28
+E2	Antibiotic_target_protection:T37 Theme:T29 Cause:T31

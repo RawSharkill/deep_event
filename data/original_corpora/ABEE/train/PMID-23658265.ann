@@ -1,0 +1,35 @@
+T1	Antibiotic 0 15	Fluoroquinolone
+T2	Antibiotic 20 29	macrolide
+T3	Bacteria 65 87	Mycoplasma  genitalium
+T4	Bacteria 90 111	Mycoplasma genitalium
+T5	Antibiotic 385 397	azithromycin
+T6	Antibiotic 552 561	macrolide
+T7	Antibiotic 364 384	macrolide antibiotic
+T8	Bacteria 623 636	M. genitalium
+*	Equiv T8 T3
+T9	Antibiotic 681 696	fluoroquinolone
+T10	Antibiotic 697 709	moxifloxacin
+T11	Antibiotic 758 770	azithromycin
+T12	Antibiotic 848 863	fluoroquinolone
+T13	Bacteria 987 1000	M. genitalium
+T14	Antibiotic 1418 1427	macrolide
+T15	Antibiotic 1563 1578	fluoroquinolone
+T16	Antibiotic 1711 1723	azithromycin
+T17	Antibiotic 1728 1740	moxifloxacin
+T18	Bacteria 1871 1884	M. genitalium
+T19	Antibiotic_target_alteration 526 535	mutations
+E1	Antibiotic_target_alteration:T19 Cause:T6 Theme:T8
+T20	Gene 888 892	parC
+T21	Gene 898 902	gyrA
+T22	Antibiotic_target_alteration 822 831	mutations
+E2	Antibiotic_target_alteration:T22 Cause:T12
+T23	Gene 1078 1082	parC
+T24	Gene 1088 1092	gyrA
+T25	Antibiotic_target_alteration 1045 1056	mutations  
+E3	Antibiotic_target_alteration:T25 Theme:T13
+T26	Antibiotic_target_alteration 1451 1460	mutations
+E4	Antibiotic_target_alteration:T26 Cause:T14
+T27	Antibiotic_target_alteration 1525 1534	mutations
+E5	Antibiotic_target_alteration:T27 Cause:T15
+T28	Gene 1593 1597	parC
+T29	Gene 1601 1605	gyrA

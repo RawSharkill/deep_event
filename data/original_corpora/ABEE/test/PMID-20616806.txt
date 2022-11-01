@@ -1,0 +1,3 @@
+Structural insight into the oxidation-sensing mechanism of the antibiotic  resistance of regulator MexR.
+
+MexR functions as the primary regulator of the mexAB-oprM multidrug efflux  expression in Pseudomonas aeruginosa. It has been shown that MexR senses  oxidative stress by interprotomer disulphide bond formation between redox-active   cysteines. This oxidation induces MexR to dissociate from the promoter DNA, thus   activating the transcriptional expression of efflux pump genes. In this study, we  present the crystal structure of MexR in its oxidized form at a resolution of 2.1  A. This crystal structure reveals the mechanism by which oxidative signal  allosterically derepresses the MexR-controlled transcription activation.

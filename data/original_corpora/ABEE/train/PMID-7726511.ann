@@ -1,0 +1,9 @@
+T1	Bacteria 133 160	Mycobacterium avium complex
+T2	Bacteria 162 165	MAC
+*	Equiv T2 T1
+T3	Bacteria 60 88	Mycobacterium avium  complex
+T4	Bacteria 493 496	MAC
+T5	Antibiotic 817 825	rifampin
+T6	Bacteria 883 886	MAC
+T7	Antibiotic 840 848	rifampin
+T8	Bacteria 1285 1288	MAC

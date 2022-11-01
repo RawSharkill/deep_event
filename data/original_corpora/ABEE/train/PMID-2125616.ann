@@ -1,0 +1,14 @@
+T1	Bacteria 58 80	Pseudomonas aeruginosa
+T2	Bacteria 83 99	Escherichia coli
+T3	Protein 104 118	Klebsiella spp
+T4	Antibiotic 122 134	cefoperazone
+T5	Antibiotic 139 149	cefotaxime
+T6	Antibiotic 177 187	cefotaxime
+T7	Antibiotic 192 204	cefoperazone
+T8	Bacteria 246 262	Escherichia coli
+T9	Bacteria 264 278	Klebsiella spp
+T10	Bacteria 283 305	Pseudomonas aeruginosa
+T11	Antibiotic 309 319	Cefotaxime
+T12	Antibiotic 388 400	cefoperazone
+T13	Antibiotic 454 466	cefoperazone
+T14	Antibiotic 512 522	cefotaxime

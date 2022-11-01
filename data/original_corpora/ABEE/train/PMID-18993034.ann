@@ -1,0 +1,17 @@
+T1	Bacteria 71 93	Klebsiella  pneumoniae
+T3	Bacteria 184 205	Klebsiella pneumoniae
+T4	Antibiotic 276 285	quinolone
+T5	Antibiotic 526 535	quinolone
+T2	Antibiotic 159 172	ciprofloxacin
+T6	Gene 42 46	qnrB
+T7	Gene 358 362	qnrB
+T8	Gene 244 247	qnr
+T9	Gene 334 338	qnrA
+T10	Gene 343 347	qnrS
+T11	Gene 681 686	qnrB1
+T12	Gene 748 754	qnrB20
+T13	Gene 589 593	qnrB
+T14	Gene 698 703	qnrB6
+T15	Gene 688 693	qnrB4
+T16	Gene 831 835	qnrB
+T17	Gene 451 455	qnrB

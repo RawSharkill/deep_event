@@ -1,0 +1,40 @@
+T1	Antibiotic_efflux 17 23	efflux
+E1	Antibiotic_efflux:T1 Theme:T2 Cause:T3
+T2	Bacteria 92 143	Acinetobacter calcoaceticus-Acinetobacter baumannii
+T3	Antibiotic 77 88	tigecycline
+T5	Antibiotic_efflux 215 221	efflux
+E3	Antibiotic_efflux:T5 Theme:T6 Cause:T8
+T6	Bacteria 284 336	Acinetobacter  calcoaceticus-Acinetobacter baumannii
+T8	Antibiotic 348 359	tigecycline
+T9	Bacteria 834 839	G5139
+T10	Bacteria 845 850	G5140
+T11	Bacteria 927 932	G4904
+T12	Bacteria 937 942	G5141
+T14	Antibiotic 852 863	tigecycline
+T15	Antibiotic 1082 1093	tigecycline
+T16	Bacteria 979 985	GC7945
+T17	Bacteria 1005 1010	G5139
+T18	Bacteria 1016 1021	GC795
+T19	Bacteria 1041 1046	G5140
+T20	Antibiotic_target_alteration 971 978	mutants
+E9	Antibiotic_target_alteration:T20 Theme:T16 Cause:T15
+E10	Antibiotic_target_alteration:T20 Theme:T18 Cause:T15
+T21	Bacteria 1347 1352	G5139
+T22	Bacteria 1357 1362	G5140
+T24	Antibiotic 1445 1456	tigecycline
+T25	Bacteria 1464 1494	A.  calcoaceticus-A. baumannii
+T27	Antibiotic_efflux 1566 1572	efflux
+E13	Antibiotic_efflux:T27 Theme:T25 Cause:T24
+T26	Protein 0 6	AdeABC
+T4	Protein 198 204	AdeABC
+T7	Gene 480 484	adeB
+T28	Gene 536 540	adeB
+T29	Gene 583 588	adeRS
+T13	Gene 789 795	adeABC
+T30	Gene 987 991	adeB
+T31	Gene 1024 1028	adeB
+T32	Gene 1156 1162	adeABC
+T33	Gene 1230 1234	adeR
+T34	Gene 1240 1244	adeS
+T35	Gene 1334 1338	adeS
+T23	Protein 1549 1555	AdeABC

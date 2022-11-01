@@ -1,0 +1,35 @@
+T1	Bacteria 117 133	Escherichia coli
+T6	Antibiotic 412 423	ceftazidime
+T7	Antibiotic 427 436	aztreonam
+T8	Antibiotic 441 456	clavulanic acid
+T9	Antibiotic 509 518	cefoxitin
+T10	Antibiotic 523 533	cefuroxime
+T13	Antibiotic 793 807	cephalosporins
+T14	Antibiotic 815 824	aztreonam
+T15	Antibiotic 862 876	cephalosporins
+T16	Antibiotic 938 949	ceftazidime
+T17	Antibiotic 954 963	aztreonam
+T5	Bacteria 631 644	E. coli JM109
+T11	Bacteria 2048 2074	Klebsiella pneumoniae MG-2
+T12	Gene 550 555	VEB-1
+T18	Gene 984 992	blaVEB-1
+T20	Gene 1049 1057	blaPER-1
+T21	Gene 1062 1070	blaPER-2
+T22	Gene 1126 1131	VEB-1
+T23	Gene 46 51	VEB-1
+T2	Bacteria 171 192	Escherichia coli MG-1
+T3	Antibiotic 318 332	cephalosporins
+T4	Antibiotic 337 346	aztreonam
+T19	Antibiotic_inactivation 274 284	conferring
+E1	Antibiotic_inactivation:T19 Theme:T2 Cause:T3
+E2	Antibiotic_inactivation:T19 Theme:T2 Cause:T4
+T24	Gene 1293 1298	PER-1
+T25	Gene 1302 1307	PER-2
+T26	Gene 1401 1409	blaVEB-1
+T27	Gene 1504 1512	blaVEB-1
+T28	Gene 1562 1570	blaVEB-1
+T29	Gene 1671 1679	blaVEB-1
+T30	Gene 1749 1757	blaVEB-1
+T31	Gene 1973 1981	blaVEB-1
+T32	Gene 1743 1747	aadB
+T33	Gene 1733 1741	blaVEB-1

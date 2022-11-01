@@ -1,0 +1,17 @@
+T1	Bacteria 67 86	Bacillus  anthracis
+T2	Bacteria 121 139	Bacillus anthracis
+T4	Bacteria 234 250	Escherichia coli
+T6	Antibiotic 378 391	penicillinase
+T7	Antibiotic 393 409	cephalosporinase
+T3	Antibiotic 334 347	penicillinase
+T5	Gene 164 168	bla1
+T8	Gene 174 178	bla2
+T9	Gene 48 52	Bla1
+T10	Gene 57 61	Bla2
+T11	Gene 318 322	Bla1
+T12	Gene 363 367	Bla2
+T13	Antibiotic_inactivation 428 439	hydrolyzing
+E1	Antibiotic_inactivation:T13 Cause:T14
+T14	Antibiotic 417 427	carbapenem
+E2	Antibiotic_inactivation:T13 Cause:T7
+E3	Antibiotic_inactivation:T13 Cause:T6

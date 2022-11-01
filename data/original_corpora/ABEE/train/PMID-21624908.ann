@@ -1,0 +1,20 @@
+T1	Antibiotic 225 236	carbapenems
+T2	Antibiotic 299 308	aztreonam
+T3	Bacteria 677 693	Escherichia coli
+T4	Bacteria 698 719	Klebsiella pneumoniae
+T5	Bacteria 1019 1026	E. coli
+*	Equiv T5 T3
+T6	Bacteria 1031 1044	K. pneumoniae
+*	Equiv T6 T4
+T7	Protein 1155 1160	NDM-1
+T8	Protein 175 197	metallo-beta-lactamase
+T9	Protein 106 140	New Delhi metallo-beta-lactamase-1
+T10	Protein 142 147	NDM-1
+T11	Protein 0 34	New Delhi metallo-beta-lactamase-1
+T12	Protein 310 315	NDM-1
+T13	Protein 639 644	NDM-1
+T14	Protein 748 753	NDM-1
+T15	Protein 895 900	NDM-1
+T16	Protein 973 978	NDM-1
+T17	Antibiotic 252 275	beta-lactam antibiotics
+T18	Protein 394 400	enzyme

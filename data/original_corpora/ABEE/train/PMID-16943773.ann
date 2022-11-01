@@ -1,0 +1,9 @@
+T1	Antibiotic_efflux 386 397	transporter
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 413 434	Staphylococcus aureus
+T3	Protein 35 38	ABC
+T4	Protein 84 87	ABC
+T5	Protein 382 385	ABC
+T6	Protein 399 406	Sav1866
+T7	Protein 640 644	MDR1
+T8	Protein 724 728	MsbA

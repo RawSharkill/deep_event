@@ -1,0 +1,3 @@
+Expression of the mouse metallothionein-I gene in Escherichia coli: increased  tolerance to heavy metals.
+
+The cDNA of mouse metallothionein, a small metal-binding protein rich in  cysteine, has been cloned downstream from a bacterial inducible promoter and  expressed in Escherichia coli. Upon induction, E. coli harboring this cDNA clone   contained a protein species readily labelled by [35S]cysteine in vivo and  incorporated 10-times as much 109Cd from the medium than would otherwise be the  case. We show that expression of metallothionein endows resistance in E. coli to   heavy metal ions such as mercury, silver, copper, cadmium and zinc by  sequestering rather than exclusion or conversion, common mechanisms of metal  resistance in bacteria.

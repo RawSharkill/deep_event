@@ -1,0 +1,18 @@
+T1	Antibiotic 388 398	ampicillin
+T2	Bacteria 193 207	H.  influenzae
+T3	Bacteria 28 50	Haemophilus influenzae
+T4	Antibiotic 244 254	ampicillin
+T5	Antibiotic 309 319	ampicillin
+T6	Antibiotic 657 667	ampicillin
+T7	Antibiotic 668 677	sulbactam
+T8	Antibiotic 602 613	amoxicillin
+T9	Antibiotic 551 561	ampicillin
+T10	Antibiotic 724 735	amoxicillin
+T11	Antibiotic 736 751	clavulanic acid
+T12	Antibiotic 797 805	cefaclor
+T13	Antibiotic 903 911	cefixime
+T14	Antibiotic 932 943	cefpodoxime
+T15	Antibiotic 1186 1196	ampicillin
+T16	Antibiotic 1005 1016	ceftriaxone
+T17	Antibiotic 975 985	cefotaxime
+T18	Antibiotic 849 859	cefuroxime

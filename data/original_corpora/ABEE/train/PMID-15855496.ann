@@ -1,0 +1,35 @@
+T1	Bacteria 133 155	Pseudomonas aeruginosa
+T3	Antibiotic_target_alteration 0 9	Mutations
+E2	Antibiotic_target_alteration:T3 Theme:T1
+T5	Antibiotic_efflux 272 278	efflux
+E4	Antibiotic_efflux:T5 Theme:T6
+T6	Bacteria 289 312	Pseudomonas  aeruginosa
+T7	Bacteria 367 380	P. aeruginosa
+T8	Antibiotic_target_alteration 159 168	Mutations
+E5	Antibiotic_target_alteration:T8 Theme:T6
+*	Equiv T7 T1
+T2	Gene 13 19	PA3574
+T4	Gene 21 25	nalD
+T9	Protein 45 50	MexAB
+T10	Protein 51 55	OprM
+T11	Protein 396 401	MexAB
+T12	Gene 178 182	mexR
+T13	Gene 187 191	nalC
+T14	Protein 251 256	MexAB
+T15	Protein 257 261	OprM
+T16	Protein 402 406	OprM
+T17	Protein 488 492	TetR
+T18	Protein 493 497	AcrR
+T19	Gene 442 448	PA3574
+T20	Protein 525 529	NalD
+T21	Protein 564 569	MexAB
+T22	Protein 570 574	OprM
+T23	Gene 600 604	mexR
+T24	Gene 608 612	nalC
+T25	Gene 652 656	nalD
+T26	Gene 679 683	nalD
+T27	Protein 727 732	MexAB
+T28	Protein 733 737	OprM
+T29	Gene 835 839	nalD
+T30	Protein 862 867	MexAB
+T31	Protein 868 872	OprM

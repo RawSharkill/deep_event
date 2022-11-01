@@ -1,0 +1,5 @@
+T1	Antibiotic_efflux 807 813	efflux
+E1	Antibiotic_efflux:T1 
+T2	Bacteria 39 65	Alcaligenes eutrophus CH34
+T3	Bacteria 98 124	Alcaligenes eutrophus CH34
+T4	Bacteria 1680 1701	A. eutrophus  strains

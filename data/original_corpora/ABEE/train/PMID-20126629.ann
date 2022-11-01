@@ -1,0 +1,34 @@
+T1	Bacteria 0 12	E. coli K-12
+T2	Bacteria 254 261	E. coli
+T3	Bacteria 1228 1235	E. coli
+T4	Bacteria 942 954	E. coli K-12
+T5	Bacteria 979 995	E.  coli O157:H7
+T6	Bacteria 1314 1321	E. coli
+T7	Bacteria 1540 1547	E. coli
+T8	Bacteria 17 21	EHEC
+T9	Protein 41 45	SdiA
+T10	Bacteria 61 72	Escherichia
+T11	Bacteria 77 87	Salmonella
+T12	Protein 95 99	SdiA
+T13	Protein 132 136	LuxR
+T14	Protein 208 212	AHLs
+T15	Protein 180 206	N-acyl homoserine lactones
+T16	Gene 327 331	sdiA
+T17	Gene 434 438	sdiA
+T18	Gene 497 501	sdiA
+T19	Protein 577 580	AHL
+T20	Gene 691 695	sdiA
+T21	Gene 697 703	ftsQAZ
+T22	Gene 708 713	acrAB
+T23	Gene 733 737	sdiA
+T24	Protein 799 803	AHLs
+T25	Gene 858 862	sdiA
+T26	Protein 870 874	AHLs
+T27	Protein 1014 1017	AHL
+T28	Gene 1051 1055	sdiA
+T29	Gene 1194 1198	sdiA
+T30	Protein 1269 1272	AHL
+T31	Gene 1367 1371	sdiA
+T32	Gene 1434 1438	sdiA
+T33	Protein 1446 1449	AHL
+T34	Protein 1523 1526	AHL

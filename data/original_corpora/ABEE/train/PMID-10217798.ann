@@ -1,0 +1,31 @@
+T2	Antibiotic 88 98	novobiocin
+T4	Antibiotic_target_alteration 16 23	mutants
+E2	Antibiotic_target_alteration:T4 Theme:T17 Cause:T2
+T5	Bacteria 214 230	Escherichia coli
+T6	Antibiotic 234 244	novobiocin
+T8	Antibiotic_target_alteration 143 152	mutations
+E4	Antibiotic_target_alteration:T8 Theme:T5 Cause:T6
+T10	Antibiotic 642 652	mecillinam
+T11	Antibiotic 669 679	novobiocin
+T14	Antibiotic 820 830	mecillinam
+T15	Antibiotic 836 846	novobiocin
+T12	Antibiotic 1073 1083	novobiocin
+T16	Antibiotic 1095 1105	mecillinam
+T17	Bacteria 27 48	Escherichia coli K-12
+T9	Antibiotic 620 630	penicillin
+T18	Antibiotic_target_alteration 699 706	mutants
+E7	Antibiotic_target_alteration:T18 Cause:T11 Theme:T5
+T22	Antibiotic_target_alteration 960 969	mutations
+E13	Antibiotic_target_alteration:T22 Theme:T17
+T23	Antibiotic_target_alteration 990 1000	production
+E14	Antibiotic_target_alteration:T23 Theme:T17
+T3	Gene 166 170	cysB
+T21	Gene 172 176	cysE
+T24	Gene 183 192	cls (nov)
+T7	Gene 477 481	rpoN
+T25	Gene 560 564	alaS
+T26	Gene 566 570	argS
+T27	Gene 572 576	ileS
+T28	Gene 583 587	leuS
+T1	Gene 1038 1041	cls
+T13	Protein 1004 1008	RelA

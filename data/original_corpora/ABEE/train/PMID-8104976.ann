@@ -1,0 +1,13 @@
+T1	Antibiotic 853 867	aminoglycoside
+T2	Protein 14 43	extended spectrum beta-lactam
+T3	Antibiotic 58 72	aminoglycoside
+T4	Bacteria 84 106	Pseudomonas aeruginosa
+T5	Antibiotic 542 552	cefotaxime
+T6	Antibiotic 554 565	ceftriaxone
+T7	Antibiotic 570 578	cefepime
+T8	Antibiotic 727 742	 aminoglycoside
+T9	Antibiotic 659 667	amikacin
+T10	Antibiotic 672 682	isepamicin
+T11	Bacteria 202 224	Pseudomonas aeruginosa
+T12	Antibiotic 238 253	aminoglycosides
+T13	Protein 498 528	 extended spectrum beta-lactam

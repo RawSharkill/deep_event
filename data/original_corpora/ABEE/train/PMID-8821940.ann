@@ -1,0 +1,25 @@
+T1	Bacteria 86 102	Escherichia coli
+T2	Bacteria 176 192	Escherichia coli
+T3	Bacteria 1243 1250	E. coli
+*	Equiv T3 T2
+T4	Gene 136 141	acrAB
+T5	Gene 70 75	acrAB
+T6	Gene 245 250	acrAB
+T7	Gene 581 585	acrR
+T8	Gene 611 616	acrAB
+T9	Gene 1150 1155	acrAB
+T10	Gene 913 918	acrAB
+T11	Gene 690 695	acrAB
+T12	Gene 796 800	acrR
+T13	Gene 834 839	acrAB
+T14	Gene 1083 1088	acrAB
+T15	Protein 1421 1425	MarA
+T16	Protein 1429 1433	SoxS
+T17	Gene 1524 1529	acrAB
+T18	Gene 1302 1307	acrAB
+T19	Gene 537 542	acrAB
+T20	Antibiotic_efflux 161 167	efflux
+E1	Antibiotic_efflux:T20 Theme:T2
+T21	Protein 20 24	AcrR
+T22	Protein 725 729	AcrR
+T23	Protein 1002 1006	AcrR

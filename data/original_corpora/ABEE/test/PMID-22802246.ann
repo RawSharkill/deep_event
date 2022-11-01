@@ -1,0 +1,31 @@
+T1	Antibiotic 402 412	rifamycins
+T2	Bacteria 802 814	actinomycete
+T3	Antibiotic 863 871	rifampin
+T4	Antibiotic 961 969	rifampin
+T5	Bacteria 1050 1072	Streptomyces speibonae
+T6	Antibiotic 1150 1158	rifampin
+T7	Antibiotic 1249 1257	rifampin
+T8	Antibiotic 1577 1586	rifamycin
+T9	Antibiotic 1684 1693	rifamycin
+T10	Antibiotic 1791 1799	rifampin
+T11	Antibiotic 1878 1888	rifamycins
+T12	Antibiotic 1918 1926	rifampin
+T13	Antibiotic_inactivation 948 960	inactivating
+E1	Antibiotic_inactivation:T13 Cause:T4
+T14	Antibiotic_inactivation 31 43	inactivating
+E2	Antibiotic_inactivation:T14 Theme:T15 Cause:T17
+T15	Bacteria 97 110	actinomycetes
+T16	Protein 44 63	glycosyltransferase
+T17	Antibiotic 22 30	rifampin
+T18	Antibiotic 783 801	rifampin-resistant
+T19	Antibiotic_inactivation 872 884	inactivation
+E3	Antibiotic_inactivation:T19 Cause:T3 Theme:T2
+T20	Antibiotic_inactivation 1847 1859	inactivating
+E4	Antibiotic_inactivation:T20 Cause:T11
+T21	Antibiotic_inactivation 1366 1378	inactivation
+E5	Antibiotic_inactivation:T21 Cause:T7
+T22	Antibiotic_inactivation 1660 1670	inactivate
+E6	Antibiotic_inactivation:T22 Cause:T9
+T23	Antibiotic_inactivation 677 688	nactivation
+E7	Antibiotic_inactivation:T23 Cause:T1
+T24	Gene 1089 1102	16S rRNA gene

@@ -1,0 +1,10 @@
+T1	Antibiotic 28 51	beta-lactam antibiotics
+T2	Antibiotic 98 121	beta-lactam antibiotics
+T4	Antibiotic 256 266	penicillin
+T3	Bacteria 126 148	Gram-negative bacteria
+T5	Antibiotic_inactivation 201 211	hydrolytic
+E1	Antibiotic_inactivation:T5 Theme:T3 Cause:T2
+T6	Antibiotic_target_alteration 240 248	affinity
+E2	Antibiotic_target_alteration:T6 Theme:T3 Cause:T2
+T7	Reduced_permeability_to_antibiotic 398 407	penetrate
+E3	Reduced_permeability_to_antibiotic:T7 Theme:T3 Cause:T2

@@ -1,0 +1,6 @@
+T1	Bacteria 583 594	Pseudomonas
+T2	Antibiotic 1121 1130	kanamycin
+T3	Antibiotic 1132 1135	Kan
+*	Equiv T3 T2
+T4	Antibiotic 935 938	kan
+T5	Antibiotic 1175 1184	kanamycin

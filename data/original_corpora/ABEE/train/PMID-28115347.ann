@@ -1,0 +1,19 @@
+T1	Antibiotic 67 77	Daptomycin
+T2	Bacteria 93 119	Streptococcus mitis/oralis
+T3	Bacteria 144 170	Streptococcus mitis/oralis
+T4	Antibiotic 482 492	daptomycin
+T5	Antibiotic 494 497	DAP
+*	Equiv T5 T4
+T6	Bacteria 554 569	S. mitis/oralis
+*	Equiv T6 T3
+T7	Bacteria 719 734	S. mitis/oralis
+T8	Antibiotic 811 814	DAP
+T9	Bacteria 917 932	S. mitis/oralis
+T10	Antibiotic 995 998	DAP
+T11	Bacteria 1328 1344	S.  mitis/oralis
+T12	Antibiotic 1698 1701	DAP
+T13	Antibiotic 1893 1896	DAP
+T14	Bacteria 1911 1926	S. mitis/oralis
+T15	Bacteria 661 684	Gram-positive pathogens
+T16	Antibiotic 903 906	DAP
+T17	Antibiotic 883 886	DAP

@@ -1,0 +1,22 @@
+T1	Antibiotic 51 63	tetracycline
+T2	Bacteria 93 105	streptococci
+T3	Antibiotic 128 140	tetracycline
+T4	Bacteria 169 181	streptococci
+T5	Antibiotic 255 267	tetracycline
+T6	Bacteria 276 298	Streptococcus faecalis
+T7	Bacteria 303 319	Escherichia coli
+T8	Bacteria 327 334	E. coli
+*	Equiv T8 T7
+T9	Bacteria 405 418	streptococcal
+T10	Bacteria 493 505	S.  faecalis
+*	Equiv T10 T6
+T11	Antibiotic 558 570	tetracycline
+T12	Antibiotic 519 531	tetracycline
+T13	Antibiotic_efflux 17 23	efflux
+E1	Antibiotic_efflux:T13 Cause:T1 Theme:T2
+T14	Gene 45 49	tetL
+T15	Protein 122 126	TetL
+T16	Antibiotic_efflux 228 237	decreased
+E2	Antibiotic_efflux:T16 Cause:T3 Theme:T4
+E3	Antibiotic_efflux:T16 Cause:T5 Theme:T6
+E4	Antibiotic_efflux:T16 Theme:T7 Cause:T5

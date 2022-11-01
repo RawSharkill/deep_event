@@ -1,0 +1,3 @@
+Membrane topology of ABC-type macrolide antibiotic exporter MacB in Escherichia  coli. 
+
+MacB is an ABC-type membrane protein that exports only macrolide compounds  containing 14- and 15-membered lactones, cooperating with a membrane fusion  protein, MacA, and a multifunctional outer membrane channel, TolC. We determined   the membrane topology of MacB by means of site-specific competitive chemical  modification of single cysteine mutants. As a result, it was revealed that MacB  is composed of four transmembrane (TM) segments with a cytoplasmic N-terminal  nucleotide binding domain of about 270 amino acid residues and a periplasmic  large hydrophilic polypeptide between TM segments 1 and 2 of about 200 amino acid  residues.

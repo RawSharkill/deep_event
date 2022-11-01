@@ -1,0 +1,26 @@
+T1	Bacteria 32 53	Klebsiella pneumoniae
+T2	Bacteria 138 159	Klebsiella pneumoniae
+T3	Antibiotic 20 28	colistin
+T4	Antibiotic 200 208	colistin
+T5	Antibiotic 571 579	colistin
+T6	Antibiotic 954 962	colistin
+T7	Antibiotic 1051 1059	colistin
+T8	Antibiotic 465 474	polymyxin
+T9	Bacteria 1081 1094	K. pneumoniae
+*	Equiv T9 T2
+T10	Antibiotic_target_alteration 70 81	alterations
+E1	Antibiotic_target_alteration:T10 Theme:T1 Cause:T3
+T11	Antibiotic 231 239	colistin
+T12	Protein 283 293	amino acid
+T13	Antibiotic 433 460	 l-aminoarabinose synthesis
+T14	Protein 324 328	PhoP
+T15	Protein 351 356	PhoPQ
+T16	Gene 529 533	phoP
+T17	Antibiotic 604 612	colistin
+T18	Gene 681 685	phoP
+T19	Antibiotic 715 723	colistin
+T20	Protein 859 870	amino acids
+T21	Gene 795 799	phoP
+T22	Protein 946 950	PhoP
+T23	Antibiotic_target_alteration 931 939	mutation
+E2	Antibiotic_target_alteration:T23 Cause:T6

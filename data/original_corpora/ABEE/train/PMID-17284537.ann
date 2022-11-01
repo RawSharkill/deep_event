@@ -1,0 +1,35 @@
+T1	Bacteria 33 56	Acinetobacter baumannii
+T2	Bacteria 137 161	Acinetobacter  baumannii
+T3	Bacteria 244 256	A. baumannii
+*	Equiv T3 T1
+T4	Bacteria 575 587	A. baumannii
+T5	Bacteria 731 743	A. baumannii
+T6	Bacteria 1229 1241	A. baumannii
+T7	Bacteria 1635 1647	A. baumannii
+T8	Antibiotic 225 233	imipenem
+T9	Gene 460 473	carbapenemase
+T10	Gene 1009 1040	la(OXA-51)-type  beta-lactamase
+T11	Gene 1126 1156	bla(OXA-51)-type beta-lactamas
+T12	Gene 1721 1732	bla(OXA-23)
+T13	Gene 1272 1303	bla(OXA-51)-type beta-lactamase
+T14	Gene 1458 1469	bla(OXA-96)
+T15	Gene 1373 1384	bla(OXA-88)
+T16	Gene 1622 1625	OXA
+T17	Gene 1679 1692	carbapenemase
+T18	Antibiotic 556 564	imipenem
+T19	Gene 330 343	carbapenemase
+T20	Gene 704 720	of carbapenemase
+T21	Gene 114 127	carbapenemase
+T22	Gene 0 5	IMP-4
+T23	Gene 10 29	OXA beta-lactamases
+T24	Gene 1089 1100	bla(OXA-58)
+T25	Gene 1106 1116	bla(PSE-1)
+T26	Gene 390 403	carbapenemase
+T27	Gene 907 917	bla(IMP-4)
+T28	Gene 958 969	bla(OXA-23)
+T29	Gene 929 940	bla(OXA-58)
+T30	Gene 864 877	carbapenemase
+T31	Gene 1064 1074	bla(IMP-4)
+T32	Gene 1333 1365	bla(OXA-51)-type  beta-lactamase
+T33	Gene 1420 1451	bla(OXA-58)-type beta-lactamase
+T34	Gene 1514 1527	carbapenemase

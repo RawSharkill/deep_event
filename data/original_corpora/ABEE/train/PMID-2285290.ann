@@ -1,0 +1,12 @@
+T1	Antibiotic 48 71	beta-lactam antibiotics
+T2	Antibiotic 76 87	methicillin
+T3	Bacteria 109 137	Staphylococcus saprophyticus
+T4	Antibiotic 169 180	methicillin
+T5	Bacteria 202 231	Staphylococcus  saprophyticus
+T6	Protein 252 278	Penicillin-binding protein
+T7	Protein 280 283	PBP
+T8	Protein 320 323	PBP
+T9	Protein 337 343	PBP 2a
+T10	Protein 432 438	PBP 2a
+T11	Antibiotic 463 474	methicillin
+T12	Bacteria 515 532	S.  saprophyticus

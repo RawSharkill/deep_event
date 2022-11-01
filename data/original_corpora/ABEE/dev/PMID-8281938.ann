@@ -1,0 +1,8 @@
+T1	Bacteria 617 638	Enterobacter  cloacae
+T2	Bacteria 642 658	Escherichia coli
+T3	Antibiotic 1582 1594	phosphomycin
+T4	Protein 165 171	enzyme
+T5	Protein 179 185	enzyme
+T6	Protein 605 611	enzyme
+T7	Antibiotic_inactivation 1737 1745	inactive
+E1	Antibiotic_inactivation:T7 

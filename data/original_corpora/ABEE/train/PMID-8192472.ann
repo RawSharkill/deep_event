@@ -1,0 +1,19 @@
+T1	Bacteria 74 102	Mycobacterium intracellulare
+T2	Antibiotic 105 119	Clarithromycin
+T3	Bacteria 191 218	nontuberculous mycobacteria
+T4	Antibiotic 132 141	macrolide
+T5	Bacteria 256 292	Mycobacterium intracellulare strains
+T6	Bacteria 345 362	M. intracellulare
+*	Equiv T6 T1
+T7	Antibiotic 403 417	clarithromycin
+T8	Bacteria 655 671	Escherichia coli
+T9	Antibiotic 783 792	macrolide
+T10	Antibiotic 908 922	clarithromycin
+T11	Bacteria 926 943	M. intracellulare
+T12	Antibiotic 48 62	clarithromycin
+T13	Antibiotic_target_alteration 18 27	mutations
+E1	Antibiotic_target_alteration:T13 Cause:T12 Theme:T1
+T14	Antibiotic_target_alteration 713 725	modification
+E2	Antibiotic_target_alteration:T14 Cause:T9 Theme:T11
+T15	Antibiotic_target_alteration 857 865	mutation
+E3	Antibiotic_target_alteration:T15 Cause:T10 Theme:T11

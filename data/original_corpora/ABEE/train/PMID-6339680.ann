@@ -1,0 +1,13 @@
+T1	Antibiotic 46 58	trimethoprim
+T2	Bacteria 95 110	Escherichia col
+T3	Antibiotic 157 169	trimethoprim
+T4	Bacteria 247 263	Escherichia coli
+T5	Bacteria 268 288	Escherichia coli K12
+T6	Antibiotic 503 515	trimethoprim
+T7	Bacteria 536 547	E. coli K12
+*	Equiv T7 T5
+T8	Bacteria 727 738	E. coli K12
+T9	Antibiotic 1120 1132	trimethoprim
+T10	Bacteria 1166 1173	E. coli
+T11	Bacteria 1266 1277	E. coli K12
+T12	Antibiotic 315 327	Trimethoprim

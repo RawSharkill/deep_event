@@ -1,0 +1,16 @@
+T1	Bacteria 29 56	Enterococcus faecium BM4147
+T2	Antibiotic 80 91	teicoplanin
+T3	Antibiotic 179 189	vancomycin
+T4	Antibiotic 191 193	Vm
+*	Equiv T4 T3
+T5	Antibiotic 199 210	teicoplanin
+T6	Antibiotic 212 214	Te
+*	Equiv T6 T5
+T7	Bacteria 388 399	enterococci
+T8	Antibiotic 697 707	ramoplanin
+T9	Gene 499 503	vanZ
+T10	Gene 4 8	vanZ
+T11	Antibiotic_target_replacement 309 317	replaces
+E1	Antibiotic_target_replacement:T11 Theme:T7
+T12	Antibiotic 529 531	Te
+T13	Gene 723 727	VanZ

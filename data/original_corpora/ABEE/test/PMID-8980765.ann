@@ -1,0 +1,35 @@
+T1	Antibiotic 4 16	tetracycline
+T2	Bacteria 77 89	streptococci
+T3	Bacteria 265 277	streptococci
+T4	Antibiotic 291 303	tetracycline
+T5	Antibiotic 308 319	minocycline
+T6	Bacteria 138 166	Streptococcus  pyogenes A498
+T7	Bacteria 1027 1055	Streptococcus  pyogenes A498
+T8	Bacteria 1170 1186	Escherichia coli
+T9	Gene 656 662	tet(M)
+T10	Gene 664 670	tet(O)
+T11	Gene 672 679	tetB(P)
+T12	Gene 681 687	tet(Q)
+T13	Gene 692 698	tet(S)
+T14	Gene 447 453	Tet(S)
+T15	Gene 1002 1008	tet(T)
+T16	Gene 1216 1222	Tet(T)
+T17	Gene 1297 1303	Tet(T)
+T18	Gene 1308 1314	Tet(Q)
+T19	Protein 1340 1350	amino acid
+T20	Gene 1400 1405	Tet T
+T21	Protein 410 416	Tet(M)
+T22	Protein 418 424	Tet(O)
+T23	Protein 426 433	TeTB(P)
+T24	Protein 435 441	Tet(Q)
+T25	Antibiotic 488 499	minocycline
+T26	Antibiotic 474 487	 tetracycline
+T27	Gene 890 893	Tet
+T28	Gene 964 969	Tet T
+T29	Gene 1452 1455	Tet
+T30	Gene 245 248	tet
+T31	Antibiotic_target_protection 62 72	protection
+E1	Antibiotic_target_protection:T31 Theme:T2 Cause:T1
+T32	Gene 117 123	tet(T)
+T33	Antibiotic 1143 1155	tetracycline
+T34	Protein 1247 1258	amino acids

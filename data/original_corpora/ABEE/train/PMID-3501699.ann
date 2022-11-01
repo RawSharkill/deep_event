@@ -1,0 +1,50 @@
+T1	Antibiotic 78 89	ceftriaxone
+T2	Bacteria 104 124	Enterobacter cloacae
+T3	Antibiotic 141 152	ceftriaxone
+T4	Bacteria 181 201	Enterobacter cloacae
+T5	Antibiotic 445 456	beta-lactam
+T6	Antibiotic 473 484	ceftriaxone
+T7	Antibiotic 666 675	cefoxitin
+T8	Antibiotic 770 781	ceftriaxone
+T9	Antibiotic 928 938	ceftriaxon
+T10	Antibiotic 1710 1721	cloxacillin
+T11	Antibiotic 1912 1925	cephaloridine
+T12	Antibiotic 1970 1981	ceftriaxone
+T13	Antibiotic 2144 2155	ceftriaxone
+T14	Antibiotic 2157 2168	ceftazidime
+T15	Antibiotic 2170 2183	carbenicillin
+T16	Antibiotic 2186 2198	piperacillin
+T17	Antibiotic 2212 2221	aztreonam
+T18	Antibiotic 2223 2232	carumonam
+T19	Antibiotic 2238 2247	BMY 28142
+T20	Antibiotic 2249 2257	Imipenem
+T21	Antibiotic 2392 2404	piperacillin
+T22	Antibiotic 2406 2414	imipenem
+T23	Antibiotic 2416 2425	Sch 34343
+T24	Antibiotic 2262 2272	Sch  34343
+T25	Antibiotic 944 953	Sch 34343
+T26	Antibiotic_inactivation 31 41	hydrolysis
+E1	Antibiotic_inactivation:T26 Cause:T1 Theme:T2
+T27	Antibiotic 1103 1114	ceftriaxone
+T28	Antibiotic_inactivation 1151 1161	hydrolyzed
+E2	Antibiotic_inactivation:T28 Cause:T27
+T29	Antibiotic_inactivation 1959 1969	hydrolyzed
+E3	Antibiotic_inactivation:T29 Cause:T12
+T30	Antibiotic 369 381	 ceftriaxone
+T31	Antibiotic 301 312	ceftriaxone
+T33	Antibiotic 2200 2210	moxalactam
+T32	Antibiotic_inactivation 817 827	hydrolysis
+E4	Antibiotic_inactivation:T32 Cause:T8
+T34	Reduced_permeability_to_antibiotic 2477 2489	permeability
+E5	Reduced_permeability_to_antibiotic:T34 Cause:T21
+E6	Reduced_permeability_to_antibiotic:T34 Cause:T22
+E7	Reduced_permeability_to_antibiotic:T34 Cause:T23
+T35	Antibiotic_inactivation 2050 2064	beta-lactamase
+E8	Antibiotic_inactivation:T35 Cause:T13
+E9	Antibiotic_inactivation:T35 Cause:T14
+E10	Antibiotic_inactivation:T35 Cause:T15
+E11	Antibiotic_inactivation:T35 Cause:T16
+E12	Antibiotic_inactivation:T35 Cause:T33
+E13	Antibiotic_inactivation:T35 Cause:T17
+E14	Antibiotic_inactivation:T35 Cause:T18
+E15	Antibiotic_inactivation:T35 Cause:T19

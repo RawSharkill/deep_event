@@ -1,0 +1,32 @@
+T1	Antibiotic 57 65	colistin
+T2	Bacteria 69 91	Klebsiella  pneumoniae
+T3	Antibiotic 188 196	colistin
+T4	Bacteria 211 232	Klebsiella pneumoniae
+T5	Antibiotic 442 450	colistin
+T6	Bacteria 477 490	K. pneumoniae
+*	Equiv T6 T2
+T7	Bacteria 502 543	Colistin-resistant K. pneumoniae isolates
+T8	Antibiotic 1772 1780	colistin
+T9	Bacteria 1795 1808	K. pneumoniae
+T10	Gene 4 8	mgrB
+T11	Protein 126 131	PhoPQ
+T12	Protein 234 238	MgrB
+T13	Protein 305 310	PhoPQ
+T14	Protein 414 418	MgrB
+T15	Gene 648 652	mgrB
+T16	Gene 699 703	mgrB
+T17	Gene 949 953	mgrB
+T18	Gene 1001 1005	mgrB
+T19	Gene 1135 1139	mgrB
+T20	Gene 1259 1263	mgrB
+T21	Gene 1351 1355	mgrB
+T22	Gene 1027 1030	IS5
+T23	Gene 1036 1038	IS
+T24	Protein 1155 1162	ISKpn13
+T25	Protein 1224 1231	ISKpn14
+T26	Protein 1467 1471	MgrB
+T27	Protein 1522 1526	MgrB
+T28	Antibiotic 1567 1575	colistin
+T29	Antibiotic 1585 1593	colistin
+T30	Protein 1657 1661	MgrB
+T31	Gene 1733 1737	mgrB

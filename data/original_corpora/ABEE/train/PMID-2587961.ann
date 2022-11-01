@@ -1,0 +1,9 @@
+T3	Antibiotic 731 743	piperacillin
+T4	Antibiotic 752 763	ceftizoxime
+T5	Antibiotic 772 781	cefoxitin
+T6	Antibiotic 794 802	imipenem
+T7	Antibiotic 811 834	ticarcillin-clavulanate
+T8	Antibiotic 843 854	clindamycin
+T9	Antibiotic 864 879	chloramphenicol
+T10	Antibiotic 888 900	tetracycline
+T11	Antibiotic 909 922	metronidazole

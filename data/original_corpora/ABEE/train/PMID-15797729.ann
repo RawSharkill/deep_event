@@ -1,0 +1,19 @@
+T1	Antibiotic_efflux 36 42	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 57 79	Pseudomonas aeruginosa
+T3	Antibiotic_efflux 187 193	efflux
+E2	Antibiotic_efflux:T3 Theme:T4
+T4	Bacteria 209 231	Pseudomonas aeruginosa
+T5	Antibiotic_efflux 805 811	efflux
+E3	Antibiotic_efflux:T5 Theme:T6
+T6	Bacteria 826 842	Escherichia coli
+T7	Protein 22 26	OprN
+T8	Protein 31 35	OprM
+T9	Protein 117 121	OprM
+T10	Protein 126 130	OprN
+T11	Protein 343 347	OprN
+T12	Protein 353 357	OprM
+T13	Protein 637 641	OprN
+T14	Protein 767 771	OprN
+T15	Protein 777 781	OprM
+T16	Protein 787 791	TolC

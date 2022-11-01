@@ -1,0 +1,8 @@
+T1	Bacteria 107 122	Yersinia pestis
+T2	Bacteria 271 280	Y. pestis
+*	Equiv T2 T1
+T3	Bacteria 529 538	Y. pestis
+T4	Bacteria 652 680	Salmonella enterica serotype
+T5	Bacteria 718 739	Yersinia ruckeri YR71
+T6	Bacteria 914 923	Y. pestis
+T7	Bacteria 1553 1562	Y. pestis

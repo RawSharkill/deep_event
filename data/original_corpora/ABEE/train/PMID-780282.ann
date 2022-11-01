@@ -1,0 +1,18 @@
+T1	Antibiotic 1840 1852	trimethoprim
+T2	Antibiotic 1641 1656	chloramphenicol
+T3	Antibiotic 1657 1674	acetyltransferase
+T4	Antibiotic 1605 1619	aminoglycoside
+T5	Antibiotic 1587 1602	beta-lactamases
+T6	Antibiotic_inactivation 1560 1570	inactivate
+E1	Antibiotic_inactivation:T6 Cause:T5
+E2	Antibiotic_inactivation:T6 Cause:T4
+E3	Antibiotic_inactivation:T6 Cause:T2
+E4	Antibiotic_inactivation:T6 Cause:T3
+T7	Reduced_permeability_to_antibiotic 1749 1763	permeability  
+E5	Reduced_permeability_to_antibiotic:T7 Cause:T8
+T8	Antibiotic 1764 1776	tetracycline
+T9	Antibiotic_target_alteration 1811 1819	affinity
+E6	Antibiotic_target_alteration:T9 Cause:T1
+T10	Antibiotic 2012 2027	chloramphenicol
+T11	Antibiotic 2029 2040	beta-lactam
+T12	Antibiotic 2057 2072	aminoglycosides

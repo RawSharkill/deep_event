@@ -1,0 +1,16 @@
+T1	Antibiotic 20 32	trimethoprim
+T2	Bacteria 61 77	Escherichia coli
+T3	Bacteria 215 231	Escherichia coli
+T4	Bacteria 373 385	E. coli K-12
+T5	Antibiotic 822 834	trimethoprim
+T6	Antibiotic 929 941	trimethoprim
+T7	Gene 105 111	dhfrIX
+T8	Gene 391 397	dhfrIX
+T9	Protein 274 285	amino acids
+T10	Gene 621 627	dhfrIX
+T11	Gene 787 792	dhfrI
+T12	Gene 526 532	dhfrIX
+T13	Protein 149 172	dihydrofolate reductase
+T14	Gene 175 179	DHFR
+T15	Protein 249 257	DHFR  IX
+T16	Protein 297 307	amino acid

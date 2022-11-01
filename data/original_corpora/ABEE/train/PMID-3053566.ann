@@ -1,0 +1,31 @@
+T1	Antibiotic 23 33	spiramycin
+T2	Antibiotic 44 54	macrolides
+T3	Antibiotic 57 66	Macrolide
+T4	Antibiotic 307 317	Macrolides
+T5	Antibiotic 456 466	macrolides
+T6	Antibiotic 515 525	Spiramycin
+T7	Antibiotic 530 551	16-membered macrolide
+T8	Antibiotic 770 780	Spiramycin
+T9	Antibiotic 1050 1060	spiramycin
+T10	Antibiotic 1080 1090	macrolides
+T12	Antibiotic 1287 1297	macrolides
+T15	Antibiotic 1449 1459	macrolides
+T16	Antibiotic 1619 1629	macrolides
+T17	Antibiotic 1631 1643	lincosamides
+T18	Antibiotic 1649 1670	streptogramins type B
+T19	Bacteria 1810 1829	Staphylococcus spp.
+T20	Bacteria 1834 1850	Escherichia coli
+T21	Antibiotic 1884 1906	14-membered macrolides
+T22	Antibiotic 1908 1920	erythromycin
+T23	Antibiotic 1925 1937	oleandomycin
+T24	Antibiotic 1967 1977	spiramycin
+T11	Bacteria 1244 1267	Gram-negative organisms
+T13	Antibiotic_inactivation 1773 1785	inactivation
+E1	Antibiotic_inactivation:T13 Theme:T19 Cause:T21
+E2	Antibiotic_inactivation:T13 Theme:T20 Cause:T21
+T14	Bacteria 1342 1364	Gram-positive bacteria
+T25	Bacteria 1224 1237	Gram-positive
+T26	Reduced_permeability_to_antibiotic 1750 1764	impermeability
+E3	Reduced_permeability_to_antibiotic:T26 Theme:T19 Cause:T21
+E4	Reduced_permeability_to_antibiotic:T26 Theme:T20 Cause:T21
+T27	Bacteria 1411 1433	Gram-negative bacteria

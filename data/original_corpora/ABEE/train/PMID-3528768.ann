@@ -1,0 +1,20 @@
+T1	Bacteria 57 80	Vibrio parahaemolyticus
+T2	Antibiotic 188 203	chloramphenicol
+T3	Antibiotic 205 207	CP
+T4	Antibiotic 210 237	aminoglycoside  antibiotics
+T5	Antibiotic 239 242	AGs
+*	Equiv T5 T4
+*	Equiv T3 T2
+T6	Antibiotic 248 271	beta-lactam antibiotics
+T7	Antibiotic 324 326	CP
+T8	Antibiotic 328 331	AGs
+T9	Antibiotic 336 359	beta-lactam antibiotics
+T10	Antibiotic 379 394	chloramphenicol
+T11	Bacteria 138 173	Vibrio (V.)  parahaemolyticus ST550
+T12	Protein 414 417	CAT
+T13	Protein 459 466	AAD(3")
+T14	Protein 420 457	aminoglycoside-3"-adenylyltransferase
+T15	Protein 395 412	acetyltransferase
+T16	Protein 471 507	aminoglycoside-3'-phosphotransferase
+T17	Protein 508 515	APH(3')
+T18	Protein 530 543	penicillinase

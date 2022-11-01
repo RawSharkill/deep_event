@@ -1,0 +1,36 @@
+T1	Bacteria 27 48	Klebsiella pneumoniae
+T2	Antibiotic_efflux 104 110	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Bacteria 172 193	Klebsiella pneumoniae
+T4	Bacteria 357 388	K. pneumoniae strain NTUH-K2044
+T5	Antibiotic_efflux 446 452	efflux
+E2	Antibiotic_efflux:T5 Theme:T4
+T7	Antibiotic 976 984	cefepime
+T8	Antibiotic 986 997	ceftriaxone
+T9	Antibiotic 999 1007	colistin
+T10	Antibiotic 1009 1021	erythromycin
+T11	Antibiotic 1023 1031	rifampin
+T12	Antibiotic 1034 1046	tetracycline
+T13	Antibiotic 1052 1064	streptomycin
+T15	Antibiotic 1289 1311	sodium dodecyl sulfate
+T16	Antibiotic 1313 1325	deoxycholate
+T17	Antibiotic 1390 1411	benzalkonium chloride
+T18	Antibiotic 1413 1426	chlorhexidine
+T19	Antibiotic 1433 1442	triclosan
+T20	Bacteria 1540 1553	K. pneumoniae
+T21	Antibiotic_efflux 1831 1837	efflux
+E15	Antibiotic_efflux:T21 Theme:T22
+T22	Bacteria 1846 1860	Klebsiella spp
+*	Equiv T20 T1
+T6	Protein 0 5	KpnEF
+T14	Protein 95 98	SMR
+T23	Protein 533 536	SMR
+T24	Gene 558 563	ebrAB
+T25	Gene 590 595	kpnEF
+T26	Gene 738 743	kpnEF
+T27	Gene 929 934	kpnEF
+T28	Gene 1462 1467	kpnEF
+T29	Protein 1580 1584	CpxR
+T30	Gene 1665 1670	cpxAR
+T31	Gene 1703 1708	kpnEF
+T32	Protein 1821 1824	SMR

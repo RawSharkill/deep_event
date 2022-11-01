@@ -1,0 +1,31 @@
+T1	Antibiotic 33 43	vancomycin
+T2	Bacteria 65 89	Streptomyces  coelicolor
+T3	Antibiotic 150 160	Vancomycin
+T4	Bacteria 234 277	methicillin-resistant Staphylococcus aureus
+T5	Bacteria 279 283	MRSA
+*	Equiv T5 T4
+T6	Antibiotic 305 315	vancomycin
+T7	Antibiotic 348 358	Vancomycin
+T8	Bacteria 616 639	Streptomyces coelicolor
+T9	Antibiotic 676 686	vancomycin
+T10	Bacteria 762 773	enterococci
+T11	Antibiotic 1144 1154	vancomycin
+T12	Antibiotic 1354 1364	vancomycin
+T13	Antibiotic 1505 1515	vancomycin
+T14	Antibiotic 1598 1608	vancomycin
+T15	Antibiotic 1704 1713	kanamycin
+T16	Antibiotic 1748 1773	glycopeptide  antibiotics
+T17	Antibiotic 1779 1790	teicoplanin
+T18	Gene 112 116	vanK
+T19	Antibiotic 741 751	vancomycin
+T20	Protein 786 793	enzymes
+T21	Gene 929 933	vanR
+T22	Gene 938 942	vanS
+T23	Gene 1069 1073	vanK
+T24	Gene 1060 1064	vanJ
+T25	Protein 1231 1238	enzymes
+T26	Gene 1332 1336	vanK
+T27	Gene 1382 1385	van
+T28	Gene 1522 1526	vanR
+T29	Gene 1644 1648	vanJ
+T30	Gene 1191 1195	VanK

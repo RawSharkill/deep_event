@@ -1,0 +1,32 @@
+T1	Antibiotic 14 26	tetracycline
+T2	Bacteria 55 71	Escherichia Coli
+T3	Antibiotic 94 105	minocycline
+T4	Antibiotic 110 122	tetracycline
+T5	Bacteria 158 181	Escherichia coli strain
+T6	Antibiotic 256 267	Minocycline
+T7	Antibiotic 324 336	tetracycline
+T8	Antibiotic 439 451	tetracycline
+T9	Antibiotic 481 492	minocycline
+T10	Antibiotic 578 590	tetracycline
+T11	Antibiotic 621 632	minocycline
+T12	Antibiotic 669 680	minocycline
+T13	Antibiotic 686 698	tetracycline
+T14	Antibiotic 736 748	tetracycline
+T15	Antibiotic 770 782	tetracycline
+T16	Antibiotic 800 811	minocycline
+T17	Antibiotic 968 979	minocycline
+T18	Antibiotic 984 996	tetracycline
+T19	Bacteria 1000 1009	E.   coli
+*	Equiv T19 T2
+T20	Antibiotic 31 41	minocyclie
+T21	Antibiotic_efflux 42 51	transport
+E1	Antibiotic_efflux:T21 Theme:T2 Cause:T20
+E2	Antibiotic_efflux:T21 Theme:T2 Cause:T1
+T22	Antibiotic 241 243	Tc
+*	Equiv T22 T4
+T23	Antibiotic_efflux 123 132	transport
+E3	Antibiotic_efflux:T23 Theme:T5 Cause:T4
+E4	Antibiotic_efflux:T23 Theme:T5 Cause:T3
+T24	Antibiotic_efflux 955 964	transport
+E5	Antibiotic_efflux:T24 Cause:T17 Theme:T19
+E6	Antibiotic_efflux:T24 Cause:T18 Theme:T19

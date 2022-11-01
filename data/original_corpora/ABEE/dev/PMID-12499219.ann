@@ -1,0 +1,22 @@
+T1	Bacteria 42 74	Bartonella bacilliformis strains
+T2	Bacteria 138 162	Bartonella bacilliformis
+T3	Antibiotic 217 230	ciprofloxacin
+T4	Antibiotic 439 452	ciprofloxacin
+T5	Bacteria 472 488	B. bacilliformis
+*	Equiv T5 T2
+T6	Bacteria 525 541	Escherichia coli
+T7	Bacteria 731 739	E.  coli
+*	Equiv T7 T6
+T8	Antibiotic 18 31	ciprofloxacin
+T9	Gene 0 4	gyrA
+T10	Antibiotic_target_alteration 5 14	mutations
+E1	Antibiotic_target_alteration:T10 Cause:T8 Theme:T1
+T11	Antibiotic_target_alteration 127 134	mutants
+E2	Antibiotic_target_alteration:T11 Theme:T2 Cause:T12
+T12	Antibiotic 190 205	fluoroquinolone
+T13	Gene 318 322	gyrA
+T14	Gene 542 546	GyrA
+T15	Antibiotic 583 598	fluoroquinolone
+T16	Antibiotic 740 744	GyrA
+T17	Antibiotic_target_alteration 667 675	mutation
+E3	Antibiotic_target_alteration:T17 Theme:T7 Cause:T16

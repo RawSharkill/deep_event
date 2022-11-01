@@ -1,0 +1,15 @@
+T1	Bacteria 38 60	gram-negative bacteria
+T2	Bacteria 148 170	gram-negative bacteria
+T3	Bacteria 302 324	Xanthomonas campestris
+T4	Bacteria 326 352	Sphingomonas  strains S-88
+T5	Antibiotic 705 715	bacitracin
+T6	Bacteria 765 778	X. campestris
+T7	Bacteria 783 803	Sphingomonas strains
+T8	Bacteria 901 914	X. campestris
+T9	Bacteria 997 1004	E. coli
+T10	Gene 838 842	spsB
+T11	Gene 640 644	gumD
+T12	Gene 472 476	gumD
+T13	Bacteria 485 498	X. campestris
+*	Equiv T13 T3
+T14	Bacteria 367 388	Escherichia coli K-12

@@ -1,0 +1,26 @@
+T1	Antibiotic 0 11	Ethionamide
+T2	Bacteria 62 89	Mycobacterium  tuberculosis
+T3	Antibiotic 93 104	Ethionamide
+T4	Antibiotic 106 109	ETA
+*	Equiv T4 T3
+T5	Antibiotic 242 245	ETA
+T6	Bacteria 312 339	Mycobacterium  tuberculosis
+T7	Bacteria 341 344	MTb
+*	Equiv T7 T6
+T8	Antibiotic 382 385	ETA
+T9	Antibiotic 460 463	ETA
+T10	Bacteria 483 486	MTb
+T11	Antibiotic 587 596	isoniazid
+T12	Bacteria 727 730	MTb
+T13	Antibiotic 740 743	ETA
+T15	Antibiotic 843 846	ETA
+T16	Antibiotic_target_alteration 657 688	overproduction of Rv3855 (EtaR)
+E2	Antibiotic_target_alteration:T16 Theme:T12
+T17	Antibiotic 965 968	ETA
+T18	Bacteria 1168 1171	MTb
+T19	Antibiotic 1310 1313	ETA
+T20	Antibiotic 1315 1327	thiacetazone
+T14	Gene 997 1001	EtaA
+T21	Gene 879 883	EtaA
+T22	Gene 1119 1124	 EtaA
+T23	Antibiotic 1333 1344	thiocarlide

@@ -1,0 +1,10 @@
+T1	Bacteria 50 74	Saccharomyces cerevisiae
+T2	Antibiotic 119 129	adriamycin
+T3	Antibiotic 134 146	chlorambucil
+T4	Bacteria 809 833	Saccharomyces cerevisiae
+T5	Protein 32 46	S-transferases
+T6	Protein 536 550	S-transferases
+T7	Protein 554 557	GST
+T8	Antibiotic 987 1000	anthracycline
+T9	Antibiotic 1002 1012	adriamycin
+T10	Protein 1078 1081	GST

@@ -1,0 +1,15 @@
+T1	Antibiotic 64 76	glycopeptide
+T2	Bacteria 146 175	Enterococcus   faecium BM4147
+T3	Antibiotic 233 243	vancomycin
+T4	Bacteria 294 321	Enterococcus faecium BM4147
+T5	Bacteria 745 767	Bacillus thuringiensis
+T6	Bacteria 786 807	Enterococcus faecalis
+T7	Bacteria 962 986	Clostridium  perfringens
+T8	Bacteria 1023 1039	Escherichia coli
+T9	Antibiotic 1371 1384	glycopeptides
+T10	Bacteria 1337 1348	enterococci
+T11	Bacteria 1566 1576	E. faecium
+T12	Gene 1502 1505	van
+T13	Protein 921 924	Res
+T14	Protein 611 621	amino acid
+T15	Gene 255 258	van

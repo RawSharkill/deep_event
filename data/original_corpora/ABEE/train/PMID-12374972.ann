@@ -1,0 +1,12 @@
+T1	Bacteria 106 122	Escherichia coli
+T2	Antibiotic_efflux 41 47	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T3	Protein 60 64	AcrB
+T4	Protein 68 72	AcrB
+T5	Protein 171 175	AcrA
+T6	Protein 208 212	TolC
+T7	Protein 259 263	AcrB
+T8	Protein 291 295	AcrB
+T9	Protein 516 520	TolC
+T10	Protein 547 551	AcrB
+T11	Protein 1099 1103	TolC

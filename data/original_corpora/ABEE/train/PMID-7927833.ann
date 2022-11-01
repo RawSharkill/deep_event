@@ -1,0 +1,9 @@
+T1	Antibiotic 24 40	fluoroquinolones
+T2	Antibiotic 1049 1064	fluoroquinolone
+T3	Antibiotic_target_alteration 303 314	alterations
+E1	Antibiotic_target_alteration:T3 Cause:T4
+T4	Antibiotic 80 95	fluoroquinolone
+T5	Bacteria 590 603	staphylococci
+T6	Bacteria 1456 1472	Escherichia coli
+T7	Antibiotic 1386 1402	fluoroquinolones
+T8	Bacteria 559 581	Pseudomonas aeruginosa

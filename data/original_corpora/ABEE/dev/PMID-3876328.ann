@@ -1,0 +1,15 @@
+T1	Bacteria 43 61	Enterobacteriaceae
+T2	Bacteria 222 240	Enterobacteriaceae
+T3	Bacteria 364 380	Escherichia coli
+T4	Bacteria 389 400	Providencia
+T5	Bacteria 408 415	Proteus
+T6	Bacteria 423 433	Klebsiella
+T7	Bacteria 439 451	Enterobacter
+T8	Bacteria 461 472	Citrobacter
+T9	Bacteria 638 645	E. coli
+*	Equiv T9 T3
+T10	Antibiotic 1295 1307	tetracycline
+T11	Antibiotic 1313 1323	ampicillin
+T12	Antibiotic 894 904	ampicillin
+T13	Protein 843 864	TEM-1  beta-lactamase
+T14	Protein 962 969	enzymes

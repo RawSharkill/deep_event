@@ -1,0 +1,13 @@
+T1	Bacteria 30 60	Enterococcus faecalis N06-0364
+T2	Antibiotic 77 87	vancomycin
+T3	Bacteria 151 181	Enterococcus faecalis N06-0364
+T4	Antibiotic 196 206	vancomycin
+T5	Gene 303 307	vanL
+T6	Gene 358 362	vanC
+T7	Gene 436 444	vanTm(L)
+T8	Gene 469 477	vanTr(L)
+T9	Gene 293 297	vanL
+T10	Gene 256 267	D-Ala-D-Ser
+T11	Gene 117 128	D-Ala-D-Ser
+T12	Gene 143 147	vanL
+T13	Gene 379 383	VanT

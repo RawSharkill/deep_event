@@ -1,0 +1,19 @@
+T1	Bacteria 58 78	Rhodococcus fascians
+T4	Antibiotic 115 127	tetracycline
+T5	Antibiotic_efflux 128 134	efflux
+E2	Antibiotic_efflux:T5 Theme:T1 Cause:T4
+T6	Bacteria 220 251	Rhodococcus fascians NCPPB 1675
+T9	Antibiotic 681 693	tetracycline
+T10	Antibiotic_efflux 671 677	efflux
+E4	Antibiotic_efflux:T10 Cause:T9 Theme:T6
+T13	Bacteria 1089 1111	Streptomyces  lividans
+T14	Bacteria 1179 1192	actinomycetes
+T2	Antibiotic 20 35	chloramphenicol
+T3	Antibiotic 178 193	chloramphenicol
+T7	Gene 211 214	cmr
+E1	Antibiotic_efflux:T5 Theme:T1 Cause:T2
+T8	Gene 451 454	cmr
+T11	Gene 741 744	cmr
+T12	Antibiotic 778 793	chloramphenicol
+T15	Gene 993 996	cmr
+T16	Antibiotic 1047 1062	chloramphenicol

@@ -1,0 +1,10 @@
+T1	Antibiotic 46 58	gentamicin B
+T2	Antibiotic 81 89	amikacin
+T3	Antibiotic 161 169	amikacin
+T4	Bacteria 198 219	gram-negative bacilli
+T5	Bacteria 224 245	Staphylococcus aureus
+T6	Antibiotic 310 324	aminoglycoside
+T7	Antibiotic 389 397	amikacin
+T8	Antibiotic 589 603	aminoglycoside
+T9	Antibiotic 646 660	aminoglycoside
+T10	Antibiotic 704 712	amikacin

@@ -1,0 +1,3 @@
+Ampicillin resistance of Shigella sonnei.
+
+The ampicillin resistance of clinical isolates of Shigella sonnei is due to  beta-lactamase production. Two kinds of resistance are found: low level,  nontransmissible; and high level, tranmissible. The nontransmissible type of  resistance results from a chromosomal mutation which increases the production of   a beta-lactamase that hydrolyses cephalosporins relatively rapidly and gives  cephalothin resistance. The transmissible type of resistance is due to an R  factor mediating the synthesis of a different beta-lactamase that does not  significantly hydrolyze cephalosporins or confer cephalothin resistance. One  clinical isolate is shown to possess simultaneously both these mechanisms of  ampicillin resistance.

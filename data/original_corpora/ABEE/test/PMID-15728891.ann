@@ -1,0 +1,31 @@
+T2	Antibiotic 36 51	streptogramin A
+T3	Bacteria 96 109	staphylococci
+T4	Bacteria 201 223	staphylococcal strains
+T5	Bacteria 423 437	streptomycetes
+T6	Antibiotic 445 454	macrolide
+T7	Antibiotic 455 466	lincosamide
+T8	Antibiotic 467 480	streptogramin
+T9	Bacteria 627 649	Listeria monocytogenes
+T10	Bacteria 614 621	Lmo0919
+R1	Member-of Arg1:T10 Arg2:T9	
+T12	Antibiotic 941 953	lincosamides
+T13	Antibiotic 958 973	streptogramin A
+T14	Antibiotic 1051 1064	pristinamycin
+T15	Antibiotic 1080 1095	streptogramin A
+T16	Antibiotic 1100 1115	streptogramin B
+T17	Antibiotic_target_protection 269 272	ABC
+E4	Antibiotic_target_protection:T17 Theme:T4
+T1	Protein 997 1003	Vga(B)
+T11	Protein 865 871	Vga(A)
+T18	Protein 877 883	Vga(A)
+T19	Protein 1178 1184	Vga(A)
+T20	Gene 1580 1586	vga(A)
+T21	Protein 799 802	Vga
+T22	Protein 117 120	Vga
+T23	Protein 80 83	Vga
+T24	Bacteria 553 575	gram-positive bacteria
+T25	Protein 1352 1364	atypical ABC
+T26	Protein 678 681	Vga
+T27	Protein 699 702	Msr
+T28	Protein 125 128	Msr
+T29	Protein 269 272	ABC

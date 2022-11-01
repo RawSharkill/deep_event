@@ -1,0 +1,15 @@
+T1	Bacteria 51 73	Pseudomonas aeruginosa
+T2	Bacteria 125 147	Pseudomonas aeruginosa
+T3	Antibiotic 606 617	carbapenems
+T4	Protein 16 47	IMP-type metallo-beta-lactamase
+T5	Protein 195 226	IMP-type metallo-beta-lactamase
+T6	Protein 336 346	amino acid
+T7	Protein 0 6	IMP-29
+T8	Protein 228 234	IMP-29
+T9	Gene 362 365	bla
+T10	Protein 576 582	IMP-29
+T11	Protein 366 372	IMP-29
+T12	Protein 280 283	IMP
+T13	Protein 321 326	IMP-5
+T14	Antibiotic_inactivation 595 605	hydrolyzed
+E1	Antibiotic_inactivation:T14 Cause:T3

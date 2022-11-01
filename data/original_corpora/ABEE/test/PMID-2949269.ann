@@ -1,0 +1,19 @@
+T1	Antibiotic 25 48	beta-lactam antibiotics
+T2	Antibiotic 119 142	beta-lactam antibiotics
+T3	Antibiotic 322 346	beta-lactam  antibiotics
+T4	Antibiotic 899 922	beta-lactam antibiotics
+T6	Bacteria 1068 1079	enterococci
+T7	Bacteria 1081 1093	pneumococcus
+T8	Bacteria 1099 1112	staphylococci
+T10	Antibiotic 1288 1311	beta-lactam antibiotics
+T11	Bacteria 1617 1627	Klebsiella
+T12	Bacteria 1629 1641	Enterobacter
+T13	Bacteria 1643 1651	Serratia
+T14	Bacteria 1657 1668	Pseudomonas
+T5	Bacteria 926 948	Gram-positive bacteria
+T9	Protein 1026 1030	PBPs
+T15	Protein 649 676	penicillin-binding proteins
+T16	Protein 678 682	PBPs
+T17	Antibiotic_target_alteration 1005 1018	modifications
+E1	Antibiotic_target_alteration:T17 Theme:T5 Cause:T4
+T18	Bacteria 1121 1143	Gram-negative bacteria

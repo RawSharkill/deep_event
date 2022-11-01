@@ -1,0 +1,9 @@
+T3	Bacteria 1896 1910	enterobacteria
+T4	Bacteria 1911 1927	Pseudomonas spp.
+T7	Bacteria 2488 2514	Staphylococcus epidermidis
+T8	Bacteria 2519 2530	enterococci
+T1	Antibiotic 1610 1621	polymyxin E
+T2	Antibiotic 1633 1643	tobramycin
+T5	Antibiotic 1659 1673	amphotericin B
+T6	Antibiotic 1830 1840	cefotaxime
+T9	Bacteria 2195 2226	gram-negative aerobic  bacteria

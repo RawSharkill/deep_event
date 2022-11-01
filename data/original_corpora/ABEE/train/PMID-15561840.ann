@@ -1,0 +1,32 @@
+T1	Bacteria 209 231	Pseudomonas aeruginosa
+T3	Antibiotic 1036 1046	azlocillin
+T4	Antibiotic 1048 1057	aztreonam
+T2	Gene 585 588	bla
+T5	Gene 53 61	blaGIM-1
+T6	Protein 270 292	metallo-beta-lactamase
+T7	Gene 510 515	aacA4
+T8	Protein 651 662	amino acids
+T9	Protein 854 865	amino acids
+T10	Protein 965 970	GIM-1
+T11	Gene 1102 1105	bla
+T12	Gene 1321 1327	MbetaL
+T13	Gene 1368 1371	bla
+T14	Gene 1384 1389	aacA4
+T15	Gene 1527 1537	bla(OXA-2)
+T16	Gene 1565 1570	GIM-1
+T17	Protein 1594 1600	MbetaL
+T18	Protein 91 113	metallo-beta-lactamase
+T19	Protein 1106 1111	GIM-1
+T20	Gene 1168 1174	MbetaL
+T21	Protein 1372 1377	GIM-1
+T22	Gene 918 924	MbetaL
+T23	Gene 1287 1292	aacA4
+T24	Gene 1508 1520	oxacillinase
+T25	Gene 294 300	MbetaL
+T26	Protein 589 594	GIM-1
+T27	Gene 559 565	MbetaL
+T28	Gene 754 757	VIM
+T29	Protein 749 752	IMP
+T30	Protein 763 768	SPM-1
+T31	Gene 1699 1705	MbetaL
+T32	Gene 1410 1415	aadA1

@@ -1,0 +1,24 @@
+T1	Bacteria 24 40	Escherichia coli
+T2	Antibiotic_efflux 183 191	exporter
+E1	Antibiotic_efflux:T2 Theme:T3
+T3	Bacteria 229 245	Escherichia coli
+T4	Protein 75 80	BaeSR
+T5	Protein 122 127	BaeSR
+T6	Protein 438 443	BaeSR
+T7	Protein 499 503	BaeR
+T8	Protein 536 540	BaeR
+T9	Protein 718 722	BaeR
+T10	Gene 776 780	ibpA
+T11	Gene 785 789	ibpB
+T12	Protein 962 966	BaeR
+T13	Gene 1014 1019	baeSR
+T14	Protein 1079 1084	BaeSR
+T15	Protein 1110 1115	BaeSR
+T16	Protein 1191 1195	BaeR
+T17	Protein 1307 1311	BaeR
+T18	Protein 1438 1443	PhoBR
+T19	Protein 1447 1452	CreBC
+T20	Protein 1567 1572	BaeSR
+T21	Protein 1574 1579	PhoBR
+T22	Protein 1585 1590	CreBC
+T23	Protein 1693 1698	BaeSR

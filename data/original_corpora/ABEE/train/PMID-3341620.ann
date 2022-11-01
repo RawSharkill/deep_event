@@ -1,0 +1,15 @@
+T1	Antibiotic 482 493	polymyxin B
+T2	Antibiotic 495 497	PB
+*	Equiv T2 T1
+T4	Antibiotic 520 545	penicillin and gentamicin
+T3	Antibiotic 547 556	IV PCN/GM
+*	Equiv T3 T4
+T5	Antibiotic 770 772	PB
+T7	Antibiotic 822 831	IV PCN/GM
+T8	Antibiotic 863 865	PB
+T9	Antibiotic 869 871	GM
+T10	Antibiotic 885 893	IV   PCN
+T12	Antibiotic 1266 1268	PB
+T13	Antibiotic 1367 1369	GM
+T6	Bacteria 791 814	gram-negative   bacilli
+T11	Bacteria 1186 1207	gram-negative bacilli

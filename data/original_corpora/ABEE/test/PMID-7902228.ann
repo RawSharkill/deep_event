@@ -1,0 +1,26 @@
+T1	Antibiotic 1019 1032	ciprofloxacin
+T2	Bacteria 239 248	S. aureus
+T3	Antibiotic 217 228	methicillin
+T4	Bacteria 250 254	MRSA
+T5	Antibiotic 128 141	ciprofloxacin
+T6	Antibiotic 52 63	methicillin
+T7	Bacteria 26 47	Staphylococcus aureus
+T8	Bacteria 74 84	S.  aureus
+T9	Protein 0 4	GyrA
+T10	Antibiotic 160 171	methicillin
+T11	Bacteria 184 205	Staphylococcus aureus
+T12	Antibiotic 496 509	ciprofloxacin
+T13	Antibiotic 526 539	ciprofloxacin
+T14	Bacteria 911 920	S. aureus
+T15	Antibiotic 891 900	quinolone
+T16	Antibiotic 389 402	ciprofloxacin
+T17	Bacteria 1070 1079	S. aureus
+T18	Bacteria 1085 1089	MRSA
+T19	Antibiotic 1093 1106	ciprofloxacin
+T20	Antibiotic_target_alteration 923 932	Mutations
+E1	Antibiotic_target_alteration:T20 Cause:T1
+T21	Gene 792 796	gyrA
+T22	Protein 812 822	amino acid
+T23	Antibiotic_target_alteration 867 876	mutations
+E2	Antibiotic_target_alteration:T23 Cause:T15 Theme:T14
+T24	Antibiotic 284 297	ciprofloxacin

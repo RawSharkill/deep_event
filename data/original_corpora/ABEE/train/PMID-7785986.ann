@@ -1,0 +1,28 @@
+T1	Antibiotic 1950 1961	fluconazole
+T2	Antibiotic 72 83	fluconazole
+T3	Antibiotic 182 194	 fluconazole
+T4	Antibiotic 196 208	itraconazole
+T5	Antibiotic 214 226	ketoconazole
+T6	Antibiotic 260 271	fluconazole
+T7	Antibiotic 1172 1183	fluconazole
+T8	Antibiotic 1121 1133	ketoconazole
+T9	Antibiotic 1104 1116	itraconazole
+T10	Bacteria 1046 1066	Candida  inconspicua
+T11	Bacteria 1008 1024	Candida glabrata
+T12	Bacteria 1026 1040	Candida krusei
+T13	Antibiotic 1307 1319	itraconazole
+T14	Antibiotic 1324 1336	ketoconazole
+T15	Antibiotic 1501 1513	itraconazole
+T16	Bacteria 1463 1474	C. glabrata
+*	Equiv T16 T11
+T17	Bacteria 1565 1576	C. albicans
+T18	Bacteria 1972 1983	Candida spp
+T19	Antibiotic 870 882	ketoconazole
+T20	Antibiotic 914 926	itraconazole
+T21	Antibiotic 961 972	fluconazole
+T22	Bacteria 982 998	Candida albicans
+*	Equiv T22 T17
+T23	Bacteria 94 105	Candida spp
+T24	Bacteria 282 289	Candida
+T25	Antibiotic 1637 1649	itraconazole
+T26	Antibiotic 1654 1666	ketoconazole

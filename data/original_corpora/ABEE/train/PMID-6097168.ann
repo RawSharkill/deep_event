@@ -1,0 +1,16 @@
+T1	Antibiotic 54 65	polymyxin B
+T2	Bacteria 69 93	Pseudomonas   aeruginosa
+T3	Bacteria 96 123	Pseudomonas aeruginosa H181
+T5	Antibiotic 171 182	polymyxin B
+T6	Antibiotic 271 282	polymyxin B
+T7	Antibiotic 384 393	polymyxin
+T8	Antibiotic 453 462	polymyxin
+T9	Antibiotic 917 926	Polymyxin
+T10	Bacteria 1046 1058	strains H181
+T12	Antibiotic 1098 1107	polymyxin
+T13	Antibiotic 1154 1176	fluorescent antibiotic
+T14	Antibiotic 1308 1317	polymyxin
+T15	Antibiotic 1413 1424	polymyxin B
+T4	Antibiotic_target_alteration 1227 1238	alterations
+E1	Antibiotic_target_alteration:T4 Cause:T14 Theme:T2
+E2	Antibiotic_target_alteration:T4 Cause:T15 Theme:T2

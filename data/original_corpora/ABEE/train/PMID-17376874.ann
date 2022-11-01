@@ -1,0 +1,12 @@
+T1	Antibiotic 137 158	macrolide antibiotics
+T2	Antibiotic 320 332	oleandomycin
+T3	Antibiotic 367 379	erythromycin
+T4	Antibiotic 345 355	macrolides
+T5	Antibiotic 544 554	macrolides
+T6	Antibiotic 588 600	Erythromycin
+T7	Antibiotic 837 849	Erythromycin
+T8	Antibiotic 854 866	oleandomycin
+T9	Antibiotic_inactivation 309 319	inactivate
+E1	Antibiotic_inactivation:T9 Cause:T2
+E2	Antibiotic_inactivation:T9 Cause:T3
+E3	Antibiotic_inactivation:T9 Cause:T4

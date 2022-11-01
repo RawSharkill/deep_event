@@ -1,0 +1,34 @@
+T1	Antibiotic 14 23	apramycin
+T2	Bacteria 27 43	Escherichia coli
+T3	Antibiotic 155 164	apramycin
+T4	Bacteria 185 201	Escherichia coli
+T5	Antibiotic 284 299	aminoglycosides
+T6	Antibiotic 441 450	apramycin
+T7	Antibiotic 452 462	tobramycin
+T8	Antibiotic 464 474	gentamicin
+T9	Antibiotic 476 485	kanamycin
+T10	Antibiotic 490 498	neomycin
+T11	Antibiotic 510 518	amikacin
+T12	Antibiotic 726 735	apramycin
+T13	Antibiotic 737 745	neomycin
+T14	Antibiotic 751 760	kanamycin
+T15	Antibiotic 772 782	gentamicin
+T16	Antibiotic 784 794	tobramycin
+T17	Antibiotic 798 806	amikacin
+T18	Antibiotic 871 880	apramycin
+T19	Antibiotic 882 890	neomycin
+T20	Antibiotic 896 907	paromomycin
+T21	Antibiotic 947 955	neomycin
+T22	Bacteria 1072 1083	E. coli K12
+T23	Antibiotic_target_alteration 89 113	aminoglycoside-modifying
+E1	Antibiotic_target_alteration:T23 Theme:T2 Cause:T1
+T24	Antibiotic 363 377	aminoglycoside
+T25	Gene 1032 1036	pyrD
+T26	Antibiotic_inactivation 562 579	acetyltransferase
+E2	Antibiotic_inactivation:T26 Cause:T6
+T27	Protein 562 579	acetyltransferase
+T28	Protein 580 588	AAC(3)IV
+E3	Antibiotic_inactivation:T26 Cause:T7
+E4	Antibiotic_inactivation:T26 Cause:T8
+E5	Antibiotic_inactivation:T26 Cause:T9
+E6	Antibiotic_inactivation:T26 Cause:T10

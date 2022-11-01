@@ -1,0 +1,33 @@
+T1	Bacteria 2 12	gonococcal
+T2	Antibiotic_efflux 13 19	efflux
+E1	Antibiotic_efflux:T2 Theme:T1
+T4	Bacteria 366 387	Neisseria gonorrhoeae
+T5	Antibiotic_efflux 317 323	efflux
+E3	Antibiotic_efflux:T5 Theme:T4
+T6	Bacteria 525 535	gonococcus
+T7	Antibiotic_efflux 497 503	efflux
+E4	Antibiotic_efflux:T7 Theme:T6
+T8	Bacteria 749 759	gonococcal
+T10	Antibiotic_efflux 671 677	efflux
+E6	Antibiotic_efflux:T10 Theme:T8
+T11	Bacteria 1067 1093	MtrCDE-deficient gonococci
+R1	Member-of Arg1:T11 Arg2:T8	
+T12	Bacteria 1309 1335	MtrCDE-deficient gonococci
+T13	Bacteria 1422 1448	MtrCDE-deficient gonococci
+T15	Bacteria 1541 1584	wild-type or FarAB-MtrE-deficient gonococci
+T17	Bacteria 1787 1810	mtr-deficient gonococci
+T14	Antibiotic 1508 1520	progesterone
+T18	Antibiotic 1715 1727	progesterone
+T3	Protein 333 339	MtrCDE
+T9	Protein 344 349	FarAB
+T16	Protein 350 354	MtrE
+T19	Protein 475 481	MtrCDE
+T20	Protein 486 491	FarAB
+T21	Protein 492 496	MtrE
+T22	Protein 664 670	MtrCDE
+T23	Protein 708 713	FarAB
+T24	Protein 714 718	MtrE
+T25	Gene 832 836	mtrD
+T26	Gene 842 846	mtrE
+T27	Gene 866 870	farB
+T28	Antibiotic 1614 1626	progesterone

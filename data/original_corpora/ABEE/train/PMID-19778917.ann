@@ -1,0 +1,43 @@
+T1	Antibiotic 10 25	fluoroquinolone
+T2	Bacteria 55 74	Salmonella serovars
+T3	Bacteria 211 239	Salmonella enterica serovars
+T4	Bacteria 378 388	Salmonella
+T5	Antibiotic 985 997	tetracycline
+T6	Bacteria 1287 1308	Salmonella   Infantis
+T7	Bacteria 1480 1498	Salmonella Virchow
+T8	Bacteria 1310 1319	Paratyphi
+T9	Bacteria 1324 1335	Livingstone
+T10	Bacteria 88 99	Typhimurium
+T11	Antibiotic 1512 1524	tetracycline
+T12	Bacteria 1545 1565	Salmonella Paratyphi
+T13	Bacteria 1737 1756	Salmonella serovars
+T14	Bacteria 1768 1779	Typhimurium
+T15	Gene 1047 1052	ramRA
+T16	Gene 805 809	acrA
+T17	Gene 811 815	tolC
+T18	Gene 826 830	soxS
+T19	Gene 817 821	ramA
+T20	Antibiotic_target_alteration 195 202	Mutants
+E1	Antibiotic_target_alteration:T20 
+T21	Gene 678 683	acrRA
+T22	Gene 685 690	soxRS
+T23	Gene 692 699	marORAB
+T24	Gene 701 706	acrSE
+T25	Gene 711 716	ramRA
+T26	Protein 632 637	AcrAB
+T27	Gene 904 907	tet
+T28	Gene 1098 1102	ramA
+T29	Gene 1200 1204	ramR
+T30	Protein 1271 1275	RamR
+T31	Antibiotic_target_alteration 1150 1159	mutations
+E2	Antibiotic_target_alteration:T31 Theme:T9
+E3	Antibiotic_target_alteration:T31 Theme:T8
+E4	Antibiotic_target_alteration:T31 Theme:T6
+T32	Gene 1405 1409	soxS
+T33	Gene 1379 1383	soxR
+T34	Gene 1630 1636	tet(A)
+T35	Gene 1707 1711	soxR
+T36	Antibiotic_target_alteration 1656 1663	Changes
+E5	Antibiotic_target_alteration:T36 Theme:T13
+T37	Antibiotic_efflux 1829 1835	efflux
+E6	Antibiotic_efflux:T37 Theme:T14

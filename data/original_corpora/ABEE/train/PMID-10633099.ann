@@ -1,0 +1,25 @@
+T1	Bacteria 61 83	Staphylococcus  aureus
+T2	Bacteria 211 232	Staphylococcus aureus
+T3	Antibiotic_efflux 39 50	transporter
+E1	Antibiotic_efflux:T3 Theme:T1
+T4	Antibiotic_efflux 195 206	transporter
+E2	Antibiotic_efflux:T4 Theme:T2
+T5	Protein 51 55	NorA
+T6	Gene 281 285	norA
+T7	Gene 177 181	NorA
+T8	Gene 422 426	norA
+T9	Gene 392 396	arlS
+T10	Gene 439 443	ArlS
+T11	Gene 743 747	norA
+T12	Protein 546 550	ArlR
+T13	Protein 601 605	ArlS
+T14	Gene 334 348	beta-lactamase
+T15	Protein 892 898	18-kDa
+T16	Protein 1047 1053	18-kDa
+T17	Gene 1091 1095	norA
+T18	Gene 1130 1134	arlS
+T19	Protein 1189 1195	18-kDa
+T20	Gene 1241 1245	arlS
+T21	Gene 1264 1268	arlS
+T22	Gene 1318 1322	NorA
+T23	Gene 1366 1370	norA

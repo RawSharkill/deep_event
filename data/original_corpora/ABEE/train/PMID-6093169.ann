@@ -1,0 +1,10 @@
+T1	Bacteria 128 145	Bacillus subtilis
+T2	Bacteria 259 281	Staphylococcus  aureus
+T3	Bacteria 545 562	Bacillus subtilis
+T4	Bacteria 1437 1448	B. subtilis
+*	Equiv T4 T1
+T5	Bacteria 1480 1504	Streptococcus pneumoniae
+T6	Gene 185 188	erm
+T7	Antibiotic_efflux 168 184	transposon-borne
+E1	Antibiotic_efflux:T7 Theme:T1
+T8	Gene 237 240	cat

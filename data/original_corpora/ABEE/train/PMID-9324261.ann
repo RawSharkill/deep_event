@@ -1,0 +1,35 @@
+T1	Bacteria 103 119	Escherichia coli
+T2	Bacteria 122 143	Escherichia coli K-12
+T3	Bacteria 1125 1137	E. coli K-12
+T4	Bacteria 1527 1534	E. coli
+T5	Gene 12 17	acrAB
+T6	Gene 80 84	marA
+T7	Gene 86 90	soxS
+T8	Gene 95 99	robA
+T9	Gene 246 250	marA
+T10	Gene 312 316	soxS
+T11	Gene 320 324	robA
+T12	Gene 1311 1316	acrAB
+T13	Gene 1506 1510	robA
+T14	Gene 1497 1501	soxS
+T15	Gene 1491 1495	marA
+T16	Gene 1395 1400	acrAB
+T17	Gene 1273 1277	robA
+T18	Gene 1264 1268	soxS
+T19	Gene 1097 1102	acrAB
+T22	Antibiotic 362 373	cyclohexane
+T23	Gene 412 416	robA
+T24	Gene 641 645	robA
+T25	Antibiotic 1061 1072	cyclohexane
+T26	Gene 810 814	robA
+T27	Gene 800 805	soxRS
+T28	Antibiotic 719 730	cyclohexane
+T29	Antibiotic_inactivation 770 782	 inactivated
+E3	Antibiotic_inactivation:T29 Cause:T28
+T30	Antibiotic_efflux 1371 1377	efflux
+E4	Antibiotic_efflux:T30 Theme:T4
+T31	Gene 706 710	robA
+T32	Gene 697 701	soxS
+T33	Gene 692 695	mar
+T34	Gene 436 441	soxRS
+T35	Gene 795 798	mar

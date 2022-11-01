@@ -1,0 +1,31 @@
+T1	Bacteria 0 16	Citrobacter spp.
+T2	Bacteria 208 224	Citrobacter spp.
+T3	Antibiotic 361 370	quinolone
+T4	Bacteria 430 459	Citrobacter freundii  complex
+T5	Antibiotic 856 865	quinolone
+T6	Bacteria 1211 1230	Citrobacter youngae
+T7	Bacteria 1249 1268	C. freundii complex
+*	Equiv T7 T4
+T8	Bacteria 1456 1467	Citrobacter
+T9	Gene 775 779	qnrB
+T10	Gene 593 597	qnrA
+T11	Gene 599 603	qnrC
+T12	Gene 605 609	qnrD
+T13	Gene 613 617	qnrS
+T14	Gene 622 635	aac(6')-Ib-cr
+T15	Gene 519 525	qnrB32
+T16	Gene 530 536	qnrB38
+T17	Gene 492 496	qnrB
+T18	Gene 1105 1110	qnrB2
+T19	Gene 1115 1120	qnrB4
+T20	Gene 1019 1023	qnrB
+T21	Gene 1284 1288	qnrB
+T22	Gene 1297 1303	qnrB39
+T23	Gene 1403 1408	qnrB4
+T24	Gene 1509 1513	qnrB
+T25	Gene 989 993	qnrB
+T26	Gene 846 851	qnrB4
+T27	Gene 835 840	qnrB2
+T28	Gene 172 176	qnrB
+T29	Gene 32 36	qnrB
+T30	Gene 48 52	qnrB

@@ -1,0 +1,41 @@
+T1	Antibiotic_efflux 90 96	efflux
+E1	Antibiotic_efflux:T1 Theme:T2
+T2	Bacteria 107 129	Pseudomonas aeruginosa
+T3	Bacteria 137 159	Pseudomonas aeruginosa
+T4	Antibiotic_efflux 166 172	efflux
+E2	Antibiotic_efflux:T4 Theme:T3
+T5	Bacteria 364 382	Escherichia   coli
+T6	Protein 30 34	MexL
+T7	Gene 249 253	mexL
+T8	Protein 295 299	TetR
+T9	Protein 308 312	MexL
+T10	Protein 319 323	MexL
+T11	Protein 324 328	A47D
+T12	Protein 536 540	MexL
+T13	Protein 568 572	MexL
+T14	Protein 577 581	MexL
+T15	Protein 582 586	A47D
+T16	Protein 653 657	MexL
+T17	Protein 658 662	A47D
+T18	Protein 779 783	MexL
+T19	Protein 793 797	MexL
+T20	Protein 798 802	A47D
+T21	Gene 838 842	mexL
+T22	Gene 843 847	mexJ
+T23	Gene 927 931	mexJ
+T24	Protein 950 954	MexL
+T25	Protein 1085 1089	MexL
+T26	Gene 1124 1128	mexL
+T27	Gene 1133 1138	mexJK
+T28	Gene 73 80	mexJK  
+T29	Gene 1271 1275	mexL
+T30	Gene 1280 1284	mexJ
+T31	Gene 1331 1335	mexL
+T32	Gene 1384 1388	mexL
+T33	Gene 1424 1428	mexJ
+T34	Gene 1484 1488	lacZ
+T35	Protein 1502 1506	MexL
+T36	Gene 1628 1632	mexL
+T37	Gene 1637 1641	mexJ
+T38	Protein 1688 1692	MexL
+T39	Gene 160 165	mexJK

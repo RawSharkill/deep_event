@@ -1,0 +1,27 @@
+T1	Antibiotic 34 46	tetracycline
+T2	Antibiotic 111 123	tetracycline
+T3	Antibiotic 419 431	tetracycline
+T4	Bacteria 507 523	Escherichia coli
+T5	Bacteria 830 837	E. coli
+*	Equiv T5 T4
+T6	Bacteria 882 889	E. coli
+T7	Antibiotic 950 962	tetracycline
+T8	Antibiotic 1180 1192	tetracycline
+T9	Bacteria 1207 1233	cutaneous propionibacteria
+T10	Bacteria 138 164	cutaneous propionibacteria
+T11	Antibiotic_target_alteration 9 17	mutation
+E1	Antibiotic_target_alteration:T11 Cause:T1 Theme:T12
+T12	Bacteria 63 87	gram-positive  bacterium
+T13	Antibiotic 323 335	tetracycline
+T14	Gene 225 233	16S rRNA
+T15	Antibiotic_target_alteration 346 353	mutants
+E2	Antibiotic_target_alteration:T15 Cause:T13
+T16	Antibiotic 715 728	 tetracycline
+T17	Antibiotic_target_alteration 700 707	mutants
+E3	Antibiotic_target_alteration:T17 Cause:T16
+T18	Gene 856 860	rrnB
+T19	Antibiotic_target_alteration 911 917	mutant
+E4	Antibiotic_target_alteration:T19 Theme:T6 Cause:T7
+T20	Antibiotic 1051 1063	tetracycline
+T21	Antibiotic_target_alteration 1158 1166	mutation
+E5	Antibiotic_target_alteration:T21 Cause:T8 Theme:T9

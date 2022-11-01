@@ -1,0 +1,18 @@
+T1	Antibiotic 30 41	tunicamycin
+T3	Bacteria 56 73	Bacillus subtilis
+T4	Antibiotic 152 163	tunicamycin
+T6	Bacteria 178 195	Bacillus subtilis
+T7	Bacteria 262 273	B. subtilis
+*	Equiv T7 T6
+T8	Antibiotic 275 286	tunicamycin
+T10	Bacteria 370 386	Escherichia coli
+T11	Antibiotic 1404 1415	tunicamycin
+T12	Bacteria 1430 1441	B. subtilis
+T2	Protein 0 4	TmrB
+T5	Gene 119 123	tmrB
+T9	Gene 313 317	tmrB
+T13	Gene 348 352	tmrB
+T14	Protein 414 418	TmrB
+T15	Protein 518 522	TmrB
+T16	Protein 992 996	TmrB
+T17	Protein 1486 1490	TmrB

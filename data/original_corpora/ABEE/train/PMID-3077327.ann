@@ -1,0 +1,12 @@
+T1	Bacteria 65 92	Bacteroides  fragilis group
+T2	Bacteria 144 170	Bacteroides fragilis group
+T3	Antibiotic 286 298	beta-lactams
+T4	Antibiotic 300 313	tetracyclines
+T5	Antibiotic 318 330	lincosamides
+T6	Antibiotic 435 450	chloramphenicol
+T7	Bacteria 730 741	Bacteroides
+T8	Bacteria 746 764	Enterobacteriaceae
+T9	Bacteria 878 889	Bacteroides
+T10	Antibiotic_inactivation 419 431	inactivation
+E1	Antibiotic_inactivation:T10 Cause:T6
+T11	Bacteria 929 952	Gram-positive organisms

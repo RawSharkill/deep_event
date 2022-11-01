@@ -1,0 +1,29 @@
+T1	Antibiotic 45 57	fusidic acid
+T2	Bacteria 87 106	Staphylococcus spp.
+T3	Antibiotic 166 178	fusidic acid
+T4	Antibiotic 243 255	fusidic acid
+T5	Bacteria 284 304	Staphylococcus  spp.
+T6	Antibiotic 474 486	fusidic acid
+T7	Antibiotic 640 652	fusidic acid
+T8	Antibiotic 823 835	Fusidic acid
+T9	Bacteria 927 948	Staphylococcus aureus
+T10	Antibiotic 959 971	fusidic acid
+T11	Bacteria 1110 1119	S. aureus
+*	Equiv T11 T9
+T12	Bacteria 1212 1221	S. aureus
+T13	Antibiotic 1222 1234	fusidic acid
+T14	Antibiotic 1282 1294	fusidic acid
+T15	Bacteria 1473 1482	S. aureus
+T16	Antibiotic 1483 1495	fusidic acid
+T17	Antibiotic 1667 1679	fusidic acid
+T18	Antibiotic 1712 1726	fusidic   acid
+T19	Antibiotic 2021 2035	fusidic   acid
+T20	Bacteria 872 904	coagulase-negative staphylococci
+T21	Gene 740 744	fusA
+T22	Gene 666 670	fusA
+T23	Gene 675 679	fusE
+T24	Gene 1029 1033	fusB
+T25	Gene 1038 1042	fusC
+T26	Antibiotic 1087 1099	fusidic acid
+T27	Antibiotic 1777 1789	fusidic acid
+T28	Antibiotic 2074 2086	fusidic acid

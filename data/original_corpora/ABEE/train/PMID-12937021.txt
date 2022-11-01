@@ -1,0 +1,3 @@
+Roles of TolC-dependent multidrug transporters of Escherichia coli in resistance   to beta-lactams. 
+
+AcrAB exports some beta-lactam antibiotics in the periplasm out of Escherichia coli cells via an  outer-membrane channel, TolC. It has been reported that eight drug transporters  in Escherichia coli cooperate with TolC. In this study, the roles of the drug  exporters of E. coli in beta-lactam resistance were examined. We found that five of five resistance-nodulation-cell division-type drug exporters confer beta-lactam antibiotic resistance, while no other drug exporters confer any beta-lactam resistance even when they cooperate with TolC.

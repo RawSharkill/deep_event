@@ -1,0 +1,22 @@
+T1	Bacteria 56 77	Empedobacter falsenii
+T2	Bacteria 434 455	Empedobacter falsenii
+T4	Bacteria 815 826	E. falsenii
+T5	Antibiotic 985 997	penicillin G
+T6	Antibiotic 1013 1022	meropenem
+T7	Antibiotic 1027 1037	ampicillin
+T8	Antibiotic 1067 1075	cefepime
+T9	Bacteria 1229 1246	E. falsenii Wf282
+T10	Antibiotic 598 609	carbapenems
+T11	Antibiotic 614 622	colistin
+T12	Bacteria 1186 1203	Flavobacteriaceae
+T13	Protein 926 931	EBR-2
+T14	Protein 1163 1178	beta-lactamases
+T15	Protein 134 160	Novel Metallo-ss-Lactamase
+T16	Protein 163 168	EBR-2
+T17	Protein 765 770	EBR-2
+T18	Protein 735 757	metallo-beta-lactamase
+T19	Protein 845 860	beta-lactamases
+*	Equiv T4 T2
+T3	Bacteria 515 532	E. falsenii Wf282
+T20	Antibiotic_inactivation 1057 1066	hydrolyze
+E1	Antibiotic_inactivation:T20 Cause:T8

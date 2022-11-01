@@ -1,0 +1,3 @@
+IMP-1 and a novel metallo-beta-lactamase, VIM-6, in fluorescent pseudomonads  isolated in Singapore. 
+
+Four carbapenem resistant Pseudomonas spp. were isolated from patients in  Singapore. One Pseudomonas putida isolate contained a bla(IMP-1) identical to  that first described in Japan. The sequence of a variant bla(IMP-1) in  Pseudomonas fluorescens contained four silent mutations compared with the  original sequence. The remaining P. putida isolates contained bla(VIM-6), a novel  VIM gene variant.

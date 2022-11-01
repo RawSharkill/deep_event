@@ -1,0 +1,12 @@
+T1	Antibiotic 278 294	fluoroquinolones
+T2	Antibiotic 487 497	macrolides
+T3	Antibiotic 534 546	azithromycin
+T4	Antibiotic 558 570	beta-lactams
+T5	Antibiotic 576 587	carbapenems
+T6	Antibiotic 611 625	cephalosporins
+T7	Protein 776 779	TEM
+T8	Antibiotic 826 838	beta-lactams
+T9	Antibiotic 1001 1012	methicillin
+T10	Bacteria 1023 1036	staphylococci
+T11	Antibiotic 1055 1065	daptomycin
+T12	Antibiotic 1038 1049	teicoplanin

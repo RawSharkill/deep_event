@@ -1,0 +1,10 @@
+T1	Bacteria 11 37	Mycobacterium tuberculosis
+T2	Antibiotic 89 98	isoniazid
+T3	Antibiotic 228 237	isoniazid
+T4	Bacteria 824 850	Mycobacterium tuberculosis
+T5	Antibiotic 997 1006	isoniazid
+T6	Gene 60 64	katG
+T7	Antibiotic 799 808	isoniazid
+T8	Gene 767 771	katG
+T9	Gene 1296 1300	katG
+T10	Antibiotic 1329 1338	isoniazid

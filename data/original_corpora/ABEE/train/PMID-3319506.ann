@@ -1,0 +1,30 @@
+T1	Antibiotic 28 41	cephalosporin
+T2	Antibiotic 56 70	Cephalosporins
+T3	Antibiotic 83 95	beta-lactams
+T4	Antibiotic 482 495	cephalosporin
+T7	Antibiotic 1447 1459	beta-lactams
+T8	Bacteria 1535 1549	enterobacteria
+T9	Antibiotic 1607 1620	cephalosporin
+T10	Bacteria 1743 1765	Pseudomonas aeruginosa
+T11	Antibiotic 1875 1888	cephalosporin
+T5	Protein 119 147	penicillin-binding  proteins
+T6	Protein 149 153	PBPs
+T12	Antibiotic_target_alteration 381 389	modified
+E1	Antibiotic_target_alteration:T12 Cause:T2
+E2	Antibiotic_target_alteration:T12 Cause:T3
+T13	Antibiotic_target_alteration 535 543	affinity
+E3	Antibiotic_target_alteration:T13 Cause:T4
+T14	Bacteria 1093 1116	Gram-positive organisms
+T15	Bacteria 1136 1155	Gram-negative  ones
+T16	Bacteria 1207 1230	Gram-positive organisms
+T17	Protein 1236 1240	PBPs
+T18	Reduced_permeability_to_antibiotic 1322 1334	permeability
+E4	Reduced_permeability_to_antibiotic:T18 Theme:T16 Cause:T7
+T19	Bacteria 1359 1378	Gram-negative cells
+T21	Antibiotic_target_protection 1403 1412	protected
+E6	Antibiotic_target_protection:T21 Theme:T19 Cause:T7
+T20	Protein 1850 1854	PBPs
+T22	Antibiotic_target_alteration 1941 1957	PBP-modification
+E5	Antibiotic_target_alteration:T22 Cause:T11
+T23	Reduced_permeability_to_antibiotic 1984 1998	impermeability
+E7	Reduced_permeability_to_antibiotic:T23 Cause:T11

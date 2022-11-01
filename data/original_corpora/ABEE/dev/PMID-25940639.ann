@@ -1,0 +1,32 @@
+T2	Bacteria 49 65	Escherichia coli
+T3	Bacteria 404 425	Escherichia coli K-12
+T4	Antibiotic 468 477	kanamycin
+T7	Bacteria 681 701	E. coli K-12  strain
+T8	Antibiotic 818 827	kanamycin
+T9	Antibiotic 909 918	kanamycin
+T10	Antibiotic 1309 1321	streptomycin
+T11	Antibiotic 1324 1339	chloramphenicol
+T12	Antibiotic 1344 1354	aureomycin
+T13	Antibiotic 1293 1307	nalidixic acid
+T14	Resistance_by_absence 832 840	deletion
+E4	Resistance_by_absence:T14 Theme:T7 Cause:T9
+T1	Antibiotic 29 38	kanamycin
+T5	Protein 77 81	MipA
+T6	Protein 565 569	TolC
+T15	Protein 571 574	Tsx
+T16	Protein 579 583	OstA
+T17	Protein 612 616	MipA
+T18	Protein 618 622	OmpA
+T19	Protein 624 628	FadL
+T20	Protein 633 637	OmpW
+T21	Reduced_permeability_to_antibiotic 643 657	down-regulated
+E1	Reduced_permeability_to_antibiotic:T21 Cause:T22 Theme:T7
+T22	Antibiotic 661 670	kanamycin
+T23	Reduced_permeability_to_antibiotic 589 601	up-regulated
+E2	Reduced_permeability_to_antibiotic:T23 Cause:T22 Theme:T7
+T24	Gene 723 727	tolC
+T25	Gene 844 848	mipA
+T26	Reduced_permeability_to_antibiotic 711 719	deletion
+E3	Reduced_permeability_to_antibiotic:T26 Theme:T7 Cause:T8
+T27	Protein 1238 1242	MipA
+T28	Protein 1377 1381	MipA

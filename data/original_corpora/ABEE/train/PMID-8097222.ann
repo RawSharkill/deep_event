@@ -1,0 +1,21 @@
+T1	Bacteria 1372 1385	P. aeruginosa
+T2	Bacteria 1485 1499	 P. aeruginosa
+T3	Bacteria 1504 1517	S. marcescens
+T4	Bacteria 1390 1403	S. marcescens
+T5	Bacteria 1413 1422	S. aureus
+T6	Bacteria 327 348	Staphylococcus aureus
+T7	Bacteria 350 368	Micrococcus luteus
+T8	Bacteria 371 387	Escherichia coli
+T9	Bacteria 389 408	Serratia marcescens
+T10	Bacteria 456 472	Candida albicans
+T11	Bacteria 434 450	Proteus vulgaris
+T12	Bacteria 410 432	Pseudomonas aeruginosa
+T13	Bacteria 1047 1060	P. aeruginosa
+T14	Bacteria 1029 1042	S. marcescens
+T15	Antibiotic 1445 1458	chlorhexidine
+T16	Antibiotic 1571 1584	Chlorhexidine
+T17	Antibiotic 1626 1630	CTAB
+T18	Antibiotic 1463 1467	CTAB
+T19	Antibiotic 1820 1833	chlorhexidine
+T20	Antibiotic 1697 1710	chlorhexidine
+T21	Antibiotic 168 181	chlorhexidine

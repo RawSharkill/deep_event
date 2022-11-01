@@ -1,0 +1,23 @@
+T1	Bacteria 416 438	gram-negative bacteria
+T2	Antibiotic 865 875	gentamicin
+T3	Bacteria 886 904	klebsiella strains
+T4	Antibiotic 759 774	aminoglycosides
+T5	Antibiotic 696 711	 aminoglycoside
+T6	Protein 942 950	AAC-(2')
+T7	Protein 952 960	AAC-(6')
+T8	Protein 966 973	AAC-(3)
+T9	Protein 1067 1075	AAC-(2')
+T10	Antibiotic 1009 1023	aminoglycoside
+T11	Antibiotic_target_alteration 712 724	transferases
+E1	Antibiotic_target_alteration:T11 Cause:T5
+T12	Bacteria 1081 1098	Proteus  vulgaris
+T13	Protein 804 812	ANT-(2")
+T14	Antibiotic 539 549	gentamicin
+T15	Antibiotic 79 93	aminoglycoside
+T16	Antibiotic 577 591	aminoglycoside
+E2	Antibiotic_target_alteration:T11 Cause:T4
+T17	Antibiotic_target_alteration 781 802	nucleotidyltransferas
+E3	Antibiotic_target_alteration:T17 Cause:T2 Theme:T3
+T18	Antibiotic 910 920	gentamicin
+T19	Antibiotic_target_alteration 1024 1036	transferases
+E4	Antibiotic_target_alteration:T19 Cause:T10 Theme:T12

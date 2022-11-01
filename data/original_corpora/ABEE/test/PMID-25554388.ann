@@ -1,0 +1,24 @@
+T1	Bacteria 42 61	Mycobacterium bovis
+T2	Antibiotic 116 126	ethambutol
+T3	Bacteria 185 204	Mycobacterium bovis
+T4	Bacteria 464 472	M. bovis
+*	Equiv T4 T3
+T5	Antibiotic 514 523	isoniazid
+T6	Antibiotic 525 533	rifampin
+T7	Antibiotic 535 547	streptomycin
+T8	Antibiotic 550 560	ethambutol
+T9	Antibiotic 562 571	kanamycin
+T10	Antibiotic 593 605	pyrazinamide
+T11	Bacteria 735 743	M. bovis
+T12	Antibiotic 824 836	pyrazinamide
+T13	Antibiotic 1233 1243	ethambutol
+T14	Antibiotic 1434 1444	ethambutol
+T15	Bacteria 1503 1511	M. bovis
+T16	Antibiotic 1695 1705	ethambutol
+T17	Gene 100 104	embB
+T18	Antibiotic 162 174	Pyrazinamide
+T19	Gene 646 650	pncA
+T20	Gene 655 659	embB
+T21	Gene 872 876	pncA
+T22	Gene 1271 1275	embB
+T23	Gene 1738 1742	embB

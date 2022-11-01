@@ -1,0 +1,9 @@
+T1	Antibiotic 58 82	beta-lactam  antibiotics
+T2	Antibiotic 95 118	beta-lactam antibiotics
+T3	Antibiotic 138 155	ureidopenicillins
+T4	Antibiotic 187 201	cephalosporins
+T5	Antibiotic 203 214	carbapenems
+T6	Antibiotic 219 230	monobactams
+T7	Antibiotic 294 305	penicillins
+T8	Antibiotic 315 325	ampicillin
+T9	Antibiotic 331 342	ticarcillin

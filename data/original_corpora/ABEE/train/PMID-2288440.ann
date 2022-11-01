@@ -1,0 +1,25 @@
+T1	Bacteria 20 52	coagulase-negative staphylococci
+T2	Antibiotic 56 73	aminoglycosides  
+T3	Bacteria 150 182	coagulase-negative staphylococci
+T4	Antibiotic 274 283	oxacillin
+T5	Antibiotic 330 344	aminoglycoside
+T6	Antibiotic 548 563	aminoglycosides
+T7	Antibiotic 588 597	oxacillin
+T8	Antibiotic 601 611	vancomycin
+T9	Antibiotic 643 653	gentamicin
+T10	Antibiotic 655 665	netilmicin
+T11	Antibiotic 668 678	tobramycin
+T12	Antibiotic 683 691	amikacin
+T13	Antibiotic 776 791	aminoglycosides
+T14	Antibiotic 799 808	oxacillin
+T15	Antibiotic 882 891	kanamycin
+T16	Antibiotic 896 906	neomycin  
+T17	Antibiotic 930 939	kanamycin
+T18	Antibiotic 944 954	tobramycin
+T19	Antibiotic 994 1002	amikacin
+T20	Antibiotic 1318 1328	gentamicin
+T21	Antibiotic 1334 1343	kanamycin
+T22	Antibiotic 1348 1358	tobramycin
+T23	Antibiotic 1382 1392	Netilmicin
+T24	Antibiotic 1421 1435	aminoglycoside
+T25	Bacteria 1559 1591	coagulase-negative staphylococci

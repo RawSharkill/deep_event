@@ -1,0 +1,39 @@
+T1	Bacteria 27 48	Clostridium difficile
+T2	Antibiotic 56 67	beta-lactam
+T3	Antibiotic 72 94	quinolone  antibiotics
+T4	Bacteria 160 182	Clostridium  difficile
+T5	Antibiotic 224 236	beta-lactams
+T6	Antibiotic 241 257	fluoroquinolones
+T7	Antibiotic 259 270	clindamycin
+T8	Antibiotic 276 289	metronidazole
+T9	Antibiotic 305 318	Metronidazole
+T10	Antibiotic 414 425	carbapenems
+T11	Antibiotic 427 436	Sch 34343
+T12	Antibiotic 455 463	imipenem
+T13	Antibiotic 491 518	antipseudomonas penicillins
+T14	Antibiotic 520 532	piperacillin
+T15	Antibiotic 551 562	ticarcillin
+T16	Antibiotic 583 596	carbenicillin
+T17	Antibiotic 630 640	(aztreonam
+T18	Antibiotic 652 666	cephalosporins
+T19	Antibiotic 696 705	cefoxitin
+T20	Antibiotic 707 717	cefuroxime
+T21	Antibiotic 719 727	cefotiam
+T22	Antibiotic 730 740	cefsulodin
+T23	Antibiotic 742 753	ceftizoxime
+T24	Antibiotic 755 768	cefbuperazone
+T25	Antibiotic 774 784	cefotaxime
+T26	Antibiotic 873 884	ceftriaxone
+T27	Antibiotic 887 898	cefmenoxime
+T28	Antibiotic 900 912	cefoperazone
+T29	Antibiotic 914 925	ceftazidime
+T30	Antibiotic 1005 1016	Clindamycin
+T31	Antibiotic 1053 1069	fluoroquinolones
+T32	Antibiotic 1071 1084	ciprofloxacin
+T33	Antibiotic 1103 1110	A-56619
+T34	Antibiotic 1130 1137	A-56620
+T35	Antibiotic 1156 1167	norfloxacin
+T36	Bacteria 1681 1694	C.  difficile
+*	Equiv T36 T1
+T37	Bacteria 1294 1306	C. difficile
+T38	Antibiotic 931 941	moxalactam

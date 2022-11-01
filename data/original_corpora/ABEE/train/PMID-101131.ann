@@ -1,0 +1,24 @@
+T1	Bacteria 122 133	Pseudomonas
+T2	Bacteria 135 153	Enterobacteriaceae
+T3	Bacteria 159 173	Staphylococcus
+T4	Bacteria 398 416	Enterobacteriaceae
+T5	Antibiotic 505 513	Amikacin
+T6	Bacteria 608 621	P. aeruginosa
+T7	Antibiotic 660 668	amikacin
+T8	Bacteria 694 703	S. aureus
+T9	Antibiotic 724 734	netilmicin
+T10	Antibiotic 739 747	amikacin
+T11	Bacteria 910 931	gram-negative bacilli
+T12	Antibiotic 67 94	aminoglycoside  antibiotics
+T13	Antibiotic 220 235	aminoglycosides
+T14	Antibiotic 878 893	aminoglycosides
+T15	Protein 1022 1044	6'-N-acetyltransferase
+T16	Protein 1046 1052	AAC-6'
+T17	Antibiotic 21 35	5-episisomicin
+T18	Antibiotic 272 286	5-episisomicin
+T19	Antibiotic 823 837	5-episisomicin
+T20	Antibiotic 1143 1167	acetylate 5-episisomicin
+T21	Antibiotic 1244 1258	5-episisomicin
+T22	Antibiotic 1267 1281	5-episisomicin
+T23	Antibiotic 1297 1311	aminoglycoside
+T24	Antibiotic 1472 1487	aminoglycosides

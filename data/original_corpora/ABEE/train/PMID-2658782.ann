@@ -1,0 +1,37 @@
+T1	Antibiotic 14 23	quinolone
+T2	Bacteria 38 54	Escherichia coli
+T3	Antibiotic 131 142	norfloxacin
+T4	Antibiotic 188 199	norfloxacin
+T5	Antibiotic 211 224	ciprofloxacin
+T6	Antibiotic 343 353	quinolones
+T7	Antibiotic 355 370	chloramphenicol
+T8	Antibiotic 376 388	tetracycline
+T9	Antibiotic 683 692	quinolone
+T10	Antibiotic 1030 1041	norfloxacin
+T11	Antibiotic 1396 1405	quinolone
+T12	Gene 76 80	nfxB
+T13	Gene 87 91	cfxB
+T14	Gene 201 205	nfxB
+T15	Gene 226 230	cfxB
+T16	Protein 449 453	OmpF
+T17	Gene 455 459	nfxB
+T18	Gene 535 539	ompF
+T19	Gene 555 559	cfxB
+T20	Gene 599 603	marA
+T21	Gene 614 618	cfxB
+T22	Gene 634 638	over
+T23	Gene 771 775	nfxB
+T24	Gene 814 818	marA
+T25	Gene 872 876	ompF
+T26	Gene 830 834	nfxB
+T27	Gene 839 843	cfxB
+T28	Gene 962 966	ompF
+T29	Gene 967 971	lacZ
+T30	Reduced_permeability_to_antibiotic 1431 1441	permeation
+E1	Reduced_permeability_to_antibiotic:T30 Cause:T11
+T31	Antibiotic_efflux 1549 1555	efflux
+E2	Antibiotic_efflux:T31 Cause:T11
+T32	Reduced_permeability_to_antibiotic 397 405	decrease
+E3	Reduced_permeability_to_antibiotic:T32 Cause:T6
+E4	Reduced_permeability_to_antibiotic:T32 Cause:T7
+E5	Reduced_permeability_to_antibiotic:T32 Cause:T8
