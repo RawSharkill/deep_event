@@ -491,7 +491,7 @@ def build_subtoken_map(corpus_name, corpus_dir, output_dir):
         else:
             print("A1 file missing: " + a1_file)
 
-        a2_file = basename + ".a2"
+        a2_file = basename + ".ann"
         if os.path.exists(a2_file):
             _, a2_entities, *_ = parse_standoff_file(a2_file, fn, encoding="UTF-8")
             entities.update(a2_entities)
@@ -564,7 +564,7 @@ def convert(corpus_name, corpus_dir, output_dir):
             for event in events.values():
                 defined_types["trigger_types"].add(event["trigger_type"])
 
-        a2_file = basename + ".a2"
+        a2_file = basename + ".ann"
         if os.path.exists(a2_file):
             _, _, _, events, _, _, _ = parse_standoff_file(
                 a2_file, fn, encoding="UTF-8"
@@ -622,7 +622,7 @@ def convert(corpus_name, corpus_dir, output_dir):
         else:
             print("A1 file missing: " + a1_file)
 
-        a2_file = basename + ".a2"
+        a2_file = basename + ".ann"
         if os.path.exists(a2_file):
             _, a2_entities, a2_relations, a2_events, a2_modalities, a2_attributes, a2_equivalences = parse_standoff_file(
                 a2_file, fn, encoding="UTF-8"
