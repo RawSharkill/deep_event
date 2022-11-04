@@ -43,11 +43,13 @@ def main():
     # Set predict settings value for params
     parameters['gpu'] = pred_params['gpu']
     parameters['batchsize'] = pred_params['batchsize']
-    if parameters['gpu'] >= 0:
-        device = torch.device("cuda:" + str(parameters['gpu']) if torch.cuda.is_available() else "cpu")
-        torch.cuda.set_device(parameters['gpu'])
-    else:
-        device = torch.device("cpu")
+    #找不到cuda
+    # if parameters['gpu'] >= 0:
+    #     device = torch.device("cuda:" + str(parameters['gpu']) if torch.cuda.is_available() else "cpu")
+    #     torch.cuda.set_device(parameters['gpu'])
+    # else:
+    #     device = torch.device("cpu")
+    device = torch.device("cpu")
     parameters['device'] = device
 
     # Set evaluation settings
