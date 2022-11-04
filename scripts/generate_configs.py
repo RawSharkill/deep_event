@@ -146,7 +146,6 @@ def generate_configs_pubmed(expdir, dataname, model_name, gpu):
     task_config['model_path'] = task_config['model_path'].replace('cg', model_name)
     task_config['saved_params'] = task_config['saved_params'].replace('cg', model_name)
     task_config['ev_eval_script_path'] = task_config['ev_eval_script_path'].replace('cg', model_name)
-
     # for raw text
     predict_test_config = task_config.copy()
     gen_predict_config_pubmed(predict_test_config, specific_config, config_dir, expdir, dataname)
@@ -161,6 +160,7 @@ if __name__ == '__main__':
 
     # bionlp
     if len(sys.argv) == 4:
+        print("bionlp 4")
         generate_configs(sys.argv[1], sys.argv[2], sys.argv[3])
 
     # pubmed
