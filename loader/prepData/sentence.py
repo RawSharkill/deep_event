@@ -54,7 +54,7 @@ def prep_sentence_offsets(sentences0):
             })
 
         sentences1[pmid] = doc_data
-
+    assert sent_lens != 0
     max_sent_len = np.max(sent_lens)
 
     sentences2 = OrderedDict()
